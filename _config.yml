@@ -1,0 +1,21 @@
+# Site settings
+title: Candide the naive programmer
+email:
+description: >
+  A simple blog about IT + Some random thoughts<br/>
+  If you can dream it, you can do it [Blades of Glory]
+
+baseurl: ""
+images: /images
+
+url: "http://candide-guevara.github.io"
+twitter_username:
+github_username: candide-guevara
+gravatar_hash: 6deb30e1d0942f8c077bde8414b97a35
+
+ga_debug: false
+ga_property: UA-62297437-2
+
+# Build settings
+markdown: kramdown
+

@@ -1,0 +1,19 @@
+{% if site.ga_debug %}
+  <script async src='//www.google-analytics.com/analytics_debug.js'></script>
+{% else %}
+  <script async src='//www.google-analytics.com/analytics.js'></script>
+{% endif %}
+
+<script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  {% if site.ga_debug %}
+    ga('create', '{{ site.ga_property }}', {'cookieDomain' : 'none'});
+  {% else %}
+    ga('create', '{{ site.ga_property }}', 'auto');
+  {% endif %}
+  {% if page.categories %}
+    ga('set', 'dimension1', '{{ page.categories[0] }}');
+  {% endif %}
+  ga('send', 'pageview');
+</script>
+

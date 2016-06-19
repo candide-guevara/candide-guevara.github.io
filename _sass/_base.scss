@@ -1,0 +1,280 @@
+// Our variables
+$base-font-family: sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       grey;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+$code-background:  ghostwhite;
+
+$main-col-width:      70%;
+$diagram-col-width:   100%;
+$on-palm:             600px;
+$on-laptop:           800px;
+
+
+
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/**
+ * Basic styling
+ */
+body {
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    font-weight: 300;
+    color: $text-color;
+    background-color: $background-color;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, 
+ul, ol, dl,
+%vertical-rhythm {
+    margin-bottom: $spacing-unit / 2;
+}
+
+
+
+/**
+ * Images
+ */
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+
+/**
+ * Figures
+ */
+figure > img {
+    display: block;
+}
+
+figcaption {
+    font-size: $small-font-size;
+}
+
+.MathJax_Display {
+  text-align: left !important;
+  padding-left: 4em;
+  //color: midnightblue;
+}
+
+
+/**
+ * Lists
+ */
+ul, ol {
+    margin-left: $spacing-unit;
+}
+
+li {
+    > ul,
+    > ol {
+         margin-bottom: 0;
+    }
+}
+
+/**
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 250%;
+    color: mediumslateblue;
+    //text-decoration: underline;
+    @include media-query($on-laptop) {
+        font-size: 150%;
+    }
+}
+
+h2 {
+    margin-top: 1.5em;
+    color: mediumseagreen;
+    @include media-query($on-laptop) {
+        font-size: 120%;
+    }
+}
+
+h3 {
+    margin-right: 1em;
+    color: coral;
+    @include media-query($on-laptop) {
+        font-size: 100%;
+    }
+}
+
+h4 {
+    @include media-query($on-laptop) {
+        font-size: 100%;
+    }
+}
+
+
+/**
+ * Links
+ */
+a {
+    color: $brand-color;
+    text-decoration: none;
+
+    &:visited {
+        color: darken($brand-color, 15%);
+    }
+
+    &:hover {
+        color: $text-color;
+        text-decoration: underline;
+    }
+}
+
+
+
+/**
+ * Blockquotes
+ */
+blockquote {
+    color: lightslategrey;
+    border-left: 4px solid $grey-color-light;
+    padding-left: $spacing-unit / 2;
+    //font-size: 100%;
+    //letter-spacing: -1px;
+    //font-style: italic;
+
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
+
+
+
+/**
+ * Code formatting
+ */
+pre {
+    padding-left: 2em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    margin-bottom: 0.5em;
+    //overflow-x: scroll;
+}
+
+code {
+    background-color: $code-background;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+}
+
+pre {
+    > code {
+        border: 0;
+    }
+}
+
+/*pre,
+code {
+    //border: 1px solid $grey-color-light;
+    //border-radius: 3px;
+    background-color: $code-background;
+}
+*/
+
+
+
+/**
+ * Wrapper
+ */
+.wrapper {
+    max-width: -webkit-calc(#{$main-col-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$main-col-width} - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$main-col-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$main-col-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
+
+/**
+ * Clearfix
+ */
+%clearfix {
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+
+
+/**
+ * Icons
+ */
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 32px;
+        height: 32px;
+        vertical-align: middle;
+
+        path {
+            fill: $grey-color;
+        }
+    }
+}
+
+.my-table {
+  border-collapse:collapse; 
+  width:100%; 
+  margin-bottom: 1em;
+  background:ghostwhite; 
+
+  th,tr,td {
+    padding:0.5em;
+    border:2px solid gray;
+  }
+  th {
+    background:lavender; 
+    text-align:left;
+  }
+}
+

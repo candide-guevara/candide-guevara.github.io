@@ -1,0 +1,1399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1177.5933"
+   height="503.60931"
+   viewBox="0 0 1177.5932 503.60933"
+   id="svg4261"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Move_Pain.svg">
+  <defs
+     id="defs4263">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4781"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="CurveOut"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="CurveOut"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4823"
+         d="m -5.4129913,-5.0456926 c 2.76,0 4.99999999,2.24 4.99999999,5.00000002 0,2.75999998 -2.23999999,4.99999998 -4.99999999,4.99999998"
+         style="fill:none;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-5"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-9-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-3-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-9-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-3-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff8c00;fill-opacity:1;fill-rule:evenodd;stroke:#ff8c00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-9-6-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-3-7-9"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff8c00;fill-opacity:1;fill-rule:evenodd;stroke:#ff8c00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-9-6-4-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-3-7-9-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff8c00;fill-opacity:1;fill-rule:evenodd;stroke:#ff8c00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-1-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-4-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-1-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-4-2"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-5-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-8-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-8-1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-8-9"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-8-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-9-7-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781-3-8-0"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2216694"
+     inkscape:cx="806.64658"
+     inkscape:cy="100.21609"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="876"
+     inkscape:window-x="-4"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     fit-margin-left="10"
+     fit-margin-top="10"
+     fit-margin-bottom="10"
+     fit-margin-right="10" />
+  <metadata
+     id="metadata4266">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(15.475879,128.40625)">
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="184.09291"
+       y="359.8512"
+       id="text4845"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="184.09291"
+         y="359.8512"
+         id="tspan4849">Obtention bail location</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.50000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 228.45496,-118.41114 0,462.38979"
+       id="path4851"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="252.83064"
+       y="27.30835"
+       id="text4853"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4855"
+         x="252.83064"
+         y="27.30835">Ouvrir compte </tspan><tspan
+         sodipodi:role="line"
+         x="252.83064"
+         y="37.30835"
+         id="tspan4859">banque Suisse</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="1.4140432"
+       y="110.95362"
+       id="text4887"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4889"
+         x="1.4140432"
+         y="110.95362">Contact impots</tspan><tspan
+         sodipodi:role="line"
+         x="1.4140432"
+         y="120.95362"
+         id="tspan4893">changer prenom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="600.73035"
+       y="198.50591"
+       id="text4907"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4909"
+         x="600.73035"
+         y="198.50591">Resilier internet</tspan><tspan
+         sodipodi:role="line"
+         x="600.73035"
+         y="208.50591"
+         id="tspan4911">dans le futur</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="373.92627"
+       y="162.45757"
+       id="text4919"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4921"
+         x="373.92627"
+         y="162.45757">Preparer documents</tspan><tspan
+         sodipodi:role="line"
+         x="373.92627"
+         y="172.45757"
+         id="tspan4923">douanes suisse/italiennes</tspan><tspan
+         sodipodi:role="line"
+         x="373.92627"
+         y="182.45757"
+         id="tspan4925">demenagement</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="528.25079"
+       y="365.10541"
+       id="text4927"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4929"
+         x="528.25079"
+         y="365.10541">Installation en Suisse</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="835.79047"
+       y="362.27274"
+       id="text4931"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="835.79047"
+         y="362.27274"
+         id="tspan4935">Debut du contrat de travail</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="256.90085"
+       y="280.66348"
+       id="text4937"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4939"
+         x="256.90085"
+         y="280.66348">Demande du</tspan><tspan
+         sodipodi:role="line"
+         x="256.90085"
+         y="290.66348"
+         id="tspan4941">permis de travail B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="0.41372803"
+       y="309.82587"
+       id="text4943"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4945"
+         x="0.41372803"
+         y="309.82587">Remplir renseignements</tspan><tspan
+         sodipodi:role="line"
+         x="0.41372803"
+         y="319.82587"
+         id="tspan4947">fragomen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="2.3040974"
+       y="274.12805"
+       id="text4949"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4951"
+         x="2.3040974"
+         y="274.12805">Remplir renseignements</tspan><tspan
+         sodipodi:role="line"
+         x="2.3040974"
+         y="284.12805"
+         id="tspan4953">background checks</tspan></text>
+    <g
+       id="g4610"
+       transform="translate(7.1024565,-5.3268424)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-0"
+         d="m 587.55645,-98.231323 63.93167,0 0,37.362814 -63.93167,0 z"
+         style="fill:none;stroke:#ff00ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text4955"
+         y="-86.58004"
+         x="591.9278"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="-86.58004"
+           x="591.9278"
+           id="tspan4957"
+           sodipodi:role="line">Assurer </tspan><tspan
+           id="tspan4959"
+           y="-76.58004"
+           x="591.9278"
+           sodipodi:role="line">voiture/moto </tspan><tspan
+           id="tspan4961"
+           y="-66.58004"
+           x="591.9278"
+           sodipodi:role="line">en Suisse</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="914.03552"
+       y="-90.833954"
+       id="text4963"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4965"
+         x="914.03552"
+         y="-90.833954">Changer permis en</tspan><tspan
+         sodipodi:role="line"
+         x="914.03552"
+         y="-80.833954"
+         id="tspan4967">conduire Suisse</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="910.05292"
+       y="58.182945"
+       id="text4988"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4990"
+         x="910.05292"
+         y="58.182945">Resilier compte</tspan><tspan
+         sodipodi:role="line"
+         x="910.05292"
+         y="68.182945"
+         id="tspan4992">societe generale</tspan><tspan
+         sodipodi:role="line"
+         x="910.05292"
+         y="78.182945"
+         id="tspan4994">verser sur boursorama</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="914.12335"
+       y="-59.065159"
+       id="text5014"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5016"
+         x="914.12335"
+         y="-59.065159">Passer controle</tspan><tspan
+         sodipodi:role="line"
+         x="914.12335"
+         y="-49.065159"
+         id="tspan5018">technique suisse</tspan><tspan
+         sodipodi:role="line"
+         x="914.12335"
+         y="-39.065159"
+         id="tspan5020">(1 an apres)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="1021.9055"
+       y="-56.81488"
+       id="text5022"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5024"
+         x="1021.9055"
+         y="-56.81488">Immatriculer</tspan><tspan
+         sodipodi:role="line"
+         x="1021.9055"
+         y="-46.81488"
+         id="tspan5026">voiture/moto en</tspan><tspan
+         sodipodi:role="line"
+         x="1021.9055"
+         y="-36.81488"
+         id="tspan5028">Suisse</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="910.58923"
+       y="-0.10180793"
+       id="text4218"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4220"
+         x="910.58923"
+         y="-0.10180793">Envoyer attestation</tspan><tspan
+         sodipodi:role="line"
+         x="910.58923"
+         y="9.8981924"
+         id="tspan4222">residence fiscal Suisse</tspan><tspan
+         sodipodi:role="line"
+         x="910.58923"
+         y="19.898191"
+         id="tspan4224">a Boursorama et </tspan><tspan
+         sodipodi:role="line"
+         x="910.58923"
+         y="29.898191"
+         id="tspan4251">Natixis et PEE Bemore</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="360.16821"
+       y="273.64484"
+       id="text4242"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4244"
+         x="360.16821"
+         y="273.64484">Renvoyer documents</tspan><tspan
+         sodipodi:role="line"
+         x="360.16821"
+         y="283.64484"
+         id="tspan4246">Bloomberg + declaration</tspan><tspan
+         sodipodi:role="line"
+         x="360.16821"
+         y="293.64484"
+         id="tspan4248">prelevement a la source</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="704.98547"
+       y="283.03003"
+       id="text4256"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4258"
+         x="704.98547"
+         y="283.03003" /><tspan
+         sodipodi:role="line"
+         x="704.98547"
+         y="293.03003"
+         id="tspan4260" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="367.69553"
+       y="666.98901"
+       id="text4274"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4276"
+         x="367.69553"
+         y="666.98901" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="254.29626"
+       y="125.1226"
+       id="text4243"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4245"
+         x="254.29626"
+         y="125.1226">Appeler service</tspan><tspan
+         sodipodi:role="line"
+         x="254.29626"
+         y="135.12259"
+         id="tspan4247">encombrant pour</tspan><tspan
+         sodipodi:role="line"
+         x="254.29626"
+         y="145.12259"
+         id="tspan4249">jeter meubles</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 577.7356,-111.28286 0,465.96924"
+       id="path4851-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 891.88297,-108.89656 0,454.03772"
+       id="path4851-3"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g11144"
+       transform="translate(0.88780536,43.502546)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text5002"
+         y="3.799263"
+         x="5.7318664"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="3.799263"
+           x="5.7318664"
+           id="tspan5004"
+           sodipodi:role="line">Ouvrir assurance</tspan><tspan
+           id="tspan5006"
+           y="13.799263"
+           x="5.7318664"
+           sodipodi:role="line">vie boursorama</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-4-5"
+         d="m 0.22370719,-6.6369248 78.60612081,0 0,25.5389718 -78.60612081,0 z"
+         style="fill:none;stroke:#008000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g11150"
+       transform="translate(-2.6634212,-44.390353)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text4226"
+         y="44.237556"
+         x="2.0064666"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           id="tspan4232"
+           y="44.237556"
+           x="2.0064666"
+           sodipodi:role="line">Demander Natixis</tspan><tspan
+           id="tspan4238"
+           y="54.237556"
+           x="2.0064666"
+           sodipodi:role="line">Avantages fiscaux PEE</tspan><tspan
+           id="tspan4240"
+           y="64.237556"
+           x="2.0064666"
+           sodipodi:role="line">pour expatrie</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-4-5-4"
+         d="m -2.2622486,33.631653 96.3622596,0 0,37.080464 -96.3622596,0 z"
+         style="fill:none;stroke:#008000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g11138"
+       transform="translate(490.9573,102.98562)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text4996"
+         y="2.0518866"
+         x="111.52592"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="2.0518866"
+           x="111.52592"
+           id="tspan4998"
+           sodipodi:role="line">Changer RIB</tspan><tspan
+           id="tspan5000"
+           y="12.051887"
+           x="111.52592"
+           sodipodi:role="line">impots 2014</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-4-5-9"
+         d="m 106.93802,-8.9830925 65.28901,0 0,25.5389705 -65.28901,0 z"
+         style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 247.89021,13.862502 72.80975,0 0,28.67716 -72.80975,0 z"
+       id="rect3336-2-6-4-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 907.087,-14.991213 101.2196,0 0,50.872331 -101.2196,0 z"
+       id="rect3336-2-6-4-1-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 906.19913,45.823563 101.21957,0 0,38.443031 -101.21957,0 z"
+       id="rect3336-2-6-4-1-7-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff8c00;stroke-width:1.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -0.69576905,260.32517 107.43421905,0 0,29.37255 -107.43421905,0 z"
+       id="rect3336-2-6-0-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff8c00;stroke-width:1.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -3.3591892,297.16916 107.4342192,0 0,29.37255 -107.4342192,0 z"
+       id="rect3336-2-6-0-8-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff8c00;stroke-width:1.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 252.32924,267.87153 82.57562,0 0,29.37256 -82.57562,0 z"
+       id="rect3336-2-6-0-8-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff8c00;stroke-width:1.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 354.42704,261.65688 110.09764,0 0,39.13843 -110.09764,0 z"
+       id="rect3336-2-6-0-8-4"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4598"
+       transform="translate(10.653685,2.6634212)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text5008"
+         y="275.81445"
+         x="479.11655"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="275.81445"
+           x="479.11655"
+           id="tspan5010"
+           sodipodi:role="line">Souscrire a</tspan><tspan
+           id="tspan5012"
+           y="285.81445"
+           x="479.11655"
+           sodipodi:role="line">assurance maladie</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-0-8-7"
+         d="m 475.16881,262.54469 83.46342,0 0,29.37255 -83.46342,0 z"
+         style="fill:none;stroke:#ff8c00;stroke-width:1.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g4604"
+       transform="translate(7.1024565,-11.541492)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text5030"
+         y="275.9108"
+         x="593.47375"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="275.9108"
+           x="593.47375"
+           id="tspan5032"
+           sodipodi:role="line">Declaration residence</tspan><tspan
+           id="tspan5034"
+           y="285.9108"
+           x="593.47375"
+           sodipodi:role="line">commune domicile</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-0-8-77"
+         d="m 589.69593,261.65688 99.44396,0 0,29.37255 -99.44396,0 z"
+         style="fill:none;stroke:#ff8c00;stroke-width:1.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -2.4713932,98.744282 74.5853702,0 0,27.596928 -74.5853702,0 z"
+       id="rect3336-2-6-8"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4578"
+       transform="translate(-2.8284271,-0.35355339)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text4250"
+         y="107.41526"
+         x="111.32029"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="107.41526"
+           x="111.32029"
+           id="tspan4252"
+           sodipodi:role="line">Contact impots</tspan><tspan
+           id="tspan4262"
+           y="117.41526"
+           x="111.32029"
+           sodipodi:role="line">Payer impots revenu 2014</tspan><tspan
+           id="tspan4264"
+           y="127.41526"
+           x="111.32029"
+           sodipodi:role="line">Comptes bancaires</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-8-5"
+         d="m 107.17279,96.524784 113.64889,0 0,36.475006 -113.64889,0 z"
+         style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g4559"
+       transform="translate(118.06066,36.306872)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text4879"
+         y="145.86345"
+         x="0.34557334"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="145.86345"
+           x="0.34557334"
+           id="tspan4881"
+           sodipodi:role="line">Changer prenom</tspan><tspan
+           id="tspan4883"
+           y="155.86345"
+           x="0.34557334"
+           sodipodi:role="line">CPAM, URSAFF, CARSAT,</tspan><tspan
+           id="tspan4885"
+           y="165.86345"
+           x="0.34557334"
+           sodipodi:role="line">AGIRC/ARRCO</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-8-5-1"
+         d="m -4.6909093,134.70048 104.7708193,0 0,36.47501 -104.7708193,0 z"
+         style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g4566"
+       transform="translate(-0.70710629,-4.3254806e-7)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text4901"
+         y="187.68695"
+         x="-0.22401418"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="187.68695"
+           x="-0.22401418"
+           id="tspan4903"
+           sodipodi:role="line">Redirection courrier</tspan><tspan
+           id="tspan4905"
+           y="197.68695"
+           x="-0.22401418"
+           sodipodi:role="line">chez Eduard</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-8-5-6"
+         d="m -2.9152946,176.42741 88.7902966,0 0,26.70913 -88.7902966,0 z"
+         style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g4572"
+       transform="translate(0,-71.064231)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text4895"
+         y="221.48866"
+         x="-0.0907913"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="221.48866"
+           x="-0.0907913"
+           id="tspan4897"
+           sodipodi:role="line">Resilier assurance</tspan><tspan
+           id="tspan4899"
+           y="231.48866"
+           x="-0.0907913"
+           sodipodi:role="line">habitation</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-8-5-0"
+         d="m -3.803103,210.16408 82.575646,0 0,27.59694 -82.575646,0 z"
+         style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 249.22191,114.28091 82.57565,0 0,35.58721 -82.57565,0 z"
+       id="rect3336-2-6-8-5-5"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4585"
+       transform="translate(-2.8249848,3.138872)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text4266"
+         y="165.64168"
+         x="256.12418"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="165.64168"
+           x="256.12418"
+           id="tspan4268"
+           sodipodi:role="line">Louer camion</tspan><tspan
+           id="tspan4270"
+           y="175.64168"
+           x="256.12418"
+           sodipodi:role="line">demenagement avec</tspan><tspan
+           id="tspan4272"
+           y="185.64168"
+           x="256.12418"
+           sodipodi:role="line">hayon (1500km)</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-8-5-65"
+         d="m 251.88533,154.23223 95.00494,0 0,36.47501 -95.00494,0 z"
+         style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 369.07586,149.79319 113.64889,0 0,36.47502 -113.64889,0 z"
+       id="rect3336-2-6-8-5-67"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g7485"
+       transform="translate(-122,12)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text4282"
+         y="205.22256"
+         x="374.65048"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="205.22256"
+           x="374.65048"
+           id="tspan4284"
+           sodipodi:role="line">Ouvrir compte </tspan><tspan
+           id="tspan4288"
+           y="215.22256"
+           x="374.65048"
+           sodipodi:role="line">elect/eau</tspan><tspan
+           id="tspan4286"
+           y="225.22256"
+           x="374.65048"
+           sodipodi:role="line">telephone et internet</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-8-5-8"
+         d="m 369.96367,193.29574 95.89275,0 0,36.47501 -95.89275,0 z"
+         style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g4592"
+       transform="translate(127.91947,1.569436)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text4861"
+         y="215.47646"
+         x="257.88986"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="215.47646"
+           x="257.88986"
+           id="tspan4863"
+           sodipodi:role="line">Envoyer</tspan><tspan
+           id="tspan4865"
+           y="225.47646"
+           x="257.88986"
+           sodipodi:role="line">equipements bbox</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-8-5-9"
+         d="m 253.66094,203.06162 87.01468,0 0,26.70913 -87.01468,0 z"
+         style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 597.24227,186.19328 93.22933,0 0,29.37255 -93.22933,0 z"
+       id="rect3336-2-6-8-5-88"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4617"
+       transform="translate(4.4390353,-0.88780706)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text4913"
+         y="-86.69207"
+         x="685.44434"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="-86.69207"
+           x="685.44434"
+           id="tspan4915"
+           sodipodi:role="line">Resilier assurance</tspan><tspan
+           id="tspan4917"
+           y="-76.69207"
+           x="685.44434"
+           sodipodi:role="line">voiture/moto</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-0-9"
+         d="m 680.69615,-99.236685 79.9122,0 0,28.484739 -79.9122,0 z"
+         style="fill:none;stroke:#ff00ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g4623"
+       transform="translate(9.7658776,0.88780706)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text4253"
+         y="-93.22023"
+         x="783.68121"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="-93.22023"
+           x="783.68121"
+           id="tspan4255"
+           sodipodi:role="line">Changer prenom</tspan><tspan
+           id="tspan4257"
+           y="-83.22023"
+           x="783.68121"
+           sodipodi:role="line">permis conduire et</tspan><tspan
+           id="tspan4259"
+           y="-73.22023"
+           x="783.68121"
+           sodipodi:role="line">cartes grises Francais</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-0-6"
+         d="m 781.01838,-105.45133 91.45369,0 0,37.362809 -91.45369,0 z"
+         style="fill:none;stroke:#ff00ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 911.52603,-103.67572 83.46343,0 0,27.596932 -83.46343,0 z"
+       id="rect3336-2-6-0-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 911.52595,-69.939049 73.69755,0 0,37.36281 -73.69755,0 z"
+       id="rect3336-2-6-0-62"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1018.0628,-69.939049 76.361,0 0,37.36281 -76.361,0 z"
+       id="rect3336-2-6-0-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 72.033033,113.04051 30.023867,0.26002"
+       id="path4630"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-7)"
+       d="m 84.737238,188.83683 25.667002,0.26002"
+       id="path4630-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-9)"
+       d="m 343.86584,167.04303 23.12551,0.26002"
+       id="path4630-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-9-7)"
+       d="m 468.29252,208.62412 126.0644,0.26002"
+       id="path4630-6-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff8c00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-9-6)"
+       d="M 104.49225,309.46546 250.07907,284.86689"
+       id="path4630-6-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff8c00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-9-6-4)"
+       d="m 334.52989,280.63292 17.52085,-0.42925"
+       id="path4630-6-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff8c00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-9-6-4-4)"
+       d="m 431.43222,301.2841 20.59034,12.45985 38.29109,0.17329 14.26443,-17.45681"
+       id="path4630-6-4-2-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-1)"
+       d="m 80.410579,49.704483 823.694741,0.26002"
+       id="path4630-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-1-0)"
+       d="M 80.129594,57.683047 594.86759,104.10903"
+       id="path4630-8-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="445.74362"
+       y="322.79214"
+       id="text15066"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan15068"
+         x="445.74362"
+         y="322.79214">AVS Number</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-7-0)"
+       d="m 85.396538,180.65808 23.609892,-24.90464 103.77619,-1.16619 35.25103,-53.92671 540.20473,-171.435733"
+       id="path4630-5-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-3)"
+       d="m 658.87101,-86.129998 24.09777,0.26002"
+       id="path4630-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-3-0)"
+       d="m 881.53856,-90.842206 27.34258,0.26002"
+       id="path4630-9-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-3-9)"
+       d="m 984.59978,-52.834248 30.52562,0.26002"
+       id="path4630-9-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-3-4)"
+       d="m 882.10036,-75.917231 27.649,18.460065"
+       id="path4630-9-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="602.35181"
+       y="299.43768"
+       id="text5030-9"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="602.35181"
+         y="299.43768"
+         id="tspan5034-2">Declaration au registre </tspan><tspan
+         sodipodi:role="line"
+         x="602.35181"
+         y="309.43768"
+         id="tspan4478">des francais a l'étranger</tspan><tspan
+         sodipodi:role="line"
+         x="602.35181"
+         y="319.43768"
+         id="tspan4480">au consulat</tspan></text>
+    <path
+       style="fill:none;stroke:#ff8c00;stroke-width:1.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 597.24229,287.4033 103.88299,0 0,37.8067 -103.88299,0 z"
+       id="rect3336-2-6-0-8-77-7"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4198"
+       transform="translate(120.1799,-5.8514558)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text4250-5"
+         y="120.73235"
+         x="909.4588"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           y="120.73235"
+           x="909.4588"
+           sodipodi:role="line"
+           id="tspan4519">Teledeclaration</tspan><tspan
+           y="130.73236"
+           x="909.4588"
+           sodipodi:role="line"
+           id="tspan4521">Revenu percu en france 2015</tspan><tspan
+           y="140.73236"
+           x="909.4588"
+           sodipodi:role="line"
+           id="tspan4517" /></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-8-5-69"
+         d="m 905.31131,109.84188 126.06489,0 0,27.09596 -126.06489,0 z"
+         style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="374.15021"
+       y="115.80063"
+       id="text4243-9"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="374.15021"
+         y="115.80063"
+         id="tspan4249-1">Acheter boites et</tspan><tspan
+         sodipodi:role="line"
+         x="374.15021"
+         y="125.80063"
+         id="tspan4512">sangles pour</tspan><tspan
+         sodipodi:role="line"
+         x="374.15021"
+         y="135.80063"
+         id="tspan4514">charer camion</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 369.07584,104.95895 82.57565,0 0,35.58721 -82.57565,0 z"
+       id="rect3336-2-6-8-5-5-7"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="910.46014"
+       y="216.41725"
+       id="text4907-2"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="910.46014"
+         y="216.41725"
+         id="tspan4911-0">Resilier mobile</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 906.8233,203.95587 73.72194,0 0,19.76763 -73.72194,0 z"
+       id="rect3336-2-6-8-5-88-5"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4212"
+       transform="translate(-0.90022397,-5.8514558)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-8-5-88-4"
+         d="m 908.77252,150.54131 93.22938,0 0,29.37255 -93.22938,0 z"
+         style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text4907-9"
+         y="163.07736"
+         x="912.34338"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           id="tspan4911-04"
+           y="163.07736"
+           x="912.34338"
+           sodipodi:role="line">Consultation Deloitte</tspan><tspan
+           id="tspan3297"
+           y="173.07736"
+           x="912.34338"
+           sodipodi:role="line">pour impots France</tspan></text>
+    </g>
+    <g
+       id="g4205"
+       transform="translate(17.554367,-40.510079)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-8-5-88-4-4"
+         d="m 1008.6974,180.24871 93.2293,0 0,35.67412 -93.2293,0 z"
+         style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text4907-9-1"
+         y="191.88452"
+         x="1012.7183"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           id="tspan4911-04-1"
+           y="191.88452"
+           x="1012.7183"
+           sodipodi:role="line">Consultation Deloitte</tspan><tspan
+           id="tspan3297-4"
+           y="201.88452"
+           x="1012.7183"
+           sodipodi:role="line">declaration impots</tspan><tspan
+           id="tspan3326"
+           y="211.88452"
+           x="1012.7183"
+           sodipodi:role="line">2015 Suisse </tspan></text>
+    </g>
+    <g
+       id="g4258"
+       transform="translate(-86.421501,-115.22867)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3336-2-6-8-5-88-4-1"
+         d="m 994.29377,222.10911 93.22943,0 0,29.37255 -93.22943,0 z"
+         style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text4907-9-9"
+         y="234.64516"
+         x="997.86462"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+         xml:space="preserve"><tspan
+           id="tspan3297-8"
+           y="234.64516"
+           x="997.86462"
+           sodipodi:role="line">Changement adresse</tspan><tspan
+           id="tspan4256"
+           y="244.64516"
+           x="997.86462"
+           sodipodi:role="line">impots + tresorerie</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-9-7)"
+       d="m 691.02618,208.6308 212.4264,0.26002"
+       id="path4630-6-3-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal'"
+       x="913.08478"
+       y="282.36273"
+       id="text5030-9-1"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="913.08478"
+         y="282.36273"
+         id="tspan4480-7">Renvoyer documents </tspan><tspan
+         sodipodi:role="line"
+         x="913.08478"
+         y="292.36273"
+         id="tspan3280">souscription assurance</tspan><tspan
+         sodipodi:role="line"
+         x="913.08478"
+         y="302.36273"
+         id="tspan3282">et retraite a Bloomberg</tspan></text>
+    <path
+       style="fill:none;stroke:#ff8c00;stroke-width:1.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 907.97525,270.32834 103.88295,0 0,37.8067 -103.88295,0 z"
+       id="rect3336-2-6-0-8-77-7-9"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

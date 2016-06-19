@@ -1,0 +1,4 @@
+{
+  'linkedin_full' : '<script src="//platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/MemberProfile" data-id="https://www.linkedin.com/pub/esteban-guevara/15/b47/926" data-format="inline" data-related="false"></script>',
+  'linkedin_small' : '<script src="//platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/MemberProfile" data-id="https://www.linkedin.com/pub/esteban-guevara/15/b47/926" data-format="hover" data-related="false" data-text="Candide Guevara"></script>'
+}

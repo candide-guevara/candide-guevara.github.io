@@ -1,0 +1,29 @@
+/** Special styles for large svg diagrams */
+
+.diagram-wrapper {
+    max-width: -webkit-calc(#{$diagram-col-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$diagram-col-width} - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$main-col-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$main-col-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
+
+img.diagram-image {
+  min-width: 75%;
+  max-width: 100%;
+  display: block; 
+  margin-bottom: 2em;
+  margin-top: 0em;
+  margin-right: auto;
+  margin-left: auto;
+}
+

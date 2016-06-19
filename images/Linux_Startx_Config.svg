@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="243.68306mm"
+   height="110.45101mm"
+   viewBox="0 0 863.44391 391.36185"
+   id="svg4602"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Linux_Startx_Config.svg">
+  <defs
+     id="defs4604">
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5414"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5416"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#3465a4;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5414-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5416-1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#3465a4;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5414-98"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5416-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#3465a4;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5414-9-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5416-1-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#3465a4;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5414-9-8-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5416-1-6-0"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#3465a4;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5414-9-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5416-1-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#3465a4;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5414-9-6-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5416-1-3-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#3465a4;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5414-9-6-9-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5416-1-3-6-2"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#3465a4;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5414-9-6-9-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5416-1-3-6-1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#f57900;fill-opacity:1;fill-rule:evenodd;stroke:#f57900;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5414-9-6-9-7-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5416-1-3-6-1-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#f57900;fill-opacity:1;fill-rule:evenodd;stroke:#f57900;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5414-9-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5416-1-9"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#3465a4;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5414-9-7-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5416-1-9-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#3465a4;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5414-9-6-9-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5416-1-3-6-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#3465a4;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4974916"
+     inkscape:cx="431.72196"
+     inkscape:cy="195.68093"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-top="1"
+     fit-margin-bottom="1" />
+  <metadata
+     id="metadata4607">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(9.2563179,-0.80056591)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="206.08218"
+       y="41.280624"
+       id="text4366-9"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4368-0"
+         x="206.08218"
+         y="41.280624"
+         style="font-weight:bold;letter-spacing:0px">X-session manager (SDDM/GDM)</tspan><tspan
+         sodipodi:role="line"
+         x="206.08218"
+         y="51.280624"
+         id="tspan3260">- Handles login</tspan><tspan
+         sodipodi:role="line"
+         x="206.08218"
+         y="61.280624"
+         id="tspan6411">- Can boot different desktops</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#3465a4;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 199.40571,26.975594 172.32648,0 0,42.017901 -172.32648,0 z"
+       id="rect3336-2-6-4-8-6-7-5-5-8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="454.41718"
+       y="301.46793"
+       id="text4388-7"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4390-5"
+         x="454.41718"
+         y="301.46793"
+         style="font-weight:bold;letter-spacing:0px">/etc/xdg/autostart/*.desktop | ~/.config</tspan><tspan
+         sodipodi:role="line"
+         x="454.41718"
+         y="311.46793"
+         id="tspan4392-3">- application will be automatically launched </tspan><tspan
+         sodipodi:role="line"
+         x="454.41718"
+         y="321.46793"
+         id="tspan6713">during startup of the user's desktop</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#3465a4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5414)"
+       d="m 132.0015,130.83904 0,34.36348"
+       id="path6715-3-2-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#f57900;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 448.22991,287.09594 208.21629,0 0,42.6262 -208.21629,0 z"
+       id="rect3336-2-6-4-8-6-7-5-5-8-1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="309.62564"
+       y="225.07169"
+       id="text6365"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6367"
+         x="309.62564"
+         y="225.07169"
+         style="font-weight:bold">Xorg server</tspan><tspan
+         sodipodi:role="line"
+         x="309.62564"
+         y="235.07169"
+         id="tspan6369"
+         style="font-weight:bold" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="456.83469"
+       y="208.64752"
+       id="text6371"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6373"
+         x="456.83469"
+         y="208.64752"
+         style="font-weight:bold">/etc/X11/xorg.conf.d</tspan><tspan
+         sodipodi:role="line"
+         x="456.83469"
+         y="218.64752"
+         id="tspan6375">- Weird structure/syntax</tspan><tspan
+         sodipodi:role="line"
+         x="456.83469"
+         y="228.64752"
+         id="tspan6379">- Most of the time useless</tspan><tspan
+         sodipodi:role="line"
+         x="456.83469"
+         y="238.64752"
+         id="tspan6383">because of autodetection</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="603.43542"
+       y="211.68901"
+       id="text6385"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="603.43542"
+         y="211.68901"
+         id="tspan6389"
+         style="font-weight:bold">/etc/X11/Xresources ~/.Xresources</tspan><tspan
+         sodipodi:role="line"
+         x="603.43542"
+         y="221.68901"
+         id="tspan6431">- Special syntax (not shell)</tspan><tspan
+         sodipodi:role="line"
+         x="603.43542"
+         y="231.68901"
+         id="tspan6433">- Sets DPI ?</tspan><tspan
+         sodipodi:role="line"
+         x="603.43542"
+         y="241.68901"
+         id="tspan6391" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="72.387924"
+       y="102.80301"
+       id="text6393"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="72.387924"
+         y="102.80301"
+         id="tspan6397"
+         style="font-weight:bold">xinit/startx</tspan><tspan
+         sodipodi:role="line"
+         x="72.387924"
+         y="112.80301"
+         id="tspan6407">- Start X without a session manager</tspan><tspan
+         sodipodi:role="line"
+         x="72.387924"
+         y="122.80301"
+         id="tspan6752">- Deprecated ??</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="649.66638"
+       y="127.13509"
+       id="text6399"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="649.66638"
+         y="127.13509"
+         id="tspan6403">/etc/X11/xinit/xinitrc.d</tspan><tspan
+         sodipodi:role="line"
+         x="649.66638"
+         y="137.1351"
+         id="tspan6427">- Either sourced directly by xinit </tspan><tspan
+         sodipodi:role="line"
+         x="649.66638"
+         y="147.1351"
+         id="tspan6477">or session manager</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="255.48679"
+       y="301.71771"
+       id="text6413"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="255.48679"
+         y="301.71771"
+         id="tspan6421"><tspan
+           id="tspan6735"
+           style="font-weight:bold">/usr/bin/startkde</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="255.48679"
+         y="311.71771"
+         id="tspan6746">- Shell script sourcing config</tspan><tspan
+         sodipodi:role="line"
+         x="255.48679"
+         y="321.71771"
+         id="tspan6748">from several directories</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="464.74261"
+       y="23.723768"
+       id="text6435"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="464.74261"
+         y="23.723768"
+         id="tspan6439"
+         style="font-weight:bold">/etc/sddm.conf</tspan><tspan
+         sodipodi:role="line"
+         x="464.74261"
+         y="33.72377"
+         id="tspan6750">- Specifies auto login </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="429.46109"
+       y="103.41133"
+       id="text6441"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6443"
+         x="429.46109"
+         y="103.41133"
+         style="font-weight:bold">/etc/sddm/Xsession</tspan><tspan
+         sodipodi:role="line"
+         x="429.46109"
+         y="113.41133"
+         id="tspan6445">- Run as user to configure session</tspan><tspan
+         sodipodi:role="line"
+         x="429.46109"
+         y="123.41133"
+         id="tspan6455">- Entry point to source many configs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="616.81805"
+       y="19.465652"
+       id="text6447"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6449"
+         x="616.81805"
+         y="19.465652"
+         style="font-weight:bold">/etc/sddm/Xsetup | Xstop</tspan><tspan
+         sodipodi:role="line"
+         x="616.81805"
+         y="29.465652"
+         id="tspan6451">- run as root before the login dialog appears</tspan><tspan
+         sodipodi:role="line"
+         x="616.81805"
+         y="39.465652"
+         id="tspan6453">- run as root after stopping X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="678.86487"
+       y="78.470955"
+       id="text6457"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6459"
+         x="678.86487"
+         y="78.470955">/etc/xprofile</tspan><tspan
+         sodipodi:role="line"
+         x="678.86487"
+         y="88.470955"
+         id="tspan6461">~/.xprofile</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="414.86185"
+       y="452.57654"
+       id="text6463"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6465"
+         x="414.86185"
+         y="452.57654" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="454.40146"
+       y="360.11469"
+       id="text6467"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6469"
+         x="454.40146"
+         y="360.11469">~/.config/env</tspan><tspan
+         sodipodi:role="line"
+         x="454.40146"
+         y="370.11469"
+         id="tspan6473">- Shell scripts used to set env variables</tspan><tspan
+         sodipodi:role="line"
+         x="454.40146"
+         y="380.11469"
+         id="tspan6471">~/.config/startupconfig*</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6715"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion6717"><rect
+           id="rect6719"
+           width="4.2581129"
+           height="10.949433"
+           x="531.65582"
+           y="124.70188" /></flowRegion><flowPara
+         id="flowPara6721"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="37.714714"
+       y="174.58261"
+       id="text6725"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6727"
+         x="37.714714"
+         y="174.58261"></tspan><tspan
+         sodipodi:role="line"
+         x="37.714714"
+         y="184.58261"
+         id="tspan6729">/etc/X11/xinit/Xsession</tspan><tspan
+         sodipodi:role="line"
+         x="37.714714"
+         y="194.58261"
+         id="tspan6731">/etc/X11/xinit/xinput.d</tspan><tspan
+         sodipodi:role="line"
+         x="37.714714"
+         y="204.58261"
+         id="tspan6733">- Still used by session manager ??</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#3465a4;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 65.912222,89.093686 171.718178,0 0,42.017904 -171.718178,0 z"
+       id="rect3336-2-6-4-8-6-7-5-5-8-3" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#f57900;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 26.676753,170.60613 171.718177,0 0,42.0179 -171.718177,0 z"
+       id="rect3336-2-6-4-8-6-7-5-5-8-3-1" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#3465a4;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 274.86391,201.02123 123.66233,0 0,42.0179 -123.66233,0 z"
+       id="rect3336-2-6-4-8-6-7-5-5-8-3-3" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#3465a4;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 227.41636,287.40009 171.71818,0 0,42.0179 -171.71818,0 z"
+       id="rect3336-2-6-4-8-6-7-5-5-8-3-6" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#f57900;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 425.11451,89.397842 172.9348,0 0,42.626198 -172.9348,0 z"
+       id="rect3336-2-6-4-8-6-7-5-5-8-1-6" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#f57900;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 447.62163,345.49291 208.21629,0 0,42.6262 -208.21629,0 z"
+       id="rect3336-2-6-4-8-6-7-5-5-8-1-2" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#f57900;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 597.26389,195.85066 180.84271,0 0,48.70922 -180.84271,0 z"
+       id="rect3336-2-6-4-8-6-7-5-5-8-1-6-9" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#f57900;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 447.92578,195.85066 137.04497,0 0,48.70922 -137.04497,0 z"
+       id="rect3336-2-6-4-8-6-7-5-5-8-1-6-9-8" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#f57900;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 609.42992,4.843873 208.8246,0 0,42.626214 -208.8246,0 z"
+       id="rect3336-2-6-4-8-6-7-5-5-8-1-6-3" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#f57900;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 640.45333,113.1216 174.1514,0 0,42.6262 -174.1514,0 z"
+       id="rect3336-2-6-4-8-6-7-5-5-8-1-6-2" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#f57900;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 640.45332,58.982741 129.74536,0 0,42.626199 -129.74536,0 z"
+       id="rect3336-2-6-4-8-6-7-5-5-8-1-6-4" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#f57900;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 425.72276,4.8438779 172.9348,0 0,42.6262001 -172.9348,0 z"
+       id="rect3336-2-6-4-8-6-7-5-5-8-1-6-43" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#3465a4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5414-98)"
+       d="M 198.91471,49.934892 169.71622,84.967713"
+       id="path6715-3-2-9-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#3465a4;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5414-9-8)"
+       d="m 337.60755,68.183954 0,127.068476"
+       id="path6715-3-2-9-2-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#3465a4;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5414-9-8-9)"
+       d="m 254.27017,68.701216 0,212.754054"
+       id="path6715-3-2-9-2-1-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#3465a4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5414-9-6-9)"
+       d="M 371.95177,44.535791 421.3233,105.11728"
+       id="path6715-3-2-9-2-18-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#3465a4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5414-9-6-9-3)"
+       d="M 371.17648,46.435677 420.54801,21.135695"
+       id="path6715-3-2-9-2-18-0-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#f57900;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5414-9-6-9-7)"
+       d="m 597.46476,109.2896 38.4221,28.34149"
+       id="path6715-3-2-9-2-18-0-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#f57900;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5414-9-6-9-7-2)"
+       d="m 597.46476,110.30737 38.4221,-28.341486"
+       id="path6715-3-2-9-2-18-0-9-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#3465a4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5414-9-7)"
+       d="m 397.64959,222.87241 43.90567,0"
+       id="path6715-3-2-9-2-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#3465a4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5414-9-7-8)"
+       d="m 398.6177,309.01734 43.90567,0"
+       id="path6715-3-2-9-2-3-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#3465a4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5414-9-6-9-6)"
+       d="m 398.93737,308.33987 45.72173,56.32337"
+       id="path6715-3-2-9-2-18-0-7"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
