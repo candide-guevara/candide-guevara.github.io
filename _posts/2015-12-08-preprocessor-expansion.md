@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Losing your sanity with C preprocessor
-categories : [article, c]
+categories : [article, c_lang]
 ---
 
 ## Useful tips

@@ -1,7 +1,7 @@
 ---
 layout: diagram
 title: The Protocol Buffer workflow
-categories : [diagram]
+categories : [diagram, programming]
 diagram: Protocol_Buffer_Flow.svg
 ---
 

@@ -12,7 +12,7 @@
     ga('create', '{{ site.ga_property }}', 'auto');
   {% endif %}
   {% if page.categories %}
-    ga('set', 'dimension1', '{{ page.categories[0] }}');
+    ga('set', 'dimension1', '{{ page.categories[1] }}');
   {% endif %}
   ga('send', 'pageview');
 </script>

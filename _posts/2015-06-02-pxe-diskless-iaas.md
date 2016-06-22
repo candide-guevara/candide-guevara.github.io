@@ -1,7 +1,7 @@
 ---
 layout: diagram
 title: A poor man's IaaS with PXE
-categories : [diagram, arch]
+categories : [diagram, architecture]
 diagram : Arch_PXE_Diskless.svg
 ---
 

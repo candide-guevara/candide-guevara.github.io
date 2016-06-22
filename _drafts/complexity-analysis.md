@@ -38,33 +38,33 @@ Suppose we start with an empty vector of capacity 1 and push **n** elements. We 
 
 $$ \phi = size - capacity \qquad\mbox{(always a negative value)}$$
 
-When pushing an element and size<capacity we just have to copy 1 item so t = 1 :
+When pushing an element and size < capacity we just have to copy 1 item so t = 1 :
 
 $$ 
-\begin{align*}
+\begin{align}
 a &= 1 + \phi^{cap=m}_{size=k} - \phi^{cap=m}_{size=k-1} \\
   &= 2 
-\end{align*}
+\end{align}
 $$
 
 When pushing an element and there is no more capacity, the vector will **double** its size.  
 Considering memory allocation is free, we new to copy old items into the new memory so t = m + 1 :
 
 $$ 
-\begin{align*}
+\begin{align}
 a &= m+1 + \phi^{cap=2m}_{size=m+1} - \phi^{cap=m}_{size=m} \\
   &= (m+1) + (m+1 - 2m - m + m) \\
   &= 2 
-\end{align*}
+\end{align}
 $$
 
 The total time for n pushes is :
 
 $$ 
-\begin{align*}
+\begin{align}
 T_{total} &= \sum{a} + \phi_0 - \phi_n \\
           &= 2n + \phi_0 - \phi_n 
-\end{align*}
+\end{align}
 $$
 
 If n is a power of 2 then $$\phi_n = 0$$ so that the total cost of all operations is O(2n)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Switzerland, worst place for skiers
-categories : [article, fun, rant]
+categories : [fun, rant]
 ---
 
 After movnig to Switzerland I was looking forward to the skiing season. 
