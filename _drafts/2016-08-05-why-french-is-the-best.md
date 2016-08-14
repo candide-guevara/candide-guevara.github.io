@@ -11,20 +11,26 @@ Out of the few languages I know, French is by far the one I enjoy the most speak
 * Ça ne casse pas trois pattes à un canard
 * Comment il tabasse le rouquin
 * Il est raide ce clacos
-* claquer des miquettes(miches) / trace de pneu dans son froc(slibard)
+* Claquer des miquettes(miches) / trace de pneu dans son froc(slibard)
+* Se sortir les doigts du cu(fion)
+* Ce n'est pas piqué des hannetons
 
 ### Autour de la nourriture
 
 * Se prendre une chataîgne
-* Coller une grosse patate/marron
+* Coller une grosse patate/marron/pain
 * Foutre une avoine
 
 ## Verslen
 
 * oigtd
+* C'est chelou
+* Laisse bertom
+* En s'en ouf
 
 ## Argot
 
 * bénouze / froc / futal
-- blé / fric / oseille / grisby / thune / sousous
+* godasses / lattes
+* blé / fric / oseille / grisby / thune / sousous
 

@@ -1,7 +1,7 @@
 ---
 layout: diagram
 title: Bonds types and properties
-categories : [article, finance, fixed_income ]
+categories : [ article, finance, fixed_income ]
 diagram_list: [ ]
 ---
 
