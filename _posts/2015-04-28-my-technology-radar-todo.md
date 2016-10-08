@@ -26,13 +26,12 @@ These are the technologies I want to learn and try out in the near future.
 
 ### Haskell
 * Larry Wall said it is a language for genuises
-* lsdkfjl
 
 ## Conferences to follow
 
 * C++ : [C++ and Beyond][1],[CppCon][2], [CppConPres][14]
-* General : [Goto][3], [Devdays][4]a, [DevOxx][5]
-* Cloud : [ApacheCon][6], [CloudConf][7]
+* General : [Goto][3], [Devdays][4], [DevOxx][5], [Oscon][15]
+* Cloud : [ApacheCon][6], [CloudConf][7], [Mesoscon][16]
 * Linux : [LinuxAustralia][8], [FOSDEM][9]
 * Python : [PyCon][14]
 
@@ -60,4 +59,6 @@ These are the technologies I want to learn and try out in the near future.
 [12]: http://herbsutter.com/
 [13]: https://github.com/candide-guevara/random_stuff/tree/master/python_scripts
 [14]: https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/videos?view=0&flow=grid&sort=p
+[15]: https://www.safaribooksonline.com/library/view/oscon-2016-video
+[16]: https://www.youtube.com/channel/UCrumFK609iafY-fHBjMUt7g
 

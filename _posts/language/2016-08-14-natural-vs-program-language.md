@@ -60,7 +60,7 @@ I barely know what subject means, and I cannot build a syntax tree of every sent
 ## Intuition Vs Rule application
 
 Getting back to the conscious/unconscious argument, the fact I struggle to understand some pieces of codes shows that I do not use the same parts of my brain for languages vs code.
-When I read code I am forcing myself consciously to think like the compiler. C++ template declaration are a good example.
+When I read code I am forcing myself consciously to think like the compiler. C++ template declarations are a good example.
 
 {% highlight c++ %}
   template <class Vector>
@@ -74,8 +74,8 @@ When I read code I am forcing myself consciously to think like the compiler. C++
   }
 {% endhighlight %}
 
-It is a common mistake is to forget __typename__ in `template <class Vector>`.
-In written english the keyword is redundant because you can infer Vector::value\_type is type and not a variable from the semantics and context. 
+It is a common mistake to forget __typename__ in `template <class Vector>`.
+In written english the keyword is redundant because you can infer Vector::value\_type is a type and not a variable from the semantics and context. 
 
 * Semantics : there is "type" in `value_type`
 * Context : the token is at the beginning of the function signature. A place where normally return types are.
@@ -90,7 +90,7 @@ Think about [C++ symbol resolution][0], the standard defines many well know mech
 * Partial ordering : select the meaning that best fits the context
 
 I guess you cannot (and you should not) make the compiler smart like a human. It will all fall apart when you realize that compilation must be produce always the same results.
-Whereas it is socially acceptable to have misunderstandings during a conversation. You are not expected to master grammar perfectly in order to communicate. You just need a feeling for the rules.
+It is socially acceptable to have misunderstandings during a conversation. You are not expected to master grammar perfectly in order to communicate. You just need a feeling for the rules.
 You can ask your interlocutor to rephrase, the compiler expects an exact formulation.
 
 Maybe only master programmers truly have the same intuition about words and code.
@@ -124,7 +124,7 @@ But to understand they happen in parallel you have to make the effort of simulat
 {% endhighlight %}
 
 If you are not familiar with the domain you are working in you may be tempted to invert statements 1 and 2. There is nothing telling you it will break the recipe.
-A more functional approach can solve this thought.
+A more functional approach can solve this though.
 
 {% highlight c# %}
   public Meat cookDeliciousPork (Meat loin) {
@@ -138,7 +138,6 @@ Less error prone but you still have to make an effort to see statement 2 depends
 
 # Rant: Old dogs do not learn new tricks ?
 
-* This is not always a welcome property. It is very easy to express concurrency relations in natural languages. 
 On a different subject, does your age affect the way you assimilate new languages ?
 I have heard many people say that you cannot easily learn a new language when you are old.
 It may be true of pronunciacion, after a decade living in France I have not managed to lose my accent.
@@ -151,10 +150,11 @@ However it is quite the opposite when focusing on grammar. Even if I learned fas
 * How programming languages are regular compared to natural languages
     * You do not need tenses because the past and future of a program execution is collapsed into its present memory state.
     * The "english-like" programming languages get the worst of both : difficult to memorize and no expressivity gain. I am looking at you SQL !!
-* Would programming languages be radically different is there were not English-based ?
-    * Ruby was invented by a Japanese but I do not know it enough to see any fundamental differences to say Python.
+* Would programming languages be radically different if there were not English-based ?
+    * Ruby was invented by a Japanese but I do not know it enough to see any fundamental differences to Python.
 
 At the end it will take me more time but the result is a deeper understanding of the particular language I learned. As a bonus I also get a better idea of how languages relate to each other.
+Or maybe I was just a dumb child ...
 
 [0]: {% post_url 2015-07-07-cpp-symbol-resolution %}
 

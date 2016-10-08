@@ -15,70 +15,113 @@ Now I am learning Italian. You can intuitively understand most of it. However th
 |----------------------------|-------------------------------------|-------------------------------------|
 | Anche                      | También/Incluso                     | Aunque                              |
 | Attento                    | Cuidadoso                           | Atento                              |
-| Guadare                    | Mirar                               | Guardar                             |
+| Bagnato                    | Mojado                              | Bañado                              |
+| Brutto                     | Feo                                 | Bruto                               |
+| Campione                   | Muestra                             | Campeón                             |
+| Chissà                     | Quien sabe                          | Quizás                              |
+| Disegnare                  | Dibujar                             | Diseñar                             |
+| Guardare                   | Mirar                               | Guardar                             |
 | Guadagnare                 | Ganar                               | Guadañar                            |
+| Incidente                  | Accidente                           | Incidente                           |
 | Mai (non mente mai)        | Nunca (nunca miente)                | Más (no miente más)                 |
+| Nuotare                    | Nadar                               | Notar                               |
+| Posto                      | Lugar                               | Puesto                              |
 | Pronto                     | Listo                               | Pronto                              |
+| Provare                    | Intentar                            | Probar                              |
+| Seder(e/si)                | Sentar(se)                          | Ceder                               |
 | Sentire                    | Oír                                 | Sentir                              |
+| Spalla                     | Hombro                              | Espalda                             |
 | Tenere                     | Mantener/guardar                    | Tener                               |
 | Topo                       | Ratón                               | Topo                                |
 | Tuttavia                   | Sin embargo                         | Todavía                             |
+| Voto                       | Notas (evaluación)                  | Voto (elección)                     |
 
 ## Completely different words
 
 {:.my-table}
 | Italian                    | Spanish                             | French                              |
 |----------------------------|-------------------------------------|-------------------------------------|
+| Addiritura                 | Incluso                             | Même                                |
+| Aggiornare                 | Actualizar                          | Mettre à jour                       |
 | Anatra                     | Pato                                | Canard                              |
 | Autista/Guidatore          | Conductor                           | Conducteur                          |
+| Bugia                      | Mentira                             | Mensonge                            |
+| Buio                       | Oscuro                              | Sombre                              |
 | Busta                      | Sobre                               | Enveloppe                           |
 | Cattivo                    | Malo                                | Mauvais                             |
 | Chiunque                   | Cualquiera                          | N'importe qui                       |
 | Cibo                       | Comida                              | Nourriture                          |
 | Compito                    | Tarea                               | Devoirs                             |
 | Comunque                   | En todo caso                        | Dans tous les cas                   |
+| Così                       | Así/Tan                             | Comme ça/Tellement                  |
+| Dito                       | Dedo                                | Doigt                               |
 | Ecco/Qui                   | Aquí/Acá                            | Voici/Voilà/Ici                     |
 | Entrambi                   | Ambos                               | Les deux                            |
 | Dovunque/Ovunque           | Pordoquier/Dondequiera              | Partout/Où                          |
 | Fermare                    | Parar                               | Arrêter                             |
+| Finché                     | Hasta que                           | Jusqu'à ce que                      |
+| Gara                       | Carrera                             | Course                              |
 | Ghiaccio                   | Hielo                               | Glace                               |
+| Ginocchio                  | Rodilla                             | Genoux                              |
 | Giù                        | Abajo                               | Bas                                 |
 | Gonna                      | Falda                               | Jupe                                |
+| Guai                       | Dificultad                          | Difficultés                         |
+| Imparare                   | Aprender                            | Apprendre                           |
 | Maiale                     | Cerdo                               | Cochon                              |
+| Mandare giù                | Tragar                              | Avaler                              |
 | Matita/Penna               | Lápiz/Esfero                        | Crayon/Stylo                        |
 | Mucca                      | Vaca                                | Vache                               |
 | Niente/Nulla               | Nada                                | Rien                                |
+| Non è neppure/Neanche      | Ni siquiera/Siquiera                | Même pas                            |
+| Noioso                     | Aburrido                            | Ennuyeux                            |
 | Noleggiare                 | Alquilar                            | Louer                               |
 | Pasto                      | Merienda                            | Repas                               |
+| Portare                    | Traer                               | Ramener                             |
 | Pranzo                     | Almuerzo                            | Déjeuner                            |
-| Presto                     | Pronto                              | Bientôt                             |
+| Presto                     | Pronto/Temprano                     | Bientôt/Tôt                         |
 | Occhiali                   | Gafas                               | Lunettes                            |
 | Ogni/Ognuno                | Cada/Cada uno                       | Chaque/Chacun                       |
 | Ritenere                   | Considerar                          | Envisager                           |
 | Roba (plural)              | Cosas                               | Trucs/Choses                        |
 | Scegliere                  | Escoger                             | Choisir                             |
 | Schermo                    | Pantalla                            | Écran                               |
+| Scherzo                    | Chiste                              | Blague                              |
 | Scatola                    | Caja                                | Boîte                               |
 | Scarpe                     | Zápatos                             | Chaussures                          |
+| Schiena                    | Espalda                             | Dos                                 |
 | Scorsa                     | Pasada                              | Dernière                            |
 | Sedia/Seggiola             | Asiento/Silla                       | Siège/Chaise                        |
+| Sottile                    | Delgado                             | Mince/Fin                           |
+| Soffice                    | Suave                               | Doux                                |
+| Sporco                     | Sucio                               | Sale                                |
+| Spostare                   | Mover                               | Bouger/Déplacer                     |
 | Tacchino                   | Pavo                                | Dinde                               |
 | Tasche                     | Bolsillos                           | Poches                              |
 | Tastiera                   | Teclado                             | Clavier                             |
+| Tonda                      | Redonda                             | Ronde                               |
 | Uccello                    | Pájaro                              | Oiseau                              |
+| Vuota                      | Vacía                               | Vide                                |
 
 ## Different preposition usage
 
-* in front => de frente
+* in fronte => delante de
+* ritornare/andare in città => ir a la cuidad
 * da questa parte => por esta dirección/lado
-* andare in città => ir a la cuidad
+* lei è venuta da sola => ella ha venido sola
 * da fare => por hacer
+* da mangiare => de comer
+* più forte di noi => más fuerte que nosotros
+* mettere via il gelato => poner a un lado
 
 ## Multiple meanings
 
 * Anche
     * Anche lui ha tentato => Incluso él ha intentado 
     * Lui anche ha tentato => Él también ha intentado
+* Vincere
+    * vencer => vincere il campionato
+    * ganar un trofeo
+    * ganar un salario => guadagnare un stipendio
 
 ## Verb auxiliaries
 

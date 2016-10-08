@@ -85,11 +85,11 @@ So you cannot stay until the slopes close or you may not make it before they cal
 
 ## Conclusion
 
-The snow may be white here, but people's heart is black as dark chocolate.
+It still have many places to visit in several countries before I can deliver a comprehensive judgement. But for now, the best country to go is for sure France.
+
 More seriously, you **can** enjoy Switzerland's skiing if you just go down 2 or 3 slopes and spend the rest of your day admiring the view and sipping mulled wine.
 But if you truly experience bliss when sliding and only go home when your knees are begging for it, then consider going some place else.
-
-It still have many places to visit in several countries before I can deliver a comprehensive judgement. But for now, the best country to go is for sure France.
+The snow may be white in Switzerland, but people's heart is black as dark chocolate.
 
 [1]: sismedia.mit.ch/saastal/sismap/3/html/winter/de/index.html?showaccordion=2
 [2]: http://www.infosnow.ch/~apgmontagne/?lang=de&id=67&tab=map-wi
