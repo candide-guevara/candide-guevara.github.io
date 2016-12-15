@@ -16,10 +16,10 @@ Some nice syntactic sugar introduced way before it got to other mainstream langu
 * Attribute getter/setter are easy to implement
 {% highlight c# %}
   public class Chocolat {
-    // Everyone can read but write protected
-    public string Attr { get; private set; }
-    // INVALID
-    private string Attr { public get; set; }
+      // Everyone can read but write protected
+      public string Attr { get; private set; }
+      // INVALID
+      private string Attr { public get; set; }
   }
 {% endhighlight %}
 * Fluent API with LINQ (but I am not so fond of the SQL-like syntax)
@@ -50,49 +50,89 @@ Some nice syntactic sugar introduced way before it got to other mainstream langu
 * Extension methods to make static helpers less verbose (no access to private fields)
 {% highlight c# %}
   public static class Extension {
-    //NOTICE the this keyword in the method signature
-    public static string Print(this List<string> items) {
-      return String.Join(", ", items); 
-    }
+      //NOTICE the this keyword in the method signature
+      public static string Print(this List<string> items) {
+          return String.Join(", ", items); 
+      }
   }
 
   public static void Main() {
-    var items = new List<string> { ... };
-    Console.WriteLine( items.print() );
-    Console.WriteLine( Extension.print(items) ); // equivalent to the first call
+      var items = new List<string> { ... };
+      Console.WriteLine( items.print() );
+      Console.WriteLine( Extension.print(items) ); // equivalent to the first call
+  }
+{% endhighlight %}
+* Out of the box XML serialization, pretty convinient to avoid writing ToString() for debugging
+{% highlight c# %}
+  public class BananaSplit {
+      public string IceCream { get; set; }
+      public string Sauce    { get; set; }
+      public int    Price    { get; set; }
+  }
+            
+  public static void PrintXmlString() {
+      var dessert = new BananaSplit { IceCream = "Vanilla", Sauce = "Chocolate", Price = 25 };
+      var serializer = new XmlSerializer(typeof(BananaSplit));
+      var output = new StringWriter();
+      serializer.Serialize(output, dessert);
+      Console.WriteLine(output);
   }
 {% endhighlight %}
 
-More recent features follow the global trend.
+### More recent features follow the global trend
 
 * Async and await (easier to use than previous BackgroundWorker and ThreadPool)
 {% highlight c# %}
   public static async Task<string> ProcessWSCallAsync() {
-    Task<string> response = ... // WCF client to call webservice
-    do_some_work();
-    string result = await response; // yield control at this point to caller
-    return result.Trim(); <--------------------|------+
+      Task<string> response = ... // WCF client to call webservice
+      do_some_work();
+      string result = await response; // yield control at this point to caller
+      return result.Trim(); <--------------------|------+
   }                                            |      |
                                                |      |
   public static void Main() {                  |      |
-    var wsResult = ProcessWSCallAsync();       |      |
-    do_other_piece_of_work(); <----------------+      |
-    var actualResult = wsResult.Result; // Waits and return control to callee
-                                        // Does not yield to caller since method is not async
+      var wsResult = ProcessWSCallAsync();       |      |
+      do_other_piece_of_work(); <----------------+      |
+      var actualResult = wsResult.Result; // Waits and return control to callee
+                                          // Does not yield to caller since method is not async
   }
 {% endhighlight %}
 {% highlight c# %}
   // In both cases it is not easy to wait or get some result out of piece_of_work
 
   public static void WorkerExample() {
-    var worker = new BackgroundWorker();
-    worker.DoWork = (worker, arg) => {};
-    worker.RunWorkerAsync(null); // does NOT return a Task
+      var worker = new BackgroundWorker();
+      worker.DoWork = (worker, arg) => {};
+      worker.RunWorkerAsync(null); // does NOT return a Task
   }
 
   public static void ThreadPoolExample() {
-    WaitCallback piece_of_work = (arg) => {};
-    ThreadPool.QueueUserWorkItem(piece_of_work, null);
+      WaitCallback piece_of_work = (arg) => {};
+      ThreadPool.QueueUserWorkItem(piece_of_work, null);
+  }
+{% endhighlight %}
+* Sweet type inference : using Linq and anonymous types, the compiler can check it all
+{% highlight c# %}
+  // the compiler generates the type on the fly
+  var candy1 = new { Name = "chocolat" };
+  var candy2 = new { Name = "icecream" };
+  var candies = new[] { candy1, candy2 };
+  var dessert = candies.Aggregate("", (a,i) => a + " " + i.Name);
+{% endhighlight %}
+* A simple way to add metadata to types using Attributes
+{% highlight c# %}
+  [AttributeUsage(AttributeTargets.Class, Inherited=false)]
+  public class YummyAttribute : Attribute {
+      public string Taste { get; set; }
+  } 
+
+  [YummyAttribute(Taste = "Delicious")]
+  public class BananaSplit {}
+            
+  public static void PrintTaste() {
+      var attr = (YummyAttribute)typeof(BananaSplit)
+                                 .GetCustomAttribute(typeof(YummyAttribute));
+      Console.WriteLine(attr.Taste);
   }
 {% endhighlight %}
 
@@ -101,42 +141,38 @@ No surprise here, most of the things I dislike were just taken from C++
 
 * Methods are not virtual by default, you have to use a combination of virtual/override/new. **The behavoir can vary inside the class hierarchy !!**
 {% highlight c# %}
-namespace assembly_name {
   public class Chocolat {
-    public virtual doit() { Console.WriteLine("Chocolat"); }
+      public virtual doit() { Console.WriteLine("Chocolat"); }
   }
 
   public class White : Chocolat {
-    public override doit() { Console.WriteLine("White"); }
+      public override doit() { Console.WriteLine("White"); }
   }
 
   public class Black : Chocolat {
-    public new doit() { Console.WriteLine("Black"); }
+      public new doit() { Console.WriteLine("Black"); }
   }
 
   public static void Main() {
-    var chocolat = new Chocolat();    // chocolat.doit() = "Chocolat"
-    var white = new White();          // white.doit() = "White"
-    var black = new Black();          // black.doit() = "Black"
-    Chocolat bad_black = new Black(); // bad_back.doit() = "Chocolat"
+      var chocolat = new Chocolat();    // chocolat.doit() = "Chocolat"
+      var white = new White();          // white.doit() = "White"
+      var black = new Black();          // black.doit() = "Black"
+      Chocolat bad_black = new Black(); // bad_back.doit() = "Chocolat"
   }
-}
 {% endhighlight %}
 * `ref` and `out` lets **evil C++ programmers** use side effects
 {% highlight c# %}
-  public static void side_effect(ref string st, out int i) 
-  {
-    i = 666;
-    st = "bananas";
+  public static void side_effect(ref string st, out int i) {
+      i = 666;
+      st = "bananas";
   }
 
-  public static void Main()
-  {
-    int i = 0;
-    string st = null;
-    // At least you are forced to declare a side effect at the call site
-    side_effect(ref st, out i);
-    Console.WriteLine("st={0}, i={1}", st, i);
+  public static void Main() {
+      int i = 0;
+      string st = null;
+      // At least you are forced to declare a side effect at the call site
+      side_effect(ref st, out i);
+      Console.WriteLine("st={0}, i={1}", st, i);
   }
 {% endhighlight %}
 * C++ like syntax for namespaces, no need to have multiple namespaces in same file, it just add extra {} cluter
@@ -165,54 +201,54 @@ namespace assembly_name {
 * `event` to easily attach actions when something happens
 {% highlight c# %}
   public class Klass {
-    public delegate void GoForIt(Klass o);
-    public event GoForIt events;
-    
-    public void trigger() { 
-      // You can only trigger an event from within the class
-      // The events will be executed in the current thread
-      events(this);
-    }
+      public delegate void GoForIt(Klass o);
+      public event GoForIt events;
+      
+      public void trigger() { 
+          // You can only trigger an event from within the class
+          // The events will be executed in the current thread
+          events(this);
+      }
   }
 
   public static void Main() {
-    var k = new Klass();
-    // You can add several listeners to a given event
-    k.events += obj => { Console.WriteLine("A lot of"); };
-    k.events += obj => { Console.WriteLine("bananas !"); };
-    k.trigger();
+      var k = new Klass();
+      // You can add several listeners to a given event
+      k.events += obj => { Console.WriteLine("A lot of"); };
+      k.events += obj => { Console.WriteLine("bananas !"); };
+      k.trigger();
   } 
 {% endhighlight %}
 * There is no type erasure for generic types
 {% highlight c# %}
   public class Klass<T> {
-    public void doit() {
-      // T.class, Klass<T>.class are not valid in Java
-      Console.WriteLine("T = {0}, Klass<T> = {1}", typeof(T));
-      Console.WriteLine("Klass<T> = {0}", typeof(Klass<T>));
-      Console.WriteLine("def(T) = {0}", default(T));
-    }
+      public void doit() {
+          // T.class, Klass<T>.class are not valid in Java
+          Console.WriteLine("T = {0}, Klass<T> = {1}", typeof(T));
+          Console.WriteLine("Klass<T> = {0}", typeof(Klass<T>));
+          Console.WriteLine("def(T) = {0}", default(T));
+      }
   }
 
   public static void Main() {
-    var k1 = new Klass<int>();
-    var k2 = new Klass<string>();
-    k1.doit();
-    k2.doit();
+      var k1 = new Klass<int>();
+      var k2 = new Klass<string>();
+      k1.doit();
+      k2.doit();
   }
 {% endhighlight %}
 * More constraints are available for generic template parameters
 {% highlight c# %}
-public class DftConstructible<T> where T:new() {
-  public void doit() {
-    Console.WriteLine("T t = {0}", new T());
+  public class DftConstructible<T> where T:new() {
+      public void doit() {
+          Console.WriteLine("T t = {0}", new T());
+      }
   }
-}
 
-public static void Main() {
-  var k1 = new DftConstructible<List<int>>();
-  k1.doit();
-}
+  public static void Main() {
+      var k1 = new DftConstructible<List<int>>();
+      k1.doit();
+  }
 {% endhighlight %}
 
 [0]: http://docs.oracle.com/javase/tutorial/extra/generics/subtype.html

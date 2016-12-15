@@ -60,6 +60,7 @@ Now I am learning Italian. You can intuitively understand most of it. However th
 | Dovunque/Ovunque           | Pordoquier/Dondequiera              | Partout/Où                          |
 | Fermare                    | Parar                               | Arrêter                             |
 | Finché                     | Hasta que                           | Jusqu'à ce que                      |
+| Fiume                      | Río                                 | Fleuve                              |
 | Gara                       | Carrera                             | Course                              |
 | Ghiaccio                   | Hielo                               | Glace                               |
 | Ginocchio                  | Rodilla                             | Genoux                              |
@@ -83,6 +84,7 @@ Now I am learning Italian. You can intuitively understand most of it. However th
 | Ogni/Ognuno                | Cada/Cada uno                       | Chaque/Chacun                       |
 | Ritenere                   | Considerar                          | Envisager                           |
 | Roba (plural)              | Cosas                               | Trucs/Choses                        |
+| Sabbia                     | Arena                               | Sable                               |
 | Scegliere                  | Escoger                             | Choisir                             |
 | Schermo                    | Pantalla                            | Écran                               |
 | Scherzo                    | Chiste                              | Blague                              |

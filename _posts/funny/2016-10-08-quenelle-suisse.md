@@ -4,8 +4,8 @@ title: Suisse le pays de la quenelle
 categories : [fun, suisse]
 ---
 
-Est-ce Lyon le pays de la quenelle ? Eh ben non, ici on Suisse on en glisse des quenelles à tous les coins de rue.
-Après avoir vécu quelques mois ici, j'ai bien compris qu'il faut toujours tenir les fesses bien serrées.
+Est-ce Lyon le pays de la quenelle ? Eh ben non, ici en Suisse on glisse des quenelles à tous les coins de rue.
+Après avoir vécu quelques mois ici, j'ai bien compris qu'il faut toujours se tenir les fesses bien serrées.
 
 Voici quelques unes de mes mésaventures. Bon j'avoue c'est rien de grave, mais c'est quand même tellement agaçant.
 
@@ -15,6 +15,8 @@ Voici quelques unes de mes mésaventures. Bon j'avoue c'est rien de grave, mais 
 * Votre assureur vous propose gentillement de payer un prime supplémentaire en cas de faute grave. 
   En gros comme ça il ne se retournera pas contre vous si par mégarde vous grillez un feu et il vous arrive un pépin.
 * Vous payez 6000chf/an pour votre assurance maladie mais en cas de gros soucis on vous demandera jusqu'à 3000chf supplémentaires.
+* Votre contrat d'assurance maladie est divisé en 2 parties avec des condition de résiliation différentes. Quand on vous annonce la prime pour l'année suivante, 10% de plus biensûr,
+  il est déjà trop tard pour résilier l'intégralité du contrat.
 * Lors des fêtes d'autonne on aura la gentillese de vous faire goûter à la piquette du pays pour 5chf les 10cl.
 * Quand vous allez voir votre mairie pour avoir une attestation de résidence dans la commune on va vous sucrer 25chf.
 * Trouvez un parking gratuit pour la journée relève du miracle, même dans un village à Perpète-lès-Oies. Et bonjour les 45chf pour garer ça caisse la journée à Lugano.
@@ -22,8 +24,8 @@ Voici quelques unes de mes mésaventures. Bon j'avoue c'est rien de grave, mais 
 * Plusieurs fois par an, lors des référendums vous recevrez une amicale carte postale des partis nationalistes. 
   Et c'est toujours un peu la même histoire : oust les étrangers ! Tous des voleurs ! Renvoyer-les dans leur bledes !
 
-Il faut avouer que les services publiques marchent bien mieux ici que en France. 
-Mais vu toutes ces petites saloperies, j'étais bien mieux à taper al discute avec les gentils fonctionnaires à la mairie de Chateauneuf.
+Il faut avouer que les services publiques marchent bien mieux ici qu'en France. 
+Mais vu toutes ces petites saloperies, j'étais bien mieux à taper la discute avec les fonctionnaires à la mairie de Chateauneuf.
 Ou encore à attendre des plombes à la sous-préfecture de Grasse.
 
 Vive la France, un pays où l'on peut toujours compter sur les villages de vignerons pour s'en jeter quelques uns derrière la cravatte pour pas un rond.
