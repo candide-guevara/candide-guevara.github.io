@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="276.31271mm"
+   height="134.3898mm"
+   viewBox="0 0 979.06082 476.18433"
+   id="svg2"
+   version="1.1">
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6723"
+       style="overflow:visible">
+      <path
+         id="path6725"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4420" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4423" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-7"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-7-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-6-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-6"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#edd400;fill-opacity:1;fill-rule:evenodd;stroke:#edd400;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-76" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-6-6"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#edd400;fill-opacity:1;fill-rule:evenodd;stroke:#edd400;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-76-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-6-6-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#edd400;fill-opacity:1;fill-rule:evenodd;stroke:#edd400;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-76-9-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-6-6-8"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#edd400;fill-opacity:1;fill-rule:evenodd;stroke:#edd400;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-76-9-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-6-6-6"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#edd400;fill-opacity:1;fill-rule:evenodd;stroke:#edd400;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-76-9-61" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-6-6-6-1"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#edd400;fill-opacity:1;fill-rule:evenodd;stroke:#edd400;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-76-9-61-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-37" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-7"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-37-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-7-0"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-37-9-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-7-0-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-37-9-5-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-37-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-2-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-37-1-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-2-2-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-37-1-6-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-37-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-2-2-4-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-37-1-6-5-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-8"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-37-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-8-5"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#729fcf;fill-opacity:1;fill-rule:evenodd;stroke:#729fcf;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-37-6-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3-8-5-7"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#729fcf;fill-opacity:1;fill-rule:evenodd;stroke:#729fcf;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-37-6-2-1" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(140.46429,40.466991)"
+     id="layer1">
+    <path
+       id="rect3336"
+       d="m 41.097071,-35.865967 520.869479,0 0,467.490007 -520.869479,0 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#729fcf;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 49.089676,0.24042249 227.886954,0 0,53.03875151 -227.886954,0 z"
+       id="rect3336-2-6" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="44.69458"
+       y="-24.066957"
+       id="text13206-9"><tspan
+         id="tspan13212-1"
+         x="44.69458"
+         y="-24.066957"
+         style="font-weight:bold">Cluster node</tspan><tspan
+         x="44.69458"
+         y="-14.066957"
+         id="tspan7551">(all nodes are <tspan
+   style="fill:#ff0000"
+   id="tspan7866">equivalent</tspan>)</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#edd400;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 600.84981,31.608868 222.69873,0 0,20.51402 -222.69873,0 z"
+       id="rect3336-2-6-5" />
+    <path
+       id="rect3336-2-6-4-8"
+       d="m 596.49833,86.077938 231.72341,0 0,-70.920909 -231.72341,0 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#888a85;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="rect3336-2-6-4-8-4"
+       d="m 596.43836,126.96649 231.53173,0 0,-33.242721 -231.53173,0 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#888a85;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       style="stroke:#0000ff;stroke-width:0.87085468;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1.3696264,0,0,1.1649086,-323.2361,-107.40921)"
+       id="g7523-8-4">
+      <g
+         style="stroke:#0000ff;stroke-width:0.86373693;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(1.2909024,0,0,0.78747184,-59.186247,57.198794)"
+         id="g7664-3">
+        <g
+           style="stroke:#0000ff;stroke-width:1.02465832;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.870396,0,0,0.81637175,79.576239,-113.05389)"
+           id="g7669-2" />
+      </g>
+    </g>
+    <path
+       id="rect3336-2-6-4-8-4-4-1"
+       d="m 717.68589,80.058228 105.6112,0 0,-22.327 -105.6112,0 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="rect3336-2-6-4-8-4-4-9-6"
+       d="m 601.45516,80.170448 110.6792,0 0,-22.327 -110.6792,0 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="rect3336-2-6-4-8-4-5-0"
+       d="m 193.53381,38.790288 71.54417,0 0,-26.408578 -71.54417,0 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#6ec814;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       style="stroke:#6ec814"
+       transform="translate(-498.54619,-114.17041)"
+       id="g4322">
+      <ellipse
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#6ec814;stroke-width:1.08000004;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4301"
+         cx="443.34799"
+         cy="426.12759"
+         rx="81.182785"
+         ry="7.071907" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#6ec814;stroke-width:1.08000004;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 524.87517,483.80329 c 2e-5,3.90571 -36.41819,7.07191 -81.34232,7.07191 -44.92412,0 -81.34234,-3.1662 -81.34232,-7.07191"
+         id="path4301-4" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#6ec814;stroke-width:1.08000016;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 362.17668,484.17669 0,-59.1634 m 162.3414,0 0,59.1634"
+         id="rect4318" />
+    </g>
+    <text
+       id="text13206-93"
+       y="11.866567"
+       x="53.109631"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="11.866567"
+         x="53.109631"
+         id="tspan13212-7">Cluster service [1]</tspan><tspan
+         id="tspan5839"
+         y="21.866566"
+         x="53.109631"> - Monitor cluster objects</tspan><tspan
+         id="tspan5841"
+         y="31.866566"
+         x="53.109631"> - Handle event notification</tspan><tspan
+         id="tspan5845"
+         y="41.866566"
+         x="53.109631"> - Perform failover and failback </tspan></text>
+    <text
+       id="text13206-93-8"
+       y="23.05574"
+       x="198.73364"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5845-3"
+         y="23.05574"
+         x="198.73364">Local copy of</tspan><tspan
+         id="tspan5885"
+         y="33.05574"
+         x="198.73364">cluster config</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 49.519503,72.016654 343.895167,0 0,155.544726 -343.895167,0 z"
+       id="rect3336-2-6-1" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#edd400;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 57.752473,100.7571 244.407097,0 0,36.66826 -244.407097,0 z"
+       id="rect3336-2-6-5-8" />
+    <g
+       id="g7664-35-9"
+       transform="matrix(1.0062289,0,0,0.81821128,-134.10948,173.47621)"
+       style="stroke:#81537e;stroke-width:1.10209477">
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.21230388;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 187.46195,3.0514612 109.19149,0 0,53.6949258 -109.19149,0 z"
+         id="rect3336-9-6-2-6" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.212304;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 302.87727,3.0514612 104.40794,0 0,53.6949258 -104.40794,0 z"
+         id="rect3336-9-6-2-4" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:1.212304;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 413.6883,3.0514674 104.40793,0 0,53.6949206 -104.40793,0 z"
+         id="rect3336-9-6-2-4-8" />
+    </g>
+    <text
+       id="text13206-93-4"
+       y="83.90834"
+       x="55.507416"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="83.90834"
+         x="55.507416"
+         id="tspan13212-7-0">Resource Monitors</tspan><tspan
+         id="tspan5845-2"
+         y="93.90834"
+         x="55.507416"> - Check health status of resources</tspan></text>
+    <text
+       id="text13206-93-4-0"
+       y="111.23306"
+       x="63.890934"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="111.23306"
+         x="63.890934"
+         id="tspan13212-7-0-0">Resource API</tspan><tspan
+         id="tspan5845-2-6"
+         y="121.23306"
+         x="63.890934"> - Interface methods to handle a resource</tspan><tspan
+         id="tspan5959"
+         y="131.23306"
+         x="63.890934"> - check status, start/stop ...</tspan></text>
+    <path
+       id="path4414-2-9-7"
+       d="m 88.820023,173.87102 0.6532,-8.85566 14.390347,0.0422 -0.12247,-27.54966"
+       style="fill:none;fill-rule:evenodd;stroke:#edd400;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleInM-2-6-6)" />
+    <text
+       id="text13206-93-4-0-0"
+       y="149.13583"
+       x="108.92618"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5959-8"
+         y="149.13583"
+         x="108.92618">Selects the API implementation</tspan><tspan
+         id="tspan6053"
+         y="159.13583"
+         x="108.92618">based on the <tspan
+   id="tspan6055"
+   style="fill:#ff0000">resource type</tspan></tspan></text>
+    <text
+       id="text13206-93-4-9"
+       y="188.783"
+       x="57.583038"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5845-2-4"
+         y="188.783"
+         x="57.583038">Standard resource DLLs</tspan><tspan
+         id="tspan6080"
+         y="198.783"
+         x="57.583038"> - For the types provided</tspan><tspan
+         id="tspan6082"
+         y="208.783"
+         x="57.583038">   out of the box</tspan></text>
+    <text
+       id="text13206-93-4-9-0"
+       y="188.35036"
+       x="173.83469"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan6082-2"
+         y="188.35036"
+         x="173.83469">Generic resource DLLs</tspan><tspan
+         id="tspan6134"
+         y="198.35036"
+         x="173.83469"> - Implementations for</tspan><tspan
+         id="tspan6136"
+         y="208.35036"
+         x="173.83469">   services, scripts ....</tspan></text>
+    <text
+       id="text13206-93-4-9-0-8"
+       y="188.56749"
+       x="285.98172"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan6082-2-5"
+         y="188.56749"
+         x="285.98172">Custom resource DLLs</tspan><tspan
+         id="tspan6136-6"
+         y="198.56749"
+         x="285.98172"> - Implement custom </tspan><tspan
+         id="tspan6185"
+         y="208.56749"
+         x="285.98172">   checks for your apps</tspan></text>
+    <path
+       id="path4414-2-9-7-8"
+       d="m 186.49208,173.90679 -3.61535,-8.85566 -79.6482,0.0422 0.67785,-27.54966"
+       style="fill:none;fill-rule:evenodd;stroke:#edd400;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleInM-2-6-6-6)" />
+    <path
+       id="path4414-2-9-7-8-5"
+       d="m 303.14142,173.64111 -8.69746,-8.85566 -191.61007,0.0422 1.63071,-27.54967"
+       style="fill:none;fill-rule:evenodd;stroke:#edd400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleInM-2-6-6-6-1)" />
+    <g
+       transform="translate(-59.368387,-153.98675)"
+       id="g7028">
+      <path
+         id="rect3336-2-6-5-3"
+         d="m 418.67275,180.11356 181.55532,0 0,30.08676 -181.55532,0 z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#edd400;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 411.71263,216.15334 194.36253,0 0,-86.51907 -194.36253,0 z"
+         id="rect3336-2-6-4-8-4-5-5" />
+    </g>
+    <text
+       id="text13206-93-4-9-0-8-0"
+       y="-11.122171"
+       x="356.06821"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan6185-5"
+         y="-11.122171"
+         x="356.06821">Cluster aware application resource</tspan><tspan
+         y="-1.1221714"
+         x="356.06821"
+         id="tspan6986"> - Recieves notifications on cluster status</tspan><tspan
+         y="8.8778286"
+         x="356.06821"
+         id="tspan6988"> - Can be used to create new infrastructure</tspan><tspan
+         y="18.877829"
+         x="356.06821"
+         id="tspan6990">   Ex: highly available scheduler</tspan></text>
+    <text
+       id="text13206-93-4-9-0-8-0-0"
+       y="44.908634"
+       x="415.31909"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="44.908634"
+         x="415.31909"
+         id="tspan6990-8">Cluster API [4]</tspan></text>
+    <g
+       id="g7182">
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#729fcf;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 588.10122,-36.373684 246.40199,0 0,169.734374 -246.40199,0 z"
+         id="rect3336-2-6-4" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="593.61554"
+         y="-24.30691"
+         id="text13206-93-4-9-0-8-0-3"><tspan
+           id="tspan6990-6"
+           x="593.61554"
+           y="-24.30691">Admin host</tspan><tspan
+           id="tspan7161"
+           x="593.61554"
+           y="-14.30691"> - Declares new resources types</tspan><tspan
+           id="tspan7163"
+           x="593.61554"
+           y="-4.3069096"> - Spawns new resources</tspan><tspan
+           id="tspan7165"
+           x="593.61554"
+           y="5.6930904"> - Queries cluster status</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="600.99103"
+         y="26.334923"
+         id="text13206-93-4-9-0-8-0-3-2"><tspan
+           id="tspan7165-0"
+           x="600.99103"
+           y="26.334923">Admin GUI</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="670.84186"
+         y="44.864624"
+         id="text13206-93-4-9-0-8-0-3-2-3"><tspan
+           id="tspan7165-0-6"
+           x="670.84186"
+           y="44.864624">Cluster Admin API</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="614.83057"
+         y="71.764061"
+         id="text13206-93-4-9-0-8-0-3-2-3-7"><tspan
+           id="tspan7165-0-6-2"
+           x="614.83057"
+           y="71.764061">StandardType DLL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="736.94977"
+         y="71.391403"
+         id="text13206-93-4-9-0-8-0-3-2-3-7-7"><tspan
+           id="tspan7165-0-6-2-0"
+           x="736.94977"
+           y="71.391403">CustomType DLL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="659.27313"
+         y="113.47767"
+         id="text13206-93-4-9-0-8-0-3-2-3-1"><tspan
+           id="tspan7165-0-6-1"
+           x="659.27313"
+           y="113.47767">Powershell interface [5]</tspan></text>
+    </g>
+    <text
+       id="text13206-93-4-9-6"
+       y="331.5766"
+       x="-132.65463"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan6082-5"
+         y="331.5766"
+         x="-132.65463">Cluster configuration [3]</tspan><tspan
+         y="341.5766"
+         x="-132.65463"
+         id="tspan6471"> - Key-value store</tspan><tspan
+         y="351.5766"
+         x="-132.65463"
+         id="tspan6473"> - Contains information/status about </tspan><tspan
+         y="361.5766"
+         x="-132.65463"
+         id="tspan6475">   nodes, resources ...</tspan></text>
+    <path
+       id="path6715-7"
+       d="m 166.59803,52.678883 0,16.237116"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-3)" />
+    <text
+       id="text6376"
+       y="66.587303"
+       x="-171.05968"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-10.89000034px;word-spacing:16.94000053px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="66.587303"
+         x="-171.05968"
+         id="tspan6378"></tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 58.01689,296.10751 197.49651,0 0,46.33302 -197.49651,0 z"
+       id="rect3336-2-6-3" />
+    <rect
+       y="263.91452"
+       x="49.851151"
+       height="144.11365"
+       width="213.08585"
+       id="rect13239-9-6"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#729fcf;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:6.6, 2.20000001;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text13206-93-3"
+       y="276.11349"
+       x="55.136353"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5845-4"
+         y="276.11349"
+         x="55.136353">Core resource group [2]</tspan><tspan
+         id="tspan6345"
+         y="286.11349"
+         x="55.136353"> - Needs to be up for the node to be available </tspan></text>
+    <text
+       id="text13206-93-3-0"
+       y="307.04605"
+       x="61.186996"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan6345-4"
+         y="307.04605"
+         x="61.186996"> - IP Adress</tspan><tspan
+         id="tspan6370"
+         y="317.04605"
+         x="61.186996"> - Network Name</tspan><tspan
+         id="tspan6372"
+         y="327.04605"
+         x="61.186996">The node that owns these resources is</tspan><tspan
+         id="tspan6374"
+         y="337.04605"
+         x="61.186996">the one reachable through the cluster name </tspan></text>
+    <text
+       id="text13206-93-3-5"
+       y="363.44604"
+       x="60.815933"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan6345-3"
+         y="363.44604"
+         x="60.815933">Quorum resource</tspan><tspan
+         id="tspan6403"
+         y="373.44604"
+         x="60.815933"> - Maintains consistency of cluster config</tspan><tspan
+         id="tspan6405"
+         y="383.44604"
+         x="60.815933"> - Handles network partitions, only the group</tspan><tspan
+         id="tspan6407"
+         y="393.44604"
+         x="60.815933">   of nodes holding the quorum can be up </tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 57.83135,352.8785 197.49651,0 0,46.33302 -197.49651,0 z"
+       id="rect3336-2-6-3-4" />
+    <path
+       id="path6715-7-9"
+       d="M 57.508621,368.74899 26.71127,340.08877"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-3-7)" />
+    <g
+       transform="translate(553.23915,-142.11308)"
+       id="g6736">
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -275.8475,495.55581 153.54675,0 0,-37.54016 -153.54675,0 z"
+         id="rect3336-2-6-4-8-4-5" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff5b5b;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:6.60000011, 2.20000003;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect13239-9-7"
+         width="283.95688"
+         height="161.55312"
+         x="-284.46707"
+         y="405.65652" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -273.62117,561.97418 117.92571,0 0,-26.03752 -117.92571,0 z"
+         id="rect3336-2-6-4-8-4-5-2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-280.55228"
+         y="417.61969"
+         id="text13206-93-3-9"><tspan
+           x="-280.55228"
+           y="417.61969"
+           id="tspan5845-4-8">App resource group</tspan><tspan
+           x="-280.55228"
+           y="427.61969"
+           id="tspan6345-2"> - All resources in a group are owned by the same node</tspan><tspan
+           id="tspan6523"
+           x="-280.55228"
+           y="437.61969"> - All resources in the group failover together</tspan><tspan
+           id="tspan6525"
+           x="-280.55228"
+           y="447.61969"> - Resource dependencies cannot pass groups boundary </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-272.01804"
+         y="468.82492"
+         id="text13206-93-3-2"><tspan
+           x="-272.01804"
+           y="468.82492"
+           id="tspan6345-0">Framework resources</tspan><tspan
+           id="tspan6550"
+           x="-272.01804"
+           y="478.82492"> - Provided out of the box</tspan><tspan
+           id="tspan6552"
+           x="-272.01804"
+           y="488.82492"> - Ex : distributed tx, disk storage ... </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-270.67587"
+         y="546.37671"
+         id="text13206-93-3-2-1"><tspan
+           id="tspan6552-6"
+           x="-270.67587"
+           y="546.37671">User application resource</tspan><tspan
+           x="-270.67587"
+           y="556.37671"
+           id="tspan6620">(custom type) </tspan></text>
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -139.85679,561.60315 117.92571,0 0,-26.03752 -117.92571,0 z"
+         id="rect3336-2-6-4-8-4-5-2-6" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-136.9115"
+         y="546.00568"
+         id="text13206-93-3-2-1-5"><tspan
+           id="tspan6552-6-1"
+           x="-136.9115"
+           y="546.00568">User application resource</tspan><tspan
+           x="-136.9115"
+           y="556.00568"
+           id="tspan6620-6">(generic type) </tspan></text>
+      <path
+         style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-3-7-0)"
+         d="m -231.98257,495.01773 -20.03683,38.73623"
+         id="path6715-7-9-6" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-232.82854"
+         y="509.64261"
+         id="text13206-93-3-2-2"><tspan
+           id="tspan6552-9"
+           x="-232.82854"
+           y="509.64261">Resource dependecies</tspan><tspan
+           x="-232.82854"
+           y="519.64258"
+           id="tspan6732"> - Cluster ensures dependency hierarchy</tspan><tspan
+           x="-232.82854"
+           y="529.64258"
+           id="tspan6734">   is init in the right order</tspan></text>
+    </g>
+    <path
+       id="path6715-7-2"
+       d="m 139.88226,220.32803 0,40.70445"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-3-2)" />
+    <path
+       id="path6715-7-2-8"
+       d="m 307.59795,248.19981 0,12.44089"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-3-2-2)" />
+    <path
+       id="path6715-7-2-8-1"
+       d="m 360.65844,219.99982 0,40.7802"
+       style="fill:#ff00ff;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-3-2-2-4)" />
+    <path
+       id="path6715-7-7"
+       d="m 139.18474,249.59657 168.36861,0"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path6715-7-7-6"
+       d="m 205.55853,219.50548 0,30.33712"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path6715-7-2-8-1-5"
+       d="m 387.37421,196.55386 24.57799,0.0652 0.28253,-131.824356"
+       style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-3-2-2-4-2)" />
+    <path
+       id="path6715-7-97"
+       d="m 277.00606,42.920375 80.04685,0"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-3-8)" />
+    <path
+       id="path6715-7-97-1"
+       d="m 596.13753,27.859831 -30.94651,0"
+       style="fill:#729fcf;fill-rule:evenodd;stroke:#729fcf;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-3-8-5)" />
+    <path
+       id="path6715-7-97-1-9"
+       d="m 596.92742,105.43936 -32.01877,0"
+       style="fill:#729fcf;fill-rule:evenodd;stroke:#729fcf;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-3-8-5-7)" />
+  </g>
+</svg>
