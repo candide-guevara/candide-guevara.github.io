@@ -7,7 +7,7 @@ categories : [fun, suisse]
 Est-ce Lyon le pays de la quenelle ? Eh ben non, ici en Suisse on glisse des quenelles à tous les coins de rue.
 Après avoir vécu quelques mois ici, j'ai bien compris qu'il faut toujours se tenir les fesses bien serrées.
 
-Voici quelques unes de mes mésaventures. Bon j'avoue c'est rien de grave, mais c'est quand même tellement agaçant.
+Voici quelques unes de mes mésaventures. Bon j'avoue ce n'est rien de grave, mais c'est quand même tellement agaçant.
 
 * Quand vous avez donné trop d'argent au fisc (ou plutôt fist), ils vous remboursent bien sûr, mais ils prennent la bagatelle de 15chf sous forme de frais de remboursement.
 * Les conditions de résiliation de contrat de location sont vraiment draconiennes. Si vous avez de la "chance" vous pouvez le faire à 2 moments bien précis chaque année.
@@ -15,7 +15,7 @@ Voici quelques unes de mes mésaventures. Bon j'avoue c'est rien de grave, mais 
 * Votre assureur vous propose gentillement de payer un prime supplémentaire en cas de faute grave. 
   En gros comme ça il ne se retournera pas contre vous si par mégarde vous grillez un feu et il vous arrive un pépin.
 * Vous payez 6000chf/an pour votre assurance maladie mais en cas de gros soucis on vous demandera jusqu'à 3000chf supplémentaires.
-* Votre contrat d'assurance maladie est divisé en 2 parties avec des condition de résiliation différentes. Quand on vous annonce la prime pour l'année suivante, 10% de plus biensûr,
+* Votre contrat d'assurance maladie est divisé en 2 parties avec des conditions de résiliation différentes. Quand on vous annonce la prime pour l'année suivante, 10% de plus biensûr,
   il est déjà trop tard pour résilier l'intégralité du contrat.
 * Lors des fêtes d'autonne on aura la gentillese de vous faire goûter à la piquette du pays pour 5chf les 10cl.
 * Quand vous allez voir votre mairie pour avoir une attestation de résidence dans la commune on va vous sucrer 25chf.

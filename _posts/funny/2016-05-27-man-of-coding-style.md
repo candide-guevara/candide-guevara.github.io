@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The man of coding steele
+title: The man of coding steel
 categories : [fun, office]
 ---
 

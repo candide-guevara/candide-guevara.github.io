@@ -84,7 +84,7 @@ Here are some of the high and low points for me :
     | select {$_.FullName};
 {% endhighlight %}
 * You can use .NET framework classes from powershell
-  * Useful to get access to advanced functions without
+  * Useful to get access to advanced functions from a script
   * No need to open a heavy IDE and wait for compilation
 {% highlight powershell %}
     # We can use the .NET reflection API to get assembly metadata
@@ -171,7 +171,7 @@ Here are some of the high and low points for me :
 
 ## That which shall not be named
 
-Let's just say that you better not hope to get a **bash+terminal emulator** equivalent (at least before windows server 2016)
+Let's just say that you better not hope to get a **terminal emulator** equivalent (at least before windows server 2016)
 
 [0]: https://msdn.microsoft.com/en-us/library/aa394585(v=vs.85).aspx
 [1]: https://technet.microsoft.com/en-us/library/jj899572(v=ws.11).aspx
