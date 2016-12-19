@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 927.86429 348.6534"
+   height="98.397743mm"
+   width="261.86392mm">
+  <defs
+     id="defs4">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4942"
+       style="overflow:visible">
+      <path
+         id="path4829"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#007d00;fill-opacity:1;fill-rule:evenodd;stroke:#007d00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4826"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#007d00;fill-opacity:1;fill-rule:evenodd;stroke:#007d00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path4565"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6723"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path6725" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM"
+       style="overflow:visible">
+      <path
+         id="path4556"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4420"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4423"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-2"
+       style="overflow:visible">
+      <path
+         id="path4556-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-1"
+       style="overflow:visible">
+      <path
+         id="path4565-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-2-3"
+       style="overflow:visible">
+      <path
+         id="path4556-3-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-2-7"
+       style="overflow:visible">
+      <path
+         id="path4556-3-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-2-7-2"
+       style="overflow:visible">
+      <path
+         id="path4556-3-6-0"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-5"
+       style="overflow:visible">
+      <path
+         id="path4565-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4942-4"
+       style="overflow:visible">
+      <path
+         id="path4829-1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#007d00;fill-opacity:1;fill-rule:evenodd;stroke:#007d00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4942-5"
+       style="overflow:visible">
+      <path
+         id="path4829-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#007d00;fill-opacity:1;fill-rule:evenodd;stroke:#007d00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4942-5-4"
+       style="overflow:visible">
+      <path
+         id="path4829-7-9"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff7d00;fill-opacity:1;fill-rule:evenodd;stroke:#ff7d00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4942-5-4-1"
+       style="overflow:visible">
+      <path
+         id="path4829-7-9-9"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#007d00;fill-opacity:1;fill-rule:evenodd;stroke:#007d00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4942-5-4-5"
+       style="overflow:visible">
+      <path
+         id="path4829-7-9-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff7d00;fill-opacity:1;fill-rule:evenodd;stroke:#ff7d00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4942-5-4-7"
+       style="overflow:visible">
+      <path
+         id="path4829-7-9-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff7d00;fill-opacity:1;fill-rule:evenodd;stroke:#ff7d00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4942-5-4-7-1"
+       style="overflow:visible">
+      <path
+         id="path4829-7-9-3-0"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff7d00;fill-opacity:1;fill-rule:evenodd;stroke:#ff7d00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4942-5-4-7-2"
+       style="overflow:visible">
+      <path
+         id="path4829-7-9-3-5"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff7d00;fill-opacity:1;fill-rule:evenodd;stroke:#ff7d00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4942-5-4-5-7"
+       style="overflow:visible">
+      <path
+         id="path4829-7-9-4-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4942-5-4-0"
+       style="overflow:visible">
+      <path
+         id="path4829-7-9-49"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4942-5-4-0-3"
+       style="overflow:visible">
+      <path
+         id="path4829-7-9-49-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#3465a4;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4942-5-4-0-3-2"
+       style="overflow:visible">
+      <path
+         id="path4829-7-9-49-7-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#3465a4;fill-opacity:1;fill-rule:evenodd;stroke:#3465a4;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path6715-54-8-4-5-1-6-5"
+     d="m 150.64846,261.60902 144.33938,17.52937"
+     style="fill:#007d00;fill-rule:evenodd;stroke:#007d00;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.99999988, 5.99999928;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     id="path6715-54-8-4-5-1-6-5-9"
+     d="M 150.64846,251.77613 295.35889,220.32658"
+     style="fill:#007d00;fill-rule:evenodd;stroke:#007d00;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.99999988, 5.99999928;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     id="path6715-54-8-4-5-1-6"
+     d="M 150.83398,272.74059 264.74707,208.26737"
+     style="fill:#007d00;fill-rule:evenodd;stroke:#007d00;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.99999988, 5.99999928;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     id="path6715-54-8-4-5-1-6-5-4"
+     d="m 300.99288,219.14856 144.33938,-0.0497"
+     style="fill:#007d00;fill-rule:evenodd;stroke:#007d00;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.99999988, 5.99999928;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     id="rect3336-2-6"
+     d="m 724.59756,54.453206 95.00489,0 0,26.941337 -95.00489,0 z"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#3465a4;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     id="path6715-5"
+     d="m 610.72197,348.6534 0,-348.653415258789"
+     style="fill:none;fill-rule:evenodd;stroke:#696969;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6,6;stroke-dashoffset:0;stroke-opacity:1" />
+  <g
+     id="g5551"
+     transform="translate(127.45768,396.35369)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#007d00;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -126.53663,-259.60704 124.31807,0 0,42.02528 -124.31807,0 z"
+       id="rect3336-2-6-7-2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-116.08577"
+       y="-245.8204"
+       id="text13206-2"><tspan
+         y="-245.8204"
+         x="-116.08577"
+         style="fill:#888a85"
+         id="tspan4493">Customisation</tspan><tspan
+         y="-235.8204"
+         x="-116.08577"
+         style="fill:#888a85"
+         id="tspan4495">~/.asoundrc</tspan><tspan
+         y="-225.8204"
+         x="-116.08577"
+         style="fill:#888a85"
+         id="tspan4497">/etc/asound.conf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-121.15269"
+       y="-187.83904"
+       id="text13206-2-6"><tspan
+         style="fill:#888a85"
+         id="tspan4497-3"
+         x="-121.15269"
+         y="-187.83904">Standard config</tspan><tspan
+         id="tspan4532"
+         style="fill:#888a85"
+         x="-121.15269"
+         y="-177.83904">/usr/share/alsa/alsa.conf</tspan><tspan
+         id="tspan4534"
+         style="fill:#888a85"
+         x="-121.15269"
+         y="-167.83904">/usr/share/alsa/alsa.conf.d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-105.68497"
+       y="-103.46855"
+       id="text13206-2-6-9"><tspan
+         id="tspan4534-1"
+         style="fill:#888a85"
+         x="-105.68497"
+         y="-103.46855">PCM defintions</tspan><tspan
+         id="tspan4565"
+         style="fill:#888a85"
+         x="-105.68497"
+         y="-93.468552" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-116.07444"
+       y="-132.78169"
+       id="text13206-2-6-5"><tspan
+         id="tspan4534-3"
+         style="fill:#888a85"
+         x="-116.07444"
+         y="-132.78169">Sound card definitions</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#007d00;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -126.90767,-201.72287 124.68911,0 0,42.02528 -124.68911,0 z"
+       id="rect3336-2-6-7-2-1" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#007d00;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -126.90767,-144.95184 124.68911,0 0,15.68056 -124.68911,0 z"
+       id="rect3336-2-6-7-2-1-8" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#007d00;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -126.90768,-115.08213 124.68911,0 0,15.680568 -124.68911,0 z"
+       id="rect3336-2-6-7-2-1-8-0" />
+    <path
+       style="fill:#007d00;fill-rule:evenodd;stroke:#007d00;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4942)"
+       d="m -68.742444,-129.13721 0,11.18116"
+       id="path6715-54" />
+    <path
+       style="fill:#007d00;fill-rule:evenodd;stroke:#007d00;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4942-4)"
+       d="m -68.506331,-159.32908 0,11.18116"
+       id="path6715-54-6" />
+    <path
+       style="fill:#007d00;fill-rule:evenodd;stroke:#007d00;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4942-5)"
+       d="m -67.981585,-217.18247 0,12.3346"
+       id="path6715-54-8" />
+  </g>
+  <path
+     id="path6715-54-8-4"
+     d="m 174.95239,90.448774 0,18.127396"
+     style="fill:#ff7d00;fill-rule:evenodd;stroke:#ff7d00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4942-5-4)" />
+  <text
+     id="text13206-2-6-9-2"
+     y="70.574799"
+     x="731.94556"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       y="70.574799"
+       x="731.94556"
+       style="fill:#888a85"
+       id="tspan4565-3">Sound applications</tspan></text>
+  <g
+     id="g5368"
+     transform="translate(93.69191,396.72474)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7d00;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 57.505368,-285.20965 144.354902,0 0,76.9042 -144.354902,0 z"
+       id="rect3336-2-6-7" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="61.992523"
+       y="-274.15762"
+       id="text34867-6"><tspan
+         y="-274.15762"
+         x="61.992523"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5059">Standard mixing PCM</tspan><tspan
+         y="-264.15762"
+         x="61.992523"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5061">pcm.dmix {</tspan><tspan
+         y="-254.15762"
+         x="61.992523"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5063">  @ARGS [ CARD DEV ]</tspan><tspan
+         y="-244.15762"
+         x="61.992523"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5067">  type dmix</tspan><tspan
+         id="tspan5293"
+         y="-234.15762"
+         x="61.992523"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85">  rate $RATE</tspan><tspan
+         y="-224.15762"
+         x="61.992523"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5069">  format $FORMAT</tspan><tspan
+         y="-214.15762"
+         x="61.992523"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5071">}</tspan></text>
+  </g>
+  <g
+     id="g5394"
+     transform="translate(160.8524,396.35369)">
+    <g
+       id="g5403">
+      <path
+         id="rect3336-2-6-7-3"
+         d="m 211.3066,-285.58071 144.3549,0 0,56.86738 -144.3549,0 z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7d00;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text34867-6-0"
+         y="-274.52869"
+         x="215.79375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan5059-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+           x="215.79375"
+           y="-274.52869">Standard IEC958 PCM</tspan><tspan
+           id="tspan5061-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+           x="215.79375"
+           y="-264.52869">pcm.iec958 {</tspan><tspan
+           id="tspan5063-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+           x="215.79375"
+           y="-254.52869">  @ARGS [ CARD DEV ]</tspan><tspan
+           id="tspan5069-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+           x="215.79375"
+           y="-244.52869">  type empty</tspan><tspan
+           id="tspan5071-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+           x="215.79375"
+           y="-234.52869">}</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g5412"
+     transform="translate(242.11288,387.81948)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7d00;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 211.67764,-190.96235 144.3549,0 0,47.59107 -144.3549,0 z"
+       id="rect3336-2-6-7-3-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="218.39461"
+       y="-179.13136"
+       id="text34867-6-0-0"><tspan
+         y="-179.13136"
+         x="218.39461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5059-1-9">SoundCard IEC958 PCM</tspan><tspan
+         y="-169.13136"
+         x="218.39461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5061-5-8">USB-Audio.pcm.iec958 {</tspan><tspan
+         id="tspan5172"
+         y="-159.13136"
+         x="218.39461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85">  @ARGS [ CARD DEV ]</tspan><tspan
+         y="-149.13136"
+         x="218.39461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5071-3-7">}</tspan></text>
+  </g>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot5174"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-10.89000034px;word-spacing:16.94000053px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(127.45768,396.35369)"><flowRegion
+       id="flowRegion5176"><rect
+         id="rect5178"
+         width="13.728939"
+         height="25.973669"
+         x="256.39722"
+         y="-143.97603" /></flowRegion><flowPara
+       id="flowPara5180" /></flowRoot>  <g
+     id="g5435"
+     transform="translate(98.515592,388.56159)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="58.185253"
+       y="-344.0918"
+       id="text34867-6-0-0-4"><tspan
+         y="-344.0918"
+         x="58.185253"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5059-1-9-5">Converter PCM</tspan><tspan
+         y="-334.0918"
+         x="58.185253"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5061-5-8-6">pcm.myplug {</tspan><tspan
+         id="tspan5172-5"
+         y="-324.0918"
+         x="58.185253"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85">  @ARGS [ CARD DEV ]</tspan><tspan
+         id="tspan5330"
+         y="-314.0918"
+         x="58.185253"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85">  converter &quot;algorithm&quot;</tspan><tspan
+         y="-304.0918"
+         x="58.185253"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5071-3-7-6">}</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7d00;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.867216,-355.33856 144.354904,0 0,57.60948 -144.354904,0 z"
+       id="rect3336-2-6-7-3-9-2" />
+  </g>
+  <g
+     id="g5502"
+     transform="translate(248.42077,392.64317)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="62.266834"
+       y="-177.47083"
+       id="text34867-6-0-0-0"><tspan
+         y="-177.47083"
+         x="62.266834"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5071-3-7-7">Quirks for special</tspan><tspan
+         id="tspan5287"
+         y="-167.47083"
+         x="62.266834"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85">USB audio card</tspan><tspan
+         id="tspan5289"
+         y="-157.47083"
+         x="62.266834"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85">{ ... }</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7d00;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.86721,-190.59129 144.35491,0 0,39.05686 -144.35491,0 z"
+       id="rect3336-2-6-7-3-9-2-2" />
+  </g>
+  <g
+     id="g5491"
+     transform="translate(169.75766,375.94581)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="288.84329"
+       y="-101.38669"
+       id="text34867-6-9"><tspan
+         y="-101.38669"
+         x="288.84329"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5059-6">Generic USB-Audio PCM</tspan><tspan
+         y="-91.386688"
+         x="288.84329"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5061-2">{</tspan><tspan
+         y="-81.386688"
+         x="288.84329"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5063-7">  @ARGS [ CARD DEV ]</tspan><tspan
+         y="-71.386688"
+         x="288.84329"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5065-1">  type hw</tspan><tspan
+         y="-61.386688"
+         x="288.84329"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5067-5">  card $CARD</tspan><tspan
+         y="-51.386688"
+         x="288.84329"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5069-8">  device $DEV</tspan><tspan
+         y="-41.386688"
+         x="288.84329"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5071-8">}</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7d00;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 284.03286,-111.92818 144.35491,0 0,75.04895 -144.35491,0 z"
+       id="rect3336-2-6-7-3-9-2-2-2" />
+  </g>
+  <path
+     id="path6715-54-8-4-5"
+     d="M 125.23137,152.41453 151.20504,78.293924"
+     style="fill:#007d00;fill-rule:evenodd;stroke:#007d00;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     id="text34867-7"
+     y="104.01451"
+     x="178.31862"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan5618"
+       x="178.31862"
+       y="104.01451">slave PCM</tspan></text>
+  <text
+     id="text34867-7-1"
+     y="200.4698"
+     x="185.11093"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan5618-2"
+       x="185.11093"
+       y="200.4698">slave PCM</tspan></text>
+  <path
+     id="path6715-54-8-4-6"
+     d="m 180.88923,187.73653 0,18.1274"
+     style="fill:#ff7d00;fill-rule:evenodd;stroke:#ff7d00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4942-5-4-5)" />
+  <path
+     id="path6715-54-8-4-2"
+     d="m 407.2312,167.69969 -18.55262,32.9695"
+     style="fill:#ff7d00;fill-rule:evenodd;stroke:#ff7d00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4942-5-4-7)" />
+  <path
+     id="path6715-54-8-4-2-9"
+     d="m 406.93829,167.42721 45.26839,28.51686"
+     style="fill:#ff7d00;fill-rule:evenodd;stroke:#ff7d00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4942-5-4-7-1)" />
+  <text
+     id="text34867-7-4"
+     y="181.17508"
+     x="436.68445"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan5618-22"
+       x="436.68445"
+       y="181.17508">@func refer ...</tspan></text>
+  <path
+     id="path6715-54-8-4-2-3"
+     d="m 506.05873,243.69739 0,17.3853"
+     style="fill:#ff7d00;fill-rule:evenodd;stroke:#ff7d00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4942-5-4-7-2)" />
+  <path
+     id="path6715-54-8-4-5-6"
+     d="m 125.23137,286.46955 25.97367,-156.1232"
+     style="fill:#007d00;fill-rule:evenodd;stroke:#007d00;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path6715-54-8-4-5-1"
+     d="m 125.23137,218.56695 25.23156,0.0899"
+     style="fill:#007d00;fill-rule:evenodd;stroke:#007d00;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path6715-54-8-4-5-1-7"
+     d="m 124.48926,287.58269 26.32946,-14.45312 m 114.26276,-64.68618 106.89974,-60.65756"
+     style="fill:#007d00;fill-rule:evenodd;stroke:#007d00;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path6715-54-8-4-5-1-8"
+     d="m 124.86031,257.8985 26.02237,-5.66832 m 144.28277,-31.42835 5.90637,-1.28655 m 144.3781,-0.1101 8.16283,-0.006"
+     style="fill:none;fill-rule:evenodd;stroke:#007d00;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path6715-54-8-4-5-1-9"
+     d="m 125.23137,258.26954 25.98847,3.26669 m 144.34414,18.1437 158.04877,19.86633"
+     style="fill:#007d00;fill-rule:evenodd;stroke:#007d00;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <g
+     id="g5480"
+     transform="translate(92.207701,296.91164)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="64.117012"
+       y="-78.205116"
+       id="text34867-6-9-8"><tspan
+         y="-78.205116"
+         x="64.117012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5059-6-4">Generic hardware PCM</tspan><tspan
+         y="-68.205116"
+         x="64.117012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5061-2-8">{</tspan><tspan
+         y="-58.205116"
+         x="64.117012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5063-7-8">  @ARGS [ CARD DEV ]</tspan><tspan
+         y="-48.205116"
+         x="64.117012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5065-1-3">  type hw</tspan><tspan
+         y="-38.205116"
+         x="64.117012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5067-5-8">  card $CARD</tspan><tspan
+         y="-28.205116"
+         x="64.117012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5069-8-7">  device $DEV</tspan><tspan
+         y="-18.205116"
+         x="64.117012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="tspan5071-8-5">}</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7d00;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 58.804048,-88.366352 144.354902,0 0,75.048952 -144.354902,0 z"
+       id="rect3336-2-6-7-3-9-2-2-2-1" />
+  </g>
+  <text
+     id="text34867-7-3"
+     y="256.27295"
+     x="507.40753"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan5618-7"
+       x="507.40753"
+       y="256.27295">slave PCM</tspan></text>
+  <text
+     id="text13206-2-6-9-2-8"
+     y="13.341802"
+     x="415.47559"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       y="13.341802"
+       x="415.47559"
+       style="font-weight:bold;fill:#888a85"
+       id="tspan6588">All devices in the configuration are</tspan><tspan
+       y="23.341801"
+       x="415.47559"
+       style="font-weight:bold;fill:#888a85"
+       id="tspan6590">templates that need runtime parameters</tspan></text>
+  <path
+     id="path6715-54-8-4-24"
+     d="m 648.44216,184.30102 0,18.1274"
+     style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4942-5-4-0)" />
+  <path
+     id="rect3336-2-6-7-0"
+     d="m 624.68705,205.36734 144.3549,0 0,56.96381 -144.3549,0 z"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text34867-6-2"
+     y="216.41937"
+     x="629.17419"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan5061-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+       x="629.17419"
+       y="216.41937">pcm.dmix {</tspan><tspan
+       id="tspan5067-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+       x="629.17419"
+       y="226.41937">  type dmix</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+       x="629.17419"
+       y="236.41937"
+       id="tspan5293-8">  rate 48000Hz</tspan><tspan
+       id="tspan5069-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+       x="629.17419"
+       y="246.41937">  format 16bit</tspan><tspan
+       id="tspan5071-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+       x="629.17419"
+       y="256.41937">}</tspan></text>
+  <text
+     id="text34867-6-0-0-4-2"
+     y="159.31195"
+     x="630.19055"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan5061-5-8-6-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+       x="630.19055"
+       y="159.31195">pcm.myplug {</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+       x="630.19055"
+       y="169.31195"
+       id="tspan5330-9">  converter &quot;algorithm&quot;</tspan><tspan
+       id="tspan5071-3-7-6-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+       x="630.19055"
+       y="179.31195">}</tspan></text>
+  <path
+     id="rect3336-2-6-7-3-9-2-8"
+     d="m 624.87258,148.06518 144.3549,0 0,36.61958 -144.3549,0 z"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text34867-7-16"
+     y="197.86678"
+     x="651.80835"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan5618-8"
+       x="651.80835"
+       y="197.86678">slave PCM</tspan></text>
+  <text
+     id="text34867-7-1-0"
+     y="274.38165"
+     x="658.60065"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan5618-2-4"
+       x="658.60065"
+       y="274.38165">slave PCM</tspan></text>
+  <path
+     id="path6715-54-8-4-6-8"
+     d="m 654.379,261.64838 0,18.1274"
+     style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4942-5-4-5-7)" />
+  <text
+     id="text34867-6-9-8-4"
+     y="292.61835"
+     x="629.81445"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan5061-2-8-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+       x="629.81445"
+       y="292.61835">pcm.hw {</tspan><tspan
+       id="tspan5065-1-3-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+       x="629.81445"
+       y="302.61835">  type hw</tspan><tspan
+       id="tspan5067-5-8-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+       x="629.81445"
+       y="312.61835">  card 2</tspan><tspan
+       id="tspan5069-8-7-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+       x="629.81445"
+       y="322.61835">  device 0</tspan><tspan
+       id="tspan5071-8-5-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+       x="629.81445"
+       y="332.61835">}</tspan></text>
+  <path
+     id="rect3336-2-6-7-3-9-2-2-2-1-7"
+     d="m 624.50156,282.45714 272.91802,0 0,55.6333 -272.91802,0 z"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text13206-2-6-9-2-8-4"
+     y="13.058956"
+     x="617.7702"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       y="13.058956"
+       x="617.7702"
+       style="font-weight:bold;fill:#888a85"
+       id="tspan5898-5">Logical PCM view for applications</tspan><tspan
+       y="23.058956"
+       x="617.7702"
+       style="font-weight:bold;fill:#888a85"
+       id="tspan6091">runtime parameters are known</tspan></text>
+  <path
+     id="path6715-54-8-4-24-3"
+     d="m 724.26683,68.626789 -75.41554,-0.219955 0.2612,77.643806"
+     style="fill:none;fill-rule:evenodd;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4942-5-4-0-3)" />
+  <path
+     id="path6715-54-8-4-24-3-3"
+     d="m 778.89401,81.843639 -0.0637,197.681031"
+     style="fill:none;fill-rule:evenodd;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4942-5-4-0-3-2)" />
+  <text
+     id="text13206-2-6-9-2-0"
+     y="95.8601"
+     x="651.97168"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       y="95.8601"
+       x="651.97168"
+       style="fill:#888a85"
+       id="tspan4565-3-86">open device</tspan><tspan
+       y="105.8601"
+       x="651.97168"
+       style="fill:#888a85"
+       id="tspan6153">&quot;pcm.myplug:2,0&quot;</tspan></text>
+  <text
+     id="text13206-2-6-9-2-0-6"
+     y="101.35504"
+     x="783.80762"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       y="101.35504"
+       x="783.80762"
+       style="fill:#888a85"
+       id="tspan4565-3-86-9">open device</tspan><tspan
+       y="111.35504"
+       x="783.80762"
+       style="fill:#888a85"
+       id="tspan6153-7">&quot;pcm.iec958:2,0&quot;</tspan><tspan
+       y="121.35504"
+       x="783.80762"
+       style="fill:#888a85"
+       id="tspan6176">or</tspan><tspan
+       y="131.35504"
+       x="783.80762"
+       style="fill:#888a85"
+       id="tspan6182">&quot;cards.pcm.iec958:2,0&quot;</tspan><tspan
+       y="141.35504"
+       x="783.80762"
+       style="fill:#888a85"
+       id="tspan6180">or</tspan><tspan
+       y="151.35504"
+       x="783.80762"
+       style="fill:#888a85"
+       id="tspan6178">&quot;cards.USB-Audio.pcm.iec958:2,0&quot;</tspan></text>
+</svg>

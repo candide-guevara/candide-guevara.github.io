@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="192.03999mm"
+   height="154.3026mm"
+   viewBox="0 0 680.45667 546.74148"
+   id="svg2"
+   version="1.1">
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="TriangleInL"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill:#505050;fill-opacity:1;fill-rule:evenodd;stroke:#505050;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path7467" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path7352" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6723"
+       style="overflow:visible">
+      <path
+         id="path6725"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4420" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4423" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-7"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-7-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-6-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInL-8"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill:#505050;fill-opacity:1;fill-rule:evenodd;stroke:#505050;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path7467-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInL-0"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill:#505050;fill-opacity:1;fill-rule:evenodd;stroke:#505050;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path7467-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInL-6"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill:#505050;fill-opacity:1;fill-rule:evenodd;stroke:#505050;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path7467-0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(92.287476,163.28848)"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-10.89000034px;word-spacing:16.94000053px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="276.0585"
+       y="-10.962657"
+       id="text4450"><tspan
+         id="tspan4452"
+         x="276.0585"
+         y="-10.962657" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-10.89000034px;word-spacing:16.94000053px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="361.77161"
+       y="20.947851"
+       id="text4482"><tspan
+         id="tspan4484"
+         x="361.77161"
+         y="20.947851" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-10.89000034px;word-spacing:16.94000053px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="612.60303"
+       y="108.88728"
+       id="text4605"><tspan
+         id="tspan4607"
+         x="612.60303"
+         y="108.88728" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-10.89000034px;word-spacing:16.94000053px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="580.6925"
+       y="222.05826"
+       id="text4639"><tspan
+         id="tspan4641"
+         x="580.6925"
+         y="222.05826" /></text>
+    <g
+       id="g7229">
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#3465a4;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 79.485043,-162.73142 173.620407,0 0,41.97004 -173.620407,0 z"
+         id="rect3336-2-6-1" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 79.225841,-112.95271 173.620409,0 0,41.970037 -173.620409,0 z"
+         id="rect3336-2-6-1-6" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 78.244332,-13.170497 343.093818,0 0,56.496326 -343.093818,0 z"
+         id="rect3336-2-6-1-5" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="106.93552"
+         y="-138.99791"
+         id="text13206-5"><tspan
+           id="tspan4423">KDE Application</tspan><tspan
+           id="tspan4425">(ex: Amarok)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="315.86731"
+         y="-137.64413"
+         id="text13206-5-4"><tspan
+           id="tspan4425-0"
+           x="315.86731"
+           y="-137.64413">VLC player</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="111.63307"
+         y="-45.956287"
+         id="text13206-5-2"><tspan
+           id="tspan4425-1"
+           x="111.63307"
+           y="-45.956287">Gstreamer</tspan><tspan
+           id="tspan4480"
+           x="111.63307"
+           y="-35.956287">Decodes audio formats</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="85.459579"
+         y="-96.09494"
+         id="text13206-5-9"><tspan
+           id="tspan4425-2"
+           x="85.459579"
+           y="-96.09494">Phonon</tspan><tspan
+           id="tspan4478"
+           x="85.459579"
+           y="-86.09494">Abstraction layer over audio streams</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="304.9855"
+         y="-93.983994"
+         id="text13206-5-7"><tspan
+           id="tspan4425-11"
+           x="304.9855"
+           y="-93.983994">libav/ffmpeg</tspan><tspan
+           id="tspan4498"
+           x="304.9855"
+           y="-83.983994">codec libraries</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="157.83583"
+         y="6.2575498"
+         id="text13206-5-90"><tspan
+           id="tspan4425-6"
+           x="157.83583"
+           y="6.2575498">Pulse audio daemon</tspan><tspan
+           id="tspan4512"
+           x="157.83583"
+           y="16.257549">Mixes audio from all desktop apps</tspan><tspan
+           id="tspan4514"
+           x="157.83583"
+           y="26.257545">Also a good place to set resampling configs</tspan></text>
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#3465a4;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 262.62443,-162.73848 157.01894,0 0,41.97004 -157.01894,0 z"
+         id="rect3336-2-6-1-2" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 262.62443,-112.93405 157.71066,0 0,90.39101 -157.71066,0 z"
+         id="rect3336-2-6-1-6-6" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 79.316457,-63.82135 173.620403,0 0,41.970037 -173.620403,0 z"
+         id="rect3336-2-6-1-6-4" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#505050;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 88.30892,295.87732 157.01894,0 0,41.97004 -157.01894,0 z"
+         id="rect3336-2-6-1-2-0" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#505050;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 257.0906,295.87732 157.01894,0 0,41.97004 -157.01894,0 z"
+         id="rect3336-2-6-1-2-0-9" />
+    </g>
+    <g
+       transform="translate(7.6090103,0)"
+       id="g7193">
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -10.629211,52.680207 166.011401,0 0,89.353423 -166.011401,0 z"
+         id="rect3336-2-6-1-1" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -10.763809,52.538811 502.191339,0 0,183.287659 -502.191339,0 z"
+         id="rect3336-2-6-1-7" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="130.87505"
+         y="160.52641"
+         id="text13206-5-74"><tspan
+           id="tspan4425-64"
+           x="130.87505"
+           y="160.52641">ALSA</tspan><tspan
+           id="tspan4528"
+           x="130.87505"
+           y="170.52641">The kernel interface for audio</tspan><tspan
+           id="tspan4530"
+           x="130.87505"
+           y="180.52641">The glue between drivers and user space</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-3.8752332"
+         y="66.921097"
+         id="text13206-5-748"><tspan
+           id="tspan4425-8"
+           x="-3.8752332"
+           y="66.921097">PCM interface</tspan><tspan
+           id="tspan4544"
+           x="-3.8752332"
+           y="76.921089">Transfer audio sample stream from</tspan><tspan
+           id="tspan4546"
+           x="-3.8752332"
+           y="86.921089">user space to hardware buffers</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="159.47523"
+         y="106.41505"
+         id="text13206-5-26"><tspan
+           y="106.41505"
+           x="159.47523"
+           id="tspan7110">CTL interface</tspan><tspan
+           y="116.41505"
+           x="159.47523"
+           id="tspan7112">Logical view of hardware controls</tspan><tspan
+           y="126.41505"
+           x="159.47523"
+           id="tspan7114">(channel mapping, hardware mixing, </tspan><tspan
+           y="136.41504"
+           x="159.47523"
+           id="tspan7116">3D spatializer processsing ...)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="159.72121"
+         y="64.977257"
+         id="text13206-5-7-4"><tspan
+           y="64.977257"
+           x="159.72121"
+           id="tspan7102">Mixer interface </tspan><tspan
+           y="74.977257"
+           x="159.72121"
+           id="tspan7104">subset of the CTL interface </tspan><tspan
+           y="84.977257"
+           x="159.72121"
+           id="tspan7106">handling volume</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="373.55521"
+         y="67.199203"
+         id="text13206-5-7-8"><tspan
+           id="tspan4498-6"
+           x="373.55521"
+           y="67.199203">Other interfaces</tspan><tspan
+           id="tspan4603"
+           x="373.55521"
+           y="77.199203">Timers, MIDI sequencers ...</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.768955"
+         y="204.96057"
+         id="text13206-5-7-0"><tspan
+           id="tspan4498-0"
+           x="44.768955"
+           y="204.96057">snd_hda_core</tspan><tspan
+           id="tspan4623"
+           x="44.768955"
+           y="214.96057">Kernel module for mother board</tspan><tspan
+           id="tspan4621"
+           x="44.768955"
+           y="224.96059">integrated chipset</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="294.77826"
+         y="209.87259"
+         id="text13206-5-7-1"><tspan
+           id="tspan4498-1"
+           x="294.77826"
+           y="209.87259">snd_usb_audio</tspan><tspan
+           id="tspan4637"
+           x="294.77826"
+           y="219.87259">Kernel module for external cards</tspan></text>
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 155.25282,52.600774 124.16183,0 0,40.240722 -124.16183,0 z"
+         id="rect3336-2-6-1-1-5" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 369.66938,52.561928 121.74078,0 0,89.326222 -121.74078,0 z"
+         id="rect3336-2-6-1-1-5-2" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 155.23364,52.561927 214.25942,0 0,89.526363 -214.25942,0 z"
+         id="rect3336-2-6-1-1-5-0" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -10.751472,190.27518 252.168772,0 0,45.77454 -252.168772,0 z"
+         id="rect3336-2-6-1-1-2" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 241.5081,190.21583 249.74771,0 0,45.77454 -249.74771,0 z"
+         id="rect3336-2-6-1-1-2-9" />
+    </g>
+    <g
+       id="g7667">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#505050;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:6.60000018, 2.20000005;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect13239"
+         width="342.13782"
+         height="100.161"
+         x="78.548874"
+         y="246.34377" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="84.3564"
+         y="258.89859"
+         id="text13206-5-7-3"><tspan
+           id="tspan4498-7"
+           x="84.3564"
+           y="258.89859">Hardware</tspan><tspan
+           id="tspan4655"
+           x="84.3564"
+           y="268.89859">Each card may present multiple inputs/outputs</tspan><tspan
+           id="tspan4657"
+           x="84.3564"
+           y="278.89859">(digital out, mic in, headphone jack, surround ...)</tspan></text>
+      <text
+         transform="translate(7.60901,0)"
+         id="text13206-5-7-8-9"
+         y="319.32895"
+         x="103.58488"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan7306"
+           x="103.58488"
+           y="319.32895">Integrated audio chipset</tspan></text>
+      <text
+         transform="translate(7.60901,0)"
+         id="text13206-5-7-8-9-1"
+         y="320.1517"
+         x="288.25613"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan7326"
+           x="288.25613"
+           y="320.1517">External amplifier</tspan></text>
+      <text
+         transform="translate(7.60901,0)"
+         id="text13206-5-7-8-9-1-7"
+         y="381.05066"
+         x="107.12138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan7326-5"
+           x="107.12138"
+           y="381.05066">In/Out (analog stereo out, digital out, mic in, ....)</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#505050;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL)"
+         d="m 110.7884,365.60386 0,-28.40537"
+         id="path7328" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#505050;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-8)"
+         d="m 152.98383,365.79796 0,-28.40536"
+         id="path7328-6" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#505050;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-0)"
+         d="m 197.94616,365.79796 0,-28.40536"
+         id="path7328-67" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#505050;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-6)"
+         d="m 316.23169,365.79796 0,-28.40536"
+         id="path7328-9" />
+    </g>
+  </g>
+</svg>

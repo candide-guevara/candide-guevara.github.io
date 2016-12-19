@@ -2,7 +2,7 @@
 layout: post
 title: Monkey driving test
 categories : [fun, monkey]
-css_custom: monkey_driving
+css_custom: inline_big_images
 ---
 
 Some years ago I passed the French motorbike license.
