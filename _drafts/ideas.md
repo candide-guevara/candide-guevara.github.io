@@ -1,16 +1,23 @@
+---
+layout: post
+title: Misc ideas
+categories : [article, misc]
+---
+
+## Random ideas
+
  - Taxes are like a payload in the OSI layer
  - logs are like chocolates, eat too much of it and you will get sick
  - processor discovering peripheral mappings is like socializing in a party
  - in house middleware is like soft porn, all those layers hide the real deal in a perverse way
  - Bored at work ? Imagine your are a code monkey in a big banana company
- - Containers Vs Virtual Machines
- [1]: http://stackoverflow.com/questions/16047306/how-is-docker-io-different-from-a-normal-virtual-machine
+ - [Containers Vs Virtual Machines][1]
  
- ## Nice oracle features
+## Nice oracle features
  * SIMILAR - same function as LIKE but with POSIX regular expressions
  * DATALINK - SQL/MED extension, allows o access data not managed by the DB. Can even be used to access other DB tables in SQL queries
 
- ## SQL 2003 types
+## SQL 2003 types
 
  {:.my-table}
  | Type            | Usage                                                                                                           |
@@ -26,5 +33,35 @@
 
 dart devil => I cannot win without a proper browser implementation
 Dizarro => Not a bad guy, just nobody cares about him. Go and travel the universe, maybe someday in a distant star you will find a user base
-Once again evil's uptime has been short thanks to the mighty deeds of super ...
+
+## .NET framework
+
+* What does it include ?
+* Implementing web services
+* Command line tools
+
+## C++ pod and aggregate types
+
+* different type of objects and their initialization
+
+## Set types taxonomy
+
+* Groups
+* Rings
+* Algebras
+
+## Working with SQL server
+
+* Develpment experience
+* Scalability
+* Integration packages
+* C# user defined functions
+
+## Python internals
+
+* How to use C api to have your own types
+* Class and object [instanciation][2]
+
+[1]: http://stackoverflow.com/questions/16047306/how-is-docker-io-different-from-a-normal-virtual-machine
+[2]: https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/
 
