@@ -18,7 +18,7 @@ Let's start with the most important criteria, **the snow**.
 Apart from [Saas-Fee][1] with many slopes in the shade, snow melts away pretty fast on hot weeks. Nothing new compared to the rest of Europe.
 The problem in Switzerland is the artifical snow facilities. Even big resorts like [Arosa Lenzerheide][2] have not invested enough.
 The majority uses mobile snow canons that are parked away most of the time. So the slopes that see a lot of trafic at the bottom
-of the station get rocky pretty quickly.
+of the station get rocky pretty quickly. As a side note, I must say that [Davos-Klosters][13] is a fine exception to the cheap-snow-canon rule.
 
 The rides lack diversity, in many places there is no ungroomed or mogul slopes, no jump or trick parks. 
 I cannot comment on off-piste because I do not know the resorts well-enough to know the good trails.
@@ -57,7 +57,7 @@ Even from the very start, you struggle to find the trail map on their web site.
 ### Design/Convinience
 
 The time you spend going down the slopes is but a fraction of the time you need to go up. This is why "debrayable" chairlifts were invented.
-But in [Andermatt][9] someone had the great idea of connecting the 2 halves of the station by train. 
+But in [Andermatt-Sedrun][9] someone had the great idea of connecting the 2 halves of the station by train. 
 Furthermore, it only passes every hour and the train stop is several minutes by foot from the slopes (face palm).
 
 Other places like [Valbella][2] adopt a more sensible approach by providing free buses. However, they stop the service just after 17h. 
@@ -103,4 +103,5 @@ The snow may be white in Switzerland, but people's heart is black as dark chocol
 [10]: http://live.laax.com/?page=slopes
 [11]: http://www.risoul.com/plan-des-pistes-hiver.html
 [12]: http://winter.isola2000.com/ski-area
+[13]: http://www.davos.ch/en/winter/mountains/
 

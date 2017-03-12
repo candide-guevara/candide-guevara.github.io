@@ -59,6 +59,7 @@ Dizarro => Not a bad guy, just nobody cares about him. Go and travel the univers
 
 ## Python internals
 
+* Descriptor protocol
 * How to use C api to have your own types
 * Class and object [instanciation][2]
 
