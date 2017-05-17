@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Switzerland, worst place for skiers
+title: Switzerland, a good place for skiers ?
 categories : [fun, rant]
 ---
 
