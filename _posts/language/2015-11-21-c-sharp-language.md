@@ -9,7 +9,7 @@ However after some days I started to appreciate the design of some APIs and the 
 
 ## Nice things
 
-Some nice syntactic sugar introduced way before it got to other mainstream languages like C++ or Java. All of the following were available since C# 3.0 in 2008.
+Some nice syntactic sugar introduced way before it got to other mainstream languages like C++ or Java.
 
 * Type deduction using `var`
 * RAII with `using(resource) {}` blocks
@@ -78,6 +78,52 @@ Some nice syntactic sugar introduced way before it got to other mainstream langu
       Console.WriteLine(output);
   }
 {% endhighlight %}
+* Runtime duck typing with `dynamic`
+{% highlight c# %}
+  public class Duck1 {
+      public void quack () { Console.WriteLine(this.GetType()); }
+  }
+
+  public class Duck2 {
+      public void quack () { Console.WriteLine(this.GetType()); }
+  }
+
+  public class Goose {
+      public void cackle () { Console.WriteLine(this.GetType()); }
+  }
+            
+  public static class Program
+  {
+      // You cannot define a compile time template parameter constraint like 'T is newable and has a quack() method'
+      public static void riseAndQuack<T> () where T:new()  {
+          // dynamic defers the binding of quack() to runtime using reflection
+          dynamic duck = new T();
+          duck.quack();
+      }
+      
+      public static void Main() {   
+          riseAndQuack<Duck1>();
+          riseAndQuack<Duck2>();
+          // RuntimeBinderException: 'Goose' does not contain a definition for 'quack'
+          // riseAndQuack<Goose>();
+      }
+  }
+{% endhighlight %}
+* Yield methods to create iterators (python got it in 2002 and C# in 2006)
+{% highlight c# %}
+public class Banana {}
+
+public static IEnumerable<Banana> hoard () {
+  // Infinite banana stock !
+  while (true)
+    yield return new Banana();
+}
+
+public static void Main() {
+  foreach(var b in hoard())
+    Console.WriteLine("Got banana !");
+}
+{% endhighlight %}
 
 ### More recent features follow the global trend
 
@@ -88,9 +134,9 @@ Some nice syntactic sugar introduced way before it got to other mainstream langu
       do_some_work();
       string result = await response; // yield control at this point to caller
       return result.Trim(); <--------------------|------+
-  }                                            |      |
-                                               |      |
-  public static void Main() {                  |      |
+  }                                              |      |
+                                                 |      |
+  public static void Main() {                    |      |
       var wsResult = ProcessWSCallAsync();       |      |
       do_other_piece_of_work(); <----------------+      |
       var actualResult = wsResult.Result; // Waits and return control to callee

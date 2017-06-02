@@ -9,7 +9,7 @@ So much nice stuff out there and just a few years before I kick the bucket !
 ## Conferences to follow
 
 * C++ : [C++ and Beyond][1],[CppCon][2] and [slides][17], [CppConPres][14]
-* General : [Goto][3], [Devdays][4], [DevOxx][5], [Oscon][15], [CCCen][18]
+* General : [Goto][3], [Devdays][4], [DevOxx][5], [Oscon][15], [CCCen][18], [NDC][36]
 * Cloud : [ApacheCon][6], [CloudConf][7], [Mesoscon][16]
 * Linux : [LinuxAustralia][8], [FOSDEM][9]
 * Python : [PyCon][14]
@@ -82,4 +82,5 @@ So much nice stuff out there and just a few years before I kick the bucket !
 [33]: https://www.youtube.com/playlist?list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib
 [34]: https://www.youtube.com/playlist?list=PLUl4u3cNGP63d33STUUBfZUpzFCVR5-PV
 [35]: https://www.youtube.com/playlist?list=PLUl4u3cNGP62xuxL4CQpy8uo2MeM4a3YD
+[36]: https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q
 

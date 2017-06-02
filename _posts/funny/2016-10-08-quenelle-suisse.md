@@ -17,7 +17,7 @@ Voici quelques unes de mes mésaventures. Bon j'avoue ce n'est rien de grave, ma
 * Vous payez 6000chf/an pour votre assurance maladie mais en cas de gros soucis on vous demandera jusqu'à 3000chf supplémentaires.
 * Votre contrat d'assurance maladie est divisé en 2 parties avec des conditions de résiliation différentes. Quand on vous annonce la prime pour l'année suivante, 10% de plus biensûr,
   il est déjà trop tard pour résilier l'intégralité du contrat.
-* Lors des fêtes d'autonne on aura la gentillese de vous faire goûter à la piquette du pays pour 5chf les 10cl.
+* Lors des fêtes d'autonne on aura la gentillese de vous faire goûter à la piquette du pays pour 5chf les 10cl(\*).
 * Quand vous allez voir votre mairie pour avoir une attestation de résidence dans la commune on va vous sucrer 25chf.
 * Trouvez un parking gratuit pour la journée relève du miracle, même dans un village à Perpète-les-Oies. Et bonjour les 45chf pour garer sa caisse la journée à Lugano.
   * Envie d'air frais et de beaux paysages ? Valle Verzasca serait l'endroit idéal mais presque tous les parkings sont payants ! Même les aires entre les villages ont leur lot de parcmètres
@@ -36,4 +36,8 @@ Vive la France, un pays où l'on peut toujours compter sur les villages de vigne
 Un pays où les voleurs sont toujours à l'affût pour piquer votre moto, mais surtout un pays où les institutions sont bien moins intéressées à agrandir la taille de votre rondelle.
 
 Après ils payent un truc de ouf ces cons ...
+
+----------------------------
+
+\* Pour être tout à fait juste, lors des caves ouvertes au printemps, on peux bien se mettre rond comme une barrique pour pas bien cher
 
