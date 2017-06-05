@@ -27,9 +27,9 @@
      inkscape:window-height="1019"
      id="namedview4318"
      showgrid="false"
-     inkscape:zoom="2.6908619"
+     inkscape:zoom="2.695037"
      inkscape:cx="239.51433"
-     inkscape:cy="157.13685"
+     inkscape:cy="142.29475"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -165,7 +165,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -338,14 +338,15 @@
      id="text13206"
      y="25.074516"
      x="374.03903"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     xml:space="preserve"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
+     sodipodi:linespacing="110%"><tspan
        id="tspan4640"
-       style="fill:#000000;"
+       style="line-height:110.00000238%;letter-spacing:-0.15000001px;fill:#000000"
        x="374.03903"
        y="25.074516">Manual underline</tspan><tspan
        id="tspan4642"
-       style="fill:#000000;"
+       style="line-height:110.00000238%;letter-spacing:-0.15000001px;fill:#000000"
        x="374.03903"
        y="35.074516">Enough space for it ?</tspan></text>
   <path
@@ -356,18 +357,19 @@
      id="text34867"
      y="60.730095"
      x="367.65973"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     xml:space="preserve"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
+     sodipodi:linespacing="110%"><tspan
        id="tspan4644"
-       style="fill:#000000;"
+       style="line-height:110.00000238%;letter-spacing:-0.15000001px;fill:#000000"
        x="367.65973"
        y="60.730095">lea 8(%edx), %ecx</tspan><tspan
        id="tspan4646"
-       style="fill:#000000;"
+       style="line-height:110.00000238%;letter-spacing:-0.15000001px;fill:#000000"
        x="367.65973"
        y="70.730095">mov %eax, 8(%edx)</tspan><tspan
        id="tspan4648"
-       style="fill:#000000;"
+       style="line-height:110.00000238%;letter-spacing:-0.15000001px;fill:#000000"
        x="367.65973"
        y="80.730095">mov (%ecx), %ebx</tspan></text>
   <path

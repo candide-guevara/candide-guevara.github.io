@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="284.06335mm"
+   height="149.28339mm"
+   viewBox="0 0 1006.5237 528.95685"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Cpp_Class_Topology.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     id="namedview42"
+     showgrid="false"
+     inkscape:zoom="1.2826325"
+     inkscape:cx="503.26185"
+     inkscape:cy="264.47844"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4725"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4511"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#edd400;fill-opacity:1;fill-rule:evenodd;stroke:#edd400;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4471"
+         style="fill:#be9600;fill-opacity:1;fill-rule:evenodd;stroke:#be9600;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4507"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4510"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4788"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4449"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4455"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6723"
+       style="overflow:visible">
+      <path
+         id="path6725"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4420"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4423"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-7"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2-7-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.4,-0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556-3-6-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4565-37"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4725-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4511-1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#81537e;fill-opacity:1;fill-rule:evenodd;stroke:#81537e;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4725-0-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4511-1-1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4725-0-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4511-1-7"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4725-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4511-9"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ff7d00;fill-opacity:1;fill-rule:evenodd;stroke:#ff7d00;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 487.60856,177.23926 A 134.53958,124.15486 0 0 0 427.58512,280.50879 134.53958,124.15486 0 0 0 497.69254,389.49707 343.63974,107.84714 0 0 0 661.24332,364.23926 134.53958,124.15486 0 0 0 696.6652,280.50879 134.53958,124.15486 0 0 0 668.96598,205.2041 343.63974,107.84714 0 0 0 487.60856,177.23926 Z"
+     id="path4142-9-5-2-8" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#3465a4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 4;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 623.14819,15.22329 0.77346,500.48873"
+     id="path6715-1-5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <ellipse
+     ry="180.34492"
+     rx="248.5661"
+     cy="239.48264"
+     cx="291.78247"
+     id="path4142-9-5"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#3465a4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 4;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 836.23647,74.149401 0.77346,383.696239"
+     id="path6715-1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <ellipse
+     ry="258.0036"
+     rx="498.71854"
+     cy="266.40997"
+     cx="503.26184"
+     id="path4142"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#204a87;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <ellipse
+     ry="176.39117"
+     rx="216.40248"
+     cy="244.59659"
+     cx="618.89728"
+     id="path4142-9"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#81537e;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="619.42059"
+     y="339.63724"
+     id="text13206-3-1"
+     sodipodi:linespacing="110%" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="708.36847"
+     y="292.45618"
+     id="text13206-3-0"
+     sodipodi:linespacing="110%" />
+  <text
+     id="text4392"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="708.36847"
+     y="292.45618"
+     sodipodi:linespacing="110%" />
+  <text
+     id="text13206"
+     y="26.983559"
+     x="437.19357"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#204a87;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
+     sodipodi:linespacing="110%"><tspan
+       sodipodi:role="line"
+       id="tspan4329"
+       x="437.19357"
+       y="26.983559"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Space of ALL C++ classes</tspan></text>
+  <text
+     id="text13206-5"
+     y="492.4505"
+     x="438.82849"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#204a87;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
+     sodipodi:linespacing="110%"><tspan
+       y="492.4505"
+       x="438.82849"
+       sodipodi:role="line"
+       id="tspan4354"
+       style="font-weight:bold">Classes with virtual methods</tspan><tspan
+       y="503.4505"
+       x="438.82849"
+       sodipodi:role="line"
+       id="tspan5107">(Pointer member to virtual table)</tspan></text>
+  <text
+     id="text13206-52"
+     y="110.45158"
+     x="145.75566"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a40000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
+     sodipodi:linespacing="110%"><tspan
+       sodipodi:role="line"
+       x="145.75566"
+       y="110.45158"
+       id="tspan5089"
+       style="font-weight:bold">Aggregate classes</tspan><tspan
+       sodipodi:role="line"
+       x="145.75566"
+       y="121.45159"
+       id="tspan5091"> - Only public members</tspan><tspan
+       sodipodi:role="line"
+       x="145.75566"
+       y="132.45158"
+       id="tspan4202"> - No user provided constructors</tspan></text>
+  <text
+     id="text13206-52-8"
+     y="102.1581"
+     x="510.37582"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#663e70;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
+     sodipodi:linespacing="110%"><tspan
+       sodipodi:role="line"
+       x="510.37582"
+       y="102.1581"
+       id="tspan5097"
+       style="font-weight:bold">Trivially copyable</tspan><tspan
+       sodipodi:role="line"
+       x="510.37582"
+       y="113.1581"
+       id="tspan4345"> - Members and bases are recursively trivially copyable</tspan><tspan
+       sodipodi:role="line"
+       x="510.37582"
+       y="124.1581"
+       id="tspan4347"> - No user defined copy/move constructor</tspan><tspan
+       sodipodi:role="line"
+       x="510.37582"
+       y="135.1581"
+       id="tspan4349"> - No user defined copy/move assignment</tspan><tspan
+       sodipodi:role="line"
+       x="510.37582"
+       y="146.1581"
+       id="tspan4351"> - No user defined destructor</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#3465a4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 4;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 899.69021,421.70661 -792.85668,0.77346"
+     id="path6715-1-4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <text
+     id="text13206-5-2"
+     y="62.274914"
+     x="705.17468"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#204a87;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
+     sodipodi:linespacing="110%"><tspan
+       y="62.274914"
+       x="705.17468"
+       sodipodi:role="line"
+       id="tspan4278"
+       style="font-weight:bold">Classes with</tspan><tspan
+       y="73.274918"
+       x="705.17468"
+       sodipodi:role="line"
+       id="tspan4303"
+       style="font-weight:bold">inheritance</tspan></text>
+  <text
+     id="text13206-5-2-6"
+     y="159.7141"
+     x="852.04443"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#204a87;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
+     sodipodi:linespacing="110%"><tspan
+       y="159.7141"
+       x="852.04443"
+       sodipodi:role="line"
+       id="tspan4278-2"
+       style="font-weight:bold">Classes with</tspan><tspan
+       y="170.7141"
+       x="852.04443"
+       sodipodi:role="line"
+       id="tspan4307"
+       style="font-weight:bold">VIRTUAL inheritance</tspan></text>
+  <text
+     id="text13206-52-8-7"
+     y="268.94412"
+     x="108.48313"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#007d00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
+     sodipodi:linespacing="110%"><tspan
+       sodipodi:role="line"
+       id="tspan4329-9-8-8"
+       x="108.48313"
+       y="268.94412"
+       style="font-weight:bold">Standard layout classes</tspan><tspan
+       sodipodi:role="line"
+       x="108.48313"
+       y="279.94412"
+       id="tspan5093-9"> - Member and bases are std layout recursively</tspan><tspan
+       sodipodi:role="line"
+       x="108.48313"
+       y="290.94412"
+       id="tspan5095-1"> - All members are all either public or private</tspan><tspan
+       sodipodi:role="line"
+       x="108.48313"
+       y="301.94412"
+       id="tspan5097-5"> - Only one class in the inheritance tree can have members</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';text-align:start;letter-spacing:-41.25px;word-spacing:16.94000053px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="666.07526"
+     y="303.75394"
+     id="text4353"
+     sodipodi:linespacing="100%"><tspan
+       sodipodi:role="line"
+       id="tspan4355"
+       x="666.07526"
+       y="303.75394" /></text>
+  <text
+     id="text13206-52-8-7-1"
+     y="11.140933"
+     x="783.7876"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#663e70;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
+     sodipodi:linespacing="110%"><tspan
+       sodipodi:role="line"
+       x="783.7876"
+       y="11.140933"
+       id="tspan5097-5-7"
+       style="font-weight:bold">Trivial</tspan><tspan
+       sodipodi:role="line"
+       x="783.7876"
+       y="22.140934"
+       id="tspan4393"> - Members and bases are trivial recursively</tspan><tspan
+       sodipodi:role="line"
+       x="783.7876"
+       y="33.140934"
+       id="tspan4399"> - Is trivially copyable</tspan><tspan
+       sodipodi:role="line"
+       x="783.7876"
+       y="44.140934"
+       id="tspan4395"> - No user defined or deleted default constructor</tspan><tspan
+       sodipodi:role="line"
+       x="783.7876"
+       y="55.140934"
+       id="tspan4397" /></text>
+  <ellipse
+     ry="107.84714"
+     rx="343.63974"
+     cy="284.13589"
+     cx="434.03717"
+     id="path4142-9-5-2"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#007d00;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text13206-52-3"
+     y="280.56091"
+     x="448.75333"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#505050;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
+     sodipodi:linespacing="110%"><tspan
+       sodipodi:role="line"
+       x="448.75333"
+       y="280.56091"
+       id="tspan5103"
+       style="font-weight:bold;fill:#505050">Plain old data</tspan><tspan
+       sodipodi:role="line"
+       x="448.75333"
+       y="291.56091"
+       id="tspan4442"> - Intersection of std layout and trivial</tspan></text>
+  <text
+     id="text13206-52-9"
+     y="480.38013"
+     x="818.98645"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#be9600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
+     sodipodi:linespacing="110%"><tspan
+       sodipodi:role="line"
+       id="tspan4329-9-3"
+       x="818.98645"
+       y="480.38013"
+       style="font-weight:bold">Regular classes</tspan><tspan
+       sodipodi:role="line"
+       x="818.98645"
+       y="491.38013"
+       id="tspan5083"> - Default, copy and move constructible</tspan><tspan
+       sodipodi:role="line"
+       x="818.98645"
+       y="502.38013"
+       id="tspan5085"> - Copy and move assignable</tspan><tspan
+       sodipodi:role="line"
+       x="818.98645"
+       y="513.38013"
+       id="tspan5087"> - Equality comparable</tspan></text>
+  <path
+     style="fill:#edd400;fill-rule:evenodd;stroke:#edd400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4725)"
+     d="m 816.77394,477.90849 -77.34602,-34.8057"
+     id="path4444"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#edd400;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4708"
+     cx="561.14539"
+     cy="403.65631"
+     rx="348.44382"
+     ry="45.634148" />
+  <path
+     style="fill:#81537e;fill-rule:evenodd;stroke:#81537e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4725-0)"
+     d="M 839.24439,46.591461 696.29688,279.2545"
+     id="path4444-7"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <ellipse
+     ry="124.15486"
+     rx="134.53958"
+     cy="281.02927"
+     cx="562.51495"
+     id="path4142-9-4"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#81537e;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4725-0-1)"
+     d="M 141.31792,488.50608 466.93798,363.31135"
+     id="path4444-7-7"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <text
+     id="text13206-52-1"
+     y="488.58902"
+     x="12.440676"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
+     sodipodi:linespacing="110%"><tspan
+       sodipodi:role="line"
+       x="12.440676"
+       y="488.58902"
+       id="tspan4202-9"
+       style="font-weight:bold">You can have it ALL</tspan><tspan
+       sodipodi:role="line"
+       x="12.440676"
+       y="499.58902"
+       id="tspan4285">The intersection of POD, Aggregate, Regular, Literal</tspan><tspan
+       sodipodi:role="line"
+       x="12.440676"
+       y="510.58902"
+       id="tspan4287">is NOT empty</tspan></text>
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#ff7d00;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4708-9"
+     cx="547.70166"
+     cy="400.42413"
+     rx="317.64777"
+     ry="69.694176" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ff7d00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4725-2)"
+     d="M 204.13897,24.680707 265.8284,24.637417 406.27665,338.13862"
+     id="path4444-9"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc" />
+  <text
+     id="text13206-52-9-6"
+     y="16.080715"
+     x="8.8367834"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.15000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ce5c00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     xml:space="preserve"
+     sodipodi:linespacing="110%"><tspan
+       sodipodi:role="line"
+       id="tspan4329-9-3-0"
+       x="8.8367834"
+       y="16.080715"
+       style="font-weight:bold;fill:#ce5c00;">Literal classes</tspan><tspan
+       sodipodi:role="line"
+       x="8.8367834"
+       y="27.080715"
+       id="tspan5083-2"> - Aggregate with no user defined destructor</tspan><tspan
+       sodipodi:role="line"
+       x="8.8367834"
+       y="38.080715"
+       id="tspan5085-7">  OR</tspan><tspan
+       sodipodi:role="line"
+       x="8.8367834"
+       y="49.080715"
+       id="tspan5087-6"> - One constexpr constructor </tspan><tspan
+       sodipodi:role="line"
+       x="8.8367834"
+       y="60.080715"
+       id="tspan4358">   (excluding copy/move constructors)</tspan><tspan
+       sodipodi:role="line"
+       x="8.8367834"
+       y="71.080719"
+       id="tspan4352"> AND</tspan><tspan
+       sodipodi:role="line"
+       x="8.8367834"
+       y="82.080719"
+       id="tspan4356"> - All members/bases are literal</tspan></text>
+</svg>
