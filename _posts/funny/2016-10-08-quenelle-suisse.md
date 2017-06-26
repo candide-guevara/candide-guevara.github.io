@@ -10,6 +10,7 @@ Après avoir vécu plusieures années ici, j'ai bien compris qu'il faut toujours
 Voici quelques unes de mes mésaventures. Bon j'avoue ce n'est rien de grave, mais c'est quand même tellement agaçant.
 
 * Quand vous avez donné trop d'argent au fisc (ou plutôt fist), ils vous remboursent bien sûr, mais ils prennent la bagatelle de 15chf sous forme de frais de remboursement.
+  * S'il se trouve que vous avez trop payé d'impôts fédéraux et locaux on vous ponctionnera 2 deux fois, évidemment.
 * Les conditions de résiliation de contrat de location sont vraiment draconiennes. Si vous avez de la "chance" vous pouvez le faire à 2 moments bien précis chaque année.
 * Quand vous résiliez votre contrat d'assurance, on refusera de vous rembourser au prorata si la somme est inférieure a 10chf.
 * Votre assureur vous propose gentillement de payer un prime supplémentaire en cas de faute grave. 

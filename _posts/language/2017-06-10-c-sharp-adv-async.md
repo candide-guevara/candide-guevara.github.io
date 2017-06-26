@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advanced C# aync features
-categories : [article, windows]
+categories : [article, csharp]
 css_custom: inline_images
 ---
 
