@@ -296,6 +296,37 @@ No surprise here, most of the things I dislike were just taken from C++
       k1.doit();
   }
 {% endhighlight %}
+* Awkward (but safe) rules for user defined structs. You are guaranteed that all members will be initialized and that the value will always reside on the stack.
+{% highlight c# %}
+  public struct Point {
+      public int x ,y;
+
+      // Value types can have non-default user defined constructors
+      public Point(int _x, _y) { x = _x; y = _y; }
+
+      // Compilation failure : compiler needs to instantiate all members
+      public Point(int arg) { x = arg; }
+
+      // Compilation failure : value types cannot have user defined default constructors
+      public Point()  { ... }
+  }
+  public static Main() {
+      // Constructs object but its members are uninitialized
+      Point p1;
+      // calls default constructor that initializes all members to default value (x=0, y=0)
+      // IMPORTANT : even using new, the object is still created on the stack (a value object is always copied)
+      var p2 = new Point();
+      // Compilation failure : can only call a user defined constructor using new (no funny C++ syntax)
+      Point p3(333, 666); // use var p3 = new Point(333, 666);
+
+      //Compilation failure : cannot use p1 until all of its members have been initialized
+      Console.WriteLine("p1 coords = {0}, {1}", p1.x, p1.x);
+
+      p1.x = 1; p1.y = 2;
+      // Now it is valid to access the object
+      Console.WriteLine("p1 coords = {0}, {1}", p1.x, p1.x);
+  }
+{% endhighlight %}
 
 [0]: http://docs.oracle.com/javase/tutorial/extra/generics/subtype.html
 
