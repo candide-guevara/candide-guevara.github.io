@@ -14,11 +14,11 @@ Pour ce nouvelle achat je compte rester dans la catégorie "moyen trail routier"
 |----------------------------|-----------------------|--------------------------|
 | Poids resenti              | Important : lourde à bouger manuellement | pas de problème |
 | Suspension                 | La fourche plonge au moindre freinage.<br/>Tendance à sauter si l'on passe vite sur des routes bien ondulées. | Fourche tient bien le freinage |
-| Réglage amortisseurs       | Précontrainte et détente | Précontrainte et détente |
+| Réglage amortisseurs       | Précontrainte et détente | Précontrainte et détente (seulement sur une fourche), légère sensation de torsion de la fourche lors des freinages violents |
 | Répartition masse          | Haute : difficile à la retenir avec les jambes quand elle penche | ?? |
 | Stabilité en virage serré  | Sensation de flottement, impression de perte adhérence | un peu de flottement, mais inspire plus confiance |
 | Stabilité en virage ouvert | Bonne : elle colle bien au sol une fois sur trajectoire | colle bien au sol, facile à mettre en trajectoire |
-| Stabilité en ligne droite  | Pas besoin de tenir le guidon au-dessus de 40km/h | moins stable ? |
+| Stabilité en ligne droite  | Pas besoin de tenir le guidon au-dessus de 40km/h | stable sans tenir le guidon jusqu'à 30km/h |
 | Équilibre juste après arrêt| Délicat : je n'arrive pas encore à la maintenir<br/>en équilibre à l'arrêt pendant 1 seconde | ?? |
 | Agilité                    | Lente, on sent passer le temps<br/>lors des changements d'angle | plutôt légère |
 | Manoeuvres basse vitesse   | Bon rayon de braquage,<br/>inspire confiance quand on penche à faible allure | tendance à caler ? |
@@ -39,12 +39,12 @@ Pour ce nouvelle achat je compte rester dans la catégorie "moyen trail routier"
 | Position                   | Droite légèrement en avant | Jambes moins pliées et plus à l'arrière, meilleur prise du réservoir |
 | Consommation               | 6.5 litres / 100km | ?? |
 | Autonomie                  | Réservoir 21L (indicateur réserver 15L) => ~200km | Réservoir 18L à priori meilleure ?? |
-| Esthétique                 | Mono bras, jolis rayon roues | Moins sobre aver fourche inversée |
+| Esthétique                 | Mono bras, jolis rayon roues | Moins sobre avec fourche inversée |
 | Tableau de bord stylé      | Petit mais joli sur fond noir | Tristounet car tout gris, mais complet |
 | Après-vente                | ... | 3 ans garantie, pièces rechange 24h |
 | Espace sous la selle       | Peu, à peine suffisant pour ma chaîne | mauvais, chaîne ne rentre pas |
 | Petits trucs cool          | Appel de phare puissant,<br/>pleins de possibilités pour accrocher élastiques | position guidon ajustable, contacteur clef déporté,<br/>port diagnostique, prise 12V |
-| Trucs chiants              | clignotants s'éteignent automatiquement, accès difficile chaîne pour graissage,<br/>manette ajustement phares pas facile d'accès,<br/>commandes tableau de bord pas déportées sur le guidon,<br/>manettes chauffantes peu puissantes | plastiques guidon cheapos |
+| Trucs chiants              | clignotants s'éteignent automatiquement, accès difficile chaîne pour graissage,<br/>manette ajustement phares pas facile d'accès,<br/>commandes tableau de bord pas déportées sur le guidon,<br/>manettes chauffantes peu puissantes | plastiques guidon cheapos, tige des mirroirs trop courte, ajustement précharge arrière difficile |
 
 {:.my-table}
 | Critère/Modèle             | Versys 1000             |

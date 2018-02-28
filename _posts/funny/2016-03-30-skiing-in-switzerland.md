@@ -15,21 +15,28 @@ Of course, your experience depends on the type of skier you are. If you share th
 ## The Snow
 
 Let's start with the most important criteria, **the snow**.
-Apart from [Saas-Fee][1] with many slopes in the shade, snow melts away pretty fast on hot weeks. Nothing new compared to the rest of Europe.
+Apart from [Saas-Fee][1] with many slopes in the shade, snow melts away pretty fast on hot weeks (damn you global warming!). Nothing new compared to the rest of Europe.
 The problem in Switzerland is the artifical snow facilities. Even big resorts like [Arosa Lenzerheide][2] have not invested enough.
 The majority uses mobile snow canons that are parked away most of the time. So the slopes that see a lot of trafic at the bottom
-of the station get rocky pretty quickly. As a side note, I must say that [Davos-Klosters][13] is a fine exception to the cheap-snow-canon rule.
+of the station get rocky pretty quickly. Worst I have seen is in [St Moritz][14] where in the Corviglia sector there was not a single canon,
+I hope they were just accumulating dust in some parking ...
+
+As a side note, I must say that [Davos-Klosters][13] is a fine exception to the cheap-snow-canon rule.
 
 The rides lack diversity, in many places there is no ungroomed or mogul slopes, no jump or trick parks. 
-I cannot comment on off-piste because I do not know the resorts well-enough to know the good trails.
+Off-piste (for my humble level) is pretty decent though.
 
 ### Weather
 
 Nothing special to say here, except this little anecdote.
-When I visited [Saas-Fee][1], they closed 100% of the station for a whole day. The reason ? There was **too much powder** (it had being snowing all day).
+When I visited [Saas-Fee][1], they closed almost 100% of the station for a whole day. The reason ? There was **too much powder** (it had being snowing all day).
 Silly me, I always thought the problem was to have few snow ...
 Even in smaller villages like [Isola 2000][12], they will open at least a part of the trails while they are working on the rest, making sure it is safe.
 By the way, did I mention that Saas-Fee has a **no-reimburse policy** because of the weather ?
+
+Update: same thing happened at [Davos-Klosters][13], almost full closure during heavy snow. What is striking is that most slopes on the low part of the station
+ran through a forest. I am not an expert, but that should not present any avalanche risk.
+I guess the closure was mostly due to economical reasons (did I mention tey offered a 20% discount for a 10% open station ?)...
 
 ### Total slope distance and vertical drop
 
@@ -53,6 +60,8 @@ Beautiful but not very convinient as discussed below.
 
 I rarely felt welcome when visiting a Swiss ski station.
 Even from the very start, you struggle to find the trail map on their web site.
+In France I usually greet the lift operators and I get back a smiling "hi!" back.
+Maybe working conditions for operators are worst in Switzerland because the amount of friendly greetings I get back is about half ...
 
 ### Design/Convinience
 
@@ -83,6 +92,11 @@ So you had to mortgage your house just to pay for the entry ticket, now you ente
 By now it should be no surprise that you pay a **lot**. What you do not know is that they close at 17h, not a minute later (I checked this in [Laax-Flims][10] and [Valbella][2]). 
 So you cannot stay until the slopes close or you may not make it before they call it a day (specially in big stations).
 
+You also have to cope with the legendary unfrienliness of swiss people. Well to be precise they will be your friends as long as you have money.
+I once broke my ski pole in [Arosa Lenzerheide][2], naively I though that some rental shop would sell me an old pole so that I could finish my day ...
+I tried 3 shops before realising that nobody would len a hand without a monetary counterpart. Same thing happened again (yeah those fancy carbon fiber poles
+are just c\*\*p) a few weeks after in [Alpe d'Huez][7]. This time however, the first rental shop I asked was happy to give me an old pole for free.
+
 ## Conclusion
 
 It still have many places to visit in several countries before I can deliver a comprehensive judgement. But for now, the best country to go is for sure France.
@@ -104,4 +118,5 @@ The snow may be white in Switzerland, but people's heart is black as dark chocol
 [11]: http://www.risoul.com/plan-des-pistes-hiver.html
 [12]: http://winter.isola2000.com/ski-area
 [13]: http://www.davos.ch/en/winter/mountains/
+[14]: https://www.stmoritz.ch/en/st-moritz/berichte/pisten-loipen/
 

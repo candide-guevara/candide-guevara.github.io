@@ -26,6 +26,7 @@ Voici quelques unes de mes mésaventures. Bon j'avoue ce n'est rien de grave, ma
 * Quand vous prenez la route, ayez de la monnaie sur vous car les toilettes sur les aires d'autoroute sont parfois payantes. 
 * Même les fidèles toutous n'echappent pas à l'enculade, ils doivent payer eux aussi des impôts.
 * Envie de changer de style ? N'allez surtout pas chez le coiffeur ! 60chf pour se faire tondre, être chauve est une aubaine ici.
+* Vous avez traversé la moitié du monde. Pris la voiture, l'avion, le ferry pour atteindre la terre sainte du whisky. Tout cela pour se battre avec des douaniers suisses pour trois pauvres bouteilles à mon retour au pays de la quenelle ...
 * Plusieurs fois par an, lors des référendums vous recevrez une amicale carte postale des partis nationalistes. 
   Et c'est toujours un peu la même histoire : oust les étrangers ! Tous des voleurs ! Vous sentez tous du fion !
 
@@ -36,7 +37,7 @@ Ou encore à attendre des plombes à la sous-préfecture de Grasse.
 Vive la France, un pays où l'on peut toujours compter sur les villages de vignerons pour s'en jeter quelques uns derrière la cravatte pour pas un rond.
 Un pays où les voleurs sont toujours à l'affût pour piquer votre moto, mais surtout un pays où les institutions sont bien moins intéressées à agrandir la taille de votre rondelle.
 
-Après ils payent un truc de ouf ces cons ...
+Ceci dit, au pays de la charcute molle, on peux s'en mettre plein les fouilles ...
 
 ----------------------------
 

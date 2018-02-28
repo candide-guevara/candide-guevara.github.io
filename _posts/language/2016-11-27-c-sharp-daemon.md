@@ -94,6 +94,68 @@ That's it, you do not get all of the useless boiler plate visual studio generate
 * Class member of type `ComponentModel.IContainer` used for GUI programming and for the **crappy** drag-and-drop code editor
 * No partial classes without reason
 
+## Getting fancy : auto-installer
+
+With some extra code you can even have the daemon binary auto install itself on demand (for example when called with certain command line arguments).
+First use `AssemblyInstaller` to call your isntaller class.
+
+{% highlight c# %}
+  private static void launchServicesInstaller(params string[] args)
+  {
+      var toInstall = typeof(Program).Assembly;
+      IDictionary state = new Hashtable();
+      var nativeOpts = new List<string>(/* add any relevant command line args */);
+      // you can use some options from https://docs.microsoft.com/en-us/dotnet/framework/tools/installutil-exe-installer-tool
+      // depending on your installer hierarchy tree, other options may be available, look at `Installer.HelpText` property.
+      nativeOpts.Add(@"/LogToConsole=true");
+      nativeOpts.Add(@"/ShowCallStack");
+
+      using (var installer = new AssemblyInstaller(toInstall, nativeOpts.ToArray()))
+      {
+          installer.UseNewContext = true;
+          try
+          {
+              if (opts.Uninstall)
+                  installer.Uninstall(state);
+              else
+              {
+                  installer.Install(state);
+                  installer.Commit(state);
+              }
+          }
+          catch
+          {
+              try { installer.Rollback(state); }
+              catch { }
+              throw;
+          }
+      }
+  }
+{% endhighlight %}
+
+You may also override the `Install` and `Uninstall` methods to add custom logging.
+
+{% highlight c# %}
+  //Inside : class <Your_Installer> : System.Configuration.Install.Installer
+  public override void Install(IDictionary mySavedState) {
+      try {
+          Context.LogMessage("Launching custom install");
+          base.Install(mySavedState);
+      }
+      catch (Exception err) {
+          Context.LogMessage("Failed custom install : " + err);
+          throw;
+      }
+  }
+
+  public override void Uninstall(IDictionary mySavedState) {
+      // ...
+      base.Uninstall(mySavedState);
+  }
+{% endhighlight %}
+
+## Conclusion
+
 I wish that for [workflows][0], and [ssis packages][1] microsoft realized the most efficient way to build your application is typing code.
 Not waiting for a bloated graphical editor to load ...
 
