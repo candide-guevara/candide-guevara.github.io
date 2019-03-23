@@ -156,6 +156,6 @@ However it is quite the opposite when focusing on grammar. Even if I learned fas
 At the end it will take me more time but the result is a deeper understanding of the particular language I learned. As a bonus I also get a better idea of how languages relate to each other.
 Or maybe I was just a dumb child ...
 
-[0]: {% post_url 2015-07-07-cpp-symbol-resolution %}
+[0]: {% post_url cpp/2015-07-07-cpp-symbol-resolution %}
 
 
