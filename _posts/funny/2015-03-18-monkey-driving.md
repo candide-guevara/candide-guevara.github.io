@@ -13,13 +13,13 @@ So I wondered what the driving license test for monkeys could be like...
 
 ## Question 1
 
-![question 1]({{ site.images }}/code1.png)
+![question 1]({{ site.images }}/code1.jpg)
 
-![solution 1]({{ site.images }}/code1Correction.png)
+![solution 1]({{ site.images }}/code1Correction.jpg)
 
 ## Question 2
 
-![question 2]({{ site.images }}/code2.png)
+![question 2]({{ site.images }}/code2.jpg)
 
-![solution 2]({{ site.images }}/code2Correction.png)
+![solution 2]({{ site.images }}/code2Correction.jpg)
 
