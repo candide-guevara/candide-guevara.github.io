@@ -1,0 +1,110 @@
+<svg height="300" viewBox="0 0 577.81 390.86" width="900" xmlns="http://www.w3.org/2000/svg">
+<g style="fill:none">
+<path d="m15.47 105.54h219.06v79.21h-219.06z" style="stroke:#00f;stroke-width:1.1"/>
+<path d="m389.02 162.97-41.23-12.92-90.35.52-44.71 21.19" style="stroke:#00f"/>
+<path d="m221.2 212.83h246.68v60.34h-246.68z" style="stroke:#f60;stroke-width:1.1;stroke-dasharray:6.6 2.2"/>
+</g>
+<text style="stroke-width:.94" x="391.96" y="-283.55">
+<tspan style="stroke-width:.94" x="391.96" y="-274.69"/>
+</text>
+<g transform="translate(26.56 -126.75)">
+<path d="m-10.8 418.9h84.66v38.37h-84.66z" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="-1.86" y="435.26">
+<tspan x="-1.86" y="435.26">VLAN unaware</tspan> <tspan x="-1.86" y="447.76">host</tspan>
+</text>
+</g>
+<path d="m378.13 227.27h84.66v38.37h-84.66z" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="387.07" y="243.63">
+<tspan style="stroke-width:.94" x="387.07" y="243.63">VLAN unaware</tspan> <tspan style="stroke-width:.94" x="387.07" y="256.13">host</tspan>
+</text>
+<path d="m478.42 290.86h84.66v38.37h-84.66z" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="487.36" y="307.22">
+<tspan style="stroke-width:.94" x="487.36" y="307.22">VLAN unaware</tspan> <tspan style="stroke-width:.94" x="487.36" y="319.72">host</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="19.01" y="118.79">
+<tspan x="19.01" y="118.79">L2 switch</tspan>
+</text>
+<g style="fill:none;stroke:#800080;stroke-width:1.88">
+<path d="m28.68 167.57h11.77v12.01h-11.77z"/>
+<path d="m47.55 167.57h11.77v12.01h-11.77z"/>
+<path d="m65.51 167.05h11.77v12.01h-11.77z"/>
+<path d="m84.38 167.05h11.77v12.01h-11.77z"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="23.66" y="147.23">
+<tspan x="23.66" y="147.23">untagged ports</tspan> <tspan x="23.66" y="159.73">(aka access ports)</tspan>
+</text>
+<g style="fill:none;stroke:#00f;stroke-width:1.88">
+<path d="m145.48 166.79h11.77v12.01h-11.77z"/>
+<path d="m164.35 166.79h11.77v12.01h-11.77z"/>
+<path d="m182.31 166.27h11.77v12.01h-11.77z"/>
+<path d="m201.18 166.27h11.77v12.01h-11.77z"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="143.56" y="146.45">
+<tspan x="143.56" y="146.45">tagged ports</tspan> <tspan x="143.56" y="158.95">(aka trunk ports)</tspan>
+</text>
+<path d="m380.2 124.15h148.24v51.3h-148.24z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="383.74" y="137.4">
+<tspan style="stroke-width:.94" x="383.74" y="137.4">L2 switch</tspan>
+</text>
+<g style="fill:none">
+<g style="stroke-width:1.88">
+<g style="stroke:#800080">
+<path d="m469.41 156.19h11.77v12.01h-11.77z"/>
+<path d="m488.27 156.19h11.77v12.01h-11.77z"/>
+<path d="m506.24 155.67h11.77v12.01h-11.77z"/>
+</g>
+<g style="stroke:#00f">
+<path d="m389.51 157.48h11.77v12.01h-11.77z"/>
+<path d="m407.47 156.96h11.77v12.01h-11.77z"/>
+<path d="m426.34 156.96h11.77v12.01h-11.77z"/>
+</g>
+</g>
+<path d="m226.15 227.79h84.66v38.37h-84.66z" style="stroke:#000;stroke-width:1.1"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="235.09" y="244.15">
+<tspan x="235.09" y="244.15">VLAN unaware</tspan> <tspan x="235.09" y="256.65">virtual host</tspan>
+</text>
+<path d="m113.98 217.71h208.21v121.08h-208.21z" style="fill:none;stroke:#4a0;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="118.26" y="230.45">
+<tspan style="stroke-width:.94" x="118.26" y="230.45">Hypervisor</tspan>
+</text>
+<path d="m122.25 291.89h84.66v38.37h-84.66z" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="131.19" y="308.25">
+<tspan style="stroke-width:.94" x="131.19" y="308.25">VLAN unaware</tspan> <tspan style="stroke-width:.94" x="131.19" y="320.75">virtual host</tspan>
+</text>
+<path d="m389.02 162.97-41.23 30.5-90.35-.52-44.71-21.19" style="fill:none;stroke:#00f"/>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="272.99" y="146.82">
+<tspan x="272.99" y="146.82">VLAN ID: 2</tspan>
+</text>
+<text style="font-weight:bold" x="244.04" y="125.63">
+<tspan x="244.04" y="125.63">802.1Q ethernet packets</tspan>
+</text>
+<text style="fill:#d4aa00" x="14.52" y="357.22">
+<tspan x="14.52" y="357.22">L2 Broadcast domain</tspan> <tspan x="14.52" y="369.72">and often also IP subnet</tspan> <tspan x="14.52" y="382.22">ex: 192.168.3.0/24 (note the subnet has the same number as the VLAN ID)</tspan>
+</text>
+<text x="372.24" y="33.1">
+<tspan x="372.24" y="33.1">Traffic between VLANs</tspan> <tspan x="372.24" y="45.6">goes through L3 equipment</tspan>
+</text>
+<text x="259.03" y="168.53">
+<tspan x="259.03" y="168.53">VLAN ID: 1 (native)</tspan>
+</text>
+<text x="273.63" y="190.53">
+<tspan x="273.63" y="190.53">VLAN ID: 3</tspan>
+</text>
+</g>
+<g style="fill:none">
+<path d="m212.74 171.76 144.16.03 32.13-8.81" style="stroke:#f00"/>
+<path d="m187.5 177.21.68 41.31" style="stroke:#00f"/>
+<path d="m188.18 218.52-24.81 72.89" style="stroke:#000"/>
+<path d="m431.84 66.05-.18 90.72" style="stroke:#00f"/>
+<g style="stroke:#000">
+<path d="m34.31 179v113.21"/>
+<path d="m188.18 218.52 37.74 30.5"/>
+<path d="m475.78 167.11-53.76 59.45"/>
+</g>
+<path d="m7.64 284.53h562.53v60.34h-562.53z" style="stroke:#fc0;stroke-width:1.1;stroke-dasharray:6.6 2.2"/>
+<path d="m511.44 168.66v121.48" style="stroke:#000"/>
+<ellipse cx="430.03" cy="36.84" rx="75.73" ry="29.21" style="stroke:#00f;stroke-width:1.13"/>
+</g>
+</svg>
