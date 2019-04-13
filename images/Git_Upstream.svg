@@ -1,460 +1,84 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="602.9826"
-   height="290.17276"
-   viewBox="0 0 602.98262 290.17274"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="Git_Upstream.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1019"
-     id="namedview78"
-     showgrid="false"
-     fit-margin-top="5"
-     fit-margin-bottom="5"
-     fit-margin-left="40"
-     fit-margin-right="40"
-     inkscape:zoom="2.2179049"
-     inkscape:cx="301.4913"
-     inkscape:cy="145.02199"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="TriangleOutM"
-       style="overflow:visible">
-      <path
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         transform="scale(0.4,0.4)"
-         id="path4565"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="marker6723"
-       style="overflow:visible">
-      <path
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         transform="scale(-0.4,-0.4)"
-         id="path6725"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="Arrow1Lstart"
-       style="overflow:visible">
-      <path
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         transform="matrix(0.8,0,0,0.8,10,0)"
-         id="path4420"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="Arrow1Lend"
-       style="overflow:visible">
-      <path
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         id="path4423"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="TriangleInM-2"
-       style="overflow:visible">
-      <path
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         transform="scale(-0.4,-0.4)"
-         id="path4556-3"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="TriangleOutM-1"
-       style="overflow:visible">
-      <path
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         transform="scale(0.4,0.4)"
-         id="path4565-3"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="TriangleInM-2-3"
-       style="overflow:visible">
-      <path
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         transform="scale(-0.4,-0.4)"
-         id="path4556-3-7"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="TriangleInM-2-7"
-       style="overflow:visible">
-      <path
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         transform="scale(-0.4,-0.4)"
-         id="path4556-3-6"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="TriangleInM-2-7-2"
-       style="overflow:visible">
-      <path
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         transform="scale(-0.4,-0.4)"
-         id="path4556-3-6-0"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="TriangleOutM-1-4"
-       style="overflow:visible">
-      <path
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         transform="scale(0.4,0.4)"
-         id="path4565-3-7"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="TriangleOutM-1-41"
-       style="overflow:visible">
-      <path
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         transform="scale(0.4,0.4)"
-         id="path4565-3-0"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="TriangleOutM-1-0"
-       style="overflow:visible">
-      <path
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         transform="scale(0.4,0.4)"
-         id="path4565-3-4"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="TriangleOutM-1-5"
-       style="overflow:visible">
-      <path
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         transform="scale(0.4,0.4)"
-         id="path4565-3-8"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </marker>
-  </defs>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(67.331093,-230.68629)"
-     id="layer1">
-    <ellipse
-       cx="210.22609"
-       cy="360.67975"
-       rx="52.797729"
-       ry="26.170567"
-       transform="matrix(1.3187593,0,0,2.00862,-145.49137,-435.53678)"
-       id="path4142"
-       style="fill:none;stroke:#006600;stroke-width:0.67586666;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       d="m 104.09626,388.7822 95.00493,0 0,94.03868 -95.00493,0 z"
-       id="rect3336-2-6"
-       style="fill:none;stroke:#006600;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 99.825391,327.38594 40.167529,59.19829"
-       id="path6715-5"
-       style="fill:none;stroke:#696969;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-1)"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 99.5463,332.38875 0,-72.11575"
-       id="path6715-5-5"
-       style="fill:none;stroke:#006600;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 99.191586,299.0175 130.01663,269.77336"
-       id="path6715-5-5-2"
-       style="fill:none;stroke:#006600;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 99.723042,322.93349 130.54809,293.68935"
-       id="path6715-5-5-2-9"
-       style="fill:none;stroke:#006600;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none"
-       inkscape:connector-curvature="0" />
-    <text
-       x="87.499313"
-       y="256.58203"
-       id="text4933"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       sodipodi:linespacing="125%"><tspan
-         x="87.499313"
-         y="256.58203"
-         id="tspan4935">master</tspan></text>
-    <text
-       x="131.78819"
-       y="266.50275"
-       id="text4937"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       sodipodi:linespacing="125%"><tspan
-         x="131.78819"
-         y="266.50275"
-         id="tspan4939">branch_1</tspan></text>
-    <text
-       x="133.55974"
-       y="290.59589"
-       id="text4941"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       sodipodi:linespacing="125%"><tspan
-         x="133.55974"
-         y="290.59589"
-         id="tspan4943">branch_2</tspan></text>
-    <path
-       d="m 292.23935,357.67176 202.86219,0 0,157.63727 -202.86219,0 z"
-       id="rect3336-2-6-3"
-       style="fill:none;stroke:#0000ff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
-    <text
-       x="295.58209"
-       y="368.70108"
-       id="text4963"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       sodipodi:linespacing="125%"><tspan
-         x="295.58209"
-         y="368.70108"
-         id="tspan4965"
-         style="font-weight:bold">.git/config</tspan></text>
-    <text
-       x="298.29666"
-       y="393.01266"
-       id="text4967"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       sodipodi:linespacing="125%"><tspan
-         x="298.29666"
-         y="393.01266"
-         id="tspan4969">[remote &quot;origin&quot;]</tspan><tspan
-         x="298.29666"
-         y="405.51266"
-         id="tspan4971">url = &lt;upstream url&gt;</tspan><tspan
-         x="298.29666"
-         y="418.01266"
-         id="tspan4973">fetch = refs/heads/*:refs/remotes/origin/* </tspan></text>
-    <text
-       x="297.83163"
-       y="447.42435"
-       id="text4979"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       sodipodi:linespacing="125%"><tspan
-         x="297.83163"
-         y="447.42435"
-         id="tspan4981">[branch_1]</tspan><tspan
-         x="297.83163"
-         y="459.92435"
-         id="tspan4983">remote = origin</tspan><tspan
-         x="297.83163"
-         y="472.42435"
-         id="tspan4985">merge = refs/heads/branch_1</tspan></text>
-    <ellipse
-       cx="210.22609"
-       cy="360.67975"
-       rx="52.797729"
-       ry="26.170567"
-       transform="matrix(2.0302307,0,0,2.5344435,-293.73708,-478.59958)"
-       id="path4142-5"
-       style="fill:none;stroke:#009900;stroke-width:0.48492959;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       d="m 121.69807,478.97984 0,-72.11575"
-       id="path6715-5-5-6"
-       style="fill:none;stroke:#006600;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 121.34336,445.60859 152.1684,416.36445"
-       id="path6715-5-5-2-1"
-       style="fill:none;stroke:#006600;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 121.87481,469.52458 30.82505,-29.24414"
-       id="path6715-5-5-2-9-6"
-       style="fill:none;stroke:#006600;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none"
-       inkscape:connector-curvature="0" />
-    <text
-       x="109.65108"
-       y="403.17313"
-       id="text4933-3"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       sodipodi:linespacing="125%"><tspan
-         x="109.65108"
-         y="403.17313"
-         id="tspan4935-4">master</tspan></text>
-    <text
-       x="153.93997"
-       y="413.09381"
-       id="text4937-4"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       sodipodi:linespacing="125%"><tspan
-         x="153.93997"
-         y="413.09381"
-         id="tspan4939-1">branch_1</tspan></text>
-    <text
-       x="155.71152"
-       y="437.18695"
-       id="text4941-4"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       sodipodi:linespacing="125%"><tspan
-         x="155.71152"
-         y="437.18695"
-         id="tspan4943-3">branch_2</tspan></text>
-    <path
-       d="m 69.041527,477.58787 0,-72.11575"
-       id="path6715-5-5-7"
-       style="fill:none;stroke:#009900;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none"
-       inkscape:connector-curvature="0" />
-    <text
-       x="51.817856"
-       y="402.40384"
-       id="text4937-3"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       sodipodi:linespacing="125%"><tspan
-         x="51.817856"
-         y="402.40384"
-         id="tspan4939-6">branch_1</tspan></text>
-    <path
-       d="M 296.34397,402.89614 201.8759,300.61132"
-       id="path6715-5-0"
-       style="fill:none;stroke:#696969;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-1)"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 295.60013,445.66713 -75.55116,63.50596 -118.96334,0.0692 -30.869969,-39.03469"
-       id="path6715-5-7"
-       style="fill:none;stroke:#696969;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-1)"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 296.02821,470.31817 163.22126,319.08926 112.29895,289.18599"
-       id="path6715-5-0-8"
-       style="fill:none;stroke:#696969;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-1)"
-       inkscape:connector-curvature="0" />
-    <text
-       x="-28.112343"
-       y="355.33807"
-       id="text5151"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       sodipodi:linespacing="125%"><tspan
-         x="-28.112343"
-         y="355.33807"
-         id="tspan5153">refspec : copy all branches from refs/heads</tspan><tspan
-         x="-28.112343"
-         y="367.83807"
-         id="tspan5155">into refs/remotes/origin</tspan></text>
-    <text
-       x="11.254397"
-       y="243.76582"
-       id="text5157"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       sodipodi:linespacing="125%"><tspan
-         x="11.254397"
-         y="243.76582"
-         id="tspan5159"
-         style="font-weight:bold">Upstream repo</tspan></text>
-    <text
-       x="-11.216758"
-       y="397.05118"
-       id="text5161"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       sodipodi:linespacing="125%"><tspan
-         x="-11.216758"
-         y="397.05118"
-         id="tspan5163"
-         style="font-weight:bold">Local repo</tspan></text>
-  </g>
+<svg height="290.17" viewBox="0 0 602.98 290.17" width="602.98" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<g transform="translate(67.33 -230.69)">
+<g style="fill:none">
+<ellipse cx="210.23" cy="360.68" rx="52.8" ry="26.17" style="stroke:#060;stroke-width:.68" transform="matrix(1.32 0 0 2.01 -145.49 -435.54)"/>
+<path d="m104.1 388.78h95v94.04h-95z" style="stroke:#060;stroke-width:1.1"/>
+<path d="m99.83 327.39 40.17 59.2" style="stroke:#696969;marker-end:url(#a)"/>
+<g style="stroke:#060">
+<path d="m99.55 332.39v-72.12"/>
+<path d="m99.19 299.02 30.83-29.25"/>
+<path d="m99.72 322.93 30.83-29.24"/>
+</g>
+</g>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="87.5" y="256.58">
+<tspan x="87.5" y="256.58">master</tspan>
+</text>
+<text x="131.79" y="266.5">
+<tspan x="131.79" y="266.5">branch_1</tspan>
+</text>
+<text x="133.56" y="290.6">
+<tspan x="133.56" y="290.6">branch_2</tspan>
+</text>
+</g>
+<path d="m292.24 357.67h202.86v157.64h-202.86z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="295.58" y="368.7">
+<tspan style="font-weight:bold" x="295.58" y="368.7">.git/config</tspan>
+</text>
+<text x="298.3" xml:space="preserve" y="393.01">
+<tspan x="298.3" y="393.01">[remote "origin"]</tspan>
+<tspan x="298.3" y="405.51">url = &lt;upstream url&gt;</tspan>
+<tspan x="298.3" y="418.01">fetch = refs/heads/*:refs/remotes/origin/* </tspan>
+</text>
+<text x="297.83" y="447.42">
+<tspan x="297.83" y="447.42">[branch_1]</tspan>
+<tspan x="297.83" y="459.92">remote = origin</tspan>
+<tspan x="297.83" y="472.42">merge = refs/heads/branch_1</tspan>
+</text>
+</g>
+<g style="fill:none">
+<ellipse cx="210.23" cy="360.68" rx="52.8" ry="26.17" style="stroke:#090;stroke-width:.48" transform="matrix(2.03 0 0 2.53 -293.74 -478.6)"/>
+<g style="stroke:#060">
+<path d="m121.7 478.98v-72.12"/>
+<path d="m121.34 445.61 30.83-29.25"/>
+<path d="m121.87 469.52 30.83-29.24"/>
+</g>
+</g>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="109.65" y="403.17">
+<tspan x="109.65" y="403.17">master</tspan>
+</text>
+<text x="153.94" y="413.09">
+<tspan x="153.94" y="413.09">branch_1</tspan>
+</text>
+<text x="155.71" y="437.19">
+<tspan x="155.71" y="437.19">branch_2</tspan>
+</text>
+</g>
+<path d="m69.04 477.59v-72.12" style="fill:none;stroke:#090"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0" x="51.82" y="402.4">
+<tspan x="51.82" y="402.4">branch_1</tspan>
+</text>
+<g style="fill:none;stroke:#696969;marker-end:url(#a)">
+<path d="m296.34 402.9-94.46-102.29"/>
+<path d="m295.6 445.67-75.55 63.51-118.96.07-30.87-39.03"/>
+<path d="m296.03 470.32-132.81-151.23-50.92-29.9"/>
+</g>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="-28.11" y="355.34">
+<tspan x="-28.11" y="355.34">refspec : copy all branches from refs/heads</tspan>
+<tspan x="-28.11" y="367.84">into refs/remotes/origin</tspan>
+</text>
+<text x="11.25" y="243.77">
+<tspan style="font-weight:bold" x="11.25" y="243.77">Upstream repo</tspan>
+</text>
+<text x="-11.22" y="397.05">
+<tspan style="font-weight:bold" x="-11.22" y="397.05">Local repo</tspan>
+</text>
+</g>
+</g>
 </svg>

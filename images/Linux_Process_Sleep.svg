@@ -1,1763 +1,562 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg2"
-   version="1.1"
-   xml:space="preserve"
-   width="1280"
-   height="450"
-   viewBox="0 0 1280 439.1581"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath16"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path18"
-         d="m 33.768,754.46 49.032,0 0,7.104 -49.032,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath24"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path26"
-         d="m 33.768,754.54 49.032,0 0,7.032 -49.032,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath36"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path38"
-         d="m 47.904,733.39 97.104,0 0,7.104 -97.104,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath44"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path46"
-         d="m 47.904,733.46 97.104,0 0,7.032 -97.104,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath56"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path58"
-         d="m 33.768,740.42 222.65,0 0,7.104 -222.65,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath64"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path66"
-         d="m 33.768,740.5 222.65,0 0,7.032 -222.65,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath76"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path78"
-         d="m 47.904,719.35 207.07,0 0,7.104 -207.07,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath84"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path86"
-         d="m 47.904,719.42 207.07,0 0,7.032 -207.07,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath96"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path98"
-         d="m 47.904,712.34 195.58,0 0,7.08 -195.58,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath104"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path106"
-         d="m 47.904,712.39 195.58,0 0,7.032 -195.58,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath116"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path118"
-         d="m 47.904,705.31 207.07,0 0,7.08 -207.07,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath124"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path126"
-         d="m 47.904,705.38 207.07,0 0,7.008 -207.07,0 0,-7.008 z" /></clipPath><clipPath
-       id="clipPath136"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path138"
-         d="m 47.904,698.28 193.51,0 0,7.104 -193.51,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath144"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path146"
-         d="m 47.904,698.35 193.51,0 0,7.032 -193.51,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath156"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path158"
-         d="m 33.768,726.38 104.76,0 0,7.08 -104.76,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath164"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path166"
-         d="m 33.768,726.43 104.76,0 0,7.032 -104.76,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath176"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path178"
-         d="m 33.768,691.27 221.21,0 0,7.08 -221.21,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath184"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path186"
-         d="m 33.768,691.32 221.21,0 0,7.032 -221.21,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath196"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path198"
-         d="m 33.768,691.32 221.21,0 0,7.032 -221.21,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath208"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path210"
-         d="m 33.768,691.32 221.21,0 0,7.032 -221.21,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath220"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path222"
-         d="m 47.904,677.21 207.07,0 0,7.104 -207.07,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath228"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path230"
-         d="m 47.904,677.28 207.07,0 0,7.032 -207.07,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath240"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path242"
-         d="m 33.768,684.24 221.21,0 0,7.104 -221.21,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath248"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path250"
-         d="m 33.768,684.31 221.21,0 0,7.032 -221.21,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath260"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path262"
-         d="m 33.768,684.31 221.21,0 0,7.032 -221.21,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath272"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path274"
-         d="m 33.768,684.31 221.21,0 0,7.032 -221.21,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath284"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path286"
-         d="m 47.904,663.17 61.392,0 0,7.104 -61.392,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath292"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path294"
-         d="m 47.904,663.24 61.392,0 0,7.032 -61.392,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath304"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path306"
-         d="m 33.768,670.2 221.21,0 0,7.08 -221.21,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath312"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path314"
-         d="m 33.768,670.25 221.21,0 0,7.032 -221.21,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath324"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path326"
-         d="m 33.768,453.22 73.824,0 0,7.08 -73.824,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath332"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path334"
-         d="m 33.768,453.26 73.824,0 0,7.032 -73.824,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath344"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path346"
-         d="m 47.904,432.14 200.3,0 0,7.08 -200.3,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath352"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path354"
-         d="m 47.904,432.19 200.3,0 0,7.032 -200.3,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath364"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path366"
-         d="m 33.768,439.15 214.44,0 0,7.104 -214.44,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath372"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path374"
-         d="m 33.768,439.22 214.44,0 0,7.032 -214.44,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath392"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path394"
-         d="m 272.3,754.46 57.24,0 0,7.104 -57.24,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath400"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path402"
-         d="m 272.3,754.54 57.24,0 0,7.032 -57.24,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath416"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path418"
-         d="m 325.03,757.61 38.112,0 0,7.104 -38.112,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath424"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path426"
-         d="m 325.03,757.68 38.088,0 0,7.032 -38.088,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath436"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path438"
-         d="m 325.03,750.6 49.704,0 0,7.08 -49.704,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath444"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path446"
-         d="m 325.03,750.65 49.704,0 0,7.032 -49.704,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath460"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path462"
-         d="m 304.32,697.68 36.648,0 0,7.08 -36.648,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath468"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path470"
-         d="m 304.32,697.73 36.648,0 0,7.032 -36.648,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath480"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path482"
-         d="m 304.32,690.65 44.184,0 0,7.104 -44.184,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath488"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path490"
-         d="m 304.32,690.72 44.184,0 0,7.032 -44.184,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath510"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path512"
-         d="m 376.82,757.3 38.088,0 0,7.104 -38.088,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath518"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path520"
-         d="m 376.82,757.37 38.088,0 0,7.032 -38.088,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath530"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path532"
-         d="m 376.82,750.26 46.248,0 0,7.104 -46.248,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath538"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path540"
-         d="m 376.82,750.34 46.248,0 0,7.032 -46.248,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath562"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path564"
-         d="m 422.95,756.98 38.112,0 0,7.08 -38.112,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath570"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path572"
-         d="m 422.95,757.06 38.112,0 0,7.008 -38.112,0 0,-7.008 z" /></clipPath><clipPath
-       id="clipPath582"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path584"
-         d="m 422.95,749.95 50.856,0 0,7.104 -50.856,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath590"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path592"
-         d="m 422.95,750.02 50.856,0 0,7.032 -50.856,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath634"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path636"
-         d="m 476.3,754.46 57.264,0 0,7.104 -57.264,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath642"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path644"
-         d="m 476.3,754.54 57.264,0 0,7.032 -57.264,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath662"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path664"
-         d="m 294.89,732.82 47.52,0 0,7.104 -47.52,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath670"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path672"
-         d="m 294.91,732.89 47.496,0 0,7.032 -47.496,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath682"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path684"
-         d="m 342.29,734.71 70.056,0 0,7.08 -70.056,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath690"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path692"
-         d="m 342.29,734.76 70.056,0 0,7.032 -70.056,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath702"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path704"
-         d="m 342.29,727.68 32.448,0 0,7.08 -32.448,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath710"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path712"
-         d="m 342.29,727.75 32.448,0 0,7.008 -32.448,0 0,-7.008 z" /></clipPath><clipPath
-       id="clipPath722"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path724"
-         d="m 346.37,718.39 58.824,0 0,7.08 -58.824,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath730"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path732"
-         d="m 346.37,718.44 58.824,0 0,7.032 -58.824,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath742"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path744"
-         d="m 346.37,711.36 40.248,0 0,7.104 -40.248,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath750"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path752"
-         d="m 346.37,711.43 40.248,0 0,7.032 -40.248,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath762"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path764"
-         d="m 444.29,702.07 64.92,0 0,7.08 -64.92,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath770"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path772"
-         d="m 444.29,702.12 64.92,0 0,7.032 -64.92,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath782"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path784"
-         d="m 444.29,695.04 31.656,0 0,7.104 -31.656,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath790"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path792"
-         d="m 444.29,695.11 31.656,0 0,7.032 -31.656,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath802"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path804"
-         d="m 443.98,683.23 49.416,0 0,7.104 -49.416,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath810"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path812"
-         d="m 443.98,683.3 49.416,0 0,7.032 -49.416,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath822"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path824"
-         d="m 399.41,678.22 43.896,0 0,7.08 -43.896,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath830"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path832"
-         d="m 399.41,678.29 43.872,0 0,7.008 -43.872,0 0,-7.008 z" /></clipPath><clipPath
-       id="clipPath842"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path844"
-         d="m 347.95,677.59 62.688,0 0,7.08 -62.688,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath850"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path852"
-         d="m 347.95,677.64 62.688,0 0,7.032 -62.688,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath862"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path864"
-         d="m 347.95,670.56 55.92,0 0,7.104 -55.92,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath870"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path872"
-         d="m 347.95,670.63 55.92,0 0,7.032 -55.92,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath882"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path884"
-         d="m 346.06,660.34 60.336,0 0,7.08 -60.336,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath890"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path892"
-         d="m 346.06,660.38 60.336,0 0,7.032 -60.336,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath902"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path904"
-         d="m 346.06,653.3 32.76,0 0,7.104 -32.76,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath910"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path912"
-         d="m 346.06,653.38 32.76,0 0,7.032 -32.76,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath922"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path924"
-         d="m 345.43,642.12 45.144,0 0,7.104 -45.144,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath930"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path932"
-         d="m 345.43,642.19 45.12,0 0,7.032 -45.12,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath942"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path944"
-         d="m 396.91,638.04 85.992,0 0,7.104 -85.992,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath950"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path952"
-         d="m 396.91,638.11 85.992,0 0,7.032 -85.992,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath962"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path964"
-         d="m 396.91,638.11 85.992,0 0,7.032 -85.992,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath974"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path976"
-         d="m 417.62,622.68 40.68,0 0,7.08 -40.68,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath982"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path984"
-         d="m 417.62,622.73 40.68,0 0,7.032 -40.68,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath998"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1000"
-         d="m 344.5,632.09 45.384,0 0,7.08 -45.384,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1006"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1008"
-         d="m 344.5,632.14 45.384,0 0,7.032 -45.384,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1018"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1020"
-         d="m 344.5,625.06 57.312,0 0,7.104 -57.312,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1026"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1028"
-         d="m 344.5,625.13 57.312,0 0,7.032 -57.312,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1078"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1080"
-         d="m 448.06,594.43 37.032,0 0,7.08 -37.032,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1086"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1088"
-         d="m 448.06,594.48 37.032,0 0,7.032 -37.032,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1098"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1100"
-         d="m 312.17,591.91 37.032,0 0,7.104 -37.032,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1106"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1108"
-         d="m 312.17,591.98 37.032,0 0,7.032 -37.032,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1118"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1120"
-         d="m 383.71,521.3 38.184,0 0,7.104 -38.184,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1126"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1128"
-         d="m 383.71,521.38 38.184,0 0,7.032 -38.184,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1138"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1140"
-         d="m 383.71,514.27 44.712,0 0,7.104 -44.712,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1146"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1148"
-         d="m 383.71,514.34 44.712,0 0,7.032 -44.712,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1158"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1160"
-         d="m 359.54,545.47 41.064,0 0,7.08 -41.064,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1166"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1168"
-         d="m 359.54,545.54 41.064,0 0,7.008 -41.064,0 0,-7.008 z" /></clipPath><clipPath
-       id="clipPath1178"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1180"
-         d="m 359.54,538.44 43.248,0 0,7.104 -43.248,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1186"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1188"
-         d="m 359.54,538.51 43.248,0 0,7.032 -43.248,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1198"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1200"
-         d="m 325.03,567.43 41.04,0 0,7.104 -41.04,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1206"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1208"
-         d="m 325.03,567.5 41.04,0 0,7.032 -41.04,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1218"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1220"
-         d="m 325.03,560.42 44.688,0 0,7.08 -44.688,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1226"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1228"
-         d="m 325.03,560.47 44.688,0 0,7.032 -44.688,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1238"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1240"
-         d="m 266.02,522.55 38.184,0 0,7.104 -38.184,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1246"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1248"
-         d="m 266.02,522.62 38.184,0 0,7.032 -38.184,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1258"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1260"
-         d="m 266.02,515.54 44.712,0 0,7.08 -44.712,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1266"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1268"
-         d="m 266.02,515.59 44.712,0 0,7.032 -44.712,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1284"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1286"
-         d="m 264.46,595.37 56.88,0 0,7.08 -56.88,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1292"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1294"
-         d="m 264.46,595.44 56.88,0 0,7.008 -56.88,0 0,-7.008 z" /></clipPath><clipPath
-       id="clipPath1304"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1306"
-         d="m 442.42,546.72 38.16,0 0,7.104 -38.16,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1312"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1314"
-         d="m 442.42,546.79 38.16,0 0,7.032 -38.16,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1324"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1326"
-         d="m 442.42,539.71 41.808,0 0,7.08 -41.808,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1332"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1334"
-         d="m 442.42,539.76 41.808,0 0,7.032 -41.808,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1344"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1346"
-         d="m 406.63,484.58 55.872,0 0,7.104 -55.872,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1352"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1354"
-         d="m 406.63,484.66 55.872,0 0,7.032 -55.872,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1364"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1366"
-         d="m 340.73,595.37 61.752,0 0,7.08 -61.752,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1372"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1374"
-         d="m 340.73,595.44 61.752,0 0,7.008 -61.752,0 0,-7.008 z" /></clipPath><clipPath
-       id="clipPath1384"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1386"
-         d="m 340.73,588.34 44.688,0 0,7.104 -44.688,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1392"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1394"
-         d="m 340.73,588.41 44.688,0 0,7.032 -44.688,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1412"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1414"
-         d="m 361.44,569.95 61.776,0 0,7.08 -61.776,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1420"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1422"
-         d="m 361.44,570 61.776,0 0,7.032 -61.776,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1432"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1434"
-         d="m 361.44,562.92 61.776,0 0,7.104 -61.776,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1440"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1442"
-         d="m 361.44,562.99 61.776,0 0,7.032 -61.776,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1468"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1470"
-         d="m 432.05,516.91 105.26,0 0,7.104 -105.26,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1476"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1478"
-         d="m 432.05,516.98 105.26,0 0,7.032 -105.26,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1488"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1490"
-         d="m 432.05,509.88 68.928,0 0,7.104 -68.928,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1496"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1498"
-         d="m 432.05,509.95 68.928,0 0,7.032 -68.928,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1516"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1518"
-         d="m 267.43,449.69 45.072,0 0,7.08 -45.072,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1524"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1526"
-         d="m 267.43,449.74 45.072,0 0,7.032 -45.072,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1540"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1542"
-         d="m 395.64,452.54 38.112,0 0,7.08 -38.112,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1548"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1550"
-         d="m 395.64,452.59 38.112,0 0,7.032 -38.112,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1560"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1562"
-         d="m 395.64,445.51 49.728,0 0,7.08 -49.728,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1568"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1570"
-         d="m 395.64,445.58 49.704,0 0,7.008 -49.704,0 0,-7.008 z" /></clipPath><clipPath
-       id="clipPath1584"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1586"
-         d="m 526.54,388.25 44.808,0 0,7.08 -44.808,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1592"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1594"
-         d="m 526.54,388.32 44.808,0 0,7.008 -44.808,0 0,-7.008 z" /></clipPath><clipPath
-       id="clipPath1604"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1606"
-         d="m 526.54,381.22 34.32,0 0,7.104 -34.32,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1612"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1614"
-         d="m 526.54,381.29 34.32,0 0,7.032 -34.32,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1630"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1632"
-         d="m 447.43,452.23 38.088,0 0,7.08 -38.088,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1638"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1640"
-         d="m 447.43,452.28 38.088,0 0,7.032 -38.088,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1650"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1652"
-         d="m 447.43,445.2 46.248,0 0,7.08 -46.248,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1658"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1660"
-         d="m 447.43,445.27 46.248,0 0,7.008 -46.248,0 0,-7.008 z" /></clipPath><clipPath
-       id="clipPath1682"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1684"
-         d="m 493.56,451.9 38.112,0 0,7.104 -38.112,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1690"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1692"
-         d="m 493.56,451.97 38.112,0 0,7.032 -38.112,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1702"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1704"
-         d="m 493.56,444.89 50.856,0 0,7.08 -50.856,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1710"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1712"
-         d="m 493.56,444.94 50.856,0 0,7.032 -50.856,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1750"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1752"
-         d="m 414.17,430.3 75.888,0 0,7.104 -75.888,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1758"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1760"
-         d="m 414.17,430.37 75.888,0 0,7.032 -75.888,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1770"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1772"
-         d="m 416.04,337.06 45.144,0 0,7.08 -45.144,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1778"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1780"
-         d="m 416.04,337.1 45.144,0 0,7.032 -45.144,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1794"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1796"
-         d="m 310.63,449.69 45.072,0 0,7.104 -45.072,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1802"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1804"
-         d="m 310.63,449.76 45.072,0 0,7.032 -45.072,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1820"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1822"
-         d="m 352.37,449.38 45.072,0 0,7.104 -45.072,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1828"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1830"
-         d="m 352.37,449.45 45.072,0 0,7.032 -45.072,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1848"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1850"
-         d="m 414.17,401.11 45.456,0 0,7.104 -45.456,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1856"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1858"
-         d="m 414.17,401.18 45.456,0 0,7.032 -45.456,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1868"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1870"
-         d="m 417,419.3 57.672,0 0,7.104 -57.672,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1876"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1878"
-         d="m 417,419.38 57.672,0 0,7.032 -57.672,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1888"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1890"
-         d="m 417,412.3 53.352,0 0,7.08 -53.352,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1896"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1898"
-         d="m 417,412.34 53.352,0 0,7.032 -53.352,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1908"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1910"
-         d="m 336.34,392.02 84.36,0 0,7.08 -84.36,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1916"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1918"
-         d="m 336.34,392.06 84.36,0 0,7.032 -84.36,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1928"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1930"
-         d="m 470.35,373.49 43.872,0 0,7.104 -43.872,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1936"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1938"
-         d="m 470.35,373.56 43.872,0 0,7.032 -43.872,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1954"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1956"
-         d="m 374.93,376.94 106.22,0 0,7.104 -106.22,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath1962"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1964"
-         d="m 374.93,377.02 106.22,0 0,7.032 -106.22,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1974"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1976"
-         d="m 374.93,369.94 85.176,0 0,7.08 -85.176,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath1982"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path1984"
-         d="m 374.93,369.98 85.176,0 0,7.032 -85.176,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath1998"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2000"
-         d="m 527.16,359.06 44.688,0 0,7.08 -44.688,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath2006"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2008"
-         d="m 527.16,359.14 44.688,0 0,7.008 -44.688,0 0,-7.008 z" /></clipPath><clipPath
-       id="clipPath2018"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2020"
-         d="m 527.16,352.03 44.376,0 0,7.104 -44.376,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath2026"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2028"
-         d="m 527.16,352.1 44.376,0 0,7.032 -44.376,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath2044"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2046"
-         d="m 515.54,323.9 79.896,0 0,7.104 -79.896,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath2052"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2054"
-         d="m 515.54,323.98 79.896,0 0,7.032 -79.896,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath2064"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2066"
-         d="m 515.54,316.9 78.408,0 0,7.08 -78.408,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath2072"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2074"
-         d="m 515.54,316.94 78.408,0 0,7.032 -78.408,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath2084"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2086"
-         d="m 514.92,342.43 80.664,0 0,7.08 -80.664,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath2092"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2094"
-         d="m 514.92,342.5 80.664,0 0,7.008 -80.664,0 0,-7.008 z" /></clipPath><clipPath
-       id="clipPath2104"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2106"
-         d="m 514.92,335.4 55.368,0 0,7.104 -55.368,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath2112"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2114"
-         d="m 514.92,335.47 55.368,0 0,7.032 -55.368,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath2132"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2134"
-         d="m 471.6,315.74 43.872,0 0,7.104 -43.872,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath2140"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2142"
-         d="m 471.6,315.82 43.872,0 0,7.032 -43.872,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath2158"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2160"
-         d="m 411.65,312.62 72,0 0,7.08 -72,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath2166"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2168"
-         d="m 411.65,312.67 72,0 0,7.032 -72,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath2178"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2180"
-         d="m 416.35,302.26 45.768,0 0,7.104 -45.768,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath2186"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2188"
-         d="m 416.35,302.33 45.768,0 0,7.032 -45.768,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath2198"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2200"
-         d="m 416.35,295.25 60.024,0 0,7.08 -60.024,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath2206"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2208"
-         d="m 416.35,295.3 60.024,0 0,7.032 -60.024,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath2230"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2232"
-         d="m 292.7,340.22 48.408,0 0,7.104 -48.408,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath2238"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2240"
-         d="m 292.7,340.3 48.384,0 0,7.032 -48.384,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath2250"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2252"
-         d="m 292.7,333.22 69.048,0 0,7.08 -69.048,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath2258"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2260"
-         d="m 292.7,333.26 69.048,0 0,7.032 -69.048,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath2270"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2272"
-         d="m 286.1,431.86 60.216,0 0,7.104 -60.216,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath2278"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2280"
-         d="m 286.1,431.93 60.216,0 0,7.032 -60.216,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath2296"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2298"
-         d="m 346.99,309.17 66.864,0 0,7.08 -66.864,0 0,-7.08 z" /></clipPath><clipPath
-       id="clipPath2304"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2306"
-         d="m 346.99,309.22 66.864,0 0,7.032 -66.864,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath2316"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2318"
-         d="m 346.99,302.14 64.728,0 0,7.104 -64.728,0 0,-7.104 z" /></clipPath><clipPath
-       id="clipPath2324"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2326"
-         d="m 346.99,302.21 64.728,0 0,7.032 -64.728,0 0,-7.032 z" /></clipPath><clipPath
-       id="clipPath2336"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2338"
-         d="m 33.768,794.64 62.28,0 0,10.92 -62.28,0 0,-10.92 z" /></clipPath><clipPath
-       id="clipPath2344"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2346"
-         d="m 33.768,794.69 62.28,0 0,10.872 -62.28,0 0,-10.872 z" /></clipPath><clipPath
-       id="clipPath2356"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2358"
-         d="m 33.768,786.36 40.176,0 0,6.456 -40.176,0 0,-6.456 z" /></clipPath><clipPath
-       id="clipPath2364"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2366"
-         d="m 33.768,786.41 40.176,0 0,6.408 -40.176,0 0,-6.408 z" /></clipPath><clipPath
-       id="clipPath2376"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2378"
-         d="m 76.152,786.36 20.16,0 0,6.456 -20.16,0 0,-6.456 z" /></clipPath><clipPath
-       id="clipPath2384"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2386"
-         d="m 76.176,786.41 20.136,0 0,6.408 -20.136,0 0,-6.408 z" /></clipPath><clipPath
-       id="clipPath2396"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2398"
-         d="m 33.768,8.184 28.008,0 0,5.9041 -28.008,0 0,-5.9041 z" /></clipPath><clipPath
-       id="clipPath2404"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2406"
-         d="m 33.768,8.304 28.008,0 0,5.784 -28.008,0 0,-5.784 z" /></clipPath><clipPath
-       id="clipPath2412"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2414"
-         d="m 0,8.184 311.4,0 0,5.9041 -311.4,0 0,-5.9041 z" /></clipPath><clipPath
-       id="clipPath2420"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2422"
-         d="m 0,8.304 311.4,0 0,5.784 -311.4,0 0,-5.784 z" /></clipPath><clipPath
-       id="clipPath2432"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2434"
-         d="m 249.67,8.184 28.008,0 0,5.9041 -28.008,0 0,-5.9041 z" /></clipPath><clipPath
-       id="clipPath2440"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path2442"
-         d="m 249.67,8.304 28.008,0 0,5.784 -28.008,0 0,-5.784 z" /></clipPath></defs><g
-     transform="matrix(2.3910875,0,0,-2.3910875,-133.35935,1107.5453)"
-     id="g10"><g
-       transform="translate(17.6,-40.8)"
-       id="g320"><g
-         clip-path="url(#clipPath324)"
-         id="g322"><g
-           id="g328"><g
-             clip-path="url(#clipPath332)"
-             id="g330"><text
-               id="text336"
-               style="font-variant:normal;font-weight:bold;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,37.656,454.85)"><tspan
-                 id="tspan338"
-                 y="0"
-                 x="0 3.6345601 6.7334399 11.0592 12.33216 15.1776 16.479361 19.572479 21.64032 24.7104 27.152639 30.049919 32.376961 34.698238 35.89632 38.217602 39.65184 42.549122 45.4464 48.53952">How a process sleeps</tspan></text>
-</g></g></g></g><g
-       transform="translate(17.6,-40.8)"
-       id="g340"><g
-         clip-path="url(#clipPath344)"
-         id="g342"><g
-           id="g348"><g
-             clip-path="url(#clipPath352)"
-             id="g350"><text
-               id="text356"
-               style="font-variant:normal;font-weight:normal;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,51.792,433.78)"><tspan
-                 id="tspan358"
-                 y="0"
-                 x="0 3.312 4.6252799 6.5548801 9.31392 11.5776 14.20992 15.45984 17.89632 20.655359 23.679359 26.6688 29.73312 31.66272 32.855042 35.855999 38.72448 40.049278 44.167679 47.243519 49.875839 52.74432 55.768318 56.931839 59.9328 62.933762 64.24704 67.248001 69.880318 71.130241 73.382401 74.707199 77.391357 80.392319 83.15136 84.476158 86.728317 88.17984 89.481598 92.626556 95.69088 97.620483 100.64448 101.88288 104.9472 106.704 107.94816 109.87776 112.90176 115.77024 120.39552 121.57056 124.3296 126.33984 129.20831 130.51009 133.53407 136.40256 139.03488 141.90337 143.9136 145.08289 147.33504 149.77151 152.79552 155.664 158.66496 161.66592 162.99072 165.85921 168.86592 170.11584 172.04544 175.12704 176.37695 178.36992 181.37088">A task cannot be woken up by signals. Both of them are never scheduled to run</tspan></text>
-</g></g></g></g><g
-       transform="translate(17.6,-40.8)"
-       id="g360"><g
-         clip-path="url(#clipPath364)"
-         id="g362"><g
-           id="g368"><g
-             clip-path="url(#clipPath372)"
-             id="g370"><text
-               id="text376"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,37.656,440.78)"><tspan
-                 id="tspan378"
-                 y="0"
-                 x="0 3.568728 4.8990479 6.663168 8.4272881 11.33664 13.355256 16.25304 19.28964 21.22728 22.418783 26.554344 29.324881 30.655199 32.592838 33.865318 38.515656 41.581177 44.617775 47.498207 49.75975 50.962826 52.293144 53.600327 56.232048 59.141399 60.413879 63.230686 66.57962 69.234482 72.242157 75.145729 76.585945 80.322411 83.139214 85.961807 89.102524 92.243233 95.973915 98.993156 101.80997 103.26753 106.41403 108.84332 111.61963 112.74751 115.51805 118.53151 121.56812 122.8753 125.6921 129.04105 131.69589 134.70358 137.60715 141.32047 145.05693 146.48558 150.22205 153.03885 155.86145 159.00217 162.14287 165.87355 168.89281 171.70961 173.16718 176.31367 178.74295 181.5829 182.66451 186.80006 189.83667 192.74023 194.75885">Different wait modes like TASK_INTERRUPTIBLE and TASK_UNINTERRUPTIBLE where</tspan></text>
-</g></g></g></g><g
-       id="g1504"><path
-         id="path1506"
-         style="fill:none;stroke:#548dd4;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 268.44,462.79 36.1,0 0,-18.84 -36.1,0 0,18.84" /><path
-         id="path1508"
-         style="fill:none;stroke:#ed1c24;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 527.57,396.58 30.41,0 0,-15.36 -30.41,0 0,15.36" /><path
-         id="path1510"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 395.71,462.34 37.66,0 0,-18.84 -37.66,0 0,18.84" /></g><g
-       id="g1512"><g
-         clip-path="url(#clipPath1516)"
-         id="g1514"><g
-           id="g1520"><g
-             clip-path="url(#clipPath1524)"
-             id="g1522"><text
-               id="text1528"
-               style="font-variant:normal;font-weight:normal;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,271.32,451.32)"><tspan
-                 id="tspan1530"
-                 y="0"
-                 x="0 2.9951999 5.0054402 8.0755196 10.512 13.39776 15.64992 17.902081 19.0368">Process 1</tspan></text>
-</g></g></g></g><g
-       id="g1532"><path
-         id="path1534"
-         style="fill:none;stroke:#548dd4;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="M 287.28,443.95 286.49,281.16" /></g><g
-       id="g1536"><g
-         clip-path="url(#clipPath1540)"
-         id="g1538"><g
-           id="g1544"><g
-             clip-path="url(#clipPath1548)"
-             id="g1546"><text
-               id="text1552"
-               style="font-variant:normal;font-weight:normal;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,399.53,454.18)"><tspan
-                 id="tspan1554"
-                 y="0"
-                 x="0 3.01824 5.8867202 7.9084802 10.93248 13.80096">Kernel</tspan></text>
-</g></g></g></g><g
-       id="g1556"><g
-         clip-path="url(#clipPath1560)"
-         id="g1558"><g
-           id="g1564"><g
-             clip-path="url(#clipPath1568)"
-             id="g1566"><text
-               id="text1572"
-               style="font-variant:normal;font-weight:normal;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,399.53,447.14)"><tspan
-                 id="tspan1574"
-                 y="0"
-                 x="0 2.6438401 5.2761598 7.5283198 9.4694405 12.33792 16.997761 18.195841 21.265921 24.02496 25.34976">System Call</tspan></text>
-</g></g></g></g><g
-       id="g1576"><path
-         id="path1578"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="M 414.55,443.66 412.99,279.91" /></g><g
-       id="g1580"><g
-         clip-path="url(#clipPath1584)"
-         id="g1582"><g
-           id="g1588"><g
-             clip-path="url(#clipPath1592)"
-             id="g1590"><text
-               id="text1596"
-               style="font-variant:normal;font-weight:normal;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,530.42,389.88)"><tspan
-                 id="tspan1598"
-                 y="0"
-                 x="0 2.80512 4.12992 8.7552004 11.62368 13.87584 15.20064 16.52544 18.97344">Timeslice</tspan></text>
-</g></g></g></g><g
-       id="g1600"><g
-         clip-path="url(#clipPath1604)"
-         id="g1602"><g
-           id="g1608"><g
-             clip-path="url(#clipPath1612)"
-             id="g1610"><text
-               id="text1616"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,530.42,382.85)"><tspan
-                 id="tspan1618"
-                 y="0"
-                 x="0 3.8290081 6.4433761 9.3238077">Over</tspan></text>
-</g></g></g></g><g
-       id="g1620"><path
-         id="path1622"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 414.38,424.87 4.68,0 0,-10.99 -4.68,0 0,10.99" /><path
-         id="path1624"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 447.24,462.46 37.68,0 0,-18.84 -37.68,0 0,18.84" /></g><g
-       id="g1626"><g
-         clip-path="url(#clipPath1630)"
-         id="g1628"><g
-           id="g1634"><g
-             clip-path="url(#clipPath1638)"
-             id="g1636"><text
-               id="text1642"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,451.32,453.86)"><tspan
-                 id="tspan1644"
-                 y="0"
-                 x="0 3.0076799 5.8881121 7.9067278 10.897056 13.777488">Kernel</tspan></text>
-</g></g></g></g><g
-       id="g1646"><g
-         clip-path="url(#clipPath1650)"
-         id="g1648"><g
-           id="g1654"><g
-             clip-path="url(#clipPath1658)"
-             id="g1656"><text
-               id="text1662"
-               style="font-variant:normal;font-weight:normal;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,451.32,446.83)"><tspan
-                 id="tspan1664"
-                 y="0"
-                 x="0 2.6438401 5.0803199 8.1043196 10.9728 13.968 16.96896 18.29376 21.162239">Scheduler</tspan></text>
-</g></g></g></g><g
-       id="g1666"><path
-         id="path1668"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 413.52,307.73 4.68,0 0,-11.31 -4.68,0 0,11.31" /><path
-         id="path1670"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 414.41,429.86 98.06,-0.28" /><path
-         id="path1672"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 507.43,432.12 5.07,-2.52 -5.09,-2.52" /><path
-         id="path1674"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 493.7,461.83 37.68,0 0,-18.84 -37.68,0 0,18.84" /><path
-         id="path1676"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 512.52,443.18 -0.96,-127.8" /></g><g
-       id="g1678"><g
-         clip-path="url(#clipPath1682)"
-         id="g1680"><g
-           id="g1686"><g
-             clip-path="url(#clipPath1690)"
-             id="g1688"><text
-               id="text1694"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,497.45,453.53)"><tspan
-                 id="tspan1696"
-                 y="0"
-                 x="0 3.0076799 5.9228158 7.941432 10.978032 13.858464">Kernel</tspan></text>
-</g></g></g></g><g
-       id="g1698"><g
-         clip-path="url(#clipPath1702)"
-         id="g1700"><g
-           id="g1706"><g
-             clip-path="url(#clipPath1710)"
-             id="g1708"><text
-               id="text1714"
-               style="font-variant:normal;font-weight:normal;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,497.45,446.52)"><tspan
-                 id="tspan1716"
-                 y="0"
-                 x="0 1.45152 4.5791998 8.4556799 9.7574396 12.78144 15.54048 18.56448 21.58848 22.91328 25.79328">IRQ handler</tspan></text>
-</g></g></g></g><g
-       id="g1718"><path
-         id="path1720"
-         style="fill:none;stroke:#ed1c24;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="M 527.23,385.01 511.87,379.7" /><path
-         id="path1722"
-         style="fill:none;stroke:#ed1c24;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 517.49,378.96 -5.62,0.74 3.94,4.04" /><path
-         id="path1724"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 414.24,401.33 52.08,0" /><path
-         id="path1726"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 461.26,403.85 5.08,-2.52 -5.08,-2.55" /><path
-         id="path1728"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 511.9,348.84 4.7,0 0,-11.28 -4.7,0 0,11.28" /><path
-         id="path1730"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 465.7,391.61 -135.87,0.02" /><path
-         id="path1732"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 334.87,389.09 -5.06,2.54 5.06,2.55" /><path
-         id="path1734"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 511.54,374.38 -46.16,-0.34" /><path
-         id="path1736"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 470.47,371.57 -5.09,2.47 5.07,2.57" /><path
-         id="path1738"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 413.35,360.77 4.68,0 0,-11.31 -4.68,0 0,11.31" /><path
-         id="path1740"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="M 466.46,443.3 465.41,294.36" /><path
-         id="path1742"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 412.99,346.08 51.89,-0.94" /><path
-         id="path1744"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 459.89,347.76 5.01,-2.64 -5.13,-2.42" /></g><g
-       id="g1746"><g
-         clip-path="url(#clipPath1750)"
-         id="g1748"><g
-           id="g1754"><g
-             clip-path="url(#clipPath1758)"
-             id="g1756"><text
-               id="text1762"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,418.06,431.93)"><tspan
-                 id="tspan1764"
-                 y="0"
-                 x="0 3.140712 6.0211439 8.7454081 10.058376 12.31992 14.25756 17.137993 19.156609 20.353895 22.291536 25.362841 26.612185 30.747744 33.51828 34.848598 36.78624 38.035583 41.072186 44.085648 46.96608 50.002682">Register to wait queue</tspan></text>
-</g></g></g></g><g
-       id="g1766"><g
-         clip-path="url(#clipPath1770)"
-         id="g1768"><g
-           id="g1774"><g
-             clip-path="url(#clipPath1778)"
-             id="g1776"><text
-               id="text1782"
-               style="font-variant:normal;font-weight:normal;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,419.93,338.69)"><tspan
-                 id="tspan1784"
-                 y="0"
-                 x="0 2.82816 4.1529598 7.02144 8.34624 11.37024 12.62016 13.94496 17.009279 19.445761">Yield lock</tspan></text>
-</g></g></g></g><g
-       id="g1786"><path
-         id="path1788"
-         style="fill:none;stroke:#548dd4;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 311.66,462.82 36.08,0 0,-18.84 -36.08,0 0,18.84" /></g><g
-       id="g1790"><g
-         clip-path="url(#clipPath1794)"
-         id="g1792"><g
-           id="g1798"><g
-             clip-path="url(#clipPath1802)"
-             id="g1800"><text
-               id="text1806"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,314.52,451.32)"><tspan
-                 id="tspan1808"
-                 y="0"
-                 x="0 3.019248 5.0378642 8.103384 10.550016 13.4478 15.709344 17.970888 19.0872">Process 2</tspan></text>
-</g></g></g></g><g
-       id="g1810"><path
-         id="path1812"
-         style="fill:none;stroke:#548dd4;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 329.18,395.09 0,-29.52" /><path
-         id="path1814"
-         style="fill:none;stroke:#548dd4;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 353.4,462.5 36.1,0 0,-18.84 -36.1,0 0,18.84" /></g><g
-       id="g1816"><g
-         clip-path="url(#clipPath1820)"
-         id="g1818"><g
-           id="g1824"><g
-             clip-path="url(#clipPath1828)"
-             id="g1826"><text
-               id="text1832"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,356.28,451.01)"><tspan
-                 id="tspan1834"
-                 y="0"
-                 x="0 2.9903281 5.008944 8.0571117 10.503744 13.384176 15.64572 17.907265 19.02936">Process 3</tspan></text>
-</g></g></g></g><g
-       id="g1836"><path
-         id="path1838"
-         style="fill:none;stroke:#548dd4;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 370.3,371.54 -0.34,-56.49" /><path
-         id="path1840"
-         style="fill:none;stroke:#548dd4;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 287.14,439.94 127.1,-0.91" /><path
-         id="path1842"
-         style="fill:none;stroke:#548dd4;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 409.2,441.58 5.04,-2.57 -5.06,-2.5" /></g><g
-       id="g1844"><g
-         clip-path="url(#clipPath1848)"
-         id="g1846"><g
-           id="g1852"><g
-             clip-path="url(#clipPath1856)"
-             id="g1854"><text
-               id="text1860"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,418.06,402.74)"><tspan
-                 id="tspan1862"
-                 y="0"
-                 x="0 2.816808 4.1471281 7.0275602 8.3578796 11.377128 12.626472 15.709344 18.717024">Yield CPU</tspan></text>
-</g></g></g></g><g
-       id="g1864"><g
-         clip-path="url(#clipPath1868)"
-         id="g1866"><g
-           id="g1872"><g
-             clip-path="url(#clipPath1876)"
-             id="g1874"><text
-               id="text1880"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,420.89,420.94)"><tspan
-                 id="tspan1882"
-                 y="0"
-                 x="0 2.654856 6.7672801 8.0976 10.03524 12.481872 15.477984 16.727327 19.729223 21.71892 24.784439 27.231071 30.111504 32.373047">Switch process</tspan></text>
-</g></g></g></g><g
-       id="g1884"><g
-         clip-path="url(#clipPath1888)"
-         id="g1886"><g
-           id="g1892"><g
-             clip-path="url(#clipPath1896)"
-             id="g1894"><text
-               id="text1900"
-               style="font-variant:normal;font-weight:normal;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,420.89,413.93)"><tspan
-                 id="tspan1902"
-                 y="0"
-                 x="0 2.80512 5.8751998 7.1251202 11.24352 14.00256 15.32736 17.26848 18.5184 20.770559 22.711679 25.47072 27.40032">To wait state</tspan></text>
-</g></g></g></g><g
-       id="g1904"><g
-         clip-path="url(#clipPath1908)"
-         id="g1906"><g
-           id="g1912"><g
-             clip-path="url(#clipPath1916)"
-             id="g1914"><text
-               id="text1920"
-               style="font-variant:normal;font-weight:normal;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,340.22,393.65)"><tspan
-                 id="tspan1922"
-                 y="0"
-                 x="0 3.1276801 6.0191998 8.2713604 11.27808 15.90336 18.771839 19.98144 22.982401 24.307199 26.99136 29.992319 32.860802 34.882561 36.195839 39.1968 41.207039 42.531841 45.601921 46.851841 49.852798 51.863041 54.933121 57.369598 60.25536 62.507519">Resume higher prio process</tspan></text>
-</g></g></g></g><g
-       id="g1924"><g
-         clip-path="url(#clipPath1928)"
-         id="g1926"><g
-           id="g1932"><g
-             clip-path="url(#clipPath1936)"
-             id="g1934"><text
-               id="text1940"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,474.24,375.12)"><tspan
-                 id="tspan1942"
-                 y="0"
-                 x="0 2.261544 4.7081761 7.704288 10.58472 13.586616 16.588512 17.918833">schedule</tspan></text>
-</g></g></g></g><g
-       id="g1944"><path
-         id="path1946"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="M 465.43,369.55 370.3,369.36" /><path
-         id="path1948"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 375.38,366.82 -5.08,2.52 5.08,2.54" /></g><g
-       id="g1950"><g
-         clip-path="url(#clipPath1954)"
-         id="g1952"><g
-           id="g1958"><g
-             clip-path="url(#clipPath1962)"
-             id="g1960"><text
-               id="text1966"
-               style="font-variant:normal;font-weight:bold;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,378.82,378.58)"><tspan
-                 id="tspan1968"
-                 y="0"
-                 x="0 3.256392 6.1657438 8.4909124 11.59692 16.299313 19.208664 20.492712 22.308887 25.414896 28.503551 29.810736 32.916744 36.028538 38.035583 39.34277 41.795185 44.906975 47.989849 50.309231 51.7668 54.872807 57.782162 59.84705 61.044334 64.150345 66.221016 69.332809 71.750519 74.659874 76.990822 79.310211 80.582687">Resume (do not consider process 1</tspan></text>
-</g></g></g></g><g
-       id="g1970"><g
-         clip-path="url(#clipPath1974)"
-         id="g1972"><g
-           id="g1978"><g
-             clip-path="url(#clipPath1982)"
-             id="g1980"><text
-               id="text1986"
-               style="font-variant:normal;font-weight:bold;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,378.82,371.57)"><tspan
-                 id="tspan1988"
-                 y="0"
-                 x="0 2.7244799 4.1702399 7.26336 9.71136 12.60864 13.88736 15.34464 17.354879 18.62784 20.085119 22.406401 23.679359 25.136641 28.229759 29.50272 32.0256 34.346882 35.804161 38.701439 41.598721 44.691841 47.214722 48.54528 50.866562 52.876801 55.72224 57.720959 60.61824">Since it is in &quot;sleep&quot; state)</tspan></text>
-</g></g></g></g><g
-       id="g1990"><path
-         id="path1992"
-         style="fill:none;stroke:#ed1c24;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 528.12,367.18 30.46,0 0,-15.36 -30.46,0 0,15.36" /></g><g
-       id="g1994"><g
-         clip-path="url(#clipPath1998)"
-         id="g1996"><g
-           id="g2002"><g
-             clip-path="url(#clipPath2006)"
-             id="g2004"><text
-               id="text2010"
-               style="font-variant:normal;font-weight:normal;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,531.05,360.7)"><tspan
-                 id="tspan2012"
-                 y="0"
-                 x="0 3.1276801 6.0191998 8.2713604 11.34144 14.3424 16.35264 18.80064">Resource</tspan></text>
-</g></g></g></g><g
-       id="g2014"><g
-         clip-path="url(#clipPath2018)"
-         id="g2016"><g
-           id="g2022"><g
-             clip-path="url(#clipPath2026)"
-             id="g2024"><text
-               id="text2030"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,531.05,353.66)"><tspan
-                 id="tspan2032"
-                 y="0"
-                 x="0 3.3142321 5.9459519 8.7164879 10.023672 11.353992 14.101392 17.103289 18.433607">Available</tspan></text>
-</g></g></g></g><g
-       id="g2034"><path
-         id="path2036"
-         style="fill:none;stroke:#ed1c24;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 527.93,358.92 -15.41,-5.35" /><path
-         id="path2038"
-         style="fill:none;stroke:#ed1c24;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 518.16,352.85 -5.64,0.72 3.96,4.05" /></g><g
-       id="g2040"><g
-         clip-path="url(#clipPath2044)"
-         id="g2042"><g
-           id="g2048"><g
-             clip-path="url(#clipPath2052)"
-             id="g2050"><text
-               id="text2056"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,519.43,325.54)"><tspan
-                 id="tspan2058"
-                 y="0"
-                 x="0 1.4402159 3.2043359 4.5115199 7.54812 9.5667362 12.614904 15.061536 16.322449 19.266504 20.515848 23.552448 26.299849 28.561392 29.868576 32.905174 34.235497 36.907703 39.944305 42.824738 44.843353 46.075344 49.111942 51.130562 52.437744 55.503265 56.810448 58.759655 61.796257 64.543655 67.580254 68.818031">If proc 1 has higher prio than 2</tspan></text>
-</g></g></g></g><g
-       id="g2060"><g
-         clip-path="url(#clipPath2064)"
-         id="g2062"><g
-           id="g2068"><g
-             clip-path="url(#clipPath2072)"
-             id="g2070"><text
-               id="text2076"
-               style="font-variant:normal;font-weight:normal;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,519.43,318.53)"><tspan
-                 id="tspan2078"
-                 y="0"
-                 x="0 2.82816 5.85216 8.7206402 11.74464 13.00608 15.25824 18.12672 20.079359 21.329281 24.353279 27.22176 30.107519 33.131519 36 38.252159 40.711681 43.73568 46.60416 49.628159 50.889599 52.6464 53.971199 56.73024">Then set need_sched flag</tspan></text>
-</g></g></g></g><g
-       id="g2080"><g
-         clip-path="url(#clipPath2084)"
-         id="g2082"><g
-           id="g2088"><g
-             clip-path="url(#clipPath2092)"
-             id="g2090"><text
-               id="text2096"
-               style="font-variant:normal;font-weight:normal;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,518.81,344.06)"><tspan
-                 id="tspan2098"
-                 y="0"
-                 x="0 2.6438401 6.7622399 8.0870399 10.01664 12.47616 15.47712 16.727039 19.48608 20.810881 22.135679 23.437441 26.461439 28.47168 31.530239 33.966721 35.228161 36.552959 39.548161 40.861439 43.8624 46.863361 49.731838 52.75584 55.624321 56.874241 58.803841">Switch all proc in queue to</tspan></text>
-</g></g></g></g><g
-       id="g2100"><g
-         clip-path="url(#clipPath2104)"
-         id="g2102"><g
-           id="g2108"><g
-             clip-path="url(#clipPath2112)"
-             id="g2110"><text
-               id="text2116"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,518.81,337.03)"><tspan
-                 id="tspan2118"
-                 y="0"
-                 x="0 3.140712 6.1426082 9.1445036 12.1464 13.47672 16.467049 19.156609 20.463793 22.725336 24.662975 27.433512 29.371153">Running state</tspan></text>
-</g></g></g></g><g
-       id="g2120"><path
-         id="path2122"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 511.61,329.76 4.7,0 0,-11.33 -4.7,0 0,11.33" /><path
-         id="path2124"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 511.61,316.2 -46.15,-0.31" /><path
-         id="path2126"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 470.54,313.39 -5.08,2.5 5.06,2.54" /></g><g
-       id="g2128"><g
-         clip-path="url(#clipPath2132)"
-         id="g2130"><g
-           id="g2136"><g
-             clip-path="url(#clipPath2140)"
-             id="g2138"><text
-               id="text2144"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,475.49,317.38)"><tspan
-                 id="tspan2146"
-                 y="0"
-                 x="0 2.2560041 4.6970959 7.7281561 10.603048 13.634108 16.665169 17.989948">schedule</tspan></text>
-</g></g></g></g><g
-       id="g2148"><path
-         id="path2150"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 465.53,312.24 -52.23,0" /><path
-         id="path2152"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 418.37,309.72 -5.07,2.52 5.04,2.52" /></g><g
-       id="g2154"><g
-         clip-path="url(#clipPath2158)"
-         id="g2156"><g
-           id="g2162"><g
-             clip-path="url(#clipPath2166)"
-             id="g2164"><text
-               id="text2170"
-               style="font-variant:normal;font-weight:normal;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,415.54,314.26)"><tspan
-                 id="tspan2172"
-                 y="0"
-                 x="0 3.1276801 6.0422401 8.31744 11.34144 15.98976 18.887039 20.085119 21.853439 23.86368 26.962561 31.61088 32.80896 35.08416 37.71648 39.99168 41.264641 43.701118 46.48896 47.813759">Resume from sys call</tspan></text>
-</g></g></g></g><g
-       id="g2174"><g
-         clip-path="url(#clipPath2178)"
-         id="g2176"><g
-           id="g2182"><g
-             clip-path="url(#clipPath2186)"
-             id="g2184"><text
-               id="text2190"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,420.26,303.89)"><tspan
-                 id="tspan2192"
-                 y="0"
-                 x="0 2.614368 3.9099841 6.91188 8.2074957 10.46904 13.465152 14.772336 17.218967 19.966368 21.261984">Finish call</tspan></text>
-</g></g></g></g><g
-       id="g2194"><g
-         clip-path="url(#clipPath2198)"
-         id="g2196"><g
-           id="g2202"><g
-             clip-path="url(#clipPath2206)"
-             id="g2204"><text
-               id="text2210"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,420.26,296.88)"><tspan
-                 id="tspan2212"
-                 y="0"
-                 x="0 1.752552 4.6329842 7.1374559 8.3752317 10.821864 13.887384 16.88928 19.509432 20.683584 23.68548 26.687376 28.451496 30.19248 33.07291 35.062607">(ex copy buffer)</tspan></text>
-</g></g></g></g><g
-       id="g2214"><path
-         id="path2216"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 412.68,291.5 -126.48,0" /><path
-         id="path2218"
-         style="fill:none;stroke:#177d36;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 291.24,288.98 -5.04,2.55 5.04,2.52" /><path
-         id="path2220"
-         style="fill:none;stroke:#0000ff;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 294.36,394.44 -0.62,-86.28" /><path
-         id="path2222"
-         style="fill:none;stroke:#0000ff;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 296.3,313.15 -2.56,-4.99 -2.5,5.06" /><path
-         id="path2224"
-         style="fill:none;stroke:#0000ff;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 291.82,389.4 2.54,5.06 2.5,-5.11" /></g><g
-       id="g2226"><g
-         clip-path="url(#clipPath2230)"
-         id="g2228"><g
-           id="g2234"><g
-             clip-path="url(#clipPath2238)"
-             id="g2236"><text
-               id="text2242"
-               style="font-variant:normal;font-weight:bold;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,296.59,341.86)"><tspan
-                 id="tspan2244"
-                 y="0"
-                 x="0 2.7126961 4.13556 7.0449119 9.9137764 12.98508 14.292264 16.316664 17.739529 22.453487">Sleep time</tspan></text>
-</g></g></g></g><g
-       id="g2246"><g
-         clip-path="url(#clipPath2250)"
-         id="g2248"><g
-           id="g2254"><g
-             clip-path="url(#clipPath2258)"
-             id="g2256"><text
-               id="text2262"
-               style="font-variant:normal;font-weight:bold;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,296.59,334.85)"><tspan
-                 id="tspan2264"
-                 y="0"
-                 x="0 3.0643201 6.1286402 9.8899202 11.15136 13.20768 16.087681 18.40896 21.47904 24.54912 26.60544 29.04768 31.927679 33.125759 34.945919 37.007999 39.888 42.768002">CPU resource freed</tspan></text>
-</g></g></g></g><g
-       id="g2266"><g
-         clip-path="url(#clipPath2270)"
-         id="g2268"><g
-           id="g2274"><g
-             clip-path="url(#clipPath2278)"
-             id="g2276"><text
-               id="text2282"
-               style="font-variant:normal;font-weight:normal;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,290.02,433.49)"><tspan
-                 id="tspan2284"
-                 y="0"
-                 x="0 3.1175759 4.4131918 7.4787121 9.9253445 12.557064 13.841112 16.843008 19.532568 20.781912 23.043455 25.663609 27.925152 29.157145 31.603777 34.374313 35.65836">Blocking sys call</tspan></text>
-</g></g></g></g><g
-       id="g2286"><path
-         id="path2288"
-         style="fill:none;stroke:#a5a5a5;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 329.18,443.71 0,-48.65" /><path
-         id="path2290"
-         style="fill:none;stroke:#a5a5a5;stroke-width:0.74400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 370.3,371.54 1.12,72.12" /></g><g
-       id="g2292"><g
-         clip-path="url(#clipPath2296)"
-         id="g2294"><g
-           id="g2300"><g
-             clip-path="url(#clipPath2304)"
-             id="g2302"><text
-               id="text2308"
-               style="font-variant:normal;font-weight:bold;font-size:5.76000023px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,350.9,310.8)"><tspan
-                 id="tspan2310"
-                 y="0"
-                 x="0 3.0643201 5.1321602 8.0121603 10.89216 15.59232 18.662399 20.661119 23.53536 26.60544 27.85536 30.92544 33.805439 35.608318 38.678398 40.734718">Preempted before</tspan></text>
-</g></g></g></g><g
-       id="g2312"><g
-         clip-path="url(#clipPath2316)"
-         id="g2314"><g
-           id="g2320"><g
-             clip-path="url(#clipPath2324)"
-             id="g2322"><text
-               id="text2328"
-               style="font-variant:normal;font-weight:bold;font-size:5.78399992px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               transform="matrix(1,0,0,-1,350.9,303.77)"><tspan
-                 id="tspan2330"
-                 y="0"
-                 x="0 2.86308 4.3148642 9.0172558 11.897688 14.205504 15.628368 17.074368 19.515217 22.395647 23.454121 26.334553 28.948919 32.020226 33.443089 35.519543 38.399975">Timeslice expired</tspan></text>
-</g></g></g></g><g
-       id="g2392"><g
-         clip-path="url(#clipPath2396)"
-         id="g2394"><g
-           id="g2400"><g
-             clip-path="url(#clipPath2404)"
-             id="g2402" /></g></g></g><g
-       id="g2428"><g
-         clip-path="url(#clipPath2432)"
-         id="g2430"><g
-           id="g2436"><g
-             clip-path="url(#clipPath2440)"
-             id="g2438" /></g></g></g></g></svg>
+<svg height="450" viewBox="0 0 1280 439.16" width="1280" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<clipPath id="a">
+<path d="m33.77 453.22h73.82v7.08h-73.82z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="b">
+<path d="m33.77 453.26h73.82v7.03h-73.82z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="c">
+<path d="m47.9 432.14h200.3v7.08h-200.3z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="d">
+<path d="m47.9 432.19h200.3v7.03h-200.3z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="e">
+<path d="m33.77 439.15h214.44v7.1h-214.44z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="f">
+<path d="m33.77 439.22h214.44v7.03h-214.44z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="g">
+<path d="m267.43 449.69h45.07v7.08h-45.07z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="h">
+<path d="m267.43 449.74h45.07v7.03h-45.07z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="i">
+<path d="m395.64 452.54h38.11v7.08h-38.11z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="j">
+<path d="m395.64 452.59h38.11v7.03h-38.11z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="k">
+<path d="m395.64 445.51h49.73v7.08h-49.73z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="l">
+<path d="m395.64 445.58h49.7v7.01h-49.7z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="m">
+<path d="m526.54 388.25h44.81v7.08h-44.81z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="n">
+<path d="m526.54 388.32h44.81v7.01h-44.81z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="o">
+<path d="m526.54 381.22h34.32v7.1h-34.32z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="p">
+<path d="m526.54 381.29h34.32v7.03h-34.32z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="q">
+<path d="m447.43 452.23h38.09v7.08h-38.09z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="r">
+<path d="m447.43 452.28h38.09v7.03h-38.09z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="s">
+<path d="m447.43 445.2h46.25v7.08h-46.25z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="t">
+<path d="m447.43 445.27h46.25v7.01h-46.25z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="u">
+<path d="m493.56 451.9h38.11v7.1h-38.11z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="v">
+<path d="m493.56 451.97h38.11v7.03h-38.11z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="w">
+<path d="m493.56 444.89h50.86v7.08h-50.86z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="x">
+<path d="m493.56 444.94h50.86v7.03h-50.86z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="y">
+<path d="m414.17 430.3h75.89v7.1h-75.89z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="z">
+<path d="m414.17 430.37h75.89v7.03h-75.89z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="A">
+<path d="m416.04 337.06h45.14v7.08h-45.14z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="B">
+<path d="m416.04 337.1h45.14v7.03h-45.14z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="C">
+<path d="m310.63 449.69h45.07v7.1h-45.07z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="D">
+<path d="m310.63 449.76h45.07v7.03h-45.07z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="E">
+<path d="m352.37 449.38h45.07v7.1h-45.07z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="F">
+<path d="m352.37 449.45h45.07v7.03h-45.07z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="G">
+<path d="m414.17 401.11h45.46v7.1h-45.46z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="H">
+<path d="m414.17 401.18h45.46v7.03h-45.46z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="I">
+<path d="m417 419.3h57.67v7.1h-57.67z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="J">
+<path d="m417 419.38h57.67v7.03h-57.67z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="K">
+<path d="m417 412.3h53.35v7.08h-53.35z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="L">
+<path d="m417 412.34h53.35v7.03h-53.35z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="M">
+<path d="m336.34 392.02h84.36v7.08h-84.36z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="N">
+<path d="m336.34 392.06h84.36v7.03h-84.36z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="O">
+<path d="m470.35 373.49h43.87v7.1h-43.87z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="P">
+<path d="m470.35 373.56h43.87v7.03h-43.87z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="Q">
+<path d="m374.93 376.94h106.22v7.1h-106.22z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="R">
+<path d="m374.93 377.02h106.22v7.03h-106.22z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="S">
+<path d="m374.93 369.94h85.18v7.08h-85.18z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="T">
+<path d="m374.93 369.98h85.18v7.03h-85.18z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="U">
+<path d="m527.16 359.06h44.69v7.08h-44.69z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="V">
+<path d="m527.16 359.14h44.69v7.01h-44.69z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="W">
+<path d="m527.16 352.03h44.38v7.1h-44.38z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="X">
+<path d="m527.16 352.1h44.38v7.03h-44.38z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="Y">
+<path d="m515.54 323.9h79.9v7.1h-79.9z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="Z">
+<path d="m515.54 323.98h79.9v7.03h-79.9z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="aa">
+<path d="m515.54 316.9h78.41v7.08h-78.41z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="ab">
+<path d="m515.54 316.94h78.41v7.03h-78.41z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="ac">
+<path d="m514.92 342.43h80.66v7.08h-80.66z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="ad">
+<path d="m514.92 342.5h80.66v7.01h-80.66z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="ae">
+<path d="m514.92 335.4h55.37v7.1h-55.37z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="af">
+<path d="m514.92 335.47h55.37v7.03h-55.37z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="ag">
+<path d="m471.6 315.74h43.87v7.1h-43.87z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="ah">
+<path d="m471.6 315.82h43.87v7.03h-43.87z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="ai">
+<path d="m411.65 312.62h72v7.08h-72z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="aj">
+<path d="m411.65 312.67h72v7.03h-72z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="ak">
+<path d="m416.35 302.26h45.77v7.1h-45.77z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="al">
+<path d="m416.35 302.33h45.77v7.03h-45.77z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="am">
+<path d="m416.35 295.25h60.02v7.08h-60.02z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="an">
+<path d="m416.35 295.3h60.02v7.03h-60.02z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="ao">
+<path d="m292.7 340.22h48.41v7.1h-48.41z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="ap">
+<path d="m292.7 340.3h48.38v7.03h-48.38z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="aq">
+<path d="m292.7 333.22h69.05v7.08h-69.05z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="ar">
+<path d="m292.7 333.26h69.05v7.03h-69.05z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="as">
+<path d="m286.1 431.86h60.22v7.1h-60.22z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="at">
+<path d="m286.1 431.93h60.22v7.03h-60.22z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="au">
+<path d="m346.99 309.17h66.86v7.08h-66.86z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="av">
+<path d="m346.99 309.22h66.86v7.03h-66.86z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="aw">
+<path d="m346.99 302.14h64.73v7.1h-64.73z" style="clip-rule:evenodd"/>
+</clipPath>
+<clipPath id="ax">
+<path d="m346.99 302.21h64.73v7.03h-64.73z" style="clip-rule:evenodd"/>
+</clipPath>
+<g transform="matrix(2.39 0 0 -2.39 -133.36 1107.55)">
+<g style="clip-path:url(#a)" transform="translate(17.6 -40.8)">
+<g style="clip-path:url(#b)">
+<text style="font-weight:bold;font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 37.66 454.85)">
+<tspan x="0 3.63 6.73 11.06 12.33 15.18 16.48 19.57 21.64 24.71 27.15 30.05 32.38 34.7 35.9 38.22 39.65 42.55 45.45 48.54" y="0">How a process sleeps</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#c)" transform="translate(17.6 -40.8)">
+<g style="clip-path:url(#d)">
+<text style="font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 51.79 433.78)">
+<tspan x="0 3.31 4.63 6.55 9.31 11.58 14.21 15.46 17.9 20.66 23.68 26.67 29.73 31.66 32.86 35.86 38.72 40.05 44.17 47.24 49.88 52.74 55.77 56.93 59.93 62.93 64.25 67.25 69.88 71.13 73.38 74.71 77.39 80.39 83.15 84.48 86.73 88.18 89.48 92.63 95.69 97.62 100.64 101.88 104.95 106.7 107.95 109.88 112.9 115.77 120.4 121.57 124.33 126.34 129.21 130.51 133.53 136.4 139.03 141.9 143.91 145.08 147.34 149.77 152.8 155.66 158.66 161.67 162.99 165.86 168.87 170.12 172.05 175.13 176.38 178.37 181.37" y="0">A task cannot be woken up by signals. Both of them are never scheduled to run</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#e)" transform="translate(17.6 -40.8)">
+<g style="clip-path:url(#f)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 37.66 440.78)">
+<tspan x="0 3.57 4.9 6.66 8.43 11.34 13.36 16.25 19.29 21.23 22.42 26.55 29.32 30.66 32.59 33.87 38.52 41.58 44.62 47.5 49.76 50.96 52.29 53.6 56.23 59.14 60.41 63.23 66.58 69.23 72.24 75.15 76.59 80.32 83.14 85.96 89.1 92.24 95.97 98.99 101.81 103.27 106.41 108.84 111.62 112.75 115.52 118.53 121.57 122.88 125.69 129.04 131.7 134.7 137.61 141.32 145.06 146.49 150.22 153.04 155.86 159 162.14 165.87 168.89 171.71 173.17 176.31 178.74 181.58 182.66 186.8 189.84 192.74 194.76" y="0">Different wait modes like TASK_INTERRUPTIBLE and TASK_UNINTERRUPTIBLE where</tspan>
+</text>
+</g>
+</g>
+<g style="fill:none;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10">
+<path d="m268.44 462.79h36.1v-18.84h-36.1z" style="stroke:#548dd4"/>
+<path d="m527.57 396.58h30.41v-15.36h-30.41z" style="stroke:#ed1c24"/>
+<path d="m395.71 462.34h37.66v-18.84h-37.66z" style="stroke:#177d36"/>
+</g>
+<g style="clip-path:url(#g)">
+<g style="clip-path:url(#h)">
+<text style="font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 271.32 451.32)">
+<tspan x="0 3 5.01 8.08 10.51 13.4 15.65 17.9 19.04" y="0">Process 1</tspan>
+</text>
+</g>
+</g>
+<path d="m287.28 443.95-.79-162.79" style="fill:none;stroke:#548dd4;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<g style="clip-path:url(#i)">
+<g style="clip-path:url(#j)">
+<text style="font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 399.53 454.18)">
+<tspan x="0 3.02 5.89 7.91 10.93 13.8" y="0">Kernel</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#k)">
+<g style="clip-path:url(#l)">
+<text style="font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 399.53 447.14)">
+<tspan x="0 2.64 5.28 7.53 9.47 12.34 17 18.2 21.27 24.02 25.35" y="0">System Call</tspan>
+</text>
+</g>
+</g>
+<path d="m414.55 443.66-1.56-163.75" style="fill:none;stroke:#177d36;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<g style="clip-path:url(#m)">
+<g style="clip-path:url(#n)">
+<text style="font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 530.42 389.88)">
+<tspan x="0 2.81 4.13 8.76 11.62 13.88 15.2 16.53 18.97" y="0">Timeslice</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#o)">
+<g style="clip-path:url(#p)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 530.42 382.85)">
+<tspan x="0 3.83 6.44 9.32" y="0">Over</tspan>
+</text>
+</g>
+</g>
+<path d="m414.38 424.87h4.68v-10.99h-4.68z" style="fill:none;stroke:#177d36;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<path d="m447.24 462.46h37.68v-18.84h-37.68z" style="fill:none;stroke:#177d36;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<g style="clip-path:url(#q)">
+<g style="clip-path:url(#r)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 451.32 453.86)">
+<tspan x="0 3.01 5.89 7.91 10.9 13.78" y="0">Kernel</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#s)">
+<g style="clip-path:url(#t)">
+<text style="font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 451.32 446.83)">
+<tspan x="0 2.64 5.08 8.1 10.97 13.97 16.97 18.29 21.16" y="0">Scheduler</tspan>
+</text>
+</g>
+</g>
+<g style="fill:none;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke:#177d36">
+<path d="m413.52 307.73h4.68v-11.31h-4.68z"/>
+<path d="m414.41 429.86 98.06-.28"/>
+<path d="m507.43 432.12 5.07-2.52-5.09-2.52"/>
+<path d="m493.7 461.83h37.68v-18.84h-37.68z"/>
+<path d="m512.52 443.18-.96-127.8"/>
+</g>
+<g style="clip-path:url(#u)">
+<g style="clip-path:url(#v)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 497.45 453.53)">
+<tspan x="0 3.01 5.92 7.94 10.98 13.86" y="0">Kernel</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#w)">
+<g style="clip-path:url(#x)">
+<text style="font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 497.45 446.52)">
+<tspan x="0 1.45 4.58 8.46 9.76 12.78 15.54 18.56 21.59 22.91 25.79" y="0">IRQ handler</tspan>
+</text>
+</g>
+</g>
+<g style="fill:none;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10">
+<path d="m527.23 385.01-15.36-5.31" style="stroke:#ed1c24"/>
+<path d="m517.49 378.96-5.62.74 3.94 4.04" style="stroke:#ed1c24"/>
+<g style="stroke:#177d36">
+<path d="m414.24 401.33h52.08"/>
+<path d="m461.26 403.85 5.08-2.52-5.08-2.55"/>
+<path d="m511.9 348.84h4.7v-11.28h-4.7z"/>
+<path d="m465.7 391.61-135.87.02"/>
+<path d="m334.87 389.09-5.06 2.54 5.06 2.55"/>
+<path d="m511.54 374.38-46.16-.34"/>
+<path d="m470.47 371.57-5.09 2.47 5.07 2.57"/>
+<path d="m413.35 360.77h4.68v-11.31h-4.68z"/>
+<path d="m466.46 443.3-1.05-148.94"/>
+<path d="m412.99 346.08 51.89-.94"/>
+<path d="m459.89 347.76 5.01-2.64-5.13-2.42"/>
+</g>
+</g>
+<g style="clip-path:url(#y)">
+<g style="clip-path:url(#z)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 418.06 431.93)">
+<tspan x="0 3.14 6.02 8.75 10.06 12.32 14.26 17.14 19.16 20.35 22.29 25.36 26.61 30.75 33.52 34.85 36.79 38.04 41.07 44.09 46.97 50" y="0">Register to wait queue</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#A)">
+<g style="clip-path:url(#B)">
+<text style="font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 419.93 338.69)">
+<tspan x="0 2.83 4.15 7.02 8.35 11.37 12.62 13.94 17.01 19.45" y="0">Yield lock</tspan>
+</text>
+</g>
+</g>
+<path d="m311.66 462.82h36.08v-18.84h-36.08z" style="fill:none;stroke:#548dd4;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<g style="clip-path:url(#C)">
+<g style="clip-path:url(#D)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 314.52 451.32)">
+<tspan x="0 3.02 5.04 8.1 10.55 13.45 15.71 17.97 19.09" y="0">Process 2</tspan>
+</text>
+</g>
+</g>
+<path d="m329.18 395.09v-29.52" style="fill:none;stroke:#548dd4;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<path d="m353.4 462.5h36.1v-18.84h-36.1z" style="fill:none;stroke:#548dd4;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<g style="clip-path:url(#E)">
+<g style="clip-path:url(#F)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 356.28 451.01)">
+<tspan x="0 2.99 5.01 8.06 10.5 13.38 15.65 17.91 19.03" y="0">Process 3</tspan>
+</text>
+</g>
+</g>
+<g style="fill:none;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke:#548dd4">
+<path d="m370.3 371.54-.34-56.49"/>
+<path d="m287.14 439.94 127.1-.91"/>
+<path d="m409.2 441.58 5.04-2.57-5.06-2.5"/>
+</g>
+<g style="clip-path:url(#G)">
+<g style="clip-path:url(#H)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 418.06 402.74)">
+<tspan x="0 2.82 4.15 7.03 8.36 11.38 12.63 15.71 18.72" y="0">Yield CPU</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#I)">
+<g style="clip-path:url(#J)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 420.89 420.94)">
+<tspan x="0 2.65 6.77 8.1 10.04 12.48 15.48 16.73 19.73 21.72 24.78 27.23 30.11 32.37" y="0">Switch process</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#K)">
+<g style="clip-path:url(#L)">
+<text style="font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 420.89 413.93)">
+<tspan x="0 2.81 5.88 7.13 11.24 14 15.33 17.27 18.52 20.77 22.71 25.47 27.4" y="0">To wait state</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#M)">
+<g style="clip-path:url(#N)">
+<text style="font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 340.22 393.65)">
+<tspan x="0 3.13 6.02 8.27 11.28 15.9 18.77 19.98 22.98 24.31 26.99 29.99 32.86 34.88 36.2 39.2 41.21 42.53 45.6 46.85 49.85 51.86 54.93 57.37 60.26 62.51" y="0">Resume higher prio process</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#O)">
+<g style="clip-path:url(#P)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 474.24 375.12)">
+<tspan x="0 2.26 4.71 7.7 10.58 13.59 16.59 17.92" y="0">schedule</tspan>
+</text>
+</g>
+</g>
+<path d="m465.43 369.55-95.13-.19" style="fill:none;stroke:#177d36;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<path d="m375.38 366.82-5.08 2.52 5.08 2.54" style="fill:none;stroke:#177d36;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<g style="clip-path:url(#Q)">
+<g style="clip-path:url(#R)">
+<text style="font-weight:bold;font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 378.82 378.58)">
+<tspan x="0 3.26 6.17 8.49 11.6 16.3 19.21 20.49 22.31 25.41 28.5 29.81 32.92 36.03 38.04 39.34 41.8 44.91 47.99 50.31 51.77 54.87 57.78 59.85 61.04 64.15 66.22 69.33 71.75 74.66 76.99 79.31 80.58" y="0">Resume (do not consider process 1</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#S)">
+<g style="clip-path:url(#T)">
+<text style="font-weight:bold;font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 378.82 371.57)">
+<tspan x="0 2.72 4.17 7.26 9.71 12.61 13.89 15.34 17.35 18.63 20.09 22.41 23.68 25.14 28.23 29.5 32.03 34.35 35.8 38.7 41.6 44.69 47.21 48.55 50.87 52.88 55.72 57.72 60.62" y="0">Since it is in "sleep" state)</tspan>
+</text>
+</g>
+</g>
+<path d="m528.12 367.18h30.46v-15.36h-30.46z" style="fill:none;stroke:#ed1c24;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<g style="clip-path:url(#U)">
+<g style="clip-path:url(#V)">
+<text style="font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 531.05 360.7)">
+<tspan x="0 3.13 6.02 8.27 11.34 14.34 16.35 18.8" y="0">Resource</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#W)">
+<g style="clip-path:url(#X)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 531.05 353.66)">
+<tspan x="0 3.31 5.95 8.72 10.02 11.35 14.1 17.1 18.43" y="0">Available</tspan>
+</text>
+</g>
+</g>
+<path d="m527.93 358.92-15.41-5.35" style="fill:none;stroke:#ed1c24;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<path d="m518.16 352.85-5.64.72 3.96 4.05" style="fill:none;stroke:#ed1c24;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<g style="clip-path:url(#Y)">
+<g style="clip-path:url(#Z)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 519.43 325.54)">
+<tspan x="0 1.44 3.2 4.51 7.55 9.57 12.61 15.06 16.32 19.27 20.52 23.55 26.3 28.56 29.87 32.91 34.24 36.91 39.94 42.82 44.84 46.08 49.11 51.13 52.44 55.5 56.81 58.76 61.8 64.54 67.58 68.82" y="0">If proc 1 has higher prio than 2</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#aa)">
+<g style="clip-path:url(#ab)">
+<text style="font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 519.43 318.53)">
+<tspan x="0 2.83 5.85 8.72 11.74 13.01 15.26 18.13 20.08 21.33 24.35 27.22 30.11 33.13 36 38.25 40.71 43.74 46.6 49.63 50.89 52.65 53.97 56.73" y="0">Then set need_sched flag</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#ac)">
+<g style="clip-path:url(#ad)">
+<text style="font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 518.81 344.06)">
+<tspan x="0 2.64 6.76 8.09 10.02 12.48 15.48 16.73 19.49 20.81 22.14 23.44 26.46 28.47 31.53 33.97 35.23 36.55 39.55 40.86 43.86 46.86 49.73 52.76 55.62 56.87 58.8" y="0">Switch all proc in queue to</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#ae)">
+<g style="clip-path:url(#af)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 518.81 337.03)">
+<tspan x="0 3.14 6.14 9.14 12.15 13.48 16.47 19.16 20.46 22.73 24.66 27.43 29.37" y="0">Running state</tspan>
+</text>
+</g>
+</g>
+<g style="fill:none;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke:#177d36">
+<path d="m511.61 329.76h4.7v-11.33h-4.7z"/>
+<path d="m511.61 316.2-46.15-.31"/>
+<path d="m470.54 313.39-5.08 2.5 5.06 2.54"/>
+</g>
+<g style="clip-path:url(#ag)">
+<g style="clip-path:url(#ah)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 475.49 317.38)">
+<tspan x="0 2.26 4.7 7.73 10.6 13.63 16.67 17.99" y="0">schedule</tspan>
+</text>
+</g>
+</g>
+<path d="m465.53 312.24h-52.23" style="fill:none;stroke:#177d36;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<path d="m418.37 309.72-5.07 2.52 5.04 2.52" style="fill:none;stroke:#177d36;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<g style="clip-path:url(#ai)">
+<g style="clip-path:url(#aj)">
+<text style="font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 415.54 314.26)">
+<tspan x="0 3.13 6.04 8.32 11.34 15.99 18.89 20.09 21.85 23.86 26.96 31.61 32.81 35.08 37.72 39.99 41.26 43.7 46.49 47.81" y="0">Resume from sys call</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#ak)">
+<g style="clip-path:url(#al)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 420.26 303.89)">
+<tspan x="0 2.61 3.91 6.91 8.21 10.47 13.47 14.77 17.22 19.97 21.26" y="0">Finish call</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#am)">
+<g style="clip-path:url(#an)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 420.26 296.88)">
+<tspan x="0 1.75 4.63 7.14 8.38 10.82 13.89 16.89 19.51 20.68 23.69 26.69 28.45 30.19 33.07 35.06" y="0">(ex copy buffer)</tspan>
+</text>
+</g>
+</g>
+<g style="fill:none;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10">
+<path d="m412.68 291.5h-126.48" style="stroke:#177d36"/>
+<path d="m291.24 288.98-5.04 2.55 5.04 2.52" style="stroke:#177d36"/>
+<g style="stroke:#00f">
+<path d="m294.36 394.44-.62-86.28"/>
+<path d="m296.3 313.15-2.56-4.99-2.5 5.06"/>
+<path d="m291.82 389.4 2.54 5.06 2.5-5.11"/>
+</g>
+</g>
+<g style="clip-path:url(#ao)">
+<g style="clip-path:url(#ap)">
+<text style="font-weight:bold;font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 296.59 341.86)">
+<tspan x="0 2.71 4.14 7.04 9.91 12.99 14.29 16.32 17.74 22.45" y="0">Sleep time</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#aq)">
+<g style="clip-path:url(#ar)">
+<text style="font-weight:bold;font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 296.59 334.85)">
+<tspan x="0 3.06 6.13 9.89 11.15 13.21 16.09 18.41 21.48 24.55 26.61 29.05 31.93 33.13 34.95 37.01 39.89 42.77" y="0">CPU resource freed</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#as)">
+<g style="clip-path:url(#at)">
+<text style="font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 290.02 433.49)">
+<tspan x="0 3.12 4.41 7.48 9.93 12.56 13.84 16.84 19.53 20.78 23.04 25.66 27.93 29.16 31.6 34.37 35.66" y="0">Blocking sys call</tspan>
+</text>
+</g>
+</g>
+<path d="m329.18 443.71v-48.65" style="fill:none;stroke:#a5a5a5;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<path d="m370.3 371.54 1.12 72.12" style="fill:none;stroke:#a5a5a5;stroke-width:.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/>
+<g style="clip-path:url(#au)">
+<g style="clip-path:url(#av)">
+<text style="font-weight:bold;font-size:5.76;font-family:Droid Sans" transform="matrix(1 0 0 -1 350.9 310.8)">
+<tspan x="0 3.06 5.13 8.01 10.89 15.59 18.66 20.66 23.54 26.61 27.86 30.93 33.81 35.61 38.68 40.73" y="0">Preempted before</tspan>
+</text>
+</g>
+</g>
+<g style="clip-path:url(#aw)">
+<g style="clip-path:url(#ax)">
+<text style="font-weight:bold;font-size:5.78;font-family:Droid Sans" transform="matrix(1 0 0 -1 350.9 303.77)">
+<tspan x="0 2.86 4.31 9.02 11.9 14.21 15.63 17.07 19.52 22.4 23.45 26.33 28.95 32.02 33.44 35.52 38.4" y="0">Timeslice expired</tspan>
+</text>
+</g>
+</g>
+</g>
+</svg>

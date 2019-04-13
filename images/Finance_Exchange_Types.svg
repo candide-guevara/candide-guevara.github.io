@@ -1,1 +1,95 @@
-<svg height="86.8mm" viewBox="0 0 666.16 307.56" width="188mm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible"><path d="m2.31 0-3.46 2v-4z" style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:.4pt"/></marker><marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible"><path d="m2.31 0-3.46 2v-4z" style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:.4pt"/></marker><marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible"><path d="m2.31 0-3.46 2v-4z" style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:.4pt"/></marker><marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible"><path d="m2.31 0-3.46 2v-4z" style="fill:#0000cd;fill-rule:evenodd;stroke:#0000cd;stroke-width:.4pt"/></marker><marker id="e" orient="auto" refX="0" refY="0" style="overflow:visible"><path d="m2.31 0-3.46 2v-4z" style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:.4pt"/></marker><marker id="f" orient="auto" refX="0" refY="0" style="overflow:visible"><path d="m2.31 0-3.46 2v-4z" style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:.4pt"/></marker><marker id="g" orient="auto" refX="0" refY="0" style="overflow:visible"><path d="m2.31 0-3.46 2v-4z" style="fill:#0000cd;fill-rule:evenodd;stroke:#0000cd;stroke-width:.4pt"/></marker><marker id="h" orient="auto" refX="0" refY="0" style="overflow:visible"><path d="m2.31 0-3.46 2v-4z" style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:.4pt"/></marker><marker id="i" orient="auto" refX="0" refY="0" style="overflow:visible"><path d="m2.31 0-3.46 2v-4z" style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:.4pt"/></marker><g transform="translate(55.5 -202.11)"><g style="fill:none"><ellipse cx="94.47" cy="401.81" rx="43.12" ry="20.4" style="stroke:#ff8c00;stroke-width:1.1"/><path d="m210.71 311.36h135.95v48.65h-135.95z" style="stroke:#00f;stroke-width:1.1"/><path d="m130.96 391.89 76.69-53.6" style="stroke:#ff4500;marker-end:url(#a)"/></g><g style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0"><text x="78.06" y="403.43"><tspan style="font-weight:bold" x="78.06" y="403.43">Buyers</tspan></text><text x="445.8" y="402.68"><tspan style="font-weight:bold" x="445.8" y="402.68">Sellers</tspan></text><text x="215.41" y="324.52"><tspan style="font-weight:bold" x="215.41" y="324.52">Exchange</tspan><tspan x="215.41" y="334.52">- Provides trading infrastructure</tspan><tspan x="215.41" y="344.52">- Open to everyone</tspan><tspan x="215.41" y="354.52">- Transparency of operation</tspan></text></g><g style="fill:none"><ellipse cx="460.69" cy="399.33" rx="43.12" ry="20.4" style="stroke:#ff8c00;stroke-width:1.1"/><path d="m346.79 334.71 73.3 53.61" style="stroke:#ff4500;marker-end:url(#b)"/><path d="m280.25 261.81 43.18 47.64" style="stroke:#ff4500;marker-end:url(#c)"/><ellipse cx="283.15" cy="241.89" rx="43.12" ry="20.4" style="stroke:#ff8c00;stroke-width:1.1"/></g><text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="259.33" y="244.12"><tspan style="font-weight:bold" x="259.33" y="244.12">Regulators</tspan></text><ellipse cx="203.5" cy="240.77" rx="43.12" ry="20.4" style="fill:none;stroke:#ff8c00;stroke-width:1.1"/><text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="188.23" y="243.01"><tspan style="font-weight:bold" x="188.23" y="243.01">Public</tspan></text><path d="m261.98 311.22-46.16-48.39" style="fill:none;stroke:#0000cd;marker-end:url(#d)"/><text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="169.62" y="283.58"><tspan x="169.62" y="283.58">trade volumes</tspan><tspan x="169.62" y="293.58">security quotes</tspan></text><path d="m210.71 377.24h135.95v48.65h-135.95z" style="fill:none;stroke:#000;stroke-width:1.1"/><text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="213.92" y="389.66"><tspan style="font-weight:bold" x="213.92" y="389.66">Dark pool</tspan><tspan x="213.92" y="399.66">- Provides trading infrastructure</tspan><tspan x="213.92" y="409.66">- Operations are private</tspan></text><g style="fill:none"><path d="m137.71 401.79h69.99" style="stroke:#ff4500;marker-end:url(#e)"/><path d="m346.53 399.71h68.86" style="stroke:#ff4500;marker-end:url(#f)"/><path d="m344.33 231.71h95.38v29.3h-95.38z" style="stroke:#008b8b;stroke-width:1.1"/></g><text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="348.28" y="244.5"><tspan x="348.28" y="244.5">Electronic</tspan><tspan x="348.28" y="254.5">registry of ownership</tspan></text><path d="m340.05 311.22 46.15-48.39" style="fill:none;stroke:#0000cd;marker-end:url(#g)"/><path d="m210.33 442.75h135.95v48.65h-135.95z" style="fill:none;stroke:#ff4500;stroke-width:1.1"/><text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="214.66" y="455.16"><tspan style="font-weight:bold" x="214.66" y="455.16">Over the counter</tspan><tspan x="214.66" y="465.16">- No intermediary</tspan><tspan x="214.66" y="475.16">- Buyer must find demand</tspan><tspan x="214.66" y="485.16"/></text><g style="fill:none;stroke:#ff4500"><path d="m132.13 410.27 76.69 53.6" style="marker-end:url(#h)"/><path d="m346.01 462.87 73.3-53.61" style="marker-end:url(#i)"/></g></g></svg>
+<svg height="400" viewBox="0 0 666.16 307.56" width="1300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:.4pt"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:.4pt"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:.4pt"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#0000cd;fill-rule:evenodd;stroke:#0000cd;stroke-width:.4pt"/>
+</marker>
+<marker id="e" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:.4pt"/>
+</marker>
+<marker id="f" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:.4pt"/>
+</marker>
+<marker id="g" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#0000cd;fill-rule:evenodd;stroke:#0000cd;stroke-width:.4pt"/>
+</marker>
+<marker id="h" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:.4pt"/>
+</marker>
+<marker id="i" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:.4pt"/>
+</marker>
+<g transform="translate(55.5 -202.11)">
+<g style="fill:none">
+<ellipse cx="94.47" cy="401.81" rx="43.12" ry="20.4" style="stroke:#ff8c00;stroke-width:1.1"/>
+<path d="m210.71 311.36h135.95v48.65h-135.95z" style="stroke:#00f;stroke-width:1.1"/>
+<path d="m130.96 391.89 76.69-53.6" style="stroke:#ff4500;marker-end:url(#a)"/>
+</g>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0">
+<text x="78.06" y="403.43">
+<tspan style="font-weight:bold" x="78.06" y="403.43">Buyers</tspan>
+</text>
+<text x="445.8" y="402.68">
+<tspan style="font-weight:bold" x="445.8" y="402.68">Sellers</tspan>
+</text>
+<text x="215.41" y="324.52">
+<tspan style="font-weight:bold" x="215.41" y="324.52">Exchange</tspan>
+<tspan x="215.41" y="334.52">- Provides trading infrastructure</tspan>
+<tspan x="215.41" y="344.52">- Open to everyone</tspan>
+<tspan x="215.41" y="354.52">- Transparency of operation</tspan>
+</text>
+</g>
+<g style="fill:none">
+<ellipse cx="460.69" cy="399.33" rx="43.12" ry="20.4" style="stroke:#ff8c00;stroke-width:1.1"/>
+<path d="m346.79 334.71 73.3 53.61" style="stroke:#ff4500;marker-end:url(#b)"/>
+<path d="m280.25 261.81 43.18 47.64" style="stroke:#ff4500;marker-end:url(#c)"/>
+<ellipse cx="283.15" cy="241.89" rx="43.12" ry="20.4" style="stroke:#ff8c00;stroke-width:1.1"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="259.33" y="244.12">
+<tspan style="font-weight:bold" x="259.33" y="244.12">Regulators</tspan>
+</text>
+<ellipse cx="203.5" cy="240.77" rx="43.12" ry="20.4" style="fill:none;stroke:#ff8c00;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="188.23" y="243.01">
+<tspan style="font-weight:bold" x="188.23" y="243.01">Public</tspan>
+</text>
+<path d="m261.98 311.22-46.16-48.39" style="fill:none;stroke:#0000cd;marker-end:url(#d)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="169.62" y="283.58">
+<tspan x="169.62" y="283.58">trade volumes</tspan>
+<tspan x="169.62" y="293.58">security quotes</tspan>
+</text>
+<path d="m210.71 377.24h135.95v48.65h-135.95z" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="213.92" y="389.66">
+<tspan style="font-weight:bold" x="213.92" y="389.66">Dark pool</tspan>
+<tspan x="213.92" y="399.66">- Provides trading infrastructure</tspan>
+<tspan x="213.92" y="409.66">- Operations are private</tspan>
+</text>
+<g style="fill:none">
+<path d="m137.71 401.79h69.99" style="stroke:#ff4500;marker-end:url(#e)"/>
+<path d="m346.53 399.71h68.86" style="stroke:#ff4500;marker-end:url(#f)"/>
+<path d="m344.33 231.71h95.38v29.3h-95.38z" style="stroke:#008b8b;stroke-width:1.1"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="348.28" y="244.5">
+<tspan x="348.28" y="244.5">Electronic</tspan>
+<tspan x="348.28" y="254.5">registry of ownership</tspan>
+</text>
+<path d="m340.05 311.22 46.15-48.39" style="fill:none;stroke:#0000cd;marker-end:url(#g)"/>
+<path d="m210.33 442.75h135.95v48.65h-135.95z" style="fill:none;stroke:#ff4500;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="214.66" y="455.16">
+<tspan style="font-weight:bold" x="214.66" y="455.16">Over the counter</tspan>
+<tspan x="214.66" y="465.16">- No intermediary</tspan>
+<tspan x="214.66" y="475.16">- Buyer must find demand</tspan>
+<tspan x="214.66" y="485.16"/>
+</text>
+<g style="fill:none;stroke:#ff4500">
+<path d="m132.13 410.27 76.69 53.6" style="marker-end:url(#h)"/>
+<path d="m346.01 462.87 73.3-53.61" style="marker-end:url(#i)"/>
+</g>
+</g>
+</svg>

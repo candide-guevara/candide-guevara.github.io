@@ -1,648 +1,105 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="363.03186mm"
-   height="170.91583mm"
-   viewBox="0 0 1286.3334 605.60727"
-   id="svg2"
-   version="1.1">
-  <defs
-     id="defs4">
-    <marker
-       style="overflow:visible;"
-       id="Arrow1Mend"
-       refX="0.0"
-       refY="0.0"
-       orient="auto">
-      <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path4287" />
-    </marker>
-    <marker
-       style="overflow:visible;"
-       id="Arrow2Mend"
-       refX="0.0"
-       refY="0.0"
-       orient="auto">
-      <path
-         transform="scale(0.6) rotate(180) translate(0,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ff0000;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
-         id="path4305" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker4742"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(0.4,0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4631" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleOutM"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(0.4,0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4565" />
-    </marker>
-    <marker
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker6723"
-       style="overflow:visible">
-      <path
-         id="path6725"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(-0.4,-0.4)" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleInM"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(-0.4,-0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4556" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Lstart"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="matrix(0.8,0,0,0.8,10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         id="path4420" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Lend"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         id="path4423" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleInM-2"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(-0.4,-0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4556-3" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleOutM-1"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(0.4,0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4565-3" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleInM-2-3"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(-0.4,-0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4556-3-7" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleInM-2-7"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(-0.4,-0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4556-3-6" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleInM-2-7-2"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(-0.4,-0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4556-3-6-0" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleInM-4"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(-0.4,-0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4556-5" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker4742-1"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(0.4,0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4631-0" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleInM-4-9"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(-0.4,-0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4556-5-0" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker4742-1-9"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(0.4,0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4631-0-8" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleInM-4-9-2"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(-0.4,-0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4556-5-0-1" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker4742-1-9-7"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(0.4,0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4631-0-8-5" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleInM-4-9-2-1"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(-0.4,-0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4556-5-0-1-1" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker4742-1-9-7-3"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(0.4,0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4631-0-8-5-5" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleInM-4-9-9"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(-0.4,-0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4556-5-0-9" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker4742-1-9-0"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(0.4,0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4631-0-8-7" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleInM-4-9-2-1-3"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(-0.4,-0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4556-5-0-1-1-7" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker4742-1-9-7-3-1"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="scale(0.4,0.4)"
-         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:#696969;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path4631-0-8-5-5-2" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Mend-5"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         id="path4287-5" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Mend-5-9"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         id="path4287-5-8" />
-    </marker>
-  </defs>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     id="path6358-4"
-     d="m 1246.7563,605.19561 c 0,0 4.4265,-121.49298 1.9823,-164.39297 -5.6458,-76.82335 -27.7338,-139.00352 -56.3248,-188.96748 C 1151.3584,180.72498 1026.7371,135.58659 954.58382,147.39206 885.84057,158.63959 667.22575,328.72775 623.6712,372.2823"
-     style="fill:none;fill-rule:evenodd;stroke:#007d00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 2;stroke-dashoffset:0;stroke-opacity:1" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#505050;stroke-width:3.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.30000001, 0.30000001;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 145.32185,533.08607 c 0,-52.20454 13.04683,-260.75954 112.41289,-336.59699 106.07137,-80.95502 317.11951,-68.01692 367.43802,-68.01692"
-     id="path4414-3-8-1-9-2-75-4" />
-  <path
-     id="path6358"
-     d="m 85.985989,532.28155 c 0,0 1.84092,-95.71256 1.84092,-108.0007 0,-7.97733 6.8813,-79.12392 11.65917,-96.95517 5.067831,-18.91341 15.321841,-75.27149 39.886621,-117.81894 41.05547,-71.11017 293.73021,-80.13974 311.42671,-82.45967 27.67766,-3.62841 241.06741,-17.88326 241.06741,-17.88326"
-     style="fill:none;fill-rule:evenodd;stroke:#007d00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 2;stroke-dashoffset:0;stroke-opacity:1" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="119.32398"
-     y="576.18988"
-     id="text34867-9" />
-  <g
-     style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
-     id="g4856-5"
-     transform="translate(380.16464,52.670174)">
-    <ellipse
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4142-93"
-       cx="69.97551"
-       cy="74.814102"
-       rx="7.6449103"
-       ry="8.061574" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 64.314262,68.640683 75.879277,80.552192"
-       id="path4837-5" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 75.682194,68.858965 64.117179,80.770474"
-       id="path4837-7-7" />
-  </g>
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#505050;stroke-width:3.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.30000001, 0.30000001;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 2.2873758,532.89277 c 0,-38.66421 -17.4753298,-333.19252 112.4129042,-432.32488 156.54517,-119.477284 437.63,-97.471653 509.80256,-97.471653"
-     id="path4414-3-8-1-9-2" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="17.183054"
-     y="536.52844"
-     id="text13206-2"><tspan
-       y="536.52844"
-       x="17.183054"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;"
-       id="tspan5134" /><tspan
-       y="546.52844"
-       x="17.183054"
-       id="tspan5136"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;"> - Se placer en exterier de virage</tspan><tspan
-       id="tspan5138"
-       y="556.52844"
-       x="17.183054"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;"> - Pencher le torse a gauche pour gagner  un peu plus de visibilite</tspan></text>
-  <path
-     id="path4413-5-9-2"
-     d="m 79.400939,525.96342 6.92231,-8.00801 6.45375,8.58147"
-     style="fill:none;fill-rule:evenodd;stroke:#007d00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="93.067131"
-     y="400.57001"
-     id="text13206-2-1"><tspan
-       id="tspan5183"
-       y="400.57001"
-       x="93.067131"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;"> - Adapter son allure : ralentir</tspan><tspan
-       id="tspan6486"
-       y="410.57001"
-       x="93.067131"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;"> - Une vitesse raisonnable permet de garder</tspan><tspan
-       id="tspan6488"
-       y="420.57001"
-       x="93.067131"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;">   un peu d'acceleration lors de la prise angle</tspan></text>
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#505050;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:40, 40;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 74.753209,533.69972 c 0,-59.57711 -6.2277,-297.95023 108.731051,-385.68823 C 323.84485,40.886496 575.94536,62.812646 625.7864,62.812646"
-     id="path4414-3-8-1-9-2-75" />
-  <path
-     id="path4413-5-9-2-2"
-     d="m 684.52118,103.59819 8.82819,5.0621 -7.53858,8.26039"
-     style="fill:none;fill-rule:evenodd;stroke:#007d00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <g
-     style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
-     id="g4856-5-8"
-     transform="translate(185.29648,124.56265)">
-    <ellipse
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4142-93-5"
-       cx="69.97551"
-       cy="74.814102"
-       rx="7.6449103"
-       ry="8.061574" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 64.314262,68.640683 75.879277,80.552192"
-       id="path4837-5-2" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 75.682194,68.858965 64.117179,80.770474"
-       id="path4837-7-7-5" />
-  </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="299.04453"
-     y="193.6828"
-     id="text13206-2-1-9"><tspan
-       id="tspan5183-1"
-       y="193.6828"
-       x="299.04453"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;">On ne cherche pas le point de corde</tspan><tspan
-       id="tspan4548"
-       y="204.9328"
-       x="299.04453"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;" /><tspan
-       id="tspan4544"
-       y="216.1828"
-       x="299.04453"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;">Le point de sorti de virage se situe en aval du point de corde </tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="390.14612"
-     y="147.57816"
-     id="text13206-2-1-9-1"><tspan
-       id="tspan6449"
-       y="147.57816"
-       x="390.14612"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="369.47232"
-     y="86.256889"
-     id="text13206-2-1-9-0"><tspan
-       id="tspan5183-1-8"
-       y="86.256889"
-       x="369.47232"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;">On sort du virage a l'interieur</tspan><tspan
-       id="tspan6461"
-       y="101.25689"
-       x="369.47232"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;">Evite les vehicules qui coupent la route</tspan><tspan
-       id="tspan4956"
-       y="116.25689"
-       x="369.47232"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;">en sens inverse</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="634.2049"
-     y="128.32309"
-     id="text13206-2-1-9-1-0"><tspan
-       id="tspan6449-4"
-       y="128.32309"
-       x="634.2049"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;">On prepare sa position</tspan><tspan
-       id="tspan6616"
-       y="143.32307"
-       x="634.2049"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;">pour le virage suivant</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="125.36491"
-     y="256.72595"
-     id="text13206-2-1-9-14"><tspan
-       id="tspan5183-1-2"
-       y="256.72595"
-       x="125.36491"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;">Quand on commence a voir la sortie du virage :</tspan><tspan
-       id="tspan6508"
-       y="267.97595"
-       x="125.36491"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;"> - Prise d'angle rapide</tspan><tspan
-       id="tspan6510"
-       y="279.22595"
-       x="125.36491"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;"> - Orienter le torse a l'interieur du virage</tspan><tspan
-       id="tspan6512"
-       y="290.47595"
-       x="125.36491"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr;text-anchor:start;"> - Filet d'acceleration</tspan></text>
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#505050;stroke-width:3.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.30000001, 0.30000001;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 1257.5653,604.80037 c 0,-131.37693 26.8107,-358.89392 -183.1422,-466.73372 C 875.53637,35.910613 741.32837,207.02 622.92462,325.42374"
-     id="path4414-3-8-1-9-2-9" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#505050;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:40, 40;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 1174.5857,605.60732 c 0,-59.57711 -3.0098,-381.07942 -164.1675,-409.58326 C 799.94567,158.79799 674.34952,395.65397 633.11063,445.35563"
-     id="path4414-3-8-1-9-2-75-1" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#505050;stroke-width:3.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.30000001, 0.30000001;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 1088.7243,604.99367 c 0,-77.05537 9.7172,-275.50867 -97.12008,-318.43677 -134.91465,-54.20975 -288.44537,182.403 -323.47104,233.06046"
-     id="path4414-3-8-1-9-2-75-4-5" />
-  <g
-     style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
-     id="g4856-5-8-6"
-     transform="matrix(-1,0,0,1,855.67777,171.61942)">
-    <ellipse
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4142-93-5-9"
-       cx="69.97551"
-       cy="74.814102"
-       rx="7.6449103"
-       ry="8.061574" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 64.314262,68.640683 75.879277,80.552192"
-       id="path4837-5-2-5" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 75.682194,68.858965 64.117179,80.770474"
-       id="path4837-7-7-5-8" />
-  </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.25px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="760.28094"
-     y="18.869738"
-     id="text13206-2-1-9-0-0-0-7"><tspan
-       id="tspan6742"
-       y="18.869738"
-       x="760.28094"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Pour les virages a plus de 90 degres (notament a gauche)</tspan><tspan
-       id="tspan4252"
-       y="33.86974"
-       x="760.28094"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Il faut tourner en deux temps :</tspan><tspan
-       id="tspan4262"
-       y="48.86974"
-       x="760.28094"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
-       id="tspan4258"
-       y="63.869736"
-       x="760.28094"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"> - D'abord doucement en restant a l'exterieur</tspan><tspan
-       id="tspan4270"
-       y="78.869736"
-       x="760.28094"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
-       id="tspan4260"
-       y="93.869736"
-       x="760.28094"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"> - Quand on apercoit la fin du virage on tourne franchement </tspan></text>
-  <path
-     id="path4413-5-9-2-2-8"
-     d="m 633.87098,372.04316 -10.17381,0.23544 2.1776,-10.96915"
-     style="fill:none;fill-rule:evenodd;stroke:#007d00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     id="path4413-5-9-2-2-8-9"
-     d="m 1240.6476,600.5583 6.1659,-8.09586 7.2112,8.54768"
-     style="fill:none;fill-rule:evenodd;stroke:#007d00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <text
-     id="text4254"
-     y="425.94684"
-     x="813.05157"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';text-align:start;letter-spacing:-41.25px;word-spacing:16.94000053px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     xml:space="preserve"><tspan
-       y="425.94684"
-       x="813.05157"
-       id="tspan4256" /></text>
-  <text
-     id="text4264"
-     y="441.44696"
-     x="987.07562"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';text-align:start;letter-spacing:-41.25px;word-spacing:16.94000053px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     xml:space="preserve"><tspan
-       y="441.44696"
-       x="987.07562"
-       id="tspan4266" /></text>
-  <path
-     id="path4272"
-     d="m 1052.7976,58.916793 115.6324,0 0,157.761487"
-     style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none" />
-  <path
-     id="path4536"
-     d="m 957.4845,94.445327 0,49.681203"
-     style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)" />
-  <path
-     id="path4536-4"
-     d="m 297.08597,193.2142 -33.82791,5.84025"
-     style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-5)" />
-  <path
-     id="path4536-4-3"
-     d="M 500.07253,183.9266 456.23158,135.96205"
-     style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-5-9)" />
+<svg height="170.92mm" viewBox="0 0 1286.33 605.61" width="363.03mm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
+<path d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;stroke:#f00;stroke-width:1pt;fill:#f00" transform="matrix(-.4 0 0 -.4 -4 0)"/>
+</marker>
+<marker id="b" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
+<path d="m8.72 4.03-10.93-4.01 10.93-4.02c-1.75 2.37-1.74 5.62 0 8.03z" style="fill-rule:evenodd;stroke-width:.63;stroke-linejoin:round;stroke:#f00;fill:#f00" transform="scale(-.6)"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m0 0 5-5-17.5 5 17.5 5z" style="fill:#f00;fill-rule:evenodd;stroke:#f00;stroke-width:1pt" transform="matrix(-.4 0 0 -.4 -4 0)"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m0 0 5-5-17.5 5 17.5 5z" style="fill:#f00;fill-rule:evenodd;stroke:#f00;stroke-width:1pt" transform="matrix(-.4 0 0 -.4 -4 0)"/>
+</marker>
+<g style="fill:none">
+<path d="m1246.76 605.2s4.43-121.49 1.98-164.39c-5.65-76.82-27.73-139-56.32-188.97-41.06-71.12-165.68-116.25-237.84-104.45-68.74 11.25-287.35 181.34-330.91 224.89" style="stroke:#007d00;stroke-width:2;stroke-dasharray:12 2"/>
+<path d="m145.32 533.09c0-52.2 13.05-260.76 112.41-336.6 106.07-80.96 317.12-68.02 367.44-68.02" style="stroke:#505050;stroke-width:3;stroke-dasharray:.3 .3"/>
+<path d="m85.99 532.28s1.84-95.71 1.84-108c0-7.98 6.88-79.12 11.66-96.96 5.07-18.91 15.32-75.27 39.89-117.82 41.06-71.11 293.73-80.14 311.43-82.46 27.68-3.63 241.07-17.88 241.07-17.88" style="stroke:#007d00;stroke-width:2;stroke-dasharray:12 2"/>
+</g>
+<text x="119.32" y="576.19"/>
+<g style="fill:none;stroke:#f00;stroke-width:3">
+<ellipse cx="450.14" cy="127.48" rx="7.64" ry="8.06"/>
+<path d="m444.47 121.31 11.57 11.91"/>
+<path d="m455.84 121.53-11.56 11.91"/>
+</g>
+<path d="m2.29 532.89c0-38.66-17.48-333.19 112.41-432.32 156.55-119.48 437.63-97.47 509.8-97.47" style="fill:none;stroke:#505050;stroke-width:3;stroke-dasharray:.3 .3"/>
+<text style="font-size:15;font-family:Droid Sans;letter-spacing:-.25;word-spacing:0;writing-mode:lr" x="17.18" xml:space="preserve" y="536.53">
+<tspan x="17.18" y="536.53"/>
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="17.18" y="546.53"> - Se placer en exterier de virage</tspan>
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="17.18" y="556.53"> - Pencher le torse a gauche pour gagner  un peu plus de visibilite</tspan>
+</text>
+<path d="m79.4 525.96 6.92-8.01 6.45 8.58" style="fill:none;stroke:#007d00;stroke-width:2"/>
+<text style="font-size:15;font-family:Droid Sans;letter-spacing:-.25;word-spacing:0;writing-mode:lr" x="93.07" xml:space="preserve" y="400.57">
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="93.07" y="400.57"> - Adapter son allure : ralentir</tspan>
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="93.07" y="410.57"> - Une vitesse raisonnable permet de garder</tspan>
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="93.07" y="420.57">   un peu d'acceleration lors de la prise angle</tspan>
+</text>
+<g style="fill:none">
+<path d="m74.75 533.7c0-59.58-6.23-297.95 108.73-385.69 140.36-107.12 392.47-85.2 442.31-85.2" style="stroke:#505050;stroke-width:5;stroke-dasharray:40 40"/>
+<path d="m684.52 103.6 8.83 5.06-7.54 8.26" style="stroke:#007d00;stroke-width:2"/>
+<g style="stroke:#f00;stroke-width:3">
+<ellipse cx="255.28" cy="199.37" rx="7.64" ry="8.06"/>
+<path d="m249.61 193.2 11.57 11.91"/>
+<path d="m260.98 193.42-11.56 11.91"/>
+</g>
+</g>
+<text style="font-size:15;font-family:Droid Sans;letter-spacing:-.25;word-spacing:0;writing-mode:lr" x="299.04" xml:space="preserve" y="193.68">
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="299.04" y="193.68">On ne cherche pas le point de corde</tspan>
+<tspan x="299.04" y="204.93"/>
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="299.04" y="216.18">Le point de sorti de virage se situe en aval du point de corde </tspan>
+</text>
+<text x="390.15" y="147.58">
+<tspan x="390.15" y="147.58"/>
+</text>
+<g style="font-size:15;font-family:Droid Sans;letter-spacing:-.25;word-spacing:0;writing-mode:lr">
+<text x="369.47" y="86.26">
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="369.47" y="86.26">On sort du virage a l'interieur</tspan>
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="369.47" y="101.26">Evite les vehicules qui coupent la route</tspan>
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="369.47" y="116.26">en sens inverse</tspan>
+</text>
+<text x="634.2" y="128.32">
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="634.2" y="128.32">On prepare sa position</tspan>
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="634.2" y="143.32">pour le virage suivant</tspan>
+</text>
+<text x="125.36" xml:space="preserve" y="256.73">
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="125.36" y="256.73">Quand on commence a voir la sortie du virage :</tspan>
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="125.36" y="267.98"> - Prise d'angle rapide</tspan>
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="125.36" y="279.23"> - Orienter le torse a l'interieur du virage</tspan>
+<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="125.36" y="290.48"> - Filet d'acceleration</tspan>
+</text>
+</g>
+<g style="fill:none">
+<g style="stroke:#505050">
+<path d="m1257.57 604.8c0-131.38 26.81-358.89-183.14-466.73-198.89-102.16-333.1 68.95-451.51 187.35" style="stroke-width:3;stroke-dasharray:.3 .3"/>
+<path d="m1174.59 605.61c0-59.58-3.01-381.08-164.17-409.58-210.47-37.23-336.07 199.62-377.31 249.33" style="stroke-width:5;stroke-dasharray:40 40"/>
+<path d="m1088.72 604.99c0-77.06 9.72-275.51-97.12-318.44-134.91-54.21-288.45 182.4-323.47 233.06" style="stroke-width:3;stroke-dasharray:.3 .3"/>
+</g>
+<g style="stroke:#f00;stroke-width:3" transform="matrix(-1 0 0 1 855.68 171.62)">
+<ellipse cx="69.98" cy="74.81" rx="7.64" ry="8.06"/>
+<path d="m64.31 68.64 11.57 11.91"/>
+<path d="m75.68 68.86-11.56 11.91"/>
+</g>
+</g>
+<text style="font-size:15;font-family:Droid Sans;letter-spacing:-.25;word-spacing:0" x="760.28" xml:space="preserve" y="18.87">
+<tspan style="font-size:15;font-family:Droid Sans" x="760.28" y="18.87">Pour les virages a plus de 90 degres (notament a gauche)</tspan>
+<tspan style="font-size:15;font-family:Droid Sans" x="760.28" y="33.87">Il faut tourner en deux temps :</tspan>
+<tspan x="760.28" y="48.87"/>
+<tspan style="font-size:15;font-family:Droid Sans" x="760.28" y="63.87"> - D'abord doucement en restant a l'exterieur</tspan>
+<tspan x="760.28" y="78.87"/>
+<tspan style="font-size:15;font-family:Droid Sans" x="760.28" y="93.87"> - Quand on apercoit la fin du virage on tourne franchement </tspan>
+</text>
+<path d="m633.87 372.04-10.17.24 2.18-10.97" style="fill:none;stroke:#007d00;stroke-width:2"/>
+<path d="m1240.65 600.56 6.17-8.1 7.21 8.55" style="fill:none;stroke:#007d00;stroke-width:2"/>
+<text x="813.05" y="425.95">
+<tspan x="813.05" y="425.95"/>
+</text>
+<text x="987.08" y="441.45">
+<tspan x="987.08" y="441.45"/>
+</text>
+<g style="fill:none;stroke:#f00">
+<path d="m1052.8 58.92h115.63v157.76" style="marker-end:url(#b)"/>
+<path d="m957.48 94.45v49.68" style="marker-end:url(#a)"/>
+<path d="m297.09 193.21-33.83 5.84" style="marker-end:url(#c)"/>
+<path d="m500.07 183.93-43.84-47.97" style="marker-end:url(#d)"/>
+</g>
 </svg>

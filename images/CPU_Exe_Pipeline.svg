@@ -1,694 +1,157 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1100"
-   height="400"
-   viewBox="0 0 1086.8551 391.90568"
-   id="svg19731"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="CPU_Exe_Pipeline.svg">
-  <defs
-     id="defs19733">
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleInM-2"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4556-3"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(-0.4,-0.4)" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleInM-2-2"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4556-3-8"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(-0.4,-0.4)" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleInM-2-2-9"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4556-3-8-2"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(-0.4,-0.4)" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleInM-2-2-99"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4556-3-8-21"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(-0.4,-0.4)" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleInM-2-2-91"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4556-3-8-8"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(-0.4,-0.4)" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleInM-2-2-997"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4556-3-8-9"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(-0.4,-0.4)" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleInM-2-2-9-7"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4556-3-8-2-5"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(-0.4,-0.4)" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleInM-2-2-9-6"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4556-3-8-2-1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(-0.4,-0.4)" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleInM-2-2-9-6-6"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4556-3-8-2-1-9"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(-0.4,-0.4)" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleInM-2-2-9-6-6-8"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4556-3-8-2-1-9-5"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(-0.4,-0.4)" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleInM-2-2-9-6-6-8-3"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4556-3-8-2-1-9-5-5"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(-0.4,-0.4)" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleInM-2-2-99-0"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4556-3-8-21-8"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(-0.4,-0.4)" />
-    </marker>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="285.91813"
-     inkscape:cy="215.40152"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1060"
-     inkscape:window-x="-4"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
-     fit-margin-top="10"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="10" />
-  <metadata
-     id="metadata19736">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-35.381344,-47.298396)">
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 35.931344,84.651821 181.131366,0 0,65.772639 -181.131366,0 z"
-       id="rect3336-2-6"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="41.268612"
-       y="100.50261"
-       id="text20440"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan20442"
-         x="41.268612"
-         y="100.50261">Fetch:</tspan><tspan
-         sodipodi:role="line"
-         x="41.268612"
-         y="110.50261"
-         id="tspan20454" /><tspan
-         sodipodi:role="line"
-         x="41.268612"
-         y="120.50261"
-         id="tspan20444"> - Puts code into the instruction cache</tspan><tspan
-         sodipodi:role="line"
-         x="41.268612"
-         y="130.50261"
-         id="tspan20446"> - 4Ko read ahead to instruction pointer</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="252.7811"
-       y="98.94252"
-       id="text20448"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan20450"
-         x="252.7811"
-         y="98.94252">Decode:</tspan><tspan
-         sodipodi:role="line"
-         x="252.7811"
-         y="108.94252"
-         id="tspan20456" /><tspan
-         sodipodi:role="line"
-         x="252.7811"
-         y="118.94252"
-         id="tspan20452"> - Transforms assembler ops into micro ops</tspan><tspan
-         sodipodi:role="line"
-         x="252.7811"
-         y="128.94252"
-         id="tspan20458"> - Many instructions decoded in parallel</tspan></text>
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 249.63376,84.573364 184.63137,0 0,65.772636 -184.63137,0 z"
-       id="rect3336-2-6-8"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="687.7196"
-       y="97.650604"
-       id="text20475"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan20477"
-         x="687.7196"
-         y="97.650604">Register renaming:</tspan><tspan
-         sodipodi:role="line"
-         x="687.7196"
-         y="107.6506"
-         id="tspan20479" /><tspan
-         sodipodi:role="line"
-         x="687.7196"
-         y="117.6506"
-         id="tspan20481"> - Rewrite uops to use hidden registers</tspan><tspan
-         sodipodi:role="line"
-         x="687.7196"
-         y="127.6506"
-         id="tspan20483"> =&gt; Processor state is not changed until </tspan><tspan
-         sodipodi:role="line"
-         x="687.7196"
-         y="137.6506"
-         id="tspan20485">       retirment</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="469.81973"
-       y="98.942497"
-       id="text20487"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan20489"
-         x="469.81973"
-         y="98.942497">Branch prediction:</tspan><tspan
-         sodipodi:role="line"
-         x="469.81973"
-         y="108.9425"
-         id="tspan20491" /><tspan
-         sodipodi:role="line"
-         x="469.81973"
-         y="118.9425"
-         id="tspan20493"> - Speculatively decide which jump branch</tspan><tspan
-         sodipodi:role="line"
-         x="469.81973"
-         y="128.9425"
-         id="tspan20495">   to take (feed it into the pipeline)</tspan></text>
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 464.94986,83.712102 181.13137,0 0,65.772638 -181.13137,0 z"
-       id="rect3336-2-6-8-8"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 681.55786,83.281467 181.13137,0 0,65.772643 -181.13137,0 z"
-       id="rect3336-2-6-8-8-2"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 899.02712,83.712097 181.13128,0 0,65.772653 -181.13128,0 z"
-       id="rect3336-2-6-8-8-2-0"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="905.1889"
-       y="97.219971"
-       id="text20542"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan20544"
-         x="905.1889"
-         y="97.219971">Reordering buffer:</tspan><tspan
-         sodipodi:role="line"
-         x="905.1889"
-         y="107.21997"
-         id="tspan20546" /><tspan
-         sodipodi:role="line"
-         x="905.1889"
-         y="117.21997"
-         id="tspan20548"> - Decides which uops to run in //</tspan><tspan
-         sodipodi:role="line"
-         x="905.1889"
-         y="127.21997"
-         id="tspan20552"> - Ensures depedent uops run sequentially</tspan><tspan
-         sodipodi:role="line"
-         x="905.1889"
-         y="137.21997"
-         id="tspan20554"> - Capacity &gt; 128 uops</tspan></text>
-    <g
-       id="g4182"
-       transform="matrix(3.250959,0,0,1.7006693,-46.437878,-169.93227)"
-       style="stroke:#ff4500;stroke-width:0.42528918">
-      <g
-         id="g4177"
-         style="stroke:#ff4500;stroke-width:0.42528918" />
-    </g>
-    <g
-       id="g20775"
-       transform="translate(187.32501,-103.35173)">
-      <text
-         sodipodi:linespacing="100%"
-         id="text20573"
-         y="299.18649"
-         x="619.24915"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           id="tspan20579"
-           y="299.18649"
-           x="619.24915"
-           sodipodi:role="line">Execution unit</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="rect3336"
-         d="m 203.40797,269.1806 95.00493,0 0,65.77264 -95.00493,0 z"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff4500;stroke-width:0.46781808;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(3.250959,0,0,1.7006693,-46.437878,-169.93227)" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         id="rect3336-5"
-         d="m 297.9658,271.25096 1.90455,0 0,65.77264 -95.00493,0 0,-2.51144"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff4500;stroke-width:0.46781808;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0"
-         transform="matrix(3.250959,0,0,1.7006693,-46.437878,-169.93227)" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         id="rect3336-5-7"
-         d="m 299.72608,273.96015 1.90455,0 0,65.77264 -95.00493,0 0,-2.51144"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff4500;stroke-width:0.46781808;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0"
-         transform="matrix(3.250959,0,0,1.7006693,-46.437878,-169.93227)" />
-      <g
-         transform="translate(-239.43151,143.83116)"
-         id="g20650">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="866.00134"
-           y="194.9735"
-           id="text20596"
-           sodipodi:linespacing="100%"><tspan
-             sodipodi:role="line"
-             id="tspan20598"
-             x="866.00134"
-             y="194.9735">AGU (address generation unit):</tspan><tspan
-             sodipodi:role="line"
-             x="866.00134"
-             y="204.9735"
-             id="tspan20600" /><tspan
-             sodipodi:role="line"
-             x="866.00134"
-             y="214.9735"
-             id="tspan20602"> - Calculates memory addresses</tspan><tspan
-             sodipodi:role="line"
-             x="866.00134"
-             y="224.9735"
-             id="tspan20648">   from registers</tspan><tspan
-             sodipodi:role="line"
-             x="866.00134"
-             y="234.9735"
-             id="tspan20604"> - Ex : 8(%eax, %edx, 1)</tspan></text>
-        <path
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#ff4500;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 862.42344,183.18815 138.92936,0 0,58.88252 -138.92936,0 z"
-           id="rect3336-2-6-8-8-2-0-5"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="g20650-4"
-         transform="translate(-241.15406,100.76793)">
-        <g
-           id="g20760">
-          <text
-             sodipodi:linespacing="100%"
-             id="text20596-5"
-             y="281.53058"
-             x="1025.7659"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               y="281.53058"
-               x="1025.7659"
-               sodipodi:role="line"
-               id="tspan20716">ALU (Arithmetical/logical unit)</tspan></text>
-          <path
-             inkscape:connector-curvature="0"
-             id="rect3336-2-6-8-8-2-0-5-6"
-             d="m 1021.7574,268.88396 130.7473,0 0,19.69499 -130.7473,0 z"
-             style="opacity:1;fill:none;fill-opacity:1;stroke:#ff4500;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             x="1028.7804"
-             y="222.53394"
-             id="text20718"
-             sodipodi:linespacing="100%"><tspan
-               sodipodi:role="line"
-               x="1028.7804"
-               y="222.53394"
-               id="tspan20726">FPU (Floating point unit)</tspan></text>
-          <path
-             inkscape:connector-curvature="0"
-             id="rect3336-2-6-8-8-2-0-5-6-3"
-             d="m 1021.542,209.67203 130.7474,0 0,19.69499 -130.7474,0 z"
-             style="opacity:1;fill:none;fill-opacity:1;stroke:#ff4500;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <g
-             id="g20755"
-             transform="translate(74.930004,-36.603738)">
-            <text
-               sodipodi:linespacing="100%"
-               id="text20722"
-               y="290.14319"
-               x="951.26654"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               xml:space="preserve"><tspan
-                 y="290.14319"
-                 x="951.26654"
-                 id="tspan20724"
-                 sodipodi:role="line">Memory write/read</tspan></text>
-            <path
-               style="opacity:1;fill:none;fill-opacity:1;stroke:#ff4500;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m 947.04267,276.42002 130.74733,0 0,19.69499 -130.74733,0 z"
-               id="rect3336-2-6-8-8-2-0-5-6-9"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-      </g>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="603.31567"
-       y="255.69261"
-       id="text20802"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         x="603.31567"
-         y="255.69261"
-         id="tspan20806">Some operations can only be executed</tspan><tspan
-         sodipodi:role="line"
-         x="603.31567"
-         y="265.69263"
-         id="tspan20810">at certain units (ex: division goes to unit 0</tspan><tspan
-         sodipodi:role="line"
-         x="603.31567"
-         y="275.69263"
-         id="tspan20812">in Sandy Bridge)</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleInM-2)"
-       d="m 800.57336,232.00785 -39.03684,20.23972"
-       id="path4414-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <g
-       id="g21791">
-      <text
-         sodipodi:linespacing="100%"
-         id="text21761"
-         y="171.127"
-         x="1027.2352"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="171.127"
-           x="1027.2352"
-           id="tspan21763"
-           sodipodi:role="line">Out of order execution</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path13214"
-         d="m 1027.5716,172.9184 90.6901,0"
-         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       id="g21806"
-       transform="translate(176.07558,-85.29321)">
-      <text
-         sodipodi:linespacing="100%"
-         id="text21761-9"
-         y="409.13116"
-         x="840.56622"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="409.13116"
-           x="840.56622"
-           id="tspan21763-4"
-           sodipodi:role="line">uops reordered as in asm</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path13214-6"
-         d="m 840.90262,410.92257 102.51293,0"
-         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.10000014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 863.61776,337.44837 181.13134,0 0,65.77264 -181.13134,0 z"
-       id="rect3336-2-6-8-8-2-7"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:-0.5px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="870.15698"
-       y="347.53354"
-       id="text21826"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan21828"
-         x="870.15698"
-         y="347.53354">Retirement:</tspan><tspan
-         sodipodi:role="line"
-         x="870.15698"
-         y="357.53354"
-         id="tspan21830" /><tspan
-         sodipodi:role="line"
-         x="870.15698"
-         y="367.53354"
-         id="tspan21832"> - Flushes store buffer to cache</tspan><tspan
-         sodipodi:role="line"
-         x="870.15698"
-         y="377.53354"
-         id="tspan21834"> - Writes hidden registers to standard</tspan><tspan
-         sodipodi:role="line"
-         x="870.15698"
-         y="387.53354"
-         id="tspan21836">   registers</tspan><tspan
-         sodipodi:role="line"
-         x="870.15698"
-         y="397.53354"
-         id="tspan21838"> - Removes instruction from pipeline</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-2-2)"
-       d="m 244.80428,117.41076 -27.99254,0"
-       id="path4414-2-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleInM-2-2-9)"
-       d="m 899.57427,183.28076 55.74155,-33.35724"
-       id="path4414-2-7-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.49999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-2-2-99)"
-       d="m 460.5031,116.56627 -26.03619,0"
-       id="path4414-2-7-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.49999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-2-2-91)"
-       d="m 677.2399,118.67749 -30.92875,0"
-       id="path4414-2-7-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-2-2-997)"
-       d="m 894.16272,116.98852 -31.66281,0"
-       id="path4414-2-7-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleInM-2-2-9-7)"
-       d="M 1005.8852,182.98556 955.86404,149.62832"
-       id="path4414-2-7-7-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleInM-2-2-9-6)"
-       d="m 956.10143,182.56332 0.005,-33.35724"
-       id="path4414-2-7-7-9"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleInM-2-2-9-6-6)"
-       d="m 955.02772,335.18043 0.005,-39.85911"
-       id="path4414-2-7-7-9-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleInM-2-2-9-6-6-8)"
-       d="M 949.96083,336.27626 904.36352,296.02472"
-       id="path4414-2-7-7-9-0-9"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.99999982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleInM-2-2-9-6-6-8-3)"
-       d="m 959.61908,336.09393 45.80242,-40.25154"
-       id="path4414-2-7-7-9-0-9-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.49999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-2-2-99-0)"
-       d="m 184.82251,154.70406 -0.34418,34.00889 363.14482,-2.00755 0.10577,-37.50133"
-       id="path4414-2-7-1-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-  </g>
+<svg height="400" viewBox="0 0 1086.86 391.91" width="1100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#f00;fill-rule:evenodd;stroke:#f00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#f00;fill-rule:evenodd;stroke:#f00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="e" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="f" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="g" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#f00;fill-rule:evenodd;stroke:#f00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="h" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#f00;fill-rule:evenodd;stroke:#f00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="i" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#f00;fill-rule:evenodd;stroke:#f00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="j" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#f00;fill-rule:evenodd;stroke:#f00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="k" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#f00;fill-rule:evenodd;stroke:#f00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="l" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<g transform="translate(-35.38 -47.3)">
+<path d="m35.93 84.65h181.13v65.77h-181.13z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="41.27" xml:space="preserve" y="100.5">
+<tspan x="41.27" y="100.5">Fetch:</tspan>
+<tspan x="41.27" y="110.5"/>
+<tspan x="41.27" y="120.5"> - Puts code into the instruction cache</tspan>
+<tspan x="41.27" y="130.5"> - 4Ko read ahead to instruction pointer</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="252.78" xml:space="preserve" y="98.94">
+<tspan x="252.78" y="98.94">Decode:</tspan>
+<tspan x="252.78" y="108.94"/>
+<tspan x="252.78" y="118.94"> - Transforms assembler ops into micro ops</tspan>
+<tspan x="252.78" y="128.94"> - Many instructions decoded in parallel</tspan>
+</text>
+<path d="m249.63 84.57h184.63v65.77h-184.63z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="687.72" xml:space="preserve" y="97.65">
+<tspan x="687.72" y="97.65">Register renaming:</tspan>
+<tspan x="687.72" y="107.65"/>
+<tspan x="687.72" y="117.65"> - Rewrite uops to use hidden registers</tspan>
+<tspan x="687.72" y="127.65"> =&gt; Processor state is not changed until </tspan>
+<tspan x="687.72" y="137.65">       retirment</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="469.82" xml:space="preserve" y="98.94">
+<tspan x="469.82" y="98.94">Branch prediction:</tspan>
+<tspan x="469.82" y="108.94"/>
+<tspan x="469.82" y="118.94"> - Speculatively decide which jump branch</tspan>
+<tspan x="469.82" y="128.94">   to take (feed it into the pipeline)</tspan>
+</text>
+<g style="fill:none;stroke:#00f;stroke-width:1.1">
+<path d="m464.95 83.71h181.13v65.77h-181.13z"/>
+<path d="m681.56 83.28h181.13v65.77h-181.13z"/>
+<path d="m899.03 83.71h181.13v65.77h-181.13z"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="905.19" xml:space="preserve" y="97.22">
+<tspan x="905.19" y="97.22">Reordering buffer:</tspan>
+<tspan x="905.19" y="107.22"/>
+<tspan x="905.19" y="117.22"> - Decides which uops to run in //</tspan>
+<tspan x="905.19" y="127.22"> - Ensures depedent uops run sequentially</tspan>
+<tspan x="905.19" y="137.22"> - Capacity &gt; 128 uops</tspan>
+</text>
+<g transform="translate(187.33 -103.35)">
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="619.25" y="299.19">
+<tspan x="619.25" y="299.19">Execution unit</tspan>
+</text>
+<g style="fill:none;stroke:#ff4500;stroke-width:.47" transform="matrix(3.25 0 0 1.7 -46.44 -169.93)">
+<path d="m203.41 269.18h95v65.77h-95z"/>
+<path d="m297.97 271.25h1.9v65.77h-95v-2.51"/>
+<path d="m299.73 273.96h1.9v65.77h-95v-2.51"/>
+</g>
+<g transform="translate(-239.43 143.83)">
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="866" xml:space="preserve" y="194.97">
+<tspan x="866" y="194.97">AGU (address generation unit):</tspan>
+<tspan x="866" y="204.97"/>
+<tspan x="866" y="214.97"> - Calculates memory addresses</tspan>
+<tspan x="866" y="224.97">   from registers</tspan>
+<tspan x="866" y="234.97"> - Ex : 8(%eax, %edx, 1)</tspan>
+</text>
+<path d="m862.42 183.19h138.93v58.88h-138.93z" style="fill:none;stroke:#ff4500;stroke-width:1.1"/>
+</g>
+<g transform="translate(-241.15 100.77)">
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="1025.77" y="281.53">
+<tspan x="1025.77" y="281.53">ALU (Arithmetical/logical unit)</tspan>
+</text>
+<path d="m1021.76 268.88h130.75v19.69h-130.75z" style="fill:none;stroke:#ff4500;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="1028.78" y="222.53">
+<tspan x="1028.78" y="222.53">FPU (Floating point unit)</tspan>
+</text>
+<path d="m1021.54 209.67h130.75v19.69h-130.75z" style="fill:none;stroke:#ff4500;stroke-width:1.1"/>
+<g transform="translate(74.93 -36.6)">
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="951.27" y="290.14">
+<tspan x="951.27" y="290.14">Memory write/read</tspan>
+</text>
+<path d="m947.04 276.42h130.75v19.69h-130.75z" style="fill:none;stroke:#ff4500;stroke-width:1.1"/>
+</g>
+</g>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="603.32" y="255.69">
+<tspan x="603.32" y="255.69">Some operations can only be executed</tspan>
+<tspan x="603.32" y="265.69">at certain units (ex: division goes to unit 0</tspan>
+<tspan x="603.32" y="275.69">in Sandy Bridge)</tspan>
+</text>
+<path d="m800.57 232.01-39.04 20.24" style="fill:none;stroke:#f00;marker-start:url(#a)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0;fill:#f00" x="1027.24" y="171.13">
+<tspan x="1027.24" y="171.13">Out of order execution</tspan>
+</text>
+<path d="m1027.57 172.92h90.69" style="fill:none;stroke:#f00;stroke-width:.8"/>
+<g transform="translate(176.08 -85.29)">
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0;fill:#f00" x="840.57" y="409.13">
+<tspan x="840.57" y="409.13">uops reordered as in asm</tspan>
+</text>
+<path d="m840.9 410.92h102.51" style="fill:none;stroke:#f00;stroke-width:.8"/>
+</g>
+<path d="m863.62 337.45h181.13v65.77h-181.13z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:-.5;word-spacing:0" x="870.16" xml:space="preserve" y="347.53">
+<tspan x="870.16" y="347.53">Retirement:</tspan>
+<tspan x="870.16" y="357.53"/>
+<tspan x="870.16" y="367.53"> - Flushes store buffer to cache</tspan>
+<tspan x="870.16" y="377.53"> - Writes hidden registers to standard</tspan>
+<tspan x="870.16" y="387.53">   registers</tspan>
+<tspan x="870.16" y="397.53"> - Removes instruction from pipeline</tspan>
+</text>
+<g style="fill:none">
+<path d="m244.8 117.41h-27.99" style="stroke:#00f;stroke-width:1.5;marker-start:url(#b)"/>
+<path d="m899.57 183.28 55.74-33.36" style="stroke:#f00;marker-start:url(#c)"/>
+<g style="stroke:#00f;stroke-width:1.5">
+<path d="m460.5 116.57h-26.04" style="marker-start:url(#d)"/>
+<path d="m677.24 118.68h-30.93" style="marker-start:url(#e)"/>
+<path d="m894.16 116.99h-31.66" style="marker-start:url(#f)"/>
+</g>
+<g style="stroke:#f00">
+<path d="m1005.89 182.99-50.03-33.36" style="marker-start:url(#g)"/>
+<path d="m956.1 182.56.01-33.36" style="marker-start:url(#h)"/>
+<path d="m955.03 335.18.01-39.86" style="marker-start:url(#i)"/>
+<path d="m949.96 336.28-45.6-40.26" style="marker-start:url(#j)"/>
+<path d="m959.62 336.09 45.8-40.25" style="marker-start:url(#k)"/>
+</g>
+<path d="m184.82 154.7-.34 34.01 363.14-2.01.11-37.5" style="stroke:#00f;stroke-width:1.5;marker-start:url(#l)"/>
+</g>
+</g>
 </svg>
