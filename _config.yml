@@ -19,3 +19,15 @@ ga_property: UA-62297437-2
 # Build settings
 markdown: kramdown
 
+# Avoid writing temp data into the git repo
+destination: /tmp/blog
+sass:
+    cache_location: /tmp
+
+# Avoid repeating layout everywhere
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "post_default"
+

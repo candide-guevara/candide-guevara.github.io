@@ -1,7 +1,6 @@
 ---
-layout: post
-title: Misc ideas
-categories : [article, misc]
+title: Radar, Ideas for future posts
+categories: [misc, radar]
 ---
 
 ## Random ideas

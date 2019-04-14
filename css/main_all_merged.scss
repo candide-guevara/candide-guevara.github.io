@@ -1,0 +1,75 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+$base-font-family: sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       grey;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+$code-background:  ghostwhite;
+
+$main-col-width:      70%;
+$laptop-col-width:    85%;
+$phone-col-width:     96%;
+$my-phone-width:      120mm;
+$my-laptop-width:     280mm;
+
+
+@mixin my_media_maxw($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+@mixin my_calc_width($arg-col-width, $arg-scale-space) {
+  width: -webkit-calc(#{$arg-col-width} - (#{$spacing-unit} * #{$arg-scale-space}));
+  width:         calc(#{$arg-col-width} - (#{$spacing-unit} * #{$arg-scale-space}));
+}
+
+@mixin my_calc_maxwidth($arg-col-width, $arg-scale-space) {
+  max-width: -webkit-calc(#{$arg-col-width} - (#{$spacing-unit} * #{$arg-scale-space}));
+  max-width:         calc(#{$arg-col-width} - (#{$spacing-unit} * #{$arg-scale-space}));
+}
+
+/**
+ * Wrapper : define the width of text and images depending on the viewport size
+ */
+.wrapper {
+    @include my_calc_maxwidth($main-col-width, 2);
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+
+    @include my_media_maxw($my-laptop-width) {
+        @include my_calc_maxwidth($laptop-col-width, 1);
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+    @include my_media_maxw($my-phone-width) {
+        @include my_calc_maxwidth($phone-col-width, 0.5);
+        padding-right: $spacing-unit / 4;
+        padding-left: $spacing-unit / 4;
+    }
+}
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "post_default",
+        "header_footer",
+        "index_layout",
+        "syntax-highlighting"
+;

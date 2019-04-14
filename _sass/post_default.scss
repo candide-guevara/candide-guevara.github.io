@@ -1,0 +1,85 @@
+/**
+ * Posts
+ */
+.post-header {
+    padding: 0px;
+    margin-bottom: $spacing-unit;
+}
+
+.post-title {
+    letter-spacing: -1px;
+    line-height: 1;
+    margin-bottom: 0px;
+    display: inline-block;
+}
+
+.post-content {
+    margin-bottom: $spacing-unit;
+}
+
+
+.my-prev-next {
+  display: block;
+  margin-bottom: 0.5em;
+
+  .next-post {
+    float: right;
+    margin-right : -3em;
+  }
+  .previous-post {
+    margin-left : -3em;
+  }
+
+  @include my_media_maxw($my-phone-width) {
+    .next-post, .previous-post {
+      float: none;
+      margin-right: 0em;
+    }
+  }
+}
+
+.my-wide-img {
+  margin-left: -10%;
+  margin-bottom: 2em;
+  margin-right: -10%;
+  max-width: 120%;
+  width: 120%;
+  display: block;
+}
+
+.my-inline-img {
+  max-width: 100%;
+  //display: block;
+  &.my-center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.my-avatar {
+  margin-right : 2em;
+}
+
+.my-table {
+  border-collapse:collapse; 
+  width:100%; 
+  margin-bottom: 1em;
+  background:ghostwhite; 
+
+  th,tr,td {
+    padding:0.5em;
+    border:2px solid gray;
+  }
+  th {
+    background:lavender; 
+    text-align:left;
+  }
+}
+
+.MathJax_Display {
+  text-align: left !important;
+  padding-left: 4em;
+  //color: midnightblue;
+}
+

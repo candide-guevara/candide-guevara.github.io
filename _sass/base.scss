@@ -1,0 +1,170 @@
+// Our variables
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/**
+ * Basic styling
+ */
+body {
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    font-weight: 300;
+    color: $text-color;
+    background-color: $background-color;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, 
+ul, ol, dl,
+%vertical-rhythm {
+    margin-bottom: $spacing-unit / 2;
+}
+
+
+/**
+ * Lists
+ */
+ul, ol {
+    margin-left: $spacing-unit;
+}
+
+li {
+    > ul,
+    > ol {
+         margin-bottom: 0;
+    }
+}
+
+/**
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 250%;
+    color: mediumslateblue;
+    //text-decoration: underline;
+    @include my_media_maxw($my-laptop-width) {
+        font-size: 150%;
+    }
+}
+
+h2 {
+    margin-top: 1.5em;
+    color: mediumseagreen;
+    @include my_media_maxw($my-laptop-width) {
+        font-size: 120%;
+    }
+}
+
+h3 {
+    margin-right: 1em;
+    color: coral;
+    @include my_media_maxw($my-laptop-width) {
+        font-size: 100%;
+    }
+}
+
+h4 {
+    @include my_media_maxw($my-laptop-width) {
+        font-size: 100%;
+    }
+}
+
+
+/**
+ * Links
+ */
+a {
+    color: $brand-color;
+    text-decoration: none;
+
+    &:visited {
+        color: darken($brand-color, 15%);
+    }
+
+    &:hover {
+        color: $text-color;
+        text-decoration: underline;
+    }
+}
+
+
+
+/**
+ * Blockquotes
+ */
+blockquote {
+    color: lightslategrey;
+    border-left: 4px solid $grey-color-light;
+    padding-left: $spacing-unit / 2;
+    //font-size: 100%;
+    //letter-spacing: -1px;
+    //font-style: italic;
+
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
+
+
+
+/**
+ * Code formatting
+ */
+pre {
+    padding-left: 2em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    margin-bottom: 0.5em;
+    //overflow-x: scroll;
+}
+
+code {
+    background-color: $code-background;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+}
+
+pre {
+    > code {
+        border: 0;
+    }
+}
+
+
+/**
+ * Icons
+ */
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 32px;
+        height: 32px;
+        vertical-align: middle;
+
+        path {
+            fill: $grey-color;
+        }
+    }
+}
+

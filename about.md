@@ -1,15 +1,18 @@
 ---
-layout: post
 title: About Me
 permalink: /about/
-css_custom: about_avatar
 ---
 
-![candide](http://www.gravatar.com/avatar/{{ site.gravatar_hash }})
-Hi there I am Candide. I enjoy programming, fine wine and spirits (alas not at the same time!)  
+![candide](http://www.gravatar.com/avatar/{{ site.gravatar_hash }}){: .my-avatar }
+Hi there I am Candide. As you can see from the blog entries my interests revolve around:
 
-### Shameless self-promotion
-Passionate software developer with several years experience on travel industry IT. 
+* Programming and CS in general
+* Skiing
+* Motorcycles (man I still remember that warm feeling of rolling the throttle on an old CBF 500)
+
+### Shameless self-promotion (NOT looking for new position)
+
+Passionate software developer with several years experience different functional domains (travel industry, finance, systems administration).
 In particular highly distributed systems for online transaction processing. 
 Innovation enthusiast, always looking for a new or old technology to ease development pain or implement a killer new feature.
 

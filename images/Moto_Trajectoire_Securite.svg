@@ -1,105 +1,82 @@
-<svg height="170.92mm" viewBox="0 0 1286.33 605.61" width="363.03mm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<marker id="a" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
-<path d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;stroke:#f00;stroke-width:1pt;fill:#f00" transform="matrix(-.4 0 0 -.4 -4 0)"/>
-</marker>
-<marker id="b" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
-<path d="m8.72 4.03-10.93-4.01 10.93-4.02c-1.75 2.37-1.74 5.62 0 8.03z" style="fill-rule:evenodd;stroke-width:.63;stroke-linejoin:round;stroke:#f00;fill:#f00" transform="scale(-.6)"/>
-</marker>
-<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible">
+<svg height="170.92mm" viewBox="0 0 1260.18 605.59" width="355.65mm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(0 -.01)">
 <path d="m0 0 5-5-17.5 5 17.5 5z" style="fill:#f00;fill-rule:evenodd;stroke:#f00;stroke-width:1pt" transform="matrix(-.4 0 0 -.4 -4 0)"/>
 </marker>
-<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible">
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(0 -.01)">
+<path d="m8.72 4.03-10.93-4.01 10.93-4.02c-1.75 2.37-1.74 5.62 0 8.03z" style="fill:#f00;fill-rule:evenodd;stroke:#f00;stroke-width:.63;stroke-linejoin:round" transform="scale(-.6)"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(0 -.01)">
+<path d="m0 0 5-5-17.5 5 17.5 5z" style="fill:#f00;fill-rule:evenodd;stroke:#f00;stroke-width:1pt" transform="matrix(-.4 0 0 -.4 -4 0)"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(0 -.01)">
 <path d="m0 0 5-5-17.5 5 17.5 5z" style="fill:#f00;fill-rule:evenodd;stroke:#f00;stroke-width:1pt" transform="matrix(-.4 0 0 -.4 -4 0)"/>
 </marker>
 <g style="fill:none">
-<path d="m1246.76 605.2s4.43-121.49 1.98-164.39c-5.65-76.82-27.73-139-56.32-188.97-41.06-71.12-165.68-116.25-237.84-104.45-68.74 11.25-287.35 181.34-330.91 224.89" style="stroke:#007d00;stroke-width:2;stroke-dasharray:12 2"/>
-<path d="m145.32 533.09c0-52.2 13.05-260.76 112.41-336.6 106.07-80.96 317.12-68.02 367.44-68.02" style="stroke:#505050;stroke-width:3;stroke-dasharray:.3 .3"/>
-<path d="m85.99 532.28s1.84-95.71 1.84-108c0-7.98 6.88-79.12 11.66-96.96 5.07-18.91 15.32-75.27 39.89-117.82 41.06-71.11 293.73-80.14 311.43-82.46 27.68-3.63 241.07-17.88 241.07-17.88" style="stroke:#007d00;stroke-width:2;stroke-dasharray:12 2"/>
+<path d="m1246.76 605.19s4.43-121.49 1.98-164.39c-5.65-76.82-27.73-139-56.32-188.97-41.06-71.12-165.68-116.25-237.84-104.45-68.74 11.25-287.35 181.34-330.91 224.89" style="stroke:#007d00;stroke-width:2;stroke-dasharray:12 2"/>
+<path d="m145.32 533.08c0-52.2 13.05-260.76 112.41-336.6 106.07-80.96 317.12-68.02 367.44-68.02" style="stroke:#505050;stroke-width:3;stroke-dasharray:.3 .3"/>
+<path d="m85.99 532.27s1.84-95.71 1.84-108c0-7.98 6.88-79.12 11.66-96.96 5.07-18.91 15.32-75.27 39.89-117.82 41.06-71.11 293.73-80.14 311.43-82.46 27.68-3.63 241.07-17.88 241.07-17.88" style="stroke:#007d00;stroke-width:2;stroke-dasharray:12 2"/>
 </g>
-<text x="119.32" y="576.19"/>
-<g style="fill:none;stroke:#f00;stroke-width:3">
-<ellipse cx="450.14" cy="127.48" rx="7.64" ry="8.06"/>
-<path d="m444.47 121.31 11.57 11.91"/>
-<path d="m455.84 121.53-11.56 11.91"/>
+<text x="119.32" y="576.18"/>
+<g style="fill:none;stroke-width:3">
+<g style="stroke:#f00">
+<ellipse cx="450.14" cy="127.47" rx="7.64" ry="8.06"/>
+<path d="m444.47 121.3 11.57 11.91"/>
+<path d="m455.84 121.52-11.56 11.91"/>
 </g>
-<path d="m2.29 532.89c0-38.66-17.48-333.19 112.41-432.32 156.55-119.48 437.63-97.47 509.8-97.47" style="fill:none;stroke:#505050;stroke-width:3;stroke-dasharray:.3 .3"/>
-<text style="font-size:15;font-family:Droid Sans;letter-spacing:-.25;word-spacing:0;writing-mode:lr" x="17.18" xml:space="preserve" y="536.53">
-<tspan x="17.18" y="536.53"/>
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="17.18" y="546.53"> - Se placer en exterier de virage</tspan>
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="17.18" y="556.53"> - Pencher le torse a gauche pour gagner  un peu plus de visibilite</tspan>
+<path d="m2.29 532.88c0-38.66-17.48-333.19 112.41-432.32 156.55-119.48 437.63-97.47 509.8-97.47" style="stroke:#505050;stroke-dasharray:.3 .3"/>
+</g>
+<text style="font-size:15;font-family:Droid Sans;letter-spacing:-.09375023;word-spacing:0" x="22.9" xml:space="preserve" y="548.61">
+<tspan x="22.9" y="548.61">- Se placer en exterier de virage</tspan>
+<tspan x="22.9" y="567.36">- Pencher le torse a gauche pour gagner  un peu plus de visibilite</tspan>
 </text>
-<path d="m79.4 525.96 6.92-8.01 6.45 8.58" style="fill:none;stroke:#007d00;stroke-width:2"/>
-<text style="font-size:15;font-family:Droid Sans;letter-spacing:-.25;word-spacing:0;writing-mode:lr" x="93.07" xml:space="preserve" y="400.57">
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="93.07" y="400.57"> - Adapter son allure : ralentir</tspan>
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="93.07" y="410.57"> - Une vitesse raisonnable permet de garder</tspan>
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="93.07" y="420.57">   un peu d'acceleration lors de la prise angle</tspan>
-</text>
+<path d="m79.4 525.95 6.92-8.01 6.45 8.58" style="fill:none;stroke:#007d00;stroke-width:2"/>
+<text style="font-size:15;font-family:Droid Sans;letter-spacing:-.09375023;word-spacing:0" x="93.07" xml:space="preserve" y="400.56"> - Adapter son allure : ralentir</text>
 <g style="fill:none">
-<path d="m74.75 533.7c0-59.58-6.23-297.95 108.73-385.69 140.36-107.12 392.47-85.2 442.31-85.2" style="stroke:#505050;stroke-width:5;stroke-dasharray:40 40"/>
-<path d="m684.52 103.6 8.83 5.06-7.54 8.26" style="stroke:#007d00;stroke-width:2"/>
+<path d="m74.75 533.69c0-59.58-6.23-297.95 108.73-385.69 140.36-107.12 392.47-85.2 442.31-85.2" style="stroke:#505050;stroke-width:5;stroke-dasharray:40 40"/>
+<path d="m684.52 103.59 8.83 5.06-7.54 8.26" style="stroke:#007d00;stroke-width:2"/>
 <g style="stroke:#f00;stroke-width:3">
-<ellipse cx="255.28" cy="199.37" rx="7.64" ry="8.06"/>
-<path d="m249.61 193.2 11.57 11.91"/>
-<path d="m260.98 193.42-11.56 11.91"/>
+<ellipse cx="255.28" cy="199.36" rx="7.64" ry="8.06"/>
+<path d="m249.61 193.19 11.57 11.91"/>
+<path d="m260.98 193.41-11.56 11.91"/>
 </g>
 </g>
-<text style="font-size:15;font-family:Droid Sans;letter-spacing:-.25;word-spacing:0;writing-mode:lr" x="299.04" xml:space="preserve" y="193.68">
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="299.04" y="193.68">On ne cherche pas le point de corde</tspan>
-<tspan x="299.04" y="204.93"/>
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="299.04" y="216.18">Le point de sorti de virage se situe en aval du point de corde </tspan>
+<text style="font-size:15;font-family:Droid Sans;letter-spacing:-.25;word-spacing:0" x="299.04" xml:space="preserve" y="193.67"> <tspan style="font-size:15;font-family:Droid Sans" x="299.04" y="193.67">On ne cherche pas le point de corde</tspan> <tspan x="299.04" y="204.92"/> <tspan style="font-size:15;font-family:Droid Sans" x="299.04" y="216.17">Le point de sorti de virage se situe en aval du point de corde </tspan>
 </text>
-<text x="390.15" y="147.58">
-<tspan x="390.15" y="147.58"/>
-</text>
-<g style="font-size:15;font-family:Droid Sans;letter-spacing:-.25;word-spacing:0;writing-mode:lr">
-<text x="369.47" y="86.26">
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="369.47" y="86.26">On sort du virage a l'interieur</tspan>
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="369.47" y="101.26">Evite les vehicules qui coupent la route</tspan>
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="369.47" y="116.26">en sens inverse</tspan>
-</text>
-<text x="634.2" y="128.32">
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="634.2" y="128.32">On prepare sa position</tspan>
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="634.2" y="143.32">pour le virage suivant</tspan>
-</text>
-<text x="125.36" xml:space="preserve" y="256.73">
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="125.36" y="256.73">Quand on commence a voir la sortie du virage :</tspan>
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="125.36" y="267.98"> - Prise d'angle rapide</tspan>
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="125.36" y="279.23"> - Orienter le torse a l'interieur du virage</tspan>
-<tspan style="font-size:15;font-family:Droid Sans;writing-mode:lr" x="125.36" y="290.48"> - Filet d'acceleration</tspan>
-</text>
+<text x="390.15" y="147.57">     <tspan x="390.15" y="147.57"/>   </text>
+<g style="font-size:15;font-family:Droid Sans;word-spacing:0">
+<text style="letter-spacing:-.25" x="369.47" y="86.25">     <tspan style="font-size:15;font-family:Droid Sans" x="369.47" y="86.25">On sort du virage a l'interieur</tspan>     <tspan style="font-size:15;font-family:Droid Sans" x="369.47" y="101.25">Evite les vehicules qui coupent la route</tspan>     <tspan style="font-size:15;font-family:Droid Sans" x="369.47" y="116.25">en sens inverse</tspan>   </text>
+<text style="letter-spacing:-.25" x="634.2" y="128.31">     <tspan style="font-size:15;font-family:Droid Sans" x="634.2" y="128.31">On prepare sa position</tspan>     <tspan style="font-size:15;font-family:Droid Sans" x="634.2" y="143.31">pour le virage suivant</tspan>   </text>
+<text style="letter-spacing:-.09375023" x="125.36" y="256.72">Quand on commence a voir la sortie du virage :</text>
 </g>
 <g style="fill:none">
-<g style="stroke:#505050">
-<path d="m1257.57 604.8c0-131.38 26.81-358.89-183.14-466.73-198.89-102.16-333.1 68.95-451.51 187.35" style="stroke-width:3;stroke-dasharray:.3 .3"/>
-<path d="m1174.59 605.61c0-59.58-3.01-381.08-164.17-409.58-210.47-37.23-336.07 199.62-377.31 249.33" style="stroke-width:5;stroke-dasharray:40 40"/>
-<path d="m1088.72 604.99c0-77.06 9.72-275.51-97.12-318.44-134.91-54.21-288.45 182.4-323.47 233.06" style="stroke-width:3;stroke-dasharray:.3 .3"/>
+<path d="m1257.57 604.79c0-131.38 26.81-358.89-183.14-466.73-198.89-102.16-333.1 68.95-451.51 187.35" style="stroke:#505050;stroke-width:3;stroke-dasharray:.3 .3"/>
+<path d="m1174.59 605.6c0-59.58-3.01-381.08-164.17-409.58-210.47-37.23-336.07 199.62-377.31 249.33" style="stroke:#505050;stroke-width:5;stroke-dasharray:40 40"/>
+<g style="stroke-width:3">
+<path d="m1088.72 604.98c0-77.06 9.72-275.51-97.12-318.44-134.91-54.21-288.45 182.4-323.47 233.06" style="stroke:#505050;stroke-dasharray:.3 .3"/>
+<g style="stroke:#f00">
+<ellipse cx="-785.7" cy="246.42" rx="7.64" ry="8.06" transform="scale(-1 1)"/>
+<path d="m791.37 240.25-11.57 11.91"/>
+<path d="m780 240.47 11.56 11.91"/>
 </g>
-<g style="stroke:#f00;stroke-width:3" transform="matrix(-1 0 0 1 855.68 171.62)">
-<ellipse cx="69.98" cy="74.81" rx="7.64" ry="8.06"/>
-<path d="m64.31 68.64 11.57 11.91"/>
-<path d="m75.68 68.86-11.56 11.91"/>
 </g>
 </g>
-<text style="font-size:15;font-family:Droid Sans;letter-spacing:-.25;word-spacing:0" x="760.28" xml:space="preserve" y="18.87">
-<tspan style="font-size:15;font-family:Droid Sans" x="760.28" y="18.87">Pour les virages a plus de 90 degres (notament a gauche)</tspan>
-<tspan style="font-size:15;font-family:Droid Sans" x="760.28" y="33.87">Il faut tourner en deux temps :</tspan>
-<tspan x="760.28" y="48.87"/>
-<tspan style="font-size:15;font-family:Droid Sans" x="760.28" y="63.87"> - D'abord doucement en restant a l'exterieur</tspan>
-<tspan x="760.28" y="78.87"/>
-<tspan style="font-size:15;font-family:Droid Sans" x="760.28" y="93.87"> - Quand on apercoit la fin du virage on tourne franchement </tspan>
+<text style="font-size:15;font-family:Droid Sans;letter-spacing:-.25;word-spacing:0" x="760.28" xml:space="preserve" y="18.86"> <tspan style="font-size:15;font-family:Droid Sans" x="760.28" y="18.86">Pour les virages a plus de 90 degres (notament a gauche)</tspan> <tspan style="font-size:15;font-family:Droid Sans" x="760.28" y="33.86">Il faut tourner en deux temps :</tspan> <tspan x="760.28" y="48.86"/> <tspan style="font-size:15;font-family:Droid Sans" x="760.28" y="63.86"> - D'abord doucement en restant a l'exterieur</tspan> <tspan x="760.28" y="78.86"/> <tspan style="font-size:15;font-family:Droid Sans" x="760.28" y="93.86"> - Quand on apercoit la fin du virage on tourne franchement </tspan>
 </text>
-<path d="m633.87 372.04-10.17.24 2.18-10.97" style="fill:none;stroke:#007d00;stroke-width:2"/>
-<path d="m1240.65 600.56 6.17-8.1 7.21 8.55" style="fill:none;stroke:#007d00;stroke-width:2"/>
-<text x="813.05" y="425.95">
-<tspan x="813.05" y="425.95"/>
-</text>
-<text x="987.08" y="441.45">
-<tspan x="987.08" y="441.45"/>
-</text>
+<path d="m633.87 372.03-10.17.24 2.18-10.97" style="fill:none;stroke:#007d00;stroke-width:2"/>
+<path d="m1240.65 600.55 6.17-8.1 7.21 8.55" style="fill:none;stroke:#007d00;stroke-width:2"/>
+<text x="813.05" y="425.94">     <tspan x="813.05" y="425.94"/>   </text>
+<text x="987.08" y="441.44">     <tspan x="987.08" y="441.44"/>   </text>
 <g style="fill:none;stroke:#f00">
-<path d="m1052.8 58.92h115.63v157.76" style="marker-end:url(#b)"/>
-<path d="m957.48 94.45v49.68" style="marker-end:url(#a)"/>
-<path d="m297.09 193.21-33.83 5.84" style="marker-end:url(#c)"/>
-<path d="m500.07 183.93-43.84-47.97" style="marker-end:url(#d)"/>
+<path d="m1052.8 58.91h115.63v157.76" style="marker-end:url(#b)"/>
+<path d="m957.48 94.44v49.68" style="marker-end:url(#a)"/>
+<path d="m297.09 193.2-33.83 5.84" style="marker-end:url(#c)"/>
+<path d="m500.07 183.92-43.84-47.97" style="marker-end:url(#d)"/>
+</g>
+<g style="font-size:15;font-family:Droid Sans;word-spacing:0;letter-spacing:-.09375022">
+<text x="127.07" y="272.33">- Prise d'angle rapide</text>
+<text x="125.8" y="288.24">- Orienter le torse a l'interieur du virage</text>
+<text x="97.02" y="416.74">- Une vitesse raisonnable permet de garder</text>
+<text x="105.93" y="432.65">un peu d'acceleration lors de la prise angle</text>
+<text x="125.17" y="304.14">- Filet d'acceleration</text>
 </g>
 </svg>
