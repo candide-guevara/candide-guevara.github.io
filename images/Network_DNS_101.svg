@@ -1,0 +1,117 @@
+<svg height="700" viewBox="0 0 706.86 411.88" width="1100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="e" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="f" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-474.57 95.72)">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="g" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-474.57 95.72)">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="h" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-474.57 95.72)">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<g style="fill:none">
+<ellipse cx="610.33" cy="376.27" rx="71.61" ry="35.08" style="stroke:#008000;stroke-width:1.1"/>
+<path d="m460.03 151.53 33.62 35.15v43.94l-43.86 32.05" style="stroke:#008000;stroke-width:1.41;marker-start:url(#g)"/>
+<g style="stroke:#696969">
+<path d="m352.85 298.07v48.01" style="stroke-width:1.13;marker-end:url(#f)"/>
+<path d="m259 54.75-116.83 62.13" style="stroke-width:1.03;marker-end:url(#h)"/>
+</g>
+</g>
+<g style="stroke-width:.94">
+<text x="-93.66" y="79.53">
+<tspan style="stroke-width:.94" x="-93.66" y="88.39"/>
+</text>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="355.83" y="325.62">
+<tspan x="355.83" y="325.62">NS record</tspan>
+</text>
+<text x="207.72" y="22.92">
+<tspan x="207.72" y="22.92">Root servers</tspan> <tspan x="207.72" y="35.42">- [a-m].root-servers.net</tspan>
+</text>
+<text x="318.52" y="140.83">
+<tspan x="318.52" y="140.83">Top lvl domain servers .org</tspan> <tspan x="318.52" y="153.33">- [a-c][0-2].org.afilias-nst.info</tspan>
+</text>
+<text x="83.36" y="140.65">
+<tspan style="stroke-width:.94" x="83.36" y="140.65">Top lvl domain servers .com</tspan> <tspan style="stroke-width:.94" x="83.36" y="153.15">- [a-m].gtld-servers.net</tspan>
+</text>
+</g>
+</g>
+<path d="m261.83 229.8h187.53v67.32h-187.53z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="273.59" y="263.68">
+<tspan x="273.59" y="263.68">Authoritative server for bananas.org</tspan> <tspan x="273.59" y="276.18">- ns3-06.azure-dns.org</tspan> <tspan x="273.59" y="288.68">(hosted on 3rd party cloud)</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="10.16" y="264.18">
+<tspan x="10.16" y="264.18">Authoritative server for *.google.com</tspan> <tspan x="10.16" y="276.68">- ns[0-4].google.com</tspan>
+</text>
+<g style="fill:none">
+<g style="stroke:#00f;stroke-width:1.1">
+<path d="m197.24.53h128.09v53.88h-128.09z"/>
+<path d="m.55 230.05h188.05v53.88h-188.05z"/>
+<path d="m312.26 118.39h145.66v53.88h-145.66z"/>
+<path d="m71.89 117.88h145.66v53.88h-145.66z"/>
+</g>
+<g style="stroke-width:1.13">
+<path d="m259 54.75 116.83 62.13" style="stroke:#008000;marker-end:url(#a)"/>
+<path d="m142.24 171.63-44.97 56.44" style="stroke:#696969;marker-end:url(#b)"/>
+<path d="m395.35 171.99-44.97 56.44" style="stroke:#008000;marker-end:url(#c)"/>
+</g>
+</g>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="321.86" y="200.26">
+<tspan style="stroke-width:.94" x="321.86" y="200.26">NS record</tspan>
+</text>
+<text x="73.21" y="199.74">
+<tspan style="stroke-width:.94" x="73.21" y="199.74">NS record</tspan>
+</text>
+<text x="326.51" y="87.57">
+<tspan style="stroke-width:.94" x="326.51" y="87.57">NS record</tspan>
+</text>
+<text x="142.48" y="90.15">
+<tspan style="stroke-width:.94" x="142.48" y="90.15">NS record</tspan>
+</text>
+<text style="fill:#f00" x="323.93" y="244.72">
+<tspan x="323.93" y="244.72">SOA record</tspan>
+</text>
+<text style="fill:#f00" x="65.74" y="246.27">
+<tspan style="stroke-width:.94" x="65.74" y="246.27">SOA record</tspan>
+</text>
+<text x="263.97" y="384.11">
+<tspan x="263.97" y="384.11">Authoritative server for dixie.bananas.org</tspan> <tspan x="263.97" y="396.61">- hoard.bananas.com</tspan>
+</text>
+</g>
+<path d="m254.37 349.98h209.76v53.88h-209.76z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;fill:#f00;stroke-width:.94" x="319.55" y="366.2">
+<tspan style="stroke-width:.94" x="319.55" y="366.2">SOA record</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="497.1" y="202.85">
+<tspan x="497.1" y="202.85">CNAME record</tspan> <tspan x="497.1" y="215.35">(original query : diddy.bananas.org)</tspan>
+</text>
+<path d="m511.54 240.39h194.77v56.98h-194.77z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" transform="translate(250.69 447.24)">
+<text style="fill:#f00" x="324.23" y="-191.15">
+<tspan style="stroke-width:.94" x="324.23" y="-191.15">SOA record</tspan>
+</text>
+<text x="270.06" y="-170">
+<tspan x="270.06" y="-170">Authoritative server for diddy.kong.org</tspan> <tspan x="270.06" y="-157.5">- dns.kong.com</tspan>
+</text>
+</g>
+<path d="m395.35 171.99 116.19 68.4" style="fill:none;stroke:#008000;stroke-width:1.13;marker-end:url(#d)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="562.55" y="367.58">
+<tspan x="562.55" y="367.58">diddy.kong.org records</tspan> <tspan x="562.55" y="380.08">- A 123.123.123.123</tspan> <tspan x="562.55" y="392.58">- AAAA baba::1234</tspan>
+</text>
+<path d="m610.19 296.92-.43 42.09" style="fill:none;stroke:#008000;stroke-width:1.13;marker-end:url(#e)"/>
+</svg>

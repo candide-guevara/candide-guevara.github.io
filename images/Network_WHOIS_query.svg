@@ -1,0 +1,54 @@
+<svg height="250" viewBox="0 0 663.78 146.81" width="1000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-352.81 -92.47)">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<g style="fill:none">
+<path d="m263.67 29.72h113.09v44.06h-113.09z" style="stroke:#00f;stroke-width:1.1"/>
+<path d="m394.2 43.47h134.09" style="stroke:#696969;marker-start:url(#c)"/>
+<path d="m253.83.54h136.06v82.05h-136.06z" style="stroke:#00f;stroke-width:1.1;stroke-dasharray:6.6 2.2"/>
+</g>
+<g style="stroke-width:.94">
+<text x="28.1" y="-108.66">
+<tspan style="stroke-width:.94" x="28.1" y="-99.8"/>
+</text>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="530.33" y="22.67">
+<tspan x="530.33" y="22.67">Net: 123.0.0.0/8</tspan> <tspan x="530.33" y="35.17">Organisation: <tspan style="fill:#f00">Amazon US</tspan>
+</tspan>
+<tspan x="530.33" y="47.67">AS: 666</tspan> <tspan x="530.33" y="60.17">---</tspan> <tspan x="530.33" y="72.67">Net: 123.123.0.0/16</tspan> <tspan x="530.33" y="85.17">Organisation: <tspan style="fill:#f00">Amazon Ireland</tspan>
+</tspan>
+</text>
+<text x="271.02" y="49.25">
+<tspan x="271.02" y="49.25">Host: diddy.kong.org</tspan> <tspan x="271.02" y="61.75">IP: 123.123.123.123</tspan>
+</text>
+<text x="261.2" y="13.59">
+<tspan x="261.2" y="13.59">Autonomous system #666</tspan>
+</text>
+<text x="404.39" y="39.95">
+<tspan x="404.39" y="39.95">whois 123.123.123.123</tspan>
+</text>
+</g>
+</g>
+<path d="m250.43 43.47h-134.09" style="fill:none;stroke:#696969;marker-start:url(#a)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="147.54" y="37.9">
+<tspan x="147.54" y="37.9">whois kong.org</tspan>
+</text>
+<path d="m322.34 85.92.2 49.47" style="fill:none;stroke:#696969;marker-start:url(#b)"/>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="327.06" y="109.65">
+<tspan x="327.06" y="109.65">whois AS666</tspan>
+</text>
+<text x="270.41" y="144.41">
+<tspan x="270.41" y="144.41">Organisation: Amazon US</tspan>
+</text>
+<text x="1.97" y="32.61">
+<tspan x="1.97" y="32.61">Admin: donkey@kong.org</tspan> <tspan x="1.97" y="45.11">Registrar: go bananas inc</tspan> <tspan x="1.97" y="57.61">Registrant org: DK inc</tspan> <tspan x="1.97" y="70.11">DNS: dns.kong.org</tspan>
+</text>
+</g>
+</svg>

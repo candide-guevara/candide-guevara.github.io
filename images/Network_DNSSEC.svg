@@ -1,0 +1,160 @@
+<svg height="618.37" viewBox="0 0 574.15 328.06" width="1002" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="e" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="f" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="g" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="h" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="i" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="j" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="k" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="l" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-542.46 13.78)">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="m" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-542.46 13.78)">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/>
+</marker>
+<g style="fill:none">
+<g style="stroke-width:1.1">
+<ellipse cx="53.92" cy="307.9" rx="52.8" ry="26.17" style="stroke:#00f"/>
+<path d="m49.24 159.36h59.33v18.73h-59.33z" style="stroke:#f00"/>
+<path d="m111.52 163.71h1.15v18.21h-57.53v-.7" style="stroke:#f00"/>
+<path d="m123.53 237.33h59.85v16.66h-59.85z" style="stroke:#00f"/>
+</g>
+<path d="m334.87 136.31h-28.14" style="stroke:#696969;marker-start:url(#l)"/>
+<path d="m418.51 36.51h-101.73" style="stroke:#000"/>
+<path d="m182.85 145.04v22.35" style="stroke:#696969;marker-end:url(#m)"/>
+</g>
+<g style="stroke-width:.94">
+<text x="-161.55" y="-2.41">
+<tspan style="stroke-width:.94" x="-161.55" y="6.45"/>
+</text>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="420.29" y="25.53">
+<tspan x="420.29" y="25.53">rotation of zone key needs</tspan> <tspan x="420.29" y="38.03">cooperation with parent domain</tspan> <tspan x="420.29" y="50.53">to issue a new DS record</tspan>
+</text>
+<text x="131.27" y="248.54">
+<tspan x="131.27" y="248.54">RR: AAAA</tspan>
+</text>
+</g>
+</g>
+<path d="m151.33 169.3h67.09v16.66h-67.09z" style="fill:none;stroke:#f60;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="159.07" y="180.51">
+<tspan style="stroke-width:.94" x="159.07" y="180.51">RR:RRSIG_1</tspan>
+</text>
+<path d="m334.85 168.79h59.85v16.66h-59.85z" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="342.58" y="180">
+<tspan x="342.58" y="180">RR:DS_1</tspan>
+</text>
+<path d="m420.91 300.54h69.15v30.62h-69.15z" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="425.54" y="311.75">
+<tspan x="425.54" y="311.75">RR:DNSKEY_3</tspan> <tspan x="425.54" y="324.25">(zone key)</tspan>
+</text>
+<g style="fill:none;stroke-width:1.1">
+<path d="m111.42 212.25h108.44v48.71h-108.44z" style="stroke:#00f"/>
+<g style="stroke:#008000">
+<path d="m39.93-11.62h374.15v279.77h-374.15z"/>
+<path d="m388.6 277.28h184.43v63.19h-184.43z"/>
+</g>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="46.09" y="1.92">
+<tspan x="46.09" y="1.92">Authoritative DNS: kong.com</tspan>
+</text>
+<path d="m150.82 128.98h68.12v16.66h-68.12z" style="fill:none;stroke:#f60;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="155.45" y="140.19">
+<tspan style="stroke-width:.94" x="155.45" y="140.19">RR:DNSKEY_1</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="114.73" y="224.76">
+<tspan x="114.73" y="224.76">host: diddy.kong.com</tspan>
+</text>
+<path d="m251.01 237.67h59.85v16.66h-59.85z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="258.74" y="248.88">
+<tspan style="stroke-width:.94" x="258.74" y="248.88">RR: AAAA</tspan>
+</text>
+<path d="m238.89 212.6h104.3v48.71h-104.3z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="242.2" y="225.1">
+<tspan style="stroke-width:.94" x="242.2" y="225.1">host: dixie.kong.com</tspan>
+</text>
+<g style="fill:none">
+<path d="m186.43 185.63-16.86 25.36" style="stroke:#f60;marker-end:url(#a)"/>
+<path d="m270.72 144.52v22.35" style="stroke:#696969;marker-end:url(#b)"/>
+<path d="m239.21 168.79h67.09v16.66h-67.09z" style="stroke:#f60;stroke-width:1.1"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="246.95" y="180">
+<tspan style="stroke-width:.94" x="246.95" y="180">RR:RRSIG_2</tspan>
+</text>
+<path d="m238.7 128.47h68.12v16.66h-68.12z" style="fill:none;stroke:#f60;stroke-width:1.1"/>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="243.33" y="139.68">
+<tspan style="stroke-width:.94" x="243.33" y="139.68">RR:DNSKEY_2</tspan>
+</text>
+<text style="fill:#f00" x="425.25" y="257.21">
+<tspan x="425.25" y="257.21">DS records propagate trust</tspan> <tspan x="425.25" y="269.71">from domain to sub domain</tspan>
+</text>
+<text x="394.78" y="291.82">
+<tspan style="stroke-width:.94" x="394.78" y="291.82">Authoritative DNS: subdom.kong.com</tspan>
+</text>
+</g>
+<path d="m246.97 22.75h69.15v30.62h-69.15z" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="251.6" y="33.96">
+<tspan style="stroke-width:.94" x="251.6" y="33.96">RR:DNSKEY_0</tspan> <tspan style="stroke-width:.94" x="251.6" y="46.46">(zone key)</tspan>
+</text>
+<path d="m195.27 79.36h67.09v16.66h-67.09z" style="fill:none;stroke:#f60;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="203.01" y="90.57">
+<tspan style="stroke-width:.94" x="203.01" y="90.57">RR:RRSIG_0</tspan>
+</text>
+<path d="m336.4 127.95h67.09v16.66h-67.09z" style="fill:none;stroke:#f60;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="344.13" y="139.16">
+<tspan style="stroke-width:.94" x="344.13" y="139.16">RR:RRSIG_3</tspan>
+</text>
+<g style="fill:none">
+<g style="stroke:#f60">
+<path d="m368.39 144.36v22.35" style="marker-end:url(#c)"/>
+<path d="m367.44 185.12 53.47 115.42" style="marker-end:url(#d)"/>
+<path d="m228.82 95.25-39.29 32.17" style="marker-end:url(#e)"/>
+<path d="m228.82 95.25 39.28 32.17" style="marker-end:url(#f)"/>
+</g>
+<path d="m279.48 52.86-41.88 24.94" style="stroke:#696969;marker-end:url(#g)"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="54.9" y="171.96">
+<tspan x="54.9" y="171.96">RR:NSEC3</tspan>
+</text>
+<path d="m115.83 168.01h1.15v18.21h-57.54v-.7" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<path d="m47.43 116.06h67.09v16.66h-67.09z" style="fill:none;stroke:#f60;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="55.17" y="127.27">
+<tspan style="stroke-width:.94" x="55.17" y="127.27">RR:RRSIG_4</tspan>
+</text>
+<path d="m80.97 133.51v22.35" style="fill:none;stroke:#f60;marker-end:url(#h)"/>
+<path d="m151.27 134.54-35.15-10.74" style="fill:none;stroke:#696969;marker-end:url(#i)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="17.19" y="304.41">
+<tspan x="17.19" y="304.41">ALL non existent</tspan> <tspan x="17.19" y="316.91">domain names</tspan>
+</text>
+<g style="fill:none;stroke:#f60">
+<path d="m79.98 177.51-24.02 102.08" style="marker-end:url(#j)"/>
+<path d="m269.16 185.14 16.86 25.36" style="marker-end:url(#k)"/>
+</g>
+</svg>
