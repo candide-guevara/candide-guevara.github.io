@@ -1,5 +1,4 @@
 ---
-published: false
 title: Windows, Active directory brain dump
 date: 2019-03-24
 categories: [cs_related, windows, architecture]
