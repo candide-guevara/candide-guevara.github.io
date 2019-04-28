@@ -1,0 +1,96 @@
+<svg height="450" viewBox="0 0 552.73 289.97" width="900" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
+<path d="m4.62 0-6.92 4v-8z" style="fill-rule:evenodd;stroke:#00f;fill:#00f;stroke-width:.8pt"/>
+</marker>
+<marker id="b" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
+<path d="m4.62 0-6.92 4v-8z" style="fill-rule:evenodd;stroke:#00f;fill:#00f;stroke-width:.8pt"/>
+</marker>
+<marker id="c" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
+<path d="m4.62 0-6.92 4v-8z" style="fill-rule:evenodd;stroke:#00f;fill:#00f;stroke-width:.8pt"/>
+</marker>
+<marker id="d" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
+<path d="m4.62 0-6.92 4v-8z" style="fill-rule:evenodd;stroke:#00f;fill:#00f;stroke-width:.8pt"/>
+</marker>
+<marker id="e" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
+<path d="m4.62 0-6.92 4v-8z" style="fill-rule:evenodd;stroke:#00f;fill:#00f;stroke-width:.8pt"/>
+</marker>
+<marker id="f" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
+<path d="m4.62 0-6.92 4v-8z" style="fill-rule:evenodd;stroke:#00f;fill:#00f;stroke-width:.8pt"/>
+</marker>
+<marker id="g" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
+<path d="m4.62 0-6.92 4v-8z" style="fill-rule:evenodd;stroke:#00f;fill:#00f;stroke-width:.8pt"/>
+</marker>
+<marker id="h" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m4.62 0-6.92 4v-8z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:.8pt"/>
+</marker>
+<ellipse cx="139.94" cy="152.87" rx="19.72" ry="19.45" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<path d="m3.49 78.27 109.88-.07" style="fill:#00f;stroke:#00f;stroke-width:1.13;marker-end:url(#f)"/>
+<path d="m100.6 4.08h342.32v281.81h-342.32z" style="fill:none;stroke:#9acd32;stroke-width:1.1;stroke-dasharray:6.6 2.2"/>
+<g style="stroke-width:.94">
+<text x="567.05" y="-1.73">
+<tspan style="stroke-width:.94" x="567.05" y="7.13"/>
+</text>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="165.83" y="199.01">
+<tspan x="165.83" y="199.01">Since internal propagation does not modify AS_PATH</tspan> <tspan x="165.83" y="211.51">We cannot detect loops !</tspan>
+</text>
+<text style="font-weight:bold" x="105.9" y="18.16">
+<tspan x="105.9" y="18.16">AS#6 internal network</tspan>
+</text>
+<text x="133.82" y="156.61">
+<tspan style="stroke-width:.94" x="133.82" y="156.61">R1</tspan>
+</text>
+</g>
+</g>
+<ellipse cx="139.62" cy="79.07" rx="19.72" ry="19.45" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="133.5" y="82.8">
+<tspan style="stroke-width:.94" x="133.5" y="82.8">R2</tspan>
+</text>
+<ellipse cx="405.32" cy="104.4" rx="19.72" ry="19.45" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="399.2" y="108.13">
+<tspan style="stroke-width:.94" x="399.2" y="108.13">R3</tspan>
+</text>
+<ellipse cx="305.26" cy="255.42" rx="19.72" ry="19.45" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="299.68" y="259.35">
+<tspan style="stroke-width:.94" x="299.68" y="259.35">R4</tspan>
+</text>
+<ellipse cx="207" cy="255.76" rx="19.72" ry="19.45" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="200.88" y="259.5">
+<tspan style="stroke-width:.94" x="200.88" y="259.5">R5</tspan>
+</text>
+<text x="5.1" y="47.63">
+<tspan x="5.1" y="47.63">72.11.22.0/24</tspan> <tspan x="5.1" y="60.13">AS 1,2,3</tspan> <tspan x="5.1" y="72.63">NEXT 66.22.33.44</tspan>
+</text>
+<text x="8.22" y="123.88">
+<tspan x="8.22" y="123.88">72.11.22.0/24</tspan> <tspan x="8.22" y="136.38">AS 4,5,7</tspan> <tspan x="8.22" y="148.88">NEXT 89.77.55.88</tspan>
+</text>
+</g>
+<path d="m3.99 153.57 109.88-.07" style="fill:#00f;stroke:#00f;stroke-width:1.13;marker-end:url(#g)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="456.04" y="74.77">
+<tspan x="456.04" y="74.77">72.11.22.0/24</tspan> <tspan x="456.04" y="87.27">AS 1,2,3,<tspan style="fill:#f00">6</tspan>
+</tspan>
+<tspan x="456.04" y="99.77">NEXT <tspan style="fill:#f00">72.66.99.11</tspan>
+</tspan>
+</text>
+<path d="m425.32 103.94 116.28-.07" style="fill:#00f;stroke:#00f;stroke-width:1.13;marker-end:url(#c)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="261.52" y="36.52">
+<tspan x="261.52" y="36.52">72.11.22.0/24</tspan> <tspan x="261.52" y="49.02">AS 1,2,3</tspan> <tspan x="261.52" y="61.52">NEXT 66.22.33.44</tspan> <tspan style="fill:#f00" x="261.52" y="74.02">LOCAL PREF 100</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="257.54" y="112.51">
+<tspan x="257.54" y="112.51">72.11.22.0/24</tspan> <tspan x="257.54" y="125.01">AS 4,5,7</tspan> <tspan x="257.54" y="137.51">NEXT 89.77.55.88</tspan> <tspan style="fill:#f00" x="257.54" y="150.01">LOCAL PREF 1000</tspan>
+</text>
+<g style="stroke:#00f;stroke-width:1.13">
+<g style="fill:none">
+<path d="m159.1 77.58 182.03-.06 42.13 13.95" style="marker-end:url(#e)"/>
+<path d="m159.57 153.65 180.69.06 43.89-34.18" style="marker-end:url(#d)"/>
+<path d="m138.97 172.18-.19 84.2 42.1.37" style="marker-end:url(#b)"/>
+</g>
+<path d="m225.77 255.34 53.35-.07" style="fill:#00f;marker-end:url(#h)"/>
+<path d="m304.86 235.29-.28-19.01-152.06-.05-5.49-38.38" style="fill:none;marker-end:url(#a)"/>
+</g>
+<g style="fill:#f00;stroke:#f00;stroke-width:1.69">
+<path d="m145.65 204.48 9.56-10.15"/>
+<path d="m155 204.58-9.56-10.15"/>
+</g>
+</svg>
