@@ -1,5 +1,5 @@
 ---
-title: Nosql several database implementations
+title: Database, nosql implementations
 date: 2015-05-28
 categories: [cs_related, database]
 ---

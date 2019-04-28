@@ -61,7 +61,7 @@
   margin-right : 2em;
 }
 
-.my-table {
+%my-base-table {
   border-collapse:collapse; 
   width:100%; 
   margin-bottom: 1em;
@@ -75,6 +75,15 @@
     background:lavender; 
     text-align:left;
   }
+}
+
+.my-table {
+  @extend %my-base-table;
+}
+
+.my-short-table {
+  @extend %my-base-table;
+  width:50%; 
 }
 
 .MathJax_Display {

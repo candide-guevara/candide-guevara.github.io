@@ -36,6 +36,7 @@ Done by doing a name lookup on a hostname derived from the ip address.
 
 * `dig docs.google.com -t ANY +trace`
 * `dig 6.3.7.8.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.8.7.5.0.1.0.a.2.ip6.arpa -t PTR`
+* `delv -t A www.cloudflare.com +mtrace +vtrace +rtrace +all` performs DNSSEC validation
 * `whois google.com|AS15169|172.217.18.110`
 
 ## Interpreting a zone file
@@ -55,7 +56,7 @@ A DNS zone is a subtree of the domain hierarchy handled  by a single organisatio
 | netflix.com | 59  | IN | A    | 123.123.123.122 |
 | netflix.com | 59  | IN | AAAA | dead::beef |
 
-## DNSSEC
+## DNSSEC ([cf cloudflare blog][0])
 
 Note that DNS normally **runs over UDP unencrypted** even if a man-in-the-middle attack cannot forge records protected by signature, it can see the DNS trafic.
 DNS over HTTPS seems like a more secure alternative.
@@ -75,3 +76,4 @@ Note on the sequence diagram below that **any dns server** can provide authentic
 
 Note that NSEC3 does not mention domain names but hashes to avoid domain enumeration.
 
+[0]:https://blog.cloudflare.com/dnssec-an-introduction/
