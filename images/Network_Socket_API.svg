@@ -1,0 +1,251 @@
+<svg height="520" viewBox="0 0 1095 379.76" width="1600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="e" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="f" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="g" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="h" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="i" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="j" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="k" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="l" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="m" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="n" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-.82 -235.13)">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<path d="m448.64 144.61-39.74 101" style="fill:none;stroke:#696969;marker-start:url(#n)"/>
+<text style="stroke-width:.94" x="380.09" y="-251.32">
+<tspan style="stroke-width:.94" x="380.09" y="-242.46"/>
+</text>
+<path d="m-26.78 114.21h253.75v71.97h-253.75z" style="fill:none;stroke:#00f;stroke-width:1.41"/>
+<g style="stroke-width:.94;font-size:10;letter-spacing:0;word-spacing:0">
+<text style="font-family:Droid Sans" x="36.88" y="139.95">
+<tspan x="36.88" y="139.95">// AF_INET, AF_INET6, AF_UNIX</tspan> <tspan x="36.88" y="152.45">// TCP:SOCK_STREAM, UDP:SOCK_DGRAM</tspan> <tspan x="36.88" y="164.95">// set to 0</tspan>
+</text>
+<text style="font-family:Droid Sans Mono" x="-22.35" y="127.55">
+<tspan x="-22.35" y="127.55">
+<tspan style="font-weight:bold;font-size:10;font-family:DejaVu Sans Mono">socket</tspan> (</tspan> <tspan x="-22.35" y="140.06"/>
+<tspan x="-22.35" y="152.56"/> <tspan x="-22.35" y="165.06"/>
+<tspan x="-22.35" y="177.56">)</tspan>
+</text>
+<text style="font-family:Droid Sans Mono" x="-13.21" y="139.58">
+<tspan x="-13.21" y="139.58">domain,</tspan> <tspan x="-13.21" y="152.08">type,</tspan> <tspan x="-13.21" y="164.58">protocol</tspan>
+</text>
+<text style="font-family:DejaVu Sans Mono" x="326.94" y="226.89">
+<tspan x="326.94" y="226.89">
+<tspan style="font-weight:bold">bind</tspan> (</tspan> <tspan x="326.94" y="239.39"/>
+<tspan x="326.94" y="251.89"/> <tspan x="326.94" y="264.39"/>
+<tspan x="326.94" y="276.89">)</tspan>
+</text>
+</g>
+<path d="m319.92 212.79h84.08v71.97h-84.08z" style="fill:none;stroke:#00f;stroke-width:1.41"/>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="336.83" y="239.76">
+<tspan x="336.83" y="239.76">srv_sock,</tspan> <tspan x="336.83" y="252.26">srv_addr,</tspan> <tspan x="336.83" y="264.76">addrlen</tspan>
+</text>
+<path d="m319.2 306.23h86.39v71.97h-86.39z" style="fill:none;stroke:#0ff;stroke-width:1.41"/>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="325.34" y="320.62">
+<tspan x="325.34" y="320.62">
+<tspan style="font-weight:bold">connect</tspan> (</tspan> <tspan x="325.34" y="333.12"/>
+<tspan x="325.34" y="345.62"/> <tspan x="325.34" y="358.12"/>
+<tspan x="325.34" y="370.62">)</tspan>
+</text>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="338.46" y="333.89">
+<tspan style="stroke-width:.94" x="338.46" y="333.89">clt_sock,</tspan> <tspan style="stroke-width:.94" x="338.46" y="346.39">srv_addr,</tspan> <tspan style="stroke-width:.94" x="338.46" y="358.89">addrlen</tspan>
+</text>
+<g style="fill:none;stroke-width:1.41">
+<path d="m-29.24 111.87h259.24v76.77h-259.24z" style="stroke:#0ff"/>
+<path d="m-31.67 109.47h264.59v81.66h-264.59z" style="stroke:#f00"/>
+<path d="m-34.13 106.96h269.71v86.59h-269.71z" style="stroke:#f95"/>
+</g>
+<text style="font-weight:bold;font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="440.71" y="230.43">
+<tspan x="440.71" y="230.43">listen (</tspan> <tspan x="440.71" y="242.93"/>
+<tspan x="440.71" y="255.43"/> <tspan x="440.71" y="267.93">)</tspan>
+</text>
+<path d="m317.11 210.38h89.74v77.09h-89.74z" style="fill:none;stroke:#f00;stroke-width:1.41"/>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="452.97" y="243.06">
+<tspan x="452.97" y="243.06">srv_sock,</tspan> <tspan x="452.97" y="255.56">max_pending_cnx</tspan>
+</text>
+<path d="m433.97 210.23h119.81v71.97h-119.81z" style="fill:none;stroke:#00f;stroke-width:1.41"/>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="584.66" y="223.8">
+<tspan x="584.66" y="223.8">
+<tspan style="font-weight:bold">accept</tspan> (</tspan> <tspan x="584.66" y="236.3"/>
+<tspan x="584.66" y="248.8"/> <tspan x="584.66" y="261.3"/>
+<tspan x="584.66" y="273.8">) <tspan style="fill:#f00">-&gt; cnx_sock</tspan>
+</tspan>
+</text>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="596.23" y="235.52">
+<tspan x="596.23" y="235.52">srv_sock,</tspan> <tspan x="596.23" y="248.02">[OUT] clt_addr,</tspan> <tspan x="596.23" y="260.52">[OUT] addrlen</tspan>
+</text>
+<path d="m579.81 210.45h112.06v71.97h-112.06z" style="fill:none;stroke:#00f;stroke-width:1.41"/>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="727.19" y="223.59">
+<tspan x="727.19" y="223.59">
+<tspan style="font-weight:bold">recv</tspan> (</tspan> <tspan x="727.19" y="236.09"/>
+<tspan x="727.19" y="248.59"/> <tspan x="727.19" y="261.09"/>
+<tspan x="727.19" y="273.59">)</tspan>
+</text>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="738.75" y="235.82">
+<tspan x="738.75" y="235.82">cnx_sock,</tspan> <tspan x="738.75" y="248.32">[OUT] buffer + len,</tspan> <tspan x="738.75" y="260.82">flags</tspan>
+</text>
+<path d="m719.75 210.23h138.94v71.98h-138.94z" style="fill:none;stroke:#00f;stroke-width:1.41"/>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="441.4" y="317.67">
+<tspan style="stroke-width:.94" x="441.4" y="317.67">
+<tspan style="font-weight:bold">send</tspan> (</tspan> <tspan style="stroke-width:.94" x="441.4" y="330.17"/>
+<tspan style="stroke-width:.94" x="441.4" y="342.67"/> <tspan style="stroke-width:.94" x="441.4" y="355.17"/>
+<tspan style="stroke-width:.94" x="441.4" y="367.67">)</tspan>
+</text>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="452.97" y="329.9">
+<tspan x="452.97" y="329.9">clt_sock,</tspan> <tspan x="452.97" y="342.4">buffer + len,</tspan> <tspan x="452.97" y="354.9">flags</tspan>
+</text>
+<path d="m433.97 304.31h107.92v71.97h-107.92z" style="fill:none;stroke:#0ff;stroke-width:1.41"/>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="248.23" y="250.36">
+<tspan style="font-weight:bold;fill:#00f" x="248.23" y="250.36">TCP server</tspan>
+</text>
+<text x="252.16" y="43.44">
+<tspan style="font-weight:bold;fill:#ff7f2a" x="252.16" y="43.44">UDP client</tspan>
+</text>
+<text x="251.58" y="340.81">
+<tspan style="font-weight:bold;fill:#0ff" x="251.58" y="340.81">TCP client</tspan>
+</text>
+<text x="245.44" y="149.93">
+<tspan style="font-weight:bold;fill:#f00" x="245.44" y="149.93">UDP server</tspan>
+</text>
+<text x="502.68" y="30.73">
+<tspan x="502.68" y="30.73">more specialized than read/write</tspan> <tspan x="502.68" y="43.23">(flags argument)</tspan>
+</text>
+</g>
+<path d="m450.53 100.55h146.68v80.76h-146.68z" style="fill:none;stroke:#f00;stroke-width:1.41"/>
+<g style="stroke-width:.94;font-size:10;letter-spacing:0;word-spacing:0">
+<text style="font-family:DejaVu Sans Mono" x="456.15" y="112.36">
+<tspan x="456.15" y="112.36">
+<tspan style="font-weight:bold">recvfrom</tspan> (</tspan> <tspan x="456.15" y="124.86"/>
+<tspan x="456.15" y="137.36"/> <tspan x="456.15" y="149.86"/>
+<tspan x="456.15" y="162.36"/> <tspan x="456.15" y="174.86">)</tspan>
+</text>
+<text style="font-family:DejaVu Sans Mono" x="469.27" y="124.59">
+<tspan x="469.27" y="124.59">srv_sock,</tspan> <tspan x="469.27" y="137.09">[OUT] buffer + len,</tspan> <tspan x="469.27" y="149.59">flags,</tspan> <tspan x="469.27" y="162.09">[OUT] clt_addr + len</tspan>
+</text>
+<text style="font-family:Droid Sans" x="677.66" y="358.99">
+<tspan x="677.66" y="358.99">recvmsg/sendmsg variants provide</tspan> <tspan x="677.66" y="371.49">support for scatter/gather IO</tspan>
+</text>
+</g>
+<path d="m317.16 1.56h119.28v80.76h-119.28z" style="fill:none;stroke:#ff7f2a;stroke-width:1.41"/>
+<g style="stroke-width:.94;font-size:10;letter-spacing:0;word-spacing:0;font-family:DejaVu Sans Mono">
+<text x="322.77" y="13.37">
+<tspan style="stroke-width:.94" x="322.77" y="13.37">
+<tspan style="font-weight:bold">sendto</tspan> (</tspan> <tspan style="stroke-width:.94" x="322.77" y="25.87"/>
+<tspan style="stroke-width:.94" x="322.77" y="38.37"/> <tspan style="stroke-width:.94" x="322.77" y="50.87"/>
+<tspan style="stroke-width:.94" x="322.77" y="63.37"/> <tspan style="stroke-width:.94" x="322.77" y="75.87">)</tspan>
+</text>
+<text x="335.89" y="25.6">
+<tspan x="335.89" y="25.6">clt_sock,</tspan> <tspan x="335.89" y="38.1">buffer + len,</tspan> <tspan x="335.89" y="50.6">flags,</tspan> <tspan x="335.89" y="63.1">srv_addr + len</tspan>
+</text>
+<text x="1053.99" y="278.23">
+<tspan x="1053.99" y="278.23">
+<tspan style="font-weight:bold">close</tspan> (</tspan> <tspan x="1053.99" y="290.73"/>
+<tspan x="1053.99" y="303.23">)</tspan>
+</text>
+</g>
+<g transform="translate(163.67 -156.9)">
+<path d="m737.99 301.56h217v71.97h-217z" style="fill:none;stroke:#00f;stroke-width:1.41"/>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="745.42" y="321.12">
+<tspan x="745.42" y="321.12">
+<tspan style="font-weight:bold">shutdown</tspan> (</tspan> <tspan x="745.42" y="333.62"/>
+<tspan x="745.42" y="346.12"/> <tspan x="745.42" y="358.62">)</tspan>
+</text>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="756.99" y="333.35">
+<tspan x="756.99" y="333.35">socket,</tspan> <tspan x="756.99" y="345.85">how // SHUT_RD,SHUT_WR,SHUT_RDWR</tspan>
+</text>
+<g style="fill:none;stroke-width:1.41">
+<path d="m735.52 298.67h222.68v77.66h-222.68z" style="stroke:#0ff"/>
+<path d="m732.82 295.61h228.11v83.86h-228.11z" style="stroke:#f00"/>
+<path d="m730.23 293.03h233.8v89.55h-233.8z" style="stroke:#f95"/>
+</g>
+</g>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="1064.22" y="290.58">
+<tspan x="1064.22" y="290.58">socket</tspan>
+</text>
+<g style="fill:none">
+<g style="stroke-width:1.41">
+<path d="m1042.54 261.55h74.49v50.77h-74.49z" style="stroke:#00f"/>
+<path d="m1039.43 258.81h80.52v56.62h-80.52z" style="stroke:#0ff"/>
+<path d="m1036.51 255.7h86.37v63.02h-86.37z" style="stroke:#f00"/>
+<path d="m1033.49 253.14h92.58v68.5h-92.58z" style="stroke:#ff7f2a"/>
+</g>
+<g style="stroke:#696969">
+<path d="m315.18 45.09-78.12 132.09" style="marker-start:url(#a)"/>
+<path d="m314.81 245.8-77.75-68.62" style="marker-start:url(#b)"/>
+<path d="m316.81 338.62-79.75-161.44" style="marker-start:url(#c)"/>
+<path d="m430.24 246.13h-24.18" style="marker-start:url(#d)"/>
+<path d="m430.38 340.47h-24.19" style="marker-start:url(#e)"/>
+<path d="m577.45 246.13h-24.19" style="marker-start:url(#f)"/>
+<path d="m716.5 248.71h-24.18" style="marker-start:url(#g)"/>
+<path d="m890.19 177.38-453.76-136.47" style="marker-start:url(#h)"/>
+<path d="m890.19 177.38-293.12-35.37" style="marker-start:url(#i)"/>
+<path d="m890.19 177.38-32.46 70.3" style="marker-start:url(#j)"/>
+<path d="m890.19 177.38-43.75 159.73-305.07 1.03" style="marker-start:url(#k)"/>
+<path d="m1030.17 289.21h-46.99l-.04-63.06" style="marker-start:url(#l)"/>
+</g>
+<g style="stroke:#000">
+<path d="m671.16 362.3-129.79-24.16"/>
+<path d="m503.18 32.42-66.75 8.48"/>
+<path d="m477.93 99.28 25.25-66.85"/>
+<path d="m719.75 282.21-48.59 80.1"/>
+</g>
+<path d="m-12.57 258.26h235.31v80.84h-235.31z" style="stroke:#00f;stroke-width:1.41"/>
+</g>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="-7.42" y="270.38">
+<tspan x="-7.42" y="270.38">
+<tspan style="font-weight:bold">setsockopt</tspan> (</tspan> <tspan x="-7.42" y="282.88"/>
+<tspan x="-7.42" y="295.38"/> <tspan x="-7.42" y="307.88"/>
+<tspan x="-7.42" y="320.38"/> <tspan x="-7.42" y="332.88">)</tspan>
+</text>
+<text style="font-size:10;font-family:DejaVu Sans Mono;letter-spacing:0;word-spacing:0;stroke-width:.94" x="3.57" y="282.89">
+<tspan x="3.57" y="282.89">socket,</tspan> <tspan x="3.57" y="295.4">level, // SOL_SOCKET. IPPROTO_TCP...</tspan> <tspan x="3.57" y="307.9">option_id,</tspan> <tspan x="3.57" y="320.4">option_val + len</tspan>
+</text>
+<g style="fill:none">
+<g style="stroke-width:1.41">
+<path d="m-15.04 255.37h240.71v86.82h-240.71z" style="stroke:#0ff"/>
+<path d="m-17.74 252.31h246.14v92.73h-246.14z" style="stroke:#f00"/>
+<path d="m-20.32 249.73h251.25v97.84h-251.25z" style="stroke:#f95"/>
+</g>
+<path d="m119.4 246.39-30.32-52.28" style="stroke:#696969;marker-start:url(#m)"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;writing-mode:lr;stroke-width:.94" x="-17.63" y="361.52">
+<tspan>option examples : SO_BINDTODEVICE, SO_RCVTIMEO,</tspan>
+</text>
+<text style="stroke-width:.73" x="26.77" y="374.33">
+<tspan style="stroke-width:.73" x="26.77" y="384.68"/>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;writing-mode:lr;stroke-width:.94" x="-17.75" y="372.92">
+<tspan>SO_REUSEPORT ...</tspan>
+</text>
+</svg>
