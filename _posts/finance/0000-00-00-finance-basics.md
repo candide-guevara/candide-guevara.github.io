@@ -1,7 +1,7 @@
 ---
 title: Finance, markets types, basic definitions
 date: 2015-07-07
-categories: [cs_related, finance]
+categories: [misc, finance]
 ---
 
 ## Definitions

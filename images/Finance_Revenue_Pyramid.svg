@@ -1,0 +1,187 @@
+<svg height="900" viewBox="0 0 790.82 625.01" width="1100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#008000;fill-rule:evenodd;stroke:#008000;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#ff7f2a;fill-rule:evenodd;stroke:#ff7f2a;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#0ff;fill-rule:evenodd;stroke:#0ff;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="e" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#ffb380;fill-rule:evenodd;stroke:#ffb380;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="f" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#0f0;fill-rule:evenodd;stroke:#0f0;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="g" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#ffb380;fill-rule:evenodd;stroke:#ffb380;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="h" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-475.6 14.8)">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<g style="fill:none">
+<g style="stroke-width:2.34">
+<path d="m580.38 45.84-1.32 512.76-125.79-.15" style="stroke:#0f0;marker-start:url(#f)"/>
+<path d="m526.6 200.04.09 370.93-76.8-.15" style="stroke:#ffb380;marker-start:url(#e)"/>
+<path d="m467.56 467.27-.55 77.74-17.28.35" style="stroke:#0ff;marker-start:url(#d)"/>
+</g>
+<ellipse cx="416.7" cy="557.97" rx="37.55" ry="26.17" style="stroke:#000;stroke-width:1.1"/>
+<path d="m379.18 71.34h77.42v389.89h-77.42z" style="stroke:#00f;stroke-width:1.1"/>
+<path d="m565.74 43.54-.22 90.43h-69.15" style="stroke:#696969;stroke-width:1.41;marker-start:url(#h)"/>
+<path d="m786.69 60.75h-783.15" style="stroke:#000;stroke-width:1.88;stroke-dasharray:11.25 1.88"/>
+</g>
+<text style="stroke-width:.94" x="-94.69" y="-1.39">
+<tspan style="stroke-width:.94" x="-94.69" y="7.47"/>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="395.85" y="84.15">
+<tspan style="font-weight:bold" x="395.85" y="84.15">Revenue</tspan>
+</text>
+<path d="m301.76 176.79h77.42v284.43h-77.42z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="320.41" y="190.75">
+<tspan x="320.41" y="190.75">Operating</tspan> <tspan x="320.41" y="203.25">Revenue</tspan>
+</text>
+<path d="m301.76 71.34h77.42v105.45h-77.42z" style="fill:none;stroke:#008000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="307.45" y="84.67">
+<tspan x="307.45" y="84.67">Non operating</tspan> <tspan x="307.45" y="97.17">Revenue</tspan>
+</text>
+<path d="m224.34 71.34h77.42v54.28h-77.42z" style="fill:none;stroke:#008000;stroke-width:1.1"/>
+<path d="m224.34 125.62h77.42v51.18h-77.42z" style="fill:none;stroke:#008000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="231.98" y="85.7">
+<tspan x="231.98" y="85.7">Non recurring</tspan> <tspan x="231.98" y="98.2">Revenue</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="232.49" y="140.5">
+<tspan x="232.49" y="140.5">Capital</tspan> <tspan x="232.49" y="153">Revenue</tspan>
+</text>
+<path d="m224.34 200.51h77.42v260.72h-77.42z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;writing-mode:lr;stroke-width:.94" x="229.37" y="213.47">
+<tspan>Net Sales</tspan> <tspan>(accounts for</tspan> <tspan>refunds, etc...)</tspan>
+</text>
+<path d="m534.03 4.08h77.42v35.05h-77.42z" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<path d="m456.61 71.34h77.42v46.01h-77.42z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="468.51" y="85.85">
+<tspan style="font-weight:bold" x="468.51" y="85.85">Net Income</tspan> <tspan x="468.51" y="98.35">(operating</tspan> <tspan x="468.51" y="110.85">and capital)</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="549.59" y="17.82">
+<tspan x="549.59" y="17.82">Capital</tspan> <tspan x="549.59" y="30.32">Expenses</tspan>
+</text>
+<path d="m456.61 264.25h77.42v196.61h-77.42z" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="473.2" y="168.62">
+<tspan x="473.2" y="168.62">Interest</tspan> <tspan x="473.2" y="181.12">Expenses</tspan>
+</text>
+<path d="m456.61 152.39h77.42v40.21h-77.42z" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<path d="m456.61 220.02h77.42v44.23h-77.42z" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;fill:#f0f;stroke-width:.94" x="406.47" y="158.7">
+<tspan x="406.47" y="158.7">deductible</tspan>
+</text>
+<path d="m456.61 192.6h77.42v27.41h-77.42z" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="461.93" y="208.58">
+<tspan x="461.93" y="208.58">Misc Expenses</tspan>
+</text>
+<path d="m456.61 152.39h6.48v6.34h-6.48z" style="fill:#f0f;stroke:#f0f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="480.84" y="243.86">
+<tspan x="480.84" y="243.86">Taxes</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="469.61" y="279.5">
+<tspan x="469.61" y="279.5">Operating</tspan> <tspan x="469.61" y="292">Expenses</tspan>
+</text>
+<path d="m534.03 264.25h77.42v81.1h-77.42z" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<path d="m534.03 345.35h77.42v115.51h-77.42z" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="539.79" y="283.15">
+<tspan x="539.79" y="283.15">Indirect Costs</tspan>
+</text>
+<text x="544.02" y="363.91">
+<tspan x="544.02" y="363.91">Direct Costs</tspan>
+</text>
+<text x="628.98" y="337.98">
+<tspan x="628.98" y="337.98">Cost of</tspan> <tspan x="628.98" y="350.48">Revenue</tspan>
+</text>
+<text x="698.91" y="399.35">
+<tspan x="698.91" y="399.35">Cost of</tspan> <tspan x="698.91" y="411.85">Goods sold</tspan> <tspan x="698.91" y="424.35">or</tspan> <tspan x="698.91" y="436.85">Services sold</tspan>
+</text>
+<text x="627.48" y="283.11">
+<tspan x="627.48" y="283.11">Overhead</tspan>
+</text>
+<text x="696.2" y="344.52">
+<tspan x="696.2" y="344.52">Cost of</tspan> <tspan x="696.2" y="357.02">Sales/Delivery</tspan>
+</text>
+<text x="703.31" y="277.28">
+<tspan x="703.31" y="277.28">Rent and</tspan> <tspan x="703.31" y="289.78">Insurance</tspan>
+</text>
+<text x="160.86" y="190.64">
+<tspan x="160.86" y="190.64">Operating</tspan> <tspan x="160.86" y="203.14">Income</tspan>
+</text>
+</g>
+<g style="fill:none;stroke:#f00;stroke-width:1.1">
+<path d="m611.46 321.22h77.42v139.63h-77.42z"/>
+<path d="m611.46 264.25h77.42v56.98h-77.42z"/>
+<path d="m688.88 379.71h77.42v81.15h-77.42z"/>
+<path d="m688.88 321.22h77.42v58.48h-77.42z"/>
+<path d="m688.88 297.07h77.42v24.15h-77.42z"/>
+<path d="m688.88 264.25h77.42v32.83h-77.42z"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="696.67" y="311.46">
+<tspan style="stroke-width:.94" x="696.67" y="311.46">Depreciation</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="7.63" y="54.17">
+<tspan x="7.63" y="54.17">balance statement</tspan>
+</text>
+<path d="m456.61 264.25h6.48v6.34h-6.48z" style="fill:#f0f;stroke:#f0f;stroke-width:1.1"/>
+<path d="m787.28 477.96h-781.6" style="fill:none;stroke:#000;stroke-width:1.88;stroke-dasharray:11.25 1.88"/>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="11.24" y="470.74">
+<tspan style="stroke-width:.94" x="11.24" y="470.74">income statement</tspan>
+</text>
+<text x="10.72" y="491.42">
+<tspan x="10.72" y="491.42">cash flow statement</tspan>
+</text>
+<text x="394.3" y="560.77">
+<tspan x="394.3" y="560.77">Company</tspan>
+</text>
+</g>
+<path d="m375.67 547.09-40.02-.55.27-85.36" style="fill:none;stroke:#00f;stroke-width:2.34;marker-start:url(#a)"/>
+<path d="m372.89 559.44-62.69-.18-.1-382.53" style="fill:none;stroke:#008000;stroke-width:2.34;marker-start:url(#b)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="340.21" y="514.9">
+<tspan x="340.21" y="514.9">operational cash in</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="269.38" y="571.84">
+<tspan x="269.38" y="571.84">investing cash in</tspan>
+</text>
+<path d="m377.28 572.78-29.25 20.7-130.67.31" style="fill:none;stroke:#ff7f2a;stroke-width:2.34;marker-start:url(#c)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="221.67" y="589.02">
+<tspan x="221.67" y="589.02">financing cash in</tspan>
+</text>
+<path d="m115.13 569.79h102.28v44.23h-102.28z" style="fill:none;stroke:#ff7f2a;stroke-width:1.1"/>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="127.95" y="583.25">
+<tspan x="127.95" y="583.25">* equity sold</tspan> <tspan x="127.95" y="595.75">* loans, bonds</tspan> <tspan x="127.95" y="608.25">....</tspan>
+</text>
+<text x="471.52" y="513.72">
+<tspan x="471.52" y="513.72">operational cash out</tspan>
+</text>
+<text x="553.57" y="570.74">
+<tspan x="553.57" y="570.74">investing cash out</tspan>
+</text>
+<text x="455.39" y="583.93">
+<tspan x="455.39" y="583.93">financing cash out</tspan>
+</text>
+</g>
+<path d="m638.92 598.52-112.23-27.55" style="fill:none;stroke:#ffb380;stroke-width:2.34;marker-start:url(#g)"/>
+<path d="m645.88 576.73h102.28v44.23h-102.28z" style="fill:none;stroke:#ff7f2a;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="652.04" y="595.92">
+<tspan x="652.04" y="595.92">* share repurchase</tspan> <tspan x="652.04" y="608.42">* dividends</tspan>
+</text>
+<g style="fill:none;stroke:#00f">
+<path d="m146.91 176.79h77.42v87.32h-77.42z" style="stroke-width:1.1"/>
+<path d="m456.61 264.25-232.27-.14" style="stroke-width:1.03;stroke-dasharray:3.09 1.03"/>
+<path d="m69.49 71.24h77.42v192.87h-77.42z" style="stroke-width:1.1"/>
+<path d="m224.34 71.34-76.97-.14" style="stroke-width:1.03;stroke-dasharray:3.09 1.03"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="72.9" y="84.46">
+<tspan x="72.9" y="84.46">earnings before</tspan> <tspan x="72.9" y="96.96">interest and</tspan> <tspan x="72.9" y="109.46">taxes (EBIT)</tspan>
+</text>
+</svg>
