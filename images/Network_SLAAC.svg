@@ -1,0 +1,140 @@
+<svg height="600" viewBox="0 0 617.37 423.12" width="900" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="e" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="f" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="g" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="h" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="i" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="j" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="k" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="l" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="m" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-503.32 -18.61)">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="n" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-503.32 -18.61)">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<g style="fill:none">
+<g style="stroke:#00f;stroke-width:1.1">
+<path d="m185 4.08h95v36.27h-95z"/>
+<path d="m281.68 7.92h1.9v35.51h-95v-1.36"/>
+<path d="m285.03 11.65h1.9v34.75h-95v-1.33"/>
+<path d="m4.09 5.03h95v41.86h-95z"/>
+</g>
+<path d="m51.1 287.92h368.64" style="stroke:#696969;marker-start:url(#m)"/>
+<path d="m230.71 128.76h-183.1" style="stroke:#696969;marker-start:url(#n)"/>
+<path d="m48.02 419.19v-372.45" style="stroke:#00f;stroke-width:1.13"/>
+</g>
+<g style="stroke-width:.94">
+<text x="-122.41" y="-34.8">
+<tspan style="stroke-width:.94" x="-122.41" y="-25.94"/>
+</text>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="262.62" y="382.67">
+<tspan x="262.62" y="382.67">[OPTIONAL] redirect:</tspan> <tspan x="262.62" y="395.17">if there is a better first hop for dst,</tspan> <tspan x="262.62" y="407.67">if dst is local to the network</tspan>
+</text>
+<g style="font-weight:bold">
+<text x="20.65" y="23.21">
+<tspan x="20.65" y="23.21">Node joining</tspan> <tspan x="20.65" y="35.71">the network</tspan>
+</text>
+<text x="194.45" y="26.93">
+<tspan x="194.45" y="26.93">Neighbor nodes</tspan>
+</text>
+</g>
+</g>
+</g>
+<path d="m373.91 4.31h95v41.86h-95z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-weight:bold;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="402.35" y="30">
+<tspan x="402.35" y="30">Router</tspan>
+</text>
+<g style="fill:none">
+<path d="m233.61 419.6v-373.98" style="stroke:#00f;stroke-width:1.13"/>
+<path d="m419.98 419.09v-373.47" style="stroke:#00f;stroke-width:1.13"/>
+<path d="m50.49 89.84 32.04.18.03-29.31h-34.35" style="stroke:#696969;marker-start:url(#a)"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="89.31" y="66.95">
+<tspan x="89.31" y="66.95">build a tentatively unique</tspan> <tspan x="89.31" y="79.45">link local IPv6 based on the</tspan> <tspan x="89.31" y="91.95">MAC address</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="52.18" y="111.71">
+<tspan x="52.18" y="111.71">neighbor solicitation:</tspan> <tspan x="52.18" y="124.21">fe80::&lt;EUI-64&gt; available on the network ?</tspan>
+</text>
+<path d="m417.4 240.41h-369.9" style="fill:none;stroke:#696969;marker-start:url(#b)"/>
+<path d="m236.03 180.08 32.04.18.03-29.31h-34.34" style="fill:none;stroke:#696969;marker-start:url(#c)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="270.87" y="163.07">
+<tspan x="270.87" y="163.07">silently ignore if new IP</tspan> <tspan x="270.87" y="175.57">is not conflicting</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="52.18" y="140.19">
+<tspan x="52.18" y="140.19">dst all link nodes multicast = FF02::1</tspan>
+</text>
+<path d="m230.16 202.6h-183.1" style="fill:none;stroke:#696969;marker-start:url(#d)"/>
+<path d="m422.59 178.04 32.04.18.03-29.31h-34.35" style="fill:none;stroke:#696969;marker-start:url(#e)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="457.42" y="161.04">
+<tspan style="stroke-width:.94" x="457.42" y="161.04">silently ignore if new IP</tspan> <tspan style="stroke-width:.94" x="457.42" y="173.54">is not conflicting</tspan>
+</text>
+<path d="m417.22 128.67h-183.1" style="fill:none;stroke:#696969;marker-start:url(#f)"/>
+<path d="m417.52 202.53h-183.1" style="fill:none;stroke:#696969;marker-start:url(#g)"/>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="50.65" y="186.98">
+<tspan x="50.65" y="186.98">neighbor advertisement:</tspan> <tspan x="50.65" y="199.48">node address is fe80::&lt;EUI-64&gt;</tspan>
+</text>
+<text x="50.76" y="214.47">
+<tspan style="stroke-width:.94" x="50.76" y="214.47">dst all link nodes multicast = FF02::1</tspan>
+</text>
+<text x="51.42" y="236.82">
+<tspan x="51.42" y="236.82">router solicitation</tspan>
+</text>
+<text x="50.76" y="252.1">
+<tspan x="50.76" y="252.1">dst all <tspan style="font-weight:bold">router</tspan> nodes multicast = FF02::2</tspan>
+</text>
+<text x="315.62" y="271.91">
+<tspan x="315.62" y="271.91">router advertisement:</tspan> <tspan x="315.62" y="284.41">prefix, gateway, dns ...</tspan>
+</text>
+<text x="284.6" y="297.84">
+<tspan x="284.6" y="297.84">src = router link-local address</tspan>
+</text>
+</g>
+<path d="m230.99 338.32h-183.1" style="fill:none;stroke:#696969;marker-start:url(#i)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="52.46" y="321.27">
+<tspan x="52.46" y="321.27">neighbor solicitation + advertisement:</tspan> <tspan x="52.46" y="333.77">&lt;PREFIX&gt;::&lt;EUI-64&gt; available on the network ?</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="51.95" y="358.39">
+<tspan style="stroke-width:.94" x="51.95" y="358.39">dst all link nodes multicast = FF02::1</tspan>
+</text>
+<g style="fill:none;stroke:#696969">
+<path d="m417.5 338.23h-183.1" style="marker-start:url(#h)"/>
+<path d="m417.31 346.02h-183.1" style="marker-start:url(#j)"/>
+<path d="m231.05 346.02h-183.1" style="marker-start:url(#k)"/>
+<path d="m50.2 411.63h368.64" style="stroke-dasharray:3 3;marker-start:url(#l)"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;fill:#f00;stroke-width:.94" x="476.84" y="75.09">
+<tspan x="476.84" y="75.09">the router may also use SLAAC</tspan> <tspan x="476.84" y="87.59">for its link local addresses</tspan>
+</text>
+<path d="m475.29 75.97-37.14-29.5" style="fill:none;stroke:#000"/>
+</svg>

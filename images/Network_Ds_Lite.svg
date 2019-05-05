@@ -1,0 +1,89 @@
+<svg height="350" viewBox="0 0 622.21 216.87" width="1200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:1pt" transform="scale(-.2)"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#008000;fill-rule:evenodd;stroke:#008000;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#008000;fill-rule:evenodd;stroke:#008000;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="e" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<path d="m-36.5 62.99h72.13v41.28h-72.13z" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<text style="stroke-width:.94" x="24.48" y="-438.63">
+<tspan style="stroke-width:.94" x="24.48" y="-429.77"/>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="-30.71" y="79.14">
+<tspan style="fill:#f00" x="-30.71" y="79.14">dual stack</tspan> <tspan x="-30.71" y="91.64">home devices</tspan>
+</text>
+<g style="fill:none">
+<ellipse cx="110.99" cy="85.03" rx="52.8" ry="30" style="stroke:#008000;stroke-width:1.41"/>
+<path d="m172.49 69.22h46.52v29.61h-46.52z" style="stroke:#f00;stroke-width:1.1"/>
+<path d="m331.91 80.04h-112.92" style="stroke:#00f;stroke-width:5.63;marker-start:url(#a)"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="79.13" y="75">
+<tspan x="79.13" y="75">IPv4 and IPv6</tspan> <tspan x="79.13" y="87.5"/>
+<tspan x="79.13" y="100">home network</tspan>
+</text>
+<ellipse cx="529.69" cy="80.11" rx="65.77" ry="35.58" style="fill:none;stroke:#008000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="260.23" y="70.43">
+<tspan x="260.23" y="70.43">IPv6</tspan> <tspan x="260.23" y="82.93"/>
+<tspan x="260.23" y="95.42">ISP network</tspan>
+</text>
+<ellipse cx="285.57" cy="88.49" rx="52.8" ry="34.39" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="177.67" y="80.85">
+<tspan x="177.67" y="80.85">gateway</tspan> <tspan x="177.67" y="93.35">router</tspan>
+</text>
+<path d="m614.74 66.87h43.13v25.59h-43.13z" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="622.91" y="82.01">
+<tspan x="622.91" y="82.01">server</tspan>
+</text>
+<path d="m338.08 80.04h-119.61" style="fill:none;stroke:#0f0;stroke-width:1.88"/>
+<path d="m168.54 81.02h-133.13" style="fill:none;stroke:#008000;stroke-width:1.41;marker-start:url(#b)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="184.97" y="21.86">
+<tspan x="184.97" y="21.86">* tunnel IPv4 traffic</tspan> <tspan x="184.97" y="34.35">* forward IPv6 traffic</tspan>
+</text>
+<path d="m39.19 72.46h2.25v41.28h-72.13v-3.98" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<path d="m36.35 67.88h2.25v41.28h-72.13v-3.98" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="500.12" y="63.38">
+<tspan x="500.12" y="63.38">IPv4 internet</tspan>
+</text>
+<path d="m339.06 66.79h112.97v29.61h-112.97z" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="343.86" y="77.92">
+<tspan x="343.86" y="77.92">carrier grade translator</tspan> <tspan x="343.86" y="90.42">(CGN)</tspan>
+</text>
+<g style="fill:none">
+<path d="m611.08 82.32h-159.13" style="stroke:#008000;stroke-width:1.41;marker-start:url(#d)"/>
+<g style="stroke:#00f">
+<ellipse cx="111.13" cy="84.98" rx="50.87" ry="27.82" style="stroke-width:1.41"/>
+<ellipse cx="385.14" cy="152.45" rx="65.77" ry="35.58" style="stroke-width:1.1"/>
+</g>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="355.57" y="135.71">
+<tspan x="355.57" y="135.71">IPv6 internet</tspan>
+</text>
+<g style="fill:none">
+<path d="m168.2 89.99h-132.84" style="stroke:#00f;stroke-width:1.41;marker-start:url(#c)"/>
+<path d="m466.17 202.81-247.48-114.28" style="stroke:#00f;stroke-width:1.41;marker-start:url(#e)"/>
+<path d="m469.48 190.03h43.13v25.59h-43.13z" style="stroke:#000;stroke-width:1.1"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="477.64" y="205.16">
+<tspan style="stroke-width:.94" x="477.64" y="205.16">server</tspan>
+</text>
+<path d="m216.76 37.49-23.67 31.76" style="fill:none;stroke:#000;stroke-width:.93"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="372.5" y="8.3">
+<tspan x="372.5" y="8.3">address translation</tspan> <tspan x="372.5" y="20.8">happens <tspan style="font-weight:bold">only once</tspan>
+</tspan>
+<tspan x="372.5" y="33.3">on the ISP network edge</tspan>
+</text>
+<path d="m421.25 34.67-23.67 31.76" style="fill:none;stroke:#000;stroke-width:.93"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="-10.9" y="144.76">
+<tspan x="-10.9" y="144.76">home devices have</tspan> <tspan x="-10.9" y="157.26">* public IPv6 address</tspan> <tspan x="-10.9" y="169.76">* private IPv4 address</tspan>
+</text>
+<path d="m-.73 104.18 23.67 31.77" style="fill:none;stroke:#000;stroke-width:.93"/>
+</svg>

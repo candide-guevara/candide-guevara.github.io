@@ -1,0 +1,69 @@
+<svg height="350" viewBox="0 0 678.07 229.86" width="1200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#0f0;fill-rule:evenodd;stroke:#0f0;stroke-width:1pt" transform="scale(-.2)"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<path d="m-39.39 83.28h49.44v25.59h-49.44z" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<path d="m357.07 94.59h-346.46" style="fill:none;stroke:#0f0;stroke-width:5.63;marker-start:url(#a)"/>
+<path d="m357.42 202.95v-126.61" style="fill:#f00;stroke:#f0f;stroke-width:1.88;stroke-dasharray:7.5 1.88"/>
+<text style="stroke-width:.94" x="21.64" y="-341.03">
+<tspan style="stroke-width:.94" x="21.64" y="-332.17"/>
+</text>
+<ellipse cx="266.53" cy="93.44" rx="65.77" ry="35.58" style="fill:none;stroke:#008000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="237.68" y="76.09">
+<tspan x="237.68" y="76.09">IPv4 internet</tspan>
+</text>
+<ellipse cx="417.83" cy="97.26" rx="52.8" ry="26.17" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="388.16" y="100.56">
+<tspan style="stroke-width:.94" x="388.16" y="100.56">IPv6 network</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="-33.27" y="99.43">
+<tspan x="-33.27" y="99.43">Attacker</tspan>
+</text>
+<path d="m642.21 79.38h74.62v31.79h-74.62z" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="647.79" y="91.93">
+<tspan x="647.79" y="91.93">Target</tspan> <tspan x="647.79" y="104.43">IP: 1234::7890</tspan>
+</text>
+<g style="fill:none;stroke:#00f">
+<path d="m363.52 94.59h-354.54" style="stroke-width:1.88"/>
+<g style="stroke-width:1.41">
+<path d="m515.56 169.19-65.55-51.62"/>
+<path d="m638.76 96.69-168.19-.21" style="marker-start:url(#b)"/>
+</g>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="326.85" y="214.26">
+<tspan x="326.85" y="214.26">firewall</tspan> <tspan x="326.85" y="226.76">(blocks port 22)</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="360.83" y="182.09">
+<tspan x="360.83" y="182.09">decapsulator</tspan> <tspan x="360.83" y="194.59">IP: 72.0.0128</tspan>
+</text>
+<path d="m363.92 171.68v-95.11" style="fill:#f00;stroke:#f00;stroke-width:1.88;stroke-dasharray:7.5 1.88"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="522.16" y="164.16">
+<tspan x="522.16" y="164.16">Whitelisted Node</tspan> <tspan x="522.16" y="176.66">IP: 1234::4567</tspan>
+</text>
+<path d="m515.96 153.38h88.56v29.47h-88.56z" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<g style="stroke-width:.94;font-size:10;letter-spacing:0;word-spacing:0">
+<text style="font-family:Droid Sans" x="16.59" y="8.3">
+<tspan x="16.59" y="8.3">Packet:</tspan> <tspan x="16.59" y="20.8">* IPv4 Header :</tspan> <tspan x="16.59" y="33.3"/>
+<tspan x="16.59" y="45.8"/> <tspan x="16.59" y="58.3">* IPv6 Header :</tspan>
+<tspan x="16.59" y="70.8"/>
+</text>
+<text style="font-family:Droid Sans Mono" x="23.82" y="31.54">
+<tspan x="23.82" y="31.54">src: 192.0.0.168, port: 42568</tspan> <tspan x="23.82" y="44.04">dst: 72.0.0128, port: 80</tspan>
+</text>
+<text style="font-family:Droid Sans Mono" x="23.78" y="69.92">
+<tspan x="23.78" y="69.92">src: <tspan style="fill:#f00">1234::4567</tspan> , port: 42568</tspan> <tspan x="23.78" y="82.42">dst: 1234::7890, port: <tspan style="fill:#f00">22</tspan>
+</tspan>
+</text>
+<text style="font-family:Droid Sans" x="465.09" y="48">
+<tspan x="465.09" y="48">Packet:</tspan> <tspan x="465.09" y="60.5">* IPv6 Header :</tspan>
+<tspan x="465.09" y="73"/>
+</text>
+<text style="font-family:Droid Sans Mono" x="472.28" y="72.37">
+<tspan style="stroke-width:.94" x="472.28" y="72.37">src: <tspan style="fill:#f00;stroke-width:.94">1234::4567</tspan> , port: 42568</tspan> <tspan style="stroke-width:.94" x="472.28" y="84.87">dst: 1234::7890, port: <tspan style="fill:#f00;stroke-width:.94">22</tspan>
+</tspan>
+</text>
+</g>
+</svg>

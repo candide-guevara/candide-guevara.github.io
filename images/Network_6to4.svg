@@ -1,0 +1,121 @@
+<svg height="430" viewBox="0 0 787 284.3" width="1350" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m1.15 0-1.73 1v-2z" style="fill:#0f0;fill-rule:evenodd;stroke:#0f0;stroke-width:.2pt"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:.4pt"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="e" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:.4pt"/>
+</marker>
+<marker id="f" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#0f0;fill-rule:evenodd;stroke:#0f0;stroke-width:1pt" transform="scale(-.2)"/>
+</marker>
+<marker id="g" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m1.15 0-1.73 1v-2z" style="fill:#0f0;fill-rule:evenodd;stroke:#0f0;stroke-width:.2pt"/>
+</marker>
+<marker id="h" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m1.15 0-1.73 1v-2z" style="fill:#0f0;fill-rule:evenodd;stroke:#0f0;stroke-width:.2pt"/>
+</marker>
+<marker id="i" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="j" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:.4pt"/>
+</marker>
+<marker id="k" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="l" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#00f;fill-rule:evenodd;stroke:#00f;stroke-width:.4pt"/>
+</marker>
+<g style="fill:none">
+<path d="m407.77 129.65 42.6 47.7" style="stroke:#0f0;stroke-width:5.63;marker-end:url(#h)"/>
+<ellipse cx="165.85" cy="130.57" rx="52.8" ry="26.17" style="stroke:#00f;stroke-width:1.1"/>
+<path d="m-45.85 117.2h133.58v28.69h-133.58z" style="stroke:#000;stroke-width:1.1"/>
+<path d="m377.26 130.96-42.6 47.7" style="stroke:#0f0;stroke-width:5.63;marker-end:url(#a)"/>
+</g>
+<text style="stroke-width:.94" x="70.94" y="-306.08">
+<tspan style="stroke-width:.94" x="70.94" y="-297.22"/>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="136.7" y="127.68">
+<tspan x="136.7" y="127.68">Isolated IPv6</tspan> <tspan x="136.7" y="140.18">network</tspan>
+</text>
+<ellipse cx="393.8" cy="129.43" rx="65.77" ry="35.58" style="fill:none;stroke:#008000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="364.95" y="112.07">
+<tspan x="364.95" y="112.07">IPv4 internet</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="-41.27" y="128.7">
+<tspan x="-41.27" y="128.7">peer1</tspan> <tspan x="-41.27" y="141.2">IP: <tspan style="fill:#f00">2002:&lt;72.0.0.123&gt;</tspan> ::1234</tspan>
+</text>
+<path d="m109.63 131.7h-17.89" style="fill:none;stroke:#00f;stroke-width:1.41;marker-start:url(#b);marker-end:url(#c)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="234.46" y="8.3">
+<tspan x="234.46" y="8.3">Packet</tspan> <tspan x="234.46" y="20.8">* IPv4 header :</tspan> <tspan x="234.46" y="33.3"/>
+<tspan x="234.46" y="45.8"/> <tspan x="234.46" y="58.3">* IPv6 header :</tspan>
+</text>
+<path d="m323.84 129.27-20.22-44.47" style="stroke:#000;stroke-width:1.06"/>
+<ellipse cx="392.33" cy="247.46" rx="65.77" ry="35.58" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="363.49" y="230.11">
+<tspan x="363.49" y="230.11">IPv6 internet</tspan>
+</text>
+<ellipse cx="535.95" cy="247.59" rx="52.8" ry="26.17" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="506.28" y="250.89">
+<tspan style="stroke-width:.94" x="506.28" y="250.89">IPv6 network</tspan>
+</text>
+<path d="m218.99 115h74.2v29.21h-74.2z" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="226.02" y="125.76">
+<tspan x="226.02" y="125.76">6to4 router</tspan> <tspan x="226.02" y="138.26">IP: 72.0.0.123</tspan>
+</text>
+<ellipse cx="618.04" cy="128.83" rx="52.8" ry="26.17" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="588.89" y="125.94">
+<tspan style="stroke-width:.94" x="588.89" y="125.94">Isolated IPv6</tspan> <tspan style="stroke-width:.94" x="588.89" y="138.44">network</tspan>
+</text>
+<path d="m692.97 128.93h-17.89" style="fill:none;stroke:#00f;stroke-width:1.41;marker-start:url(#d);marker-end:url(#e)"/>
+<path d="m490.59 114.23h74.2v29.21h-74.2z" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="495.55" y="124.98">
+<tspan x="495.55" y="124.98">6to4 router</tspan> <tspan x="495.55" y="137.48">IP: 68.0.0.231</tspan>
+</text>
+<path d="m697.39 115.52h133.58v28.69h-133.58z" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="701.97" y="127.03">
+<tspan x="701.97" y="127.03">peer2</tspan> <tspan x="701.97" y="139.53">IP: <tspan style="fill:#f00">2002:&lt;68.0.0.231&gt;</tspan> ::4567</tspan>
+</text>
+<g style="fill:none">
+<path d="m483.16 130.4h-181.73" style="stroke:#0f0;stroke-width:5.63;marker-start:url(#f);marker-end:url(#g)"/>
+<path d="m487.69 130.4h-192.9" style="stroke:#00f;stroke-width:1.88"/>
+<path d="m293.35 184.97h74.72v29.21h-74.72z" style="stroke:#f00;stroke-width:1.1"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="298.3" y="196.24">
+<tspan x="298.3" y="196.24">6to4 relay</tspan> <tspan x="298.3" y="208.74">IP: 192.88.99.1</tspan>
+</text>
+<path d="m412.88 183.42h74.72v29.21h-74.72z" style="fill:none;stroke:#f00;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="417.84" y="194.69">
+<tspan style="stroke-width:.94" x="417.84" y="194.69">6to4 relay</tspan> <tspan style="stroke-width:.94" x="417.84" y="207.19">IP: 192.88.99.1</tspan>
+</text>
+<path d="m377.26 130.96-46.74 52.38" style="fill:none;stroke:#00f;stroke-width:1.88"/>
+<path d="m407.77 129.65 46.74 52.38" style="fill:none;stroke:#00f;stroke-width:1.88"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="498.76" y="194.41">
+<tspan x="498.76" y="194.41">Relays have an <tspan style="font-weight:bold">anycast address</tspan>
+</tspan>
+<tspan x="498.76" y="206.91">(deprecated by RFC 7526)</tspan>
+</text>
+<path d="m615.29 232.73h74.72v28.69h-74.72z" style="fill:none;stroke:#000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="619.87" y="244.24">
+<tspan x="619.87" y="244.24">peer3</tspan> <tspan x="619.87" y="256.74">IP: 1234::7980</tspan>
+</text>
+<path d="m479.32 247.59h-17.89" style="fill:none;stroke:#00f;stroke-width:1.41;marker-start:url(#i);marker-end:url(#j)"/>
+<path d="m610.48 247.59h-17.9" style="fill:none;stroke:#00f;stroke-width:1.41;marker-start:url(#k);marker-end:url(#l)"/>
+<g style="stroke-width:.94;font-size:10;letter-spacing:0;word-spacing:0;font-family:Droid Sans Mono">
+<text x="241.97" y="32.41">
+<tspan x="241.97" y="32.41">src: 72.0.0.123</tspan> <tspan x="241.97" y="44.91">dst: 68.0.0.231</tspan>
+</text>
+<text x="241.64" y="68.82">
+<tspan x="241.64" y="68.82">src: 2002:&lt;68.0.0.231&gt;::4567</tspan> <tspan x="241.64" y="81.32">dst: 2002:&lt;72.0.0.123&gt;::1234</tspan>
+</text>
+</g>
+</svg>
