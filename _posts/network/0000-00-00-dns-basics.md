@@ -20,7 +20,7 @@ categories: [cs_related, network]
 
 The host resolution can be **iterative** (the client contacts each autoritative DNS down the tree) or **recursive** (the DNS server contacted by the client does the resolution on his behalf).
 
-![Network_VLAN.svg]({{ site.images }}/Network_DNS_101.svg){:.my-inline-img}
+![Network_DNS_101.svg]({{ site.images }}/Network_DNS_101.svg){:.my-inline-img}
 
 The registrars also maintain a WHOIS database that can be queried by fqdn, IP and AS.
 

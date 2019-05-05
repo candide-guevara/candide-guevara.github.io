@@ -56,11 +56,12 @@ Some well known link local well known multicast groups :
 {:.my-table}
 |         | IPv4 | IPv6 |
 |---------|------|------|
-| Multicast | `224.0.0.0` - `239.255.255.255` | `ff?:?:?:?:?:?:?:?` |
+| Multicast | `224.0.0.0` - `239.255.255.255` | `ff<scope>:?:?:?:?:?:?:<group>` (cf above) |
 | Anycast | NO dedicated range | NO dedicated range |
 | Link-local | `169.254.?.?/16` | `fe80:0:0:0:?:?:?:?/64` |
 | Private | `10.?.?.?/8`<br/>`172.16.0.0/12` - `172.31.255.255/12`<br/>`192.168.?.?/16` | `fc?:?:?:?:?:?:?:?` - `fd?:?:?:?:?:?:?:?` |
-| IPv4 mapped | N/A | `::ffff:0:?:?` when translated by network agents<br/>`::ffff:?:?` when mapped by host dual stack |
+| IPv4 mapped | N/A | `::ffff:0:<ipv4 addr>` when translated by network agents<br/>`::ffff:<ipv4 addr>` when mapped by host dual stack |
+| IPv4 mapped<br/>(well known prefixes) | N/A | `64:ff9b::<ipv4 addr>` when IPv4 sits behind NAT ([RFC6052][0])<br/>`2001:0:<ipv4 addr>:?:?:?:?` [teredo tunneling][1]<br/>`2002:<ip addr>:?:?:?:?:?` [6to4 tunneling][2] |
 | Any address | `0.0.0.0` | `::` |
 | Localhost | `127.0.0.1` | `::1`<br/>`ff01::` interface local multicast |
 | Broadcast | `255.255.255.255` | Deprecated in favor of multicast<br/>`ff0e::` internet scope multicast prefix |
@@ -69,3 +70,6 @@ Some well known link local well known multicast groups :
 
 ![Network_VLAN.svg]({{ site.images }}/Network_VLAN.svg){:.my-wide-img}
 
+[0]:https://tools.ietf.org/html/rfc6052
+[1]:https://tools.ietf.org/html/rfc7059#section-3.8
+[2]:https://tools.ietf.org/html/rfc7059#section-3.5
