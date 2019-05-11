@@ -2,13 +2,16 @@
 
 .index-container {
   margin-bottom: 2em;
-  width : 120%;
-  margin-left: -5%;
 }
 
 .article-col {
   vertical-align: top;
-  display: inline-block;
   width: 49%;
+
+  display: inline-block;
+  @include my_media_maxw($my-laptop-width) {
+      display: block;
+      width: 100%;
+  }
 }
 
