@@ -1,0 +1,293 @@
+<svg height="700" viewBox="0 0 1108.65 477.72" width="1500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#008000;fill-rule:evenodd;stroke:#008000;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#008000;fill-rule:evenodd;stroke:#008000;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="e" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="f" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="g" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="h" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="i" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="j" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="k" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="l" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#008000;fill-rule:evenodd;stroke:#008000;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="m" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-415.53 -11.79)">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="n" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-415.53 -11.79)">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<g style="fill:none">
+<g style="stroke-width:1.1">
+<g style="stroke:#f00">
+<path d="m399.76 4.08h275.49v217.21h-275.49z"/>
+<path d="m676.08 12.74h5.49v216.12h-274.39v-8.25"/>
+<path d="m681.58 21.04h5.44v215.38h-271.84v-8.22"/>
+</g>
+<g style="stroke:#008000">
+<path d="m412.64 27h95v55.03h-95z"/>
+<path d="m412.43 40.41h94.91"/>
+<path d="m412.43 54.37h94.91"/>
+<path d="m412.61 68.33h94.91"/>
+</g>
+<path d="m77.6 5.24h131.59v224.19h-131.59z" style="stroke:#00f"/>
+</g>
+<g style="stroke:#696969">
+<path d="m188.89 130.44h31.83" style="marker-start:url(#m)"/>
+<path d="m84.3 88.71h-69.31" style="stroke-width:1.88;marker-start:url(#n)"/>
+</g>
+</g>
+<text style="stroke-width:.94" x="-34.62" y="-27.98">
+<tspan style="stroke-width:.94" x="-34.62" y="-19.12"/>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="81.65" y="17.75">
+<tspan style="font-weight:bold" x="81.65" y="17.75">Kernel netfilter</tspan>
+</text>
+<path d="m95.07 53.98h91.55v18.34h-91.55z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="100.18" y="66.09">
+<tspan x="100.18" y="66.09">pre-routing hook</tspan>
+</text>
+<text x="104.15" y="177.02">
+<tspan x="104.15" y="177.02">outgoing hook</tspan>
+</text>
+<text x="104.29" y="94.33">
+<tspan style="stroke-width:.94" x="104.29" y="94.33">incoming hook</tspan>
+</text>
+<text x="98.63" y="203.58">
+<tspan x="98.63" y="203.58">post-routing hook</tspan>
+</text>
+<text x="102.81" y="134.75">
+<tspan x="102.81" y="134.75">forwarding hook</tspan>
+</text>
+<text x="939.79" y="128.08">
+<tspan x="939.79" y="128.08">Provide advanced matching</tspan> <tspan x="939.79" y="140.58">or new targets</tspan>
+</text>
+</g>
+<g style="fill:none">
+<g style="stroke-width:1.1">
+<path d="m84.05 116.56h110.02v99.72h-110.02z" style="stroke:#666;stroke-dasharray:3.3 3.3"/>
+<g style="stroke:#00f">
+<path d="m93.94 191.7h91.54v18.34h-91.54z"/>
+<path d="m94.31 164.65h91.54v18.34h-91.54z"/>
+<path d="m94.31 122.25h91.54v18.34h-91.54z"/>
+<path d="m95.04 81.68h91.54v18.34h-91.54z"/>
+</g>
+<path d="m89.82 46.84h110.02v99.71h-110.02z" style="stroke:#666;stroke-dasharray:3.3 3.3"/>
+</g>
+<path d="m14.51 170.9h69.31" style="stroke:#696969;stroke-width:1.88;marker-start:url(#c)"/>
+</g>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="5.15" y="82.11">
+<tspan x="5.15" y="82.11">outgoing traffic</tspan>
+</text>
+<text x="4.76" y="164.38">
+<tspan x="4.76" y="164.38">incoming traffic</tspan>
+</text>
+<text x="429.93" y="37.1">
+<tspan x="429.93" y="37.1">INPUT chain</tspan>
+</text>
+<text x="444.91" y="51.36">
+<tspan x="444.91" y="51.36">rule 1</tspan>
+</text>
+<text x="444.29" y="78.46">
+<tspan x="444.29" y="78.46">rule n</tspan>
+</text>
+<text x="452.98" y="62.38">
+<tspan x="452.98" y="62.38">....</tspan>
+</text>
+<text x="405.45" y="16.4">
+<tspan style="font-weight:bold" x="405.45" y="16.4">Table</tspan>
+</text>
+</g>
+<g style="fill:none;stroke:#008000;stroke-width:1.1">
+<path d="m412.81 95.45h95v55.03h-95z"/>
+<path d="m412.6 108.86h94.91"/>
+<path d="m412.6 122.82h94.91"/>
+<path d="m412.78 136.78h94.91"/>
+</g>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="426.08" y="105.55">
+<tspan x="426.08" y="105.55">OUTPUT chain</tspan>
+</text>
+<text x="445.09" y="119.8">
+<tspan style="stroke-width:.94" x="445.09" y="119.8">rule 1</tspan>
+</text>
+<text x="444.46" y="146.91">
+<tspan style="stroke-width:.94" x="444.46" y="146.91">rule n</tspan>
+</text>
+<text x="453.16" y="130.82">
+<tspan style="stroke-width:.94" x="453.16" y="130.82">....</tspan>
+</text>
+</g>
+<g style="fill:none;stroke:#008000;stroke-width:1.1">
+<path d="m413.08 165.2h100.52v41.95h-100.52z"/>
+<path d="m514.44 169.08h2.01v41.95h-100.51v-1.6"/>
+<path d="m517.4 172.54h2.01v41.95h-100.51v-1.6"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="418.23" y="176.42">
+<tspan x="418.23" y="176.42">other default chains</tspan> <tspan x="418.23" y="188.92">(not all 5 present</tspan> <tspan x="418.23" y="201.42">in each table)</tspan>
+</text>
+<g style="fill:none;stroke:#008000;stroke-width:1.1">
+<path d="m556.65 69.86h100.52v41.95h-100.52z"/>
+<path d="m658.01 73.74h2.01v41.95h-100.52v-1.6"/>
+<path d="m660.97 77.2h2.01v41.95h-100.52v-1.6"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="560.33" y="81.08">
+<tspan x="560.33" y="81.08">
+<tspan style="font-weight:bold">User defined</tspan> chains</tspan> <tspan x="560.33" y="93.58">(exposed only via</tspan> <tspan x="560.33" y="106.08">jumps)</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="471.96" y="264.88">
+<tspan x="471.96" y="264.88">Each table deals with a different aspect :</tspan> <tspan x="471.96" y="277.38">* filtering</tspan> <tspan x="471.96" y="289.88">* address translation</tspan> <tspan x="471.96" y="302.38">...</tspan>
+</text>
+<path d="m429.97 221.34 39.78 40.94" style="fill:none;stroke:#f00"/>
+<path d="m555.33 84.86-47.4-37.74" style="fill:none;stroke:#008000;marker-start:url(#b)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="233.44" y="115.89">
+<tspan x="233.44" y="115.89">Merging of chains belonging</tspan> <tspan x="233.44" y="128.39">to the same netfilter hook</tspan> <tspan x="233.44" y="140.89">across tables <tspan style="font-weight:bold">is complex</tspan> !</tspan>
+</text>
+<g style="fill:none">
+<ellipse cx="296.81" cy="125.44" rx="76.51" ry="40.06" style="opacity:.81;stroke:#f00;stroke-width:1.13"/>
+<g style="stroke:#696969">
+<path d="m375.59 126.47h37.74" style="marker-start:url(#d)"/>
+<path d="m363.62 102.95 48.6-41.87" style="marker-start:url(#e)"/>
+<path d="m354.07 152.61 57.9 33.6" style="marker-start:url(#f)"/>
+<path d="m187.8 63.39 40.85 43.94" style="marker-start:url(#g)"/>
+<path d="m188.26 90.64 40.39 16.69" style="marker-start:url(#h)"/>
+<path d="m187.37 201.73 43.49-56.72" style="marker-start:url(#i)"/>
+<path d="m187.34 174.28 43.53-29.26" style="marker-start:url(#j)"/>
+</g>
+<g style="stroke:#008000">
+<path d="m402.46 367.45-68.69 20.45" style="marker-start:url(#a)"/>
+<path d="m724.2 53.03h124.81v62.11h-124.81z" style="stroke-width:1.1"/>
+</g>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="732.29" y="69.36">
+<tspan style="font-weight:bold" x="732.29" y="69.36">Rule matching</tspan> <tspan x="732.29" y="81.86">* source/destination</tspan> <tspan x="732.29" y="94.36">* connection state</tspan> <tspan x="732.29" y="106.86">...</tspan>
+</text>
+<path d="m724.98 129.27h165.65v153.61h-165.65z" style="fill:none;stroke:#008000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="733.84" y="142.77">
+<tspan style="font-weight:bold" x="733.84" y="142.77">Rule target</tspan>
+</text>
+<path d="m733.25 204.75h147.04v69.87h-147.04z" style="fill:none;stroke:#008000;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="740.04" y="171.72">
+<tspan x="740.04" y="171.72">Terminating</tspan> <tspan x="740.04" y="184.22">* accept/reject</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="740.04" y="218.76">
+<tspan x="740.04" y="218.76">Non terminating</tspan> <tspan x="740.04" y="231.26">* DNAT : translate destination</tspan> <tspan x="740.04" y="243.76">* change packet TTL</tspan> <tspan x="740.04" y="256.26">* mark packet</tspan> <tspan x="740.04" y="268.76">...</tspan>
+</text>
+<g style="fill:none;stroke:#008000">
+<path d="m732.47 156.18h147.04v40.12h-147.04z" style="stroke-width:1.1"/>
+<path d="m513.88 186.78 136.42.08"/>
+<path d="m650.3 186.87 73.67-89.71"/>
+<path d="m724.96 203.12-74.66-16.25"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="536.37" y="183.09">
+<tspan x="536.37" y="183.09">a rule is composed of</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="938.63" y="105.94">
+<tspan style="font-weight:bold" x="938.63" y="105.94">Modules</tspan>
+</text>
+<g style="fill:none">
+<g style="stroke:#0f0;stroke-width:1.1">
+<path d="m933.76 93.3h137.65v56.47h-137.65z"/>
+<path d="m1072.57 97.1h2.75v56.47h-137.65v-2.16"/>
+<path d="m1076.62 101.11h2.75v56.47h-137.65v-2.16"/>
+</g>
+<path d="m933.27 125.03-43.13 78.35" style="stroke:#008000"/>
+<path d="m933.27 125.03-83.71-44.42" style="stroke:#008000"/>
+<path d="m3.54 311.26h1101.57" style="stroke:#000;stroke-width:2.81;stroke-dasharray:11.25 5.63"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="8.91" y="304.38">
+<tspan x="8.91" y="304.38">iptables</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="5.98" y="325.25">
+<tspan x="5.98" y="325.25">ip-rules / ip-routes</tspan>
+</text>
+<g style="fill:none;stroke:#008000;stroke-width:1.1">
+<path d="m239.01 369.6h95v55.03h-95z"/>
+<path d="m238.8 383.01h94.91"/>
+<path d="m238.8 396.97h94.91"/>
+<path d="m238.98 410.93h94.91"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="270.77" y="379.96">
+<tspan x="270.77" y="379.96">Rules</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="244.28" y="393.05">
+<tspan x="244.28" y="393.05">src/dst ports proto</tspan>
+</text>
+<g style="fill:none;stroke:#008000;stroke-width:1.1">
+<path d="m405.28 333.57h95v55.03h-95z"/>
+<path d="m405.07 346.98h94.91"/>
+<path d="m405.07 360.94h94.91"/>
+<path d="m405.25 374.9h94.91"/>
+</g>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="422.18" y="343.15">
+<tspan x="422.18" y="343.15">Routing table</tspan>
+</text>
+<text x="410.29" y="357.28">
+<tspan x="410.29" y="357.28">dst net -&gt; next hop</tspan>
+</text>
+<text x="277.53" y="405.14">
+<tspan x="277.53" y="405.14">....</tspan>
+</text>
+<text x="410.58" y="384.62">
+<tspan style="stroke-width:.94" x="410.58" y="384.62">dst net -&gt; next hop</tspan>
+</text>
+<text x="243.99" y="420.65">
+<tspan style="stroke-width:.94" x="243.99" y="420.65">src/dst ports proto</tspan>
+</text>
+<text x="445.61" y="369.12">
+<tspan style="stroke-width:.94" x="445.61" y="369.12">....</tspan>
+</text>
+</g>
+<g style="fill:none;stroke:#008000;stroke-width:1.1">
+<path d="m405.84 418.63h95v55.03h-95z"/>
+<path d="m405.63 432.04h94.91"/>
+<path d="m405.63 446h94.91"/>
+<path d="m405.81 459.96h94.91"/>
+</g>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="422.74" y="428.21">
+<tspan style="stroke-width:.94" x="422.74" y="428.21">Routing table</tspan>
+</text>
+<text x="410.84" y="442.34">
+<tspan style="stroke-width:.94" x="410.84" y="442.34">dst net -&gt; next hop</tspan>
+</text>
+<text x="411.14" y="469.68">
+<tspan style="stroke-width:.94" x="411.14" y="469.68">dst net -&gt; next hop</tspan>
+</text>
+<text x="446.17" y="454.18">
+<tspan style="stroke-width:.94" x="446.17" y="454.18">....</tspan>
+</text>
+</g>
+<path d="m233.37 396.86h-69.31" style="fill:none;stroke:#696969;stroke-width:1.88;marker-start:url(#k)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="154.22" y="390.26">
+<tspan style="stroke-width:.94" x="154.22" y="390.26">outgoing traffic</tspan>
+</text>
+<path d="m403.78 453.47-70.15-34.74" style="fill:none;stroke:#008000;marker-start:url(#l)"/>
+</svg>
