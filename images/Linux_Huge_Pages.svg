@@ -1,0 +1,150 @@
+<svg height="600" viewBox="0 0 675.19 439.18" width="1000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#aa00d4;fill-rule:evenodd;stroke:#aa00d4;stroke-width:.4pt"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#aa00d4;fill-rule:evenodd;stroke:#aa00d4;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#aa00d4;fill-rule:evenodd;stroke:#aa00d4;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#aa00d4;fill-rule:evenodd;stroke:#aa00d4;stroke-width:.4pt"/>
+</marker>
+<g style="fill:none">
+<g style="stroke-width:1.1">
+<g style="stroke:#008000">
+<path d="m147.07 325.06h95v55.03h-95z"/>
+<path d="m146.86 338.47h94.91"/>
+<path d="m146.86 352.43h94.91"/>
+<path d="m147.04 366.39h94.91"/>
+</g>
+<path d="m295.33 227.97h106.89v85.41h-106.89z" style="stroke:#00f"/>
+</g>
+<path d="m225.76 119.2 153.63 31.02" style="stroke:#f00"/>
+<path d="m592.84 32.24-56.34 38.86" style="stroke:#000"/>
+</g>
+<g style="stroke-width:.94">
+<text x="-38.96" y="43.58">
+<tspan style="stroke-width:.94" x="-38.96" y="52.44"/>
+</text>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="9.39" y="160.96">
+<tspan x="9.39" y="160.96">/sys knob : madvise/always</tspan> <tspan x="9.39" y="173.46">controls which regions of mem</tspan> <tspan x="9.39" y="185.96">are scanned</tspan>
+</text>
+<text x="173.74" y="334.45">
+<tspan x="173.74" y="334.45">memory</tspan>
+</text>
+</g>
+</g>
+<g style="fill:none;stroke-width:1.1">
+<g style="stroke:#008000">
+<path d="m147.07 380.09h95v55.03h-95z"/>
+<path d="m146.86 393.5h94.91"/>
+<path d="m146.86 407.46h94.91"/>
+<path d="m147.04 421.42h94.91"/>
+</g>
+<path d="m295.71 282.58h106.35" style="stroke:#00f"/>
+</g>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="298.55" y="240.78">
+<tspan x="298.55" y="240.78">Page pre-allocation</tspan>
+</text>
+<text x="300.1" y="275.94">
+<tspan x="300.1" y="275.94">static space</tspan>
+</text>
+<text x="299.59" y="295.06">
+<tspan x="299.59" y="295.06">dynamic space</tspan>
+</text>
+</g>
+<path d="m478.1 287.1h95v31.77h-95z" style="fill:none;stroke:#0cf;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="502.23" y="304.88">
+<tspan x="502.23" y="304.88">hugetlbfs</tspan>
+</text>
+<path d="m416.07 226.87h95v31.77h-95z" style="fill:none;stroke:#0cf;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="429.86" y="238.72">
+<tspan x="429.86" y="238.72">mount</tspan> <tspan x="429.86" y="251.22">page size 2Mb</tspan>
+</text>
+<path d="m539.62 225.84h95v31.77h-95z" style="fill:none;stroke:#0cf;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="553.4" y="237.68">
+<tspan x="553.4" y="237.68">mount</tspan> <tspan x="553.4" y="250.18">page size 1Gb</tspan>
+</text>
+<path d="m98.54 236.82h95v31.77h-95z" style="fill:none;stroke:#a08;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="118.14" y="250.09">
+<tspan x="118.14" y="250.09">Transparent</tspan> <tspan x="118.14" y="262.59">Huge pages</tspan>
+</text>
+<path d="m182.16 54.27h259.38v135.56h-259.38z" style="fill:none;stroke:#999;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="186.9" y="69.16">
+<tspan style="font-weight:bold" x="186.9" y="69.16">user-space application</tspan>
+</text>
+<path d="m441.54 54.27h95v63.19h-95z" style="fill:none;stroke:#808080;stroke-width:1.1"/>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="202.92" y="100.18">
+<tspan x="202.92" y="100.18">malloc</tspan> <tspan x="202.92" y="112.68">memalign</tspan>
+</text>
+<text x="285.56" y="99.18">
+<tspan x="285.56" y="99.18">mmap</tspan> <tspan x="285.56" y="111.68">shmget</tspan>
+</text>
+<text x="452.08" y="73.81">
+<tspan x="452.08" y="73.81">binary</tspan> <tspan x="452.08" y="86.31">text, data, bss ...</tspan> <tspan x="452.08" y="98.81">sections</tspan>
+</text>
+<text x="352.32" y="105.35">
+<tspan x="352.32" y="105.35">get_huge_pages</tspan>
+</text>
+<text x="360.59" y="168.93">
+<tspan x="360.59" y="168.93">libhugetlbfs</tspan>
+</text>
+</g>
+<g style="fill:none">
+<g style="stroke:#808080;stroke-width:1.1">
+<path d="m190.69 87.3h67.6v31.77h-67.6z"/>
+<path d="m268.49 86.78h67.6v31.77h-67.6z"/>
+<path d="m347.06 86.26h81.56v31.77h-81.56z"/>
+</g>
+<path d="m348.35 150.37h81.56v31.77h-81.56z" style="stroke:#f00;stroke-width:1.41"/>
+<path d="m304.04 119.21 75.35 31.01" style="stroke:#f00"/>
+<path d="m394.36 118.18-14.97 32.04" style="stroke:#808080"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="101.64" y="200.11">
+<tspan x="101.64" y="200.11">attempt to allocate</tspan> <tspan x="101.64" y="212.61">huge page on fault</tspan>
+</text>
+<g style="fill:none">
+<g style="stroke:#0cf">
+<path d="m451.68 227.33-43.94-44.88"/>
+<path d="m585.31 225.39-177.57-42.94"/>
+<path d="m524.7 286.97-41.1-28.46"/>
+<path d="m524.7 286.97 52.73-29.5"/>
+</g>
+<path d="m348.17 227.65-44.13-108.44" style="stroke:#00f"/>
+<path d="m483.79 117.66-104.4 32.56" style="stroke:#f00"/>
+<g style="stroke:#aa00d4">
+<path d="m180.05 236.64 45.71-117.44"/>
+<path d="m138.1 424 .02-77.59" style="marker-start:url(#b);marker-end:url(#a)"/>
+<path d="m138.1 381.78-25.89-.14-.05-113.09"/>
+</g>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="3.38" y="344.69">
+<tspan x="3.38" y="344.69">periodic memory scan</tspan> <tspan x="3.38" y="357.19">to collapse small pages</tspan>
+</text>
+<path d="m229.2 144.68h67.6v31.77h-67.6z" style="fill:none;stroke:#808080;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="243.83" y="163.16">
+<tspan x="243.83" y="163.16">madvise</tspan>
+</text>
+<path d="m249.55 370.56.02-36.95" style="fill:none;stroke:#aa00d4;marker-start:url(#c);marker-end:url(#d)"/>
+<path d="m249.56 350.42 22.54-.03-.21-174.1" style="fill:none;stroke:#aa00d4"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="259.28" y="362.13">
+<tspan x="259.28" y="362.13">indicate ranges suitable for</tspan> <tspan x="259.28" y="374.63">transparent huge pages</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="542.03" y="29.87">
+<tspan x="542.03" y="29.87">needs linker to align sections</tspan>
+</text>
+<path d="m372.33 26.89-61.51 59.54" style="fill:none;stroke:#000"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="329.58" y="11.18">
+<tspan x="329.58" y="11.18">only for anonymous memory</tspan> <tspan x="329.58" y="23.68">(flag MAP_HUGETLB)</tspan>
+</text>
+<path d="m98.87 249.69-32.05-72.28" style="fill:none;stroke:#000"/>
+<path d="m487.61 155.6-58.41 18.7" style="fill:none;stroke:#000"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="489.32" y="145.07">
+<tspan x="489.32" y="145.07">can be <tspan style="font-weight:bold">preloaded</tspan> to provide</tspan> <tspan x="489.32" y="157.57">custom malloc implementation</tspan> <tspan x="489.32" y="170.07">backed by higetlbfs</tspan>
+</text>
+</svg>
