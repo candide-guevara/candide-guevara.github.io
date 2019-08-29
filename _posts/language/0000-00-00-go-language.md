@@ -4,29 +4,11 @@ date: 2018-08-25
 categories: [cs_related, golang]
 ---
 
-I was coming with high hopes to the go language, however I have been mostly disappointed.
-Everyone around me looks happy with it and are adamant to critics.
-Golang may have its usages, but I think it is a poor tool for an average application developer like myself.
-Maybe some day I will see the light, but for now I will consider the emperor is naked.
+I was coming with high hopes to the go language. My current opinion is that although it has some nice features,
+I think it is a poor tool for average application developers (like myself) working on large code bases.
+Maybe some day I will see the light, but for now I will consider the emperor is naked, given all the (non justified?) hype around the language.
 
 ## The good
-
-* Conventions for unittesting, examples and benchmarks with [`go test`][9]
-
-```go
-/* somemodule.go */
-func Doit(a int) { ... }
-
-/* somemodule_test.go */
-func TestDoit(t *testing.T) { ... }
-func ExampleDoit(t *testing.T) { 
-  ...
-  // Output: <expected stdout>
-}
-func BenchmarkDoit(b *testing.B) {
-  for i := 0; i < b.N; i++ { ... }
-}
-```
 
 * Automatic pretty print of complex structs, in different convinient flavors
 
@@ -60,7 +42,46 @@ func main() {
 }
 ```
 
-* Embedding is a simple way to compose `struct`s and `interface`s. It does NOT give you polymorphism, which is good a good thing (no slicing, virtual keyword)
+* You cannot overload in golang (so glad there is no overload resolution)
+  * Embedding respects the "no overloading" rule and allows shadowing (or "overriding")
+
+```go
+type Nested struct {}
+func (*Nested) shadow_method() int { return 999; }
+
+type Record struct {}
+func (*Record) shadow_method(int) int { return 111; }
+
+func main() {
+  r := Record{}
+  // This will NOT work since Record.shadow_method hid Nested.shadow_method even if they have a different signature
+  //fmt.Printf("r.shadow(0)=%v, r.shadow()=%v\n", r.shadow_method(0), r.shadow_method())
+}
+```
+
+### Composition and polymorphism are separate concepts
+
+In C++ you can achieve both composition and polymorphism with inheritance.
+
+* `struct` is NEVER polymorphic, which is good a good thing (no slicing, virtual keyword)
+  * on the contrary `interface` are polymorphic
+
+```go
+type If1 interface {
+	method1() int
+}
+type If2 interface {
+	method1() int
+	method2() int
+}
+
+func main() {
+   var i2 If2 = ...
+   var i1 If1 = i2
+}
+```
+
+* Embedding is a simple way to compose `struct`s and `interface`s
   * It has some pitfalls (cf "the bad section")
 
 ```go
@@ -95,25 +116,87 @@ func main() {
 }
 ```
 
-* You cannot overload in golang (so glad there is no overload resolution)
-  * Embedding respects the "no overloading" rule and allows shadowing (or "overriding")
+* `interface{}` acts like a type safe `void*`. It keeps type information so we can do type assertions when casting.
+  * It has some pitfalls (cf "the bad section")
 
 ```go
-type Nested struct {}
-func (*Nested) shadow_method() int { return 999; }
-
-type Record struct {}
-func (*Record) shadow_method(int) int { return 111; }
-
+type Klass1 struct {}
+func (*Klass1) doit(int) int { return 111; }
+ 
+type Klass2 struct {}
+func (*Klass2) doit(int) int { return 222; }
+ 
 func main() {
-  r := Record{}
-  // This will NOT work since Record.shadow_method hid Nested.shadow_method even if they have a different signature
-  //fmt.Printf("r.shadow(0)=%v, r.shadow()=%v\n", r.shadow_method(0), r.shadow_method())
+  r1 := Klass1{}
+  r2 := Klass2{}
+  var i1 interface{} = r1
+  var i2 interface{} = r2
+  
+  r1 = i1.(Klass1)
+  // there are no unsafe casts
+  //r2 = i1.(Klass2)
+  // to avoid panic use a type assertion
+  r2, ok := i1.(Klass2)
+
+  fmt.Printf("i1=%#v, i2=%#v, ok=%v\n", i1, i2, ok)
+  // Output:
+  // i1=main.Klass1{}, i2=main.Klass2{}, ok=false
 }
 ```
 
-* `interface{}` keeps type information
-  * virtual dispatch
+### A strong enforcement of convention over configuration
+
+Paternalistic but it ensures uniformity across different projects.
+
+* Exported types start with **upper case** letters
+* Package private types start with **lower case** letters
+* Convention for [directory structure][15], all packages must be rooted in `GOPATH` environment variable.
+  * executable packages **must** be named `main`
+
+```make
+# Example project structure
+# /home/candide/go_workspace/
+#     src/thismodule/
+#         code.go
+#         code_test.go
+#     src/thatmodule
+#         code.go
+#         code_test.go
+#         main/
+#             thatmodule.go <-- package name must be "main"
+#     pkg/<platform_arch>
+#         thismodule.a
+#         thatmodule.a
+#     bin/
+#         thatmodule        <-- exe are dropped at the root
+
+export GOPATH:=/home/candide/go_workspace
+MODULES:=thismodule thatmodule thatmodule/main
+
+# Be careful it is a trap ! `go build` compiles but does NOT create any artifact
+build:
+	go install $(MODULES)
+test:
+	go test $(MODULES)
+```
+
+* Conventions for unittesting, examples and benchmarks with [`go test`][9]
+
+```go
+/* somemodule.go */
+func Doit(a int) { ... }
+
+/* somemodule_test.go */
+func TestDoit(t *testing.T) { ... }
+func ExampleDoit(t *testing.T) { 
+  ...
+  // Output: <expected stdout>
+}
+func BenchmarkDoit(b *testing.B) {
+  for i := 0; i < b.N; i++ { ... }
+}
+```
+
 
 ## The neutral
 
@@ -147,6 +230,64 @@ func main() {
   }
 }
 ```
+
+* `interface{}` can act both as a value or reference type (depending on inner concrete type). Thankfully it follows sane semantics.
+  * However when assigning between `interface{}` variables you cannot tell if doing a value copy or not
+
+```go
+type Klass struct { a int }
+func (*Klass) doit() int { return 222; }
+
+func main() {
+  kp := Klass{666}
+  var i1 interface{} = kp   // copy of kp
+  var i2 interface{} = &kp  // reference to kp
+  k1 := i1.(Klass)          // copy of i1
+  k2 := i2.(*Klass)         // reference to i2,kp
+  kp.a = 111
+  k1.a = 222
+  k2.a = 333
+
+  // from the type of `i2` you cannot tell if this is a value copy or not
+  i3 := i2
+  fmt.Printf("i1=%v, i2=%v, k1=%v, k2=%v, kp=%v\n", i1, i2, k1, k2, kp)
+  // Output:
+  // i1={666}, i2=&{333}, k1={222}, k2=&{333}, kp={333}
+}
+```
+
+### Dependency inversion by implicit interface implementation
+
+The common approach for dependency inversion is for the producer to provide a separate package (depending **only** on other interfaces) with the interface to its concrete implementation.
+
+* no prototypes, no headers : how can I quickly get a glimpse at what methods are defined for the type ?
+  * this is one of the advantage of interfaces and explicit implementation
+
+```dot
+graph {
+    a
+    b
+    a -- b
+}
+```
+
+![Alt text](https://g.gravizo.com/svg?
+  digraph G {
+    aize ="4,4";
+    main [shape=box];
+    main -> parse [weight=8];
+    parse -> execute;
+    main -> init [style=dotted];
+    main -> cleanup;
+    execute -> { make_string; printf}
+    init -> make_string;
+    edge [color=red];
+    main -> printf [style=bold,label="100 times"];
+    make_string [label="make a string"];
+    node [shape=box,style=filled,color=".7 .3 1.0"];
+    execute -> compare;
+  }
+)
 
 
 ## The bad
@@ -286,8 +427,37 @@ func main() {
 }
 ```
 
-* no prototypes, no headers : how can I quickly get a glimpse at what methods are defined for the type ?
-  * this is one of the advantage of interfaces and explicit implementation
+* [Method sets and receivers][14] make working with interfaces fiddly : methods defined with receiver `T*` cannot be called from type `T` => `T` may NOT implement the same interfaces as `T*`
+  * Now combine this with [type embedding][13] (does the embedded define its methods on value or pointer ?), you seem to be always better of with pointer receivers and storing pointers into interface types.
+
+```go
+type If interface {
+  doit() int
+}
+
+type KlassPointer struct {}
+func (*KlassPointer) doit() int { return 111; }
+
+type KlassValue struct {}
+func (KlassValue) doit() int { return 222; }
+
+func main() {
+  var ip1 If = &KlassPointer{}
+  var iv1 If = KlassValue{}
+
+  // KlassPointer* implements If NOT KlassPointer
+  //var ip2 If = KlassPointer{}
+
+  var iv2 If = &KlassValue{}
+  // Be careful it is a trap : panic at runtime, the compiler will accept a cast *KlassValue -> KlassValue
+  //kv := iv2.(KlassValue)
+
+  // This is OK both KlassPointer* AND KlassPointer implement the empty interface
+  var ii interface{} = KlassPointer{}
+  // However, cannot call **pointer method on temp object**
+  //ii.(KlassPointer).doit() // cannot call pointer method on temp object
+}
+```
 
 ### Where are the batteries ?
 
@@ -459,4 +629,7 @@ func main() {
 [10]: https://blog.golang.org/defer-panic-and-recover
 [11]: https://dave.cheney.net/2014/08/17/go-has-both-make-and-new-functions-what-gives
 [12]: https://medium.com/justforfunc/why-are-there-nil-channels-in-go-9877cc0b2308
+[13]: https://stackoverflow.com/questions/40823315/x-does-not-implement-y-method-has-a-pointer-receiver
+[14]: https://golang.org/ref/spec#Method_sets
+[15]: https://golang.org/doc/code.html
 
