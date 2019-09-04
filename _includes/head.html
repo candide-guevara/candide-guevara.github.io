@@ -13,6 +13,11 @@
       <script async src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
     {% endif %}
 
+    {% if page.my_extra_options contains "graphviz" %}
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/viz.js/2.1.2/viz.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/viz.js/2.1.2/full.render.js"></script>
+      <script src="{{ site.js }}/render_dot_into_svg.js"></script>
+    {% endif %}
 
     {% include google_analytics.html %}
 </head>

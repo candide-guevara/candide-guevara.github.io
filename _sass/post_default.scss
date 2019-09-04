@@ -47,6 +47,13 @@
   display: block;
 }
 
+.my-viz-container {
+  svg {
+    display: block;
+    margin: auto;
+  }
+}
+
 .my-inline-img {
   max-width: 100%;
   //display: block;
