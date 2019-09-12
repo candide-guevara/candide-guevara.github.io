@@ -16,7 +16,8 @@ function encapsulate_and_replace(dot_elt, svg_elt) {
   var root_elt = pre_elt.parentNode;
   var div_elt = document.createElement("div");
 
-  div_elt.className = "my-viz-container";
+  div_elt.classList.add("my-viz-container");
+  pre_elt.classList.forEach(function(t) { div_elt.classList.add(t); });
   div_elt.appendChild(svg_elt);
   root_elt.replaceChild(div_elt, pre_elt);
 }
