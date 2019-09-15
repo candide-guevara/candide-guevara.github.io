@@ -11,7 +11,7 @@ Some simple examples of how you can relate the results of lambda calculus to som
 
 In C++ you cannot a function with itself as argument. Unless you disable type checking by casting to `void*`.
 
-{% highlight c++ %}
+```c++
   void* func (void* arg) {
     return arg;
   }
@@ -20,24 +20,24 @@ In C++ you cannot a function with itself as argument. Unless you disable type ch
     func( reinterpret_cast<void*>(func) );
     return 0;
   }
-{% endhighlight %}
+```
 
 ### Unsolvable terms as unterminating computations
 
 When you run the python equivalent to the $$\Omega$$ combinator, you get a stack overflow error. Program evaluation is related to $$\beta$$ reduction of terms.
 
-{% highlight python %}
+```python
   def omega (f):
     return f(f)
 
   Omega = omega(omega)
-{% endhighlight %}
+```
 
 ### Limitations of stringly normalizable types
 
 The following program cannot be expressed as a typable term because it loops.
 
-{% highlight python %}
+```python
   def loop_if_one (number):
     if 0 + number:
       while True: pass
@@ -45,7 +45,7 @@ The following program cannot be expressed as a typable term because it loops.
 
   loop_if_one (0)
   loop_if_one (1)
-{% endhighlight %}
+```
 
 However if we add the Y fixed point combinator to the set of typable terms we can write something like this.
 
@@ -72,7 +72,7 @@ $$\begin{align}
 
 Template argument deduction and SFINAE may rely on the fact we can always tell if something has a valid type given the context.
 
-{% highlight c++ %}
+```c++
   template <class T, class V>
   typename enable_if<!is_same<T,V>::value>::type func_candidate (T t1, V t2) {
     printf("func_candidate : T != V\n");
@@ -88,7 +88,7 @@ Template argument deduction and SFINAE may rely on the fact we can always tell i
     func_candidate(333,333.3);
     return 0;
   }
-{% endhighlight %}
+```
 
 Can we say that the compiler checks if is_same<T,V> has a valid type ?
 
