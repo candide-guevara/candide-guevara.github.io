@@ -3,17 +3,22 @@
 // By constructing this way, we get synchronous execution (even if it returns promises)
 var global_viz = new Viz();
 
-document.addEventListener('DOMContentLoaded', function(event) {
-  document.querySelectorAll("pre > code.language-myviz").forEach(function(dot_elt) {
-    dot_elt.hidden = true;
-    var text = dot_elt.textContent;
-    // this takes some time, it will trigger warnings because we are blocking the listener thread for tool long
-    global_viz.renderSVGElement(text).then(
-      svg_elt => encapsulate_and_replace(dot_elt, svg_elt)
-    )
-    .catch(dot_err => console.error(dot_err));
-  });
+document.addEventListener('DOMContentLoaded', ev => {
+  var nodes = document.querySelectorAll("pre > code.language-myviz");
+  nodes.forEach(dot_elt => { dot_elt.hidden = true; });
+  // convoluted way of defering the rendering of dot elements
+  // so that control is given back to the browser to hide the dot_elt text form
+  window.setTimeout(() => encapsulate_and_replace_all(nodes));
 });
+
+function encapsulate_and_replace_all(dot_nodes) {
+  dot_nodes.forEach(dot_elt => {
+    // this takes some time, it will trigger warnings because we are blocking the listener thread for tool long
+    global_viz.renderSVGElement(dot_elt.textContent)
+      .then(svg_elt => encapsulate_and_replace(dot_elt, svg_elt))
+      .catch(dot_err => console.error(dot_err));
+  });
+}
 
 function encapsulate_and_replace(dot_elt, svg_elt) {
   //console.info(dot_elt.textContent);
