@@ -67,19 +67,47 @@ $$\begin{align}
 
 $$\forall s \in \Lambda\ and\ x \notin FV(s) \Rightarrow \lambda x.sx = s$$
 
-### Normal forms for $$\lambda$$ terms
+### Weak/Head/Normal forms for $$\lambda$$ terms
 
-* Normal form : a term which cannot be $$\beta$$ reduced any further
-    * A term is __normalizable__ if it can be reduced to a term in normal form
-    * A term is __strongly normalizable__ if any reduction strategy ends into a normal form
+* A $$\lambda$$-term is simply a term that starts with $$\lambda$$ (ignoring parenthesis)
+  * Also known as "top level abstraction"
 
-> Normal : $$\quad \lambda x.x$$, $$\ x(\lambda y.yy)z$$ (application from left to right)  
-> Normalizable : $$\quad (\lambda xy.y)\Omega \twoheadrightarrow \lambda y.y$$ (but not strongly normalizable)  
-> Strong normalizable : $$\quad [\lambda x.(\lambda y.y)x]z \twoheadrightarrow z$$
+> Example : $$\quad \lambda x.xyz,\ (\lambda xz.xx)y$$
+
+* Normal form (NF) : a term which cannot be $$\beta$$ reduced any further
+
+> Example : $$\quad x,\ xyz,\ \lambda x.xx$$
+
+* Head Normal form (HNF) : a term in NF which is also a $$\lambda$$-term
+
+> Example : $$\quad \lambda x.xx,\ \lambda x.x(\lambda y.y)$$
+
+* Weak Head Normal form (WHNF) : a $$\lambda$$-term whose "head" cannot be reduced
+  * Lazy evaluated terms have WHNF in haskell
+
+> Example Head: $$\quad (\lambda x.xx)y\ $$ the head term is $$\lambda x.xx$$  
+> Example Head: $$\quad xxy\ $$ the head term is $$x$$  
+> Example WNHF: $$\quad \lambda x.(\lambda y.y)x,\ \lambda xy.x(iy)$$
+
+### Grammar construction rules for NF
 
 * Any lambda term matches 1 of the following patterns
-    * Head reducible : $$\lambda x_1...x_m.(\lambda y.s)tu_1..u_n \quad n,m \in N$$
-    * Head normal form : $$\lambda x_1...x_m.xu_1..u_n \quad n,m \in N$$
+  * reducible : $$\quad (\lambda y.s)tu_1..u_n \mid \lambda x_1...x_m.(\lambda y.s)tu_1..u_n \quad n,m \in N$$
+  * normal form : $$\quad xu_1..u_n \mid \lambda x_1...x_m.xu_1..u_n \quad n,m \in N$$
+
+* Which translates to the following grammar rules for NF
+  * $$N_F = x \mid xN_F...N_F \mid \lambda x.N_F$$
+
+> Example : $$\quad \lambda x.x(\lambda y.y)\ $$ can be decomposed using the rules $$\quad \lambda x.N_F \to xN_F \to \lambda x.N_F \to x$$
+
+### Normalization strategies
+
+* A term is __normalizable__ if it can be reduced to a term in normal form
+* A term is __strongly normalizable__ if any reduction strategy ends into a normal form
+
+> Normal : $$\quad \lambda x.x$$,\ $$\ x(\lambda y.yy)z\ $$ (application from left to right)  
+> Normalizable : $$\quad (\lambda xy.y)\Omega \twoheadrightarrow \lambda y.y$$ (but not strongly normalizable)  
+> Strong normalizable : $$\quad [\lambda x.(\lambda y.y)x]z \twoheadrightarrow z$$
 
 * The set of normalizable and head-normalizable terms is __disjoint__
 
