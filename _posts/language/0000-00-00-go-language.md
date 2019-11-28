@@ -50,7 +50,7 @@ func main() {
 type Nested struct {}
 func (*Nested) shadow_method() int { return 999; }
 
-type Record struct {}
+type Record struct { Nested }
 func (*Record) shadow_method(int) int { return 111; }
 
 func main() {
@@ -76,13 +76,13 @@ type If2 interface {
   method2() int
 }
 
-type Klass struct { /* defines wtf, method1, method2 */ }
+type Klass struct { /* defines method1, method2 */ }
 
 func main() {
    var i2 If2 = &Klass{}
    var i1 If1 = i2 // works !
-   // Even if Klass implements ALL interfaces, what counts is `i2` interface type.
-   //var i3 If1 = i2
+   // Even if Klass implements ALL interfaces, what counts is `i1` interface type.
+   //var i3 If2 = i1
 }
 ```
 
@@ -802,7 +802,7 @@ int main() {
 }
 ```
 
-You could do something similar using `panic` if only golang had generics.
+You could do something similar using `panic` if only golang had macros.
 
 
 
@@ -872,7 +872,7 @@ func main() {
 * Or create them yourself and distinguish between them using type switches.
 
 ```go
-type mybase struct {	s string }
+type mybase struct { s string }
 func (e mybase) Error() string { return e.s }
 
 type mywarn struct { mybase }
@@ -900,6 +900,8 @@ func main() {
 ```
 
 * You will have to unleash you inner MacGyver (again) if you want stack traces.
+  * Ironically after 30 years, Herb Sutter might have found the holy grail for C++ [zero overhead exceptions][19], which is just the technique below except that it is done by the compiler automagically.
+    Once that is implemented in C++, golang will look pretty silly ...
 
 ```go
 func top_stack() error {
@@ -1054,4 +1056,5 @@ func main() {
 [16]: https://github.com/golang/go/wiki/CodeReviewComments#indent-error-flow
 [17]: https://dave.cheney.net/2016/06/12/stack-traces-and-the-errors-package
 [18]: {% post_url /language/0000-00-00-c-sharp-adv-async %}/#asynchronous-streams
+[19]: https://wg21.link/p0709r2
 
