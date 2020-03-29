@@ -64,6 +64,20 @@
   }
 }
 
+.my-inline-small-img {
+  max-width: 50%;
+  @include my_media_maxw($my-phone-width) {
+    max-width: 100%;
+  }
+  //display: block;
+  &.my-center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+
 .my-avatar {
   margin-right : 2em;
 }
