@@ -2,6 +2,7 @@
 title: Language, Je hais l'allemand
 date: 2020-03-22
 categories: [ misc, language, grammar ]
+published: false
 ---
 
 Je hais l'allemand. La grammaire est complètement chtarbé, le son est dégueulasse.
