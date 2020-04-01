@@ -1,0 +1,134 @@
+<svg height="250" viewBox="0 0 485.04 133.7" width="1000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#c00;fill-rule:evenodd;stroke:#c00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#c00;fill-rule:evenodd;stroke:#c00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#c00;fill-rule:evenodd;stroke:#c00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#c00;fill-rule:evenodd;stroke:#c00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="e" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#c00;fill-rule:evenodd;stroke:#c00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="f" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#c00;fill-rule:evenodd;stroke:#c00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="g" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#c00;fill-rule:evenodd;stroke:#c00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="h" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#c00;fill-rule:evenodd;stroke:#c00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<g style="fill:none">
+<g style="stroke-width:1.1">
+<path d="m197.04 72.55h91.08v8.81h-91.08z" style="stroke:#f60"/>
+<path d="m197.04 63.73h91.08v8.81h-91.08z" style="stroke:#f60"/>
+<path d="m197.04 53.74h91.08v27.63h-91.08z" style="stroke:#c00"/>
+<path d="m7.64 8.04h189.31v118.02h-189.31z" style="stroke:#404040"/>
+</g>
+<path d="m114.2 60.9-18.35-.09.11-8.5-15.33-.03" style="stroke:#c00;marker-start:url(#a)"/>
+</g>
+<text style="stroke-width:.94" x="383" y="-14.07">
+<tspan style="stroke-width:.94" x="383" y="-5.21"/>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="10.02" y="19.35">
+<tspan style="font-weight:bold" x="10.02" y="19.35">local_host</tspan>
+</text>
+<path d="m117.23 35.32h79.85v56.36h-79.85z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="122.1" y="47.04">
+<tspan x="122.1" y="47.04">SSH client</tspan>
+</text>
+<path d="m47.07 95.01h33.86v14.04h-33.86z" style="fill:none;stroke:#0c0;stroke-width:1.1"/>
+<path d="m13.89 77.51h67.31v36.25h-67.31z" style="fill:none;stroke:#0c0;stroke-width:1.1"/>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" transform="translate(-18.03 -39.69)">
+<text x="70.64" y="145.08">
+<tspan style="stroke-width:.94" x="70.64" y="145.08">8888</tspan>
+</text>
+<text x="34.85" y="127.57">
+<tspan x="34.85" y="127.57">netcat server</tspan>
+</text>
+</g>
+<path d="m403.96 95.28h33.86v14.04h-33.86z" style="fill:none;stroke:#0c0;stroke-width:1.1"/>
+<path d="m403.96 77.77h67.31v36.25h-67.31z" style="fill:none;stroke:#0c0;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="409.5" y="105.65">
+<tspan style="stroke-width:.94" x="409.5" y="105.65">8889</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="406.88" y="88.15">
+<tspan style="stroke-width:.94" x="406.88" y="88.15">netcat server</tspan>
+</text>
+<path d="m47.34 45.38h33.86v14.04h-33.86z" style="fill:none;stroke:#690;stroke-width:1.1"/>
+<path d="m14.16 27.87h67.31v36.25h-67.31z" style="fill:none;stroke:#690;stroke-width:1.1"/>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" transform="translate(-150.22 -133.74)">
+<text x="203.88" y="188.71">
+<tspan style="stroke-width:.94" x="203.88" y="188.71">port</tspan>
+</text>
+<text x="167.31" y="171.99">
+<tspan x="167.31" y="171.99">netcat client</tspan>
+</text>
+</g>
+<g style="fill:none;stroke-width:1.1">
+<path d="m117.1 52.56h33.86v14.04h-33.86z" style="stroke:#36c"/>
+<g style="stroke:#690">
+<path d="m404.48 43.28h33.86v14.04h-33.86z"/>
+<path d="m404.48 25.78h67.31v36.25h-67.31z"/>
+</g>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="411.06" y="53.14">
+<tspan style="stroke-width:.94" x="411.06" y="53.14">port</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="407.41" y="36.16">
+<tspan style="stroke-width:.94" x="407.41" y="36.16">netcat client</tspan>
+</text>
+<path d="m117.36 72.15h33.86v14.04h-33.86z" style="fill:none;stroke:#36c;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="122.11" y="63.33">
+<tspan style="stroke-width:.94" x="122.11" y="63.33">8889</tspan>
+</text>
+<text style="fill:#c00;stroke:#36c;stroke-width:1.1" x="370.47" y="131.43">
+<tspan style="stroke-width:1.1" x="370.47" y="140.29"/>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="124.57" y="81.71">
+<tspan style="stroke-width:.94" x="124.57" y="81.71">port</tspan>
+</text>
+<path d="m288.09 7.62h189.32v118.03h-189.32z" style="fill:none;stroke:#404040;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="413.83" y="18.43">
+<tspan style="font-weight:bold" x="413.83" y="18.43">remote_host</tspan>
+</text>
+<path d="m287.99 35.32h79.85v56.36h-79.85z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="317.68" y="45.48">
+<tspan x="317.68" y="45.48">SSH server</tspan>
+</text>
+<path d="m333.84 52.56h33.86v14.04h-33.86z" style="fill:none;stroke:#36c;stroke-width:1.1"/>
+<path d="m334.11 72.15h33.86v14.04h-33.86z" style="fill:none;stroke:#36c;stroke-width:1.1"/>
+<g style="stroke-width:.94;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text style="font-size:10" x="338.86" y="63.33">
+<tspan style="stroke-width:.94" x="338.86" y="63.33">8888</tspan>
+</text>
+<text style="font-size:10" x="341.31" y="81.71">
+<tspan style="stroke-width:.94" x="341.31" y="81.71">port</tspan>
+</text>
+<g style="font-size:8.75">
+<text x="220.08" y="70.38">
+<tspan x="220.08" y="70.38">channel_1</tspan>
+</text>
+<text x="219.95" y="79.72">
+<tspan x="219.95" y="79.72">channel_2</tspan>
+</text>
+<text x="199.2" y="61.17">
+<tspan x="199.2" y="61.17">ssh connexion</tspan>
+</text>
+</g>
+</g>
+<g style="fill:none;stroke:#c00">
+<path d="m194.06 67.5-26.95-.44.12-6.46-16.67.11" style="marker-start:url(#b)"/>
+<path d="m331.5 81.26-26.95-.31.12-4.62-16.67.08" style="marker-start:url(#c)"/>
+<path d="m401.51 102.22-18.34-.25.1-22.76-15.33-.09" style="marker-start:url(#d)"/>
+<path d="m370.26 58.99 18.34-.09-.1-8.5 15.33-.03" style="marker-start:url(#e)"/>
+<path d="m290.31 67.29 26.95-.44-.12-6.46 16.67.11" style="marker-start:url(#f)"/>
+<path d="m153.93 80.93 26.95-.31-.12-4.62 16.67.08" style="marker-start:url(#g)"/>
+<path d="m84.18 102.56 18.34-.25-.1-22.76 15.33-.09" style="marker-start:url(#h)"/>
+</g>
+</svg>

@@ -1,0 +1,108 @@
+<svg height="199.93" viewBox="0 0 487.03 106.92" width="1004.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill-rule:evenodd;stroke:#000;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#c00;fill-rule:evenodd;stroke:#c00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-.86 -4.4)">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#c00;fill-rule:evenodd;stroke:#c00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-.86 -4.4)">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#c00;fill-rule:evenodd;stroke:#c00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<g style="fill:none">
+<g style="stroke-width:1.1">
+<path d="m338.45 59.56h84.38v12.56h-84.38z" style="stroke:#f60"/>
+<path d="m338.73 47.27h84.12v27.7h-84.12z" style="stroke:#808080"/>
+<path d="m168.06 59.07h91.08v12.56h-91.08z" style="stroke:#f60"/>
+<path d="m168.01 46.29h91.08v27.7h-91.08z" style="stroke:#c00"/>
+<path d="m-21.61 3.64h189.31v82.67h-189.31z" style="stroke:#404040"/>
+</g>
+<path d="m164.49 66.68-23.17-.09.11-8.23-19.88-.3" style="stroke:#c00;marker-start:url(#c)"/>
+</g>
+<text style="stroke-width:.94" x="382.14" y="-18.47">
+<tspan style="stroke-width:.94" x="382.14" y="-9.61"/>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="-19.23" y="14.95">
+<tspan style="font-weight:bold" x="-19.23" y="14.95">local_host</tspan>
+</text>
+<path d="m87.98 30.92h79.85v44.05h-79.85z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<g style="stroke-width:.94;font-size:10;letter-spacing:0;word-spacing:0">
+<text style="font-family:Droid Sans" x="92.85" y="42.64">
+<tspan x="92.85" y="42.64">SSH client 2</tspan>
+</text>
+<text style="font-family:DejaVu Sans Mono" x="51.04" y="104.1">
+<tspan x="51.04" y="104.1">exec ssh</tspan>
+</text>
+<text style="font-family:Droid Sans" x="310.96" y="58.34">
+<tspan style="stroke-width:.94" x="310.96" y="58.34">port</tspan>
+</text>
+</g>
+<path d="m133.65 46.29h33.86v28.77h-33.86z" style="fill:none;stroke:#36c;stroke-width:1.1"/>
+<path d="m88.11 50.08h33.86v14.04h-33.86z" style="fill:none;stroke:#36c;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="144.28" y="60.54">
+<tspan x="144.28" y="60.54">22</tspan>
+</text>
+<text style="fill:#c00;stroke:#36c;stroke-width:1.1" x="369.61" y="127.03">
+<tspan style="stroke-width:1.1" x="369.61" y="135.89"/>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="93.45" y="60.17">
+<tspan x="93.45" y="60.17">stdin</tspan>
+</text>
+<path d="m258.84 3.22h79.79v84.55h-79.79z" style="fill:none;stroke:#404040;stroke-width:1.1"/>
+<g style="stroke-width:.94;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text style="font-size:10" x="261.66" y="15.37">
+<tspan style="font-weight:bold" x="261.66" y="15.37">bastion_host</tspan>
+</text>
+<text style="font-size:10" x="281.2" y="41.62">
+<tspan x="281.2" y="41.62">SSH server 1</tspan>
+</text>
+<text style="font-size:8.75" x="179.32" y="68.02">
+<tspan x="179.32" y="68.02">remote ssh cnx</tspan>
+</text>
+</g>
+<g style="fill:none">
+<path d="m102.95 77.12c-4.87 21.53-46.16 27.79-59.84-1.52" style="stroke:#000;marker-start:url(#a)"/>
+<path d="m85.6 57.31-22.08-.03" style="stroke:#c00;marker-start:url(#d)"/>
+<path d="m-15.59 31.76h79.85v44.04h-79.85z" style="stroke:#00f;stroke-width:1.1"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="-10.72" y="43.48">
+<tspan style="stroke-width:.94" x="-10.72" y="43.48">SSH client1</tspan>
+</text>
+<path d="m30.08 50.88h33.86v14.04h-33.86z" style="fill:none;stroke:#36c;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="35.89" y="61.11">
+<tspan x="35.89" y="61.11">pipe</tspan>
+</text>
+<g style="fill:none;stroke-width:1.1">
+<path d="m87.98 30.92h79.85v44.05h-79.85z" style="stroke:#00f"/>
+<path d="m258.88 30.92h79.85v44.04h-79.85z" style="stroke:#00f"/>
+<path d="m259.09 46.29h33.86v27.7h-33.86z" style="stroke:#36c"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="269.73" y="60.54">
+<tspan style="stroke-width:.94" x="269.73" y="60.54">22</tspan>
+</text>
+<text style="font-size:8.75;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="180.01" y="55.46">
+<tspan style="stroke-width:.94" x="180.01" y="55.46">bastion ssh cnx</tspan>
+</text>
+<path d="m422.99 3.22h85.95v84.55h-85.95z" style="fill:none;stroke:#404040;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="425.81" y="15.37">
+<tspan style="font-weight:bold;stroke-width:.94" x="425.81" y="15.37">remote_host</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="445.35" y="41.62">
+<tspan style="stroke-width:.94" x="445.35" y="41.62">SSH server2</tspan>
+</text>
+<path d="m423.03 30.92h79.85v44.04h-79.85z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<path d="m423.24 46.29h33.86v27.7h-33.86z" style="fill:none;stroke:#36c;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="433.87" y="60.54">
+<tspan style="stroke-width:.94" x="433.87" y="60.54">22</tspan>
+</text>
+<path d="m304.87 47.27h33.86v27.7h-33.86z" style="fill:none;stroke:#36c;stroke-width:1.1"/>
+<text style="font-size:8.75;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="348.11" y="68.78">
+<tspan style="stroke-width:.94" x="348.11" y="68.78">remote ssh cnx</tspan>
+</text>
+<text style="font-size:8.75;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="363.18" y="55.99">
+<tspan x="363.18" y="55.99">TCP cnx</tspan>
+</text>
+<path d="m335.26 66.37-76.74-.03" style="fill:none;stroke:#c00;marker-start:url(#b)"/>
+</svg>

@@ -1,0 +1,165 @@
+<svg height="450.33" viewBox="0 0 808.69 320.03" width="1137.12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill-rule:evenodd;stroke:#000;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#c00;fill-rule:evenodd;stroke:#c00;stroke-width:.4pt"/>
+</marker>
+<marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-2.99 -3.46)">
+<path d="m2.31 0-3.46 2v-4z" style="fill-rule:evenodd;stroke:#000;stroke-width:.4pt"/>
+</marker>
+<marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-2.99 -3.46)">
+<path d="m2.31 0-3.46 2v-4z" style="fill-rule:evenodd;stroke:#000;stroke-width:.4pt"/>
+</marker>
+<marker id="e" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-2.99 -3.46)">
+<path d="m2.31 0-3.46 2v-4z" style="fill-rule:evenodd;stroke:#000;stroke-width:.4pt"/>
+</marker>
+<marker id="f" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-2.99 -3.46)">
+<path d="m2.31 0-3.46 2v-4z" style="fill-rule:evenodd;stroke:#000;stroke-width:.4pt"/>
+</marker>
+<marker id="g" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-2.99 -3.46)">
+<path d="m2.31 0-3.46 2v-4z" style="fill-rule:evenodd;stroke:#000;stroke-width:.4pt"/>
+</marker>
+<marker id="h" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill-rule:evenodd;stroke:#000;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="i" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-2.99 -3.46)">
+<path d="m2.31 0-3.46 2v-4z" style="fill-rule:evenodd;stroke:#000;stroke-width:.4pt"/>
+</marker>
+<marker id="j" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-2.99 -3.46)">
+<path d="m2.31 0-3.46 2v-4z" style="fill-rule:evenodd;stroke:#000;stroke-width:.4pt"/>
+</marker>
+<marker id="k" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-2.99 -3.46)">
+<path d="m2.31 0-3.46 2v-4z" style="fill-rule:evenodd;stroke:#000;stroke-width:.4pt"/>
+</marker>
+<marker id="l" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill:#c00;fill-rule:evenodd;stroke:#c00;stroke-width:.4pt"/>
+</marker>
+<marker id="m" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill-rule:evenodd;stroke:#000;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="n" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-2.99 -3.46)">
+<path d="m2.31 0-3.46 2v-4z" style="fill-rule:evenodd;stroke:#000;stroke-width:.4pt"/>
+</marker>
+<marker id="o" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-2.99 -3.46)">
+<path d="m2.31 0-3.46 2v-4z" style="fill-rule:evenodd;stroke:#000;stroke-width:.4pt"/>
+</marker>
+<marker id="p" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill-rule:evenodd;stroke:#c00;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<marker id="q" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-2.99 -3.46)">
+<path d="m2.31 0-3.46 2v-4z" style="fill-rule:evenodd;stroke:#000;stroke-width:.4pt"/>
+</marker>
+<marker id="r" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(-2.99 -3.46)">
+<path d="m2.31 0-3.46 2v-4z" style="fill-rule:evenodd;stroke:#000;stroke-width:.4pt"/>
+</marker>
+<path d="m54.55 315.81v-258.12" style="stroke:#000"/>
+<path d="m4.03 15.16h384.81v47.65h-384.81z" style="fill:none;stroke:#9c3;stroke-width:.94;stroke-dasharray:5.63 1.88"/>
+<text style="stroke-width:.94" x="381.51" y="-.38">
+<tspan style="stroke-width:.94" x="381.51" y="8.48"/>
+</text>
+<g style="stroke-width:1.88">
+<path d="m10.18 22.89h95.3v34.98h-95.3z" style="fill:none;stroke:#00f"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0" x="33.09" y="43.76">
+<tspan style="font-weight:bold;stroke-width:1.88" x="33.09" y="43.76">ssh-add</tspan>
+</text>
+<path d="m143.85 22.6h95.3v34.98h-95.3z" style="fill:none;stroke:#00f"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0" x="165.26" y="43.06">
+<tspan style="font-weight:bold;stroke-width:1.88" x="165.26" y="43.06">ssh-agent</tspan>
+</text>
+</g>
+<path d="m192.02 316.14v-258.76" style="stroke:#000"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;fill:#9c3;stroke-width:.94" x="5.27" y="10.94">
+<tspan x="5.27" y="10.94">local_host</tspan>
+</text>
+<g style="stroke-width:1.88">
+<text style="stroke:#f60" x="308.63" y="391.53">
+<tspan style="stroke-width:1.88" x="308.63" y="400.39"/>
+</text>
+<path d="m287.2 22.6h95.3v34.98h-95.3z" style="fill:none;stroke:#00f"/>
+<text style="font-weight:bold;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0" x="305.41" y="43.06">
+<tspan x="305.41" y="43.06">SSH client 1</tspan>
+</text>
+</g>
+<path d="m335.37 316.49v-259.11" style="stroke:#000"/>
+<path d="m54.74 105.63h134.4" style="stroke:#000;marker-end:url(#c)"/>
+<path d="m304.16 159.59 6.14 5.65 8.11-5.57 3.04 6.12 10.72-1.95" style="fill:none;stroke:#c00;marker-end:url(#b)"/>
+<path d="m192.37 70.92h12.08v25.31h-9.52" style="fill:none;stroke:#000;marker-end:url(#d)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="206.88" y="81.15">
+<tspan x="206.88" y="81.15">listen on unix socket</tspan> <tspan x="206.88" y="93.65">SSH_AUTH_SOCK</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="75.1" y="102.4">
+<tspan x="75.1" y="102.4">add encrypted key</tspan> <tspan x="75.1" y="114.9">* remote_host_1</tspan> <tspan x="75.1" y="127.4">* remote_host_2</tspan>
+</text>
+<path d="m192.25 110.6h12.08v35.38h-9.52" style="fill:none;stroke:#000;marker-end:url(#e)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="208.09" y="118.05">
+<tspan x="208.09" y="118.05">get key from disk</tspan> <tspan x="208.09" y="130.55">ask user for passphrase</tspan> <tspan x="208.09" y="143.05">store unencrypted in mem</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="220.18" y="163.21">
+<tspan x="220.18" y="163.21">user starts session</tspan>
+</text>
+<path d="m425.17 22.6h95.3v34.98h-95.3z" style="fill:none;stroke:#00f;stroke-width:1.88"/>
+<text style="font-weight:bold;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:1.88" x="442.67" y="43.41">
+<tspan x="442.67" y="43.41">SSH server 1</tspan>
+</text>
+<path d="m473.34 316.14v-258.76" style="stroke:#000"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="351.39" y="155.39">
+<tspan x="351.39" y="155.39">transport layer</tspan> <tspan x="351.39" y="167.89">authentication challenge</tspan>
+</text>
+<path d="m332.85 181.59h-137.52" style="stroke:#000;marker-start:url(#a);marker-end:url(#f)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="210.58" y="178.14">
+<tspan x="210.58" y="178.14">request challenge answer</tspan> <tspan x="210.58" y="190.64">(via unix socket)</tspan>
+</text>
+<path d="m335.67 203.99h272.66" style="stroke:#000;marker-end:url(#g)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="351.04" y="188.81">
+<tspan x="351.04" y="188.81">finish authentication</tspan> <tspan x="351.04" y="201.31">start interactive session</tspan>
+</text>
+<path d="m338.14 171.28h132.3" style="stroke:#000;marker-start:url(#h);marker-end:url(#i)"/>
+<path d="m473.72 208.49h12.08v25.31h-9.52" style="fill:none;stroke:#000;marker-end:url(#j)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="488.23" y="218.73">
+<tspan style="stroke-width:.94" x="488.23" y="218.73">listen on unix socket</tspan> <tspan style="stroke-width:.94" x="488.23" y="231.23">SSH_AUTH_SOCK</tspan>
+</text>
+<path d="m562.79 22.6h95.3v34.98h-95.3z" style="fill:none;stroke:#00f;stroke-width:1.88"/>
+<path d="m610.96 315.78v-258.4" style="stroke:#000"/>
+<text style="font-weight:bold;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:1.88" x="582.48" y="42.75">
+<tspan x="582.48" y="42.75">SSH client 2</tspan>
+</text>
+<path d="m610.88 269.78h-134.4" style="stroke:#000;marker-end:url(#k)"/>
+<path d="m580.18 246.85 6.14 5.65 8.11-5.57 3.04 6.12 10.72-1.95" style="fill:none;stroke:#c00;marker-end:url(#l)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="496.2" y="250.47">
+<tspan style="stroke-width:.94" x="496.2" y="250.47">user starts session</tspan>
+</text>
+<path d="m701.47 22.6h95.3v34.98h-95.3z" style="fill:none;stroke:#00f;stroke-width:1.88"/>
+<path d="m749.64 315.78v-258.4" style="stroke:#000"/>
+<text style="font-weight:bold;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:1.88" x="718.85" y="42.93">
+<tspan x="718.85" y="42.93">SSH server 2</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="627.69" y="239.86">
+<tspan style="stroke-width:.94" x="627.69" y="239.86">transport layer</tspan> <tspan style="stroke-width:.94" x="627.69" y="252.36">authentication challenge</tspan>
+</text>
+<path d="m614.43 255.76h132.3" style="stroke:#000;marker-start:url(#m);marker-end:url(#n)"/>
+<path d="m473.64 293.6h134.4" style="stroke:#000;marker-end:url(#o)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="486.88" y="266.18">
+<tspan style="stroke-width:.94" x="486.88" y="266.18">request challenge answer</tspan> <tspan style="stroke-width:.94" x="486.88" y="278.68">(via unix socket)</tspan>
+</text>
+<path d="m470.24 276.53h-275.58" style="stroke:#c00;marker-start:url(#p);marker-end:url(#q)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;fill:#c00;stroke-width:.94" x="356.74" y="272.93">
+<tspan x="356.74" y="272.93">forward challenge</tspan> <tspan x="356.74" y="285.44">(via reverse tunnel)</tspan>
+</text>
+<path d="m611.61 295.02h135.09" style="stroke:#000;marker-end:url(#r)"/>
+<g style="stroke-width:.94">
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0" x="626.1" y="280.46">
+<tspan style="stroke-width:.94" x="626.1" y="280.46">finish authentication</tspan> <tspan style="stroke-width:.94" x="626.1" y="292.96">start interactive session</tspan>
+</text>
+<path d="m419.78 15.16h243.65v47.65h-243.65z" style="fill:none;stroke:#c17d11;stroke-dasharray:5.63 1.88"/>
+<path d="m692.94 15.16h111.73v47.64h-111.73z" style="fill:none;stroke:#75507b;stroke-dasharray:5.63 1.88"/>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text style="fill:#c17d11" x="419.53" y="11.2">
+<tspan x="419.53" y="11.2">remote_host_1</tspan>
+</text>
+<text style="fill:#75507b" x="692.15" y="11.53">
+<tspan x="692.15" y="11.53">remote_host_2</tspan>
+</text>
+</g>
+</g>
+</svg>
