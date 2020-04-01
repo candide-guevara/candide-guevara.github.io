@@ -4,7 +4,7 @@ title: Network, basic tooling examples
 categories: [cs_related, network]
 ---
 
-Some dummy examples of how to use common tools like `tcpdump`, `ip rule|route`, `iptables`, `netcat`.
+Some dummy examples of how to use common tools like `tcpdump`, `ip rule|route`, `iptables`, `netcat`....
 
 > `iptables` is THE default firewall choice : `nftables` is unlikely to gain traction and [`bpfilter`][0] is still experimental
 
@@ -46,6 +46,26 @@ tcpdump -nn net "$net"
 # restore to normal state
 iptables -t nat -F
 ip addr del "$new_ip"/24 dev "$dev"
+```
+
+### Listing open/listening sockets on local machine
+
+```sh
+lsof -i -U -nP
+# -i list ipv4 and ipv6 sockets
+# -U list unix sockets
+# -nP do not resolve IP addresses nor port numbers
+
+netstat -x64 -anp
+# -x64 list unix, ipv4 and ipv6 sockets
+# -a list listenning and established connections
+# -n do not resolve IP addresses nor port numbers
+# -p show program name and PID
+
+ss -anp
+# -a list listenning and established connections
+# -n do not resolve IP addresses nor port numbers
+# -p show program name and PID
 ```
 
 ## Packet handling architecture
