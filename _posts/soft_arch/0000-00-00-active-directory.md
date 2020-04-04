@@ -16,5 +16,5 @@ It needs a ton of shared secrets for symmetric encryption.
 
 Otherwise the client could impersonate the KDC (key distribution server) or the services.
 
-![Active_Directory.svg]({{ site.images }}/Active_Directory.svg){:.my-wide-img}
-![Kerberos_Authentication_Permission.png]({{ site.images }}/Kerberos_Authentication_Permission.png){:.my-wide-img}
+![Active_Directory.svg]({{ site.images }}/Active_Directory.svg){:.my-block-wide-img}
+![Kerberos_Authentication_Permission.png]({{ site.images }}/Kerberos_Authentication_Permission.png){:.my-block-wide-img}

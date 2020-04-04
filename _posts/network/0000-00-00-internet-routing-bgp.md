@@ -51,7 +51,7 @@ For example for a router belonging to AS6.
 
 Which translates to the following network.
 
-![Network_BGP_Graph.svg]({{ site.images }}/Network_BGP_Graph.svg){:.my-inline-img}
+![Network_BGP_Graph.svg]({{ site.images }}/Network_BGP_Graph.svg){:.my-block-img}
 
 ### Route [leaks attacks][1]
 
@@ -63,7 +63,7 @@ If an AS peering routers advertise a route via themselves to an IP for a popular
 Some big ASes (ex: amazon) will have a network that span multiple continents. So multiple BGP speakers peering with different other ASes.
 **Route propagation inside an AS network is subject to different rules**.
 
-![Network_BGP_Internal.svg]({{ site.images }}/Network_BGP_Internal.svg){:.my-inline-img}
+![Network_BGP_Internal.svg]({{ site.images }}/Network_BGP_Internal.svg){:.my-block-img}
 
 ### Vanilla BGP requires internal speakers be fully connected
 

@@ -8,4 +8,4 @@ Small diagram of the main components of GDB and their interaction with Linux and
 
 * Watchpoint - a breakpoint triggered by access to data (read, write ...). Software impl is slow (step-by-step)
   
-![Linux_Gdb_Debugger.svg]({{ site.images }}/Linux_Gdb_Debugger.svg){:.my-wide-img}
+![Linux_Gdb_Debugger.svg]({{ site.images }}/Linux_Gdb_Debugger.svg){:.my-block-wide-img}

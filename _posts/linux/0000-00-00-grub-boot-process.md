@@ -13,8 +13,8 @@ The following diagrams details the main step of the boot process:
 
 Then a couple reminders when changing [grub config][1]
 
-![Linux_Grub_Boot.svg]({{ site.images }}/Linux_Grub_Boot.svg){:.my-wide-img}
-![Linux_Grub_Install_Conf.svg]({{ site.images }}/Linux_Grub_Install_Conf.svg){:.my-wide-img}
+![Linux_Grub_Boot.svg]({{ site.images }}/Linux_Grub_Boot.svg){:.my-block-wide-img}
+![Linux_Grub_Install_Conf.svg]({{ site.images }}/Linux_Grub_Install_Conf.svg){:.my-block-wide-img}
 
 [1]: http://www.gnu.org/software/grub/manual/grub.html#Simple-configuration
 [2]: https://www.kernel.org/doc/Documentation/kernel-parameters.txt

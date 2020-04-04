@@ -70,7 +70,7 @@ ss -anp
 
 ## Packet handling architecture
 
-![Network_Tooling.svg]({{ site.images }}/Network_Tooling.svg){:.my-inline-img}
+![Network_Tooling.svg]({{ site.images }}/Network_Tooling.svg){:.my-block-img}
 
 To know the details on the order of evaluations of `iptables` rules cf [this table][1]
 

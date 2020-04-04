@@ -8,11 +8,11 @@ categories: [ misc, moto ]
 
 ### **P**ostion sur la moto : bas du corps serrant fermement la moto, haut du corps détendu
 
-![moto_position]({{ site.images }}/Moto_Position_Statique.svg){: .my-inline-img }
+![moto_position]({{ site.images }}/Moto_Position_Statique.svg){: .my-block-img }
 
 ### **T**rajectoire le long du virage : se placer à l'extérieur du virage pour augmenter la visibilité
 
-![moto_trajectoire]({{ site.images }}/Moto_Trajectoire_Securite.svg){: .my-inline-img }
+![moto_trajectoire]({{ site.images }}/Moto_Trajectoire_Securite.svg){: .my-block-img }
 
 **Toujours tourner le PLUS TARD possible** cela permet de garder l'extérieur et maximise la visibilité
 
@@ -28,13 +28,13 @@ categories: [ misc, moto ]
 C'est la vision fovéal qui dirige la moto. Celle-ci est très précise mais ne s'étend que sur quelques degrés autour de l'axe de vision.
 La vision périphérique est peu précise, elle permet d'apercevoir les mouvements et prévoir le danger.
 
-![placement_regard]({{ site.images }}/Moto_Placement_Regard.svg){: .my-inline-img }
+![placement_regard]({{ site.images }}/Moto_Placement_Regard.svg){: .my-block-img }
 
 ## Placement du poids du corps selon les conditions
 
 Sans décoller les fesses de la selle on peut choisir 3 positions du torse par rapport à l'axe de la moto.
 
-![position_torse_moto]({{ site.images }}/Moto_Position_Poids.svg){: .my-inline-img }
+![position_torse_moto]({{ site.images }}/Moto_Position_Poids.svg){: .my-block-img }
 
 {:.my-table}
 | Paramètre/Position |  Extérieur    |  Centre  |   Intérieur   |

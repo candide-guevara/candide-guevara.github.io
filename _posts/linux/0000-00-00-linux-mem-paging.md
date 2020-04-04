@@ -25,5 +25,5 @@ categories: [cs_related, linux]
   when writing to its memory
 * Huge pages - allocate some pages with 2Mb size (x64). Page tree has only 3 levels  
 
-![Linux_Page_Tree.svg]({{ site.images }}/Linux_Page_Tree.svg){:.my-wide-img}
-![Linux_Page_Fault_Algo.svg]({{ site.images }}/Linux_Page_Fault_Algo.svg){:.my-wide-img}
+![Linux_Page_Tree.svg]({{ site.images }}/Linux_Page_Tree.svg){:.my-block-wide-img}
+![Linux_Page_Fault_Algo.svg]({{ site.images }}/Linux_Page_Fault_Algo.svg){:.my-block-wide-img}

@@ -12,6 +12,6 @@ All processes spawned by Bash share the same session. They generally have their 
 * Processes piped together : `cat mr_monkey | grep bananas`
 * Processes inside a subshell : `( cat mr_monkey & cat banana_count )`
 
-![Linux_Tty_Session.svg]({{ site.images }}/Linux_Tty_Session.svg){:.my-wide-img}
+![Linux_Tty_Session.svg]({{ site.images }}/Linux_Tty_Session.svg){:.my-block-wide-img}
 
 [1]: https://lwn.net/Articles/603762/

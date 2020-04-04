@@ -24,5 +24,5 @@ Hopefully the following diagrams will describe with just enough detail to get 95
 ## Links
 * [Type deduction and why you should care](https://www.youtube.com/watch?v=wQxj20X-tIU)
 
-![Cpp_Lambda_Capture.svg]({{ site.images }}/Cpp_Lambda_Capture.svg){:.my-wide-img}
-![Cpp_Template_Deduction_Contexts.svg]({{ site.images }}/Cpp_Template_Deduction_Contexts.svg){:.my-wide-img}
+![Cpp_Lambda_Capture.svg]({{ site.images }}/Cpp_Lambda_Capture.svg){:.my-block-wide-img}
+![Cpp_Template_Deduction_Contexts.svg]({{ site.images }}/Cpp_Template_Deduction_Contexts.svg){:.my-block-wide-img}

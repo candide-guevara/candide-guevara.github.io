@@ -58,6 +58,6 @@ Services are a way to break Conway adage : "Large systems designed by companies 
 
 ## Concept map
 
-![Arch_Microservice_Concepts.svg]({{ site.images }}/Arch_Microservice_Concepts.svg){:.my-wide-img}
+![Arch_Microservice_Concepts.svg]({{ site.images }}/Arch_Microservice_Concepts.svg){:.my-block-wide-img}
 
 [1]: http://martinfowler.com/articles/microservices.html

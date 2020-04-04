@@ -56,7 +56,7 @@ Notez aussi que même si j'adore le français, je suis conscient que sa grammair
 
 ## Conneries diverses
 
-![german scrabble][1]{: .my-inline-small-img }
+![german scrabble][1]{: .my-block-small-img }
 
 * spiral shaped number naming, 123 is pronounced hundred-three-and-twenty
 * whydoyouhatespacesandmakeupcompositewords, doesthislookreadabletoyou (atLeastUseCamelCase) ?

@@ -21,7 +21,7 @@ categories: [cs_related, distributed, architecture]
 
 From the excellent talks given by Criteo at Devoxx ([here][1] and [here][2]) I sketched a high level diagram of what their systems might look like.
 
-![Arch_Criteo_Retargetting.svg]({{ site.images }}/Arch_Criteo_Retargetting.svg){:.my-wide-img}
+![Arch_Criteo_Retargetting.svg]({{ site.images }}/Arch_Criteo_Retargetting.svg){:.my-block-wide-img}
 
 [1]: http://labs.criteo.com/2014/05/criteo-rd-devoxxfr/
 [2]: https://www.parleys.com/tutorial/anatomie-de-linfrastructure-de-prediction-criteo-machine-learning-log-management-hadoop

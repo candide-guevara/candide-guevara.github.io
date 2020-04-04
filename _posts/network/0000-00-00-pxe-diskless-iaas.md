@@ -10,4 +10,4 @@ can boot diskless machines.
 
 When you combine this with virtual machines you get a quick way to provision machines with the OS you choose.
 
-![Arch_PXE_Diskless.svg]({{ site.images }}/Arch_PXE_Diskless.svg){:.my-wide-img}
+![Arch_PXE_Diskless.svg]({{ site.images }}/Arch_PXE_Diskless.svg){:.my-block-wide-img}

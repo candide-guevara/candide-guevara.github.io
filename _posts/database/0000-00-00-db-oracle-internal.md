@@ -18,7 +18,7 @@ Trainer contact : Bernard.soleillant@setra-conseil.com
 * Table cluster - stores tables linked by a foreign key relationship together (same Segment) so that join are faster and less space is needed.
 * Trigger - Java or PL/SQL procedure invoked for certain DML on certain objects and users or DDL per user.
 
-![DB_Oracle_Tracing.svg]({{ site.images }}/DB_Oracle_Tracing.svg){:.my-wide-img}
-![DB_Oracle_Components.svg]({{ site.images }}/DB_Oracle_Components.svg){:.my-wide-img}
-![DB_Oracle_Memory.svg]({{ site.images }}/DB_Oracle_Memory.svg){:.my-wide-img}
-![DB_Oracle_Storage.svg]({{ site.images }}/DB_Oracle_Storage.svg){:.my-wide-img}
+![DB_Oracle_Tracing.svg]({{ site.images }}/DB_Oracle_Tracing.svg){:.my-block-wide-img}
+![DB_Oracle_Components.svg]({{ site.images }}/DB_Oracle_Components.svg){:.my-block-wide-img}
+![DB_Oracle_Memory.svg]({{ site.images }}/DB_Oracle_Memory.svg){:.my-block-wide-img}
+![DB_Oracle_Storage.svg]({{ site.images }}/DB_Oracle_Storage.svg){:.my-block-wide-img}

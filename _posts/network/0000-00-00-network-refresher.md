@@ -68,7 +68,7 @@ Some well known link local well known multicast groups :
 
 ## Isolating L2 segments using VLANs
 
-![Network_VLAN.svg]({{ site.images }}/Network_VLAN.svg){:.my-wide-img}
+![Network_VLAN.svg]({{ site.images }}/Network_VLAN.svg){:.my-block-wide-img}
 
 [0]:https://tools.ietf.org/html/rfc6052
 [1]:https://tools.ietf.org/html/rfc7059#section-3.8

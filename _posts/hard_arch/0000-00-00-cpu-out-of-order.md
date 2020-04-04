@@ -24,5 +24,5 @@ A number of known incorrect behaviours can arise from these optimisations:
 
 Any of the above may trigger a pipeline flush.
 
-![CPU_Exe_Pipeline.svg]({{ site.images }}/CPU_Exe_Pipeline.svg){:.my-wide-img}
-![CPU_Load_Buffer.svg]({{ site.images }}/CPU_Load_Buffer.svg){:.my-wide-img}
+![CPU_Exe_Pipeline.svg]({{ site.images }}/CPU_Exe_Pipeline.svg){:.my-block-wide-img}
+![CPU_Load_Buffer.svg]({{ site.images }}/CPU_Load_Buffer.svg){:.my-block-wide-img}

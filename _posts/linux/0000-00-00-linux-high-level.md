@@ -27,4 +27,4 @@ To load a module into the kernel
 * Call module entry function to setup interface, register IRQ, set queues ...
 * VFS allows loadable modules to provide an interface to user code without introducing a new sys call number (=> recompile)
  
-![Linux_High_Level.svg]({{ site.images }}/Linux_High_Level.svg){:.my-wide-img}
+![Linux_High_Level.svg]({{ site.images }}/Linux_High_Level.svg){:.my-block-wide-img}

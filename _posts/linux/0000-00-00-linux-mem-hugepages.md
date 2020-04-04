@@ -4,7 +4,7 @@ date: 2015-05-29
 categories: [cs_related, linux]
 ---
 
-![Linux_Huge_Pages.svg]({{ site.images }}/Linux_Huge_Pages.svg){:.my-inline-img}
+![Linux_Huge_Pages.svg]({{ site.images }}/Linux_Huge_Pages.svg){:.my-block-img}
 
 For configuration see [this article][0], [my sytemd unit][2] and [transparent huge pages doc][1]
 

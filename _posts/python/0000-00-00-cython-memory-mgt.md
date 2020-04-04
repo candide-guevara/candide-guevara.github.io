@@ -16,7 +16,7 @@ Moreover it is difficult to remember if the transformation implies a copy.
 Some transformations are not safe since a raw pointer to python memory can be invalidated.
 For example, if it pointed to a bytearray that got relocated due to an increase in size.
 
-![cython_mem_transforms]({{ site.images }}/Cython_Mem_Transforms.svg){: .my-inline-img }
+![cython_mem_transforms]({{ site.images }}/Cython_Mem_Transforms.svg){: .my-block-img }
 
 ## Example code
 

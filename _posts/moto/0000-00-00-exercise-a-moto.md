@@ -12,7 +12,7 @@ categories: [ misc, moto ]
 * Demi tour en 2 temps : virage 90 degrés + redresser la moto et la ralentir presque jusque qu'à l'arrêt + virage 90 degrés
 * Demi tour à la japonaise (voir diagramme ci-dessous)
 
-![cotes_exercises]({{ site.images }}/Moto_DemiTour_Japonais.svg){: .my-inline-img }
+![cotes_exercises]({{ site.images }}/Moto_DemiTour_Japonais.svg){: .my-block-img }
 
 ## Équilibre
 
@@ -21,7 +21,7 @@ categories: [ misc, moto ]
 * Rouler le plus lentement possible en se servant du frein arrière et embrayage
 * Traverser des portes (perpendiculaires l'une par rapport à l'autre) et marquez un temps d'arrêt à hauteur de chaque porte (sans mettre les pieds par terre)
 
-![equilibre_exercises]({{ site.images }}/Moto_Cotes_Exercises.svg){: .my-inline-img }
+![equilibre_exercises]({{ site.images }}/Moto_Cotes_Exercises.svg){: .my-block-img }
 
 ## Freinage
 

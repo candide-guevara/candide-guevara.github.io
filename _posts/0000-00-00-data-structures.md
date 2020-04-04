@@ -23,5 +23,5 @@ There is no constraint on the order of siblings (contrary to a binary tree for e
 
 * Binary heap - a binary tree where nodes respect the heap property
  
-![Data_St_Black_Red_Tree.svg]({{ site.images }}/Data_St_Black_Red_Tree.svg){:.my-wide-img}
-![Data_St_Heap_Structure.svg]({{ site.images }}/Data_St_Heap_Structure.svg){:.my-wide-img}
+![Data_St_Black_Red_Tree.svg]({{ site.images }}/Data_St_Black_Red_Tree.svg){:.my-block-wide-img}
+![Data_St_Heap_Structure.svg]({{ site.images }}/Data_St_Heap_Structure.svg){:.my-block-wide-img}

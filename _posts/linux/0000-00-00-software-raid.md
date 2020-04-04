@@ -12,5 +12,5 @@ The goal is to understand the sequence of commands you issue when creating a dis
 * RAID and the boot process
 * Filesystems parameters for arrays
 
-![Linux_Raid_Boot.svg]({{ site.images }}/Linux_Raid_Boot.svg){:.my-wide-img}
-![Linux_Raid_Fs_Params.svg]({{ site.images }}/Linux_Raid_Fs_Params.svg){:.my-wide-img}
+![Linux_Raid_Boot.svg]({{ site.images }}/Linux_Raid_Boot.svg){:.my-block-wide-img}
+![Linux_Raid_Fs_Params.svg]({{ site.images }}/Linux_Raid_Fs_Params.svg){:.my-block-wide-img}

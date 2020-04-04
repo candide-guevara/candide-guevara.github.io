@@ -18,8 +18,8 @@ Using the base concept of **resource**, it bootstraps itself by creating infrast
 * [5. Powershell cmdlets][5]
 * [6. Recource failover protocol][6]
 
-![Windows_Failover_Cluster.svg]({{ site.images }}/Windows_Failover_Cluster.svg){:.my-wide-img}
-![Windows_Failover_Sequence.svg]({{ site.images }}/Windows_Failover_Sequence.svg){:.my-wide-img}
+![Windows_Failover_Cluster.svg]({{ site.images }}/Windows_Failover_Cluster.svg){:.my-block-wide-img}
+![Windows_Failover_Sequence.svg]({{ site.images }}/Windows_Failover_Sequence.svg){:.my-block-wide-img}
 
 [0]: https://msdn.microsoft.com/en-us/library/aa372871.aspx
 [1]: https://msdn.microsoft.com/en-us/library/aa369163.aspx

@@ -45,7 +45,7 @@
   }
 }
 
-.my-wide-img {
+.my-block-wide-img {
   margin-left: -10%;
   margin-bottom: 2em;
   margin-right: -10%;
@@ -54,7 +54,7 @@
   display: block;
 }
 
-.my-inline-img {
+.my-block-img {
   max-width: 100%;
   //display: block;
   &.my-center-img {
@@ -64,7 +64,7 @@
   }
 }
 
-.my-inline-small-img {
+.my-block-small-img {
   max-width: 50%;
   @include my_media_maxw($my-phone-width) {
     max-width: 100%;
@@ -77,7 +77,7 @@
   }
 }
 
-.my-inline-tiny-img {
+.my-inline-img {
   max-width: 45%;
   @include my_media_maxw($my-phone-width) {
     max-width: 100%;

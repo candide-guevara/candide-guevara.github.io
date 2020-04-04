@@ -24,6 +24,6 @@ categories: [cs_related, cpu]
 ## Links
 * [What are caches and why do you care](https://www.youtube.com/watch?v=WDIkqP4JbkE)
 
-![CPU_Associative_Cache.svg]({{ site.images }}/CPU_Associative_Cache.svg){:.my-wide-img}
-![CPU_Write_Combining.svg]({{ site.images }}/CPU_Write_Combining.svg){:.my-wide-img}
-![CPU_Sequential_Consistency.svg]({{ site.images }}/CPU_Sequential_Consistency.svg){:.my-wide-img}
+![CPU_Associative_Cache.svg]({{ site.images }}/CPU_Associative_Cache.svg){:.my-block-wide-img}
+![CPU_Write_Combining.svg]({{ site.images }}/CPU_Write_Combining.svg){:.my-block-wide-img}
+![CPU_Sequential_Consistency.svg]({{ site.images }}/CPU_Sequential_Consistency.svg){:.my-block-wide-img}

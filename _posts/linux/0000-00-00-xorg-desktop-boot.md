@@ -10,7 +10,7 @@ Just as involved as the kernel boot process, there are many stages and files inv
 * Session manager configuration [files][4] **potentially superseeding the Xorg equivalents**
 * Desktop system [enviroment][1] [variables][2]
 
-![Linux_Startx_Config.svg]({{ site.images }}/Linux_Startx_Config.svg){:.my-wide-img}
+![Linux_Startx_Config.svg]({{ site.images }}/Linux_Startx_Config.svg){:.my-block-wide-img}
 
 [1]: https://userbase.kde.org/Session_Environment_Variables
 [2]: https://userbase.kde.org/KDE_System_Administration/Environment_Variables#Troubleshooting_and_Debugging

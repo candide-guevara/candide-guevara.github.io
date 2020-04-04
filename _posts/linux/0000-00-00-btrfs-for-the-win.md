@@ -19,7 +19,7 @@ After looking around I decided to give [BTRFS][1] and Amazon Glacier a shot.
 Anyway the diagram below details what I want to do. And yes all my partitions are named after characters in
 [Valkyrie Profile][2].
 
-![Linux_Btrfs_My_Setup.svg]({{ site.images }}/Linux_Btrfs_My_Setup.svg){:.my-wide-img}
+![Linux_Btrfs_My_Setup.svg]({{ site.images }}/Linux_Btrfs_My_Setup.svg){:.my-block-wide-img}
 
 [1]: https://lwn.net/Articles/576276/
 [2]: http://valkyrieprofile.wikia.com/wiki/Valkyrie_Profile_Wiki

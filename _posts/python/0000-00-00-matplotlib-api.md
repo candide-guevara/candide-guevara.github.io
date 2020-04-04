@@ -11,4 +11,4 @@ There is a nice introduction [here](https://lwn.net/Articles/631475/).
 * When using IPython use magic command **%matplotlib inline** followd by **import matplotlib as mpl**
 * Can use latex macros by enclosing then in $ signs
 
-![Python_Matplotlib.svg]({{ site.images }}/Python_Matplotlib.svg){:.my-wide-img}
+![Python_Matplotlib.svg]({{ site.images }}/Python_Matplotlib.svg){:.my-block-wide-img}

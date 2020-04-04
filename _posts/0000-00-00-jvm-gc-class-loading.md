@@ -9,5 +9,5 @@ Two simple diagrams to illustrate :
 * How to load specific implemetations for a service
 * Some common garbage collection algorithms
 
-![JVM_Class_Loading.svg]({{ site.images }}/JVM_Class_Loading.svg){:.my-wide-img}
-![JVM_Garbage_Collection.svg]({{ site.images }}/JVM_Garbage_Collection.svg){:.my-wide-img}
+![JVM_Class_Loading.svg]({{ site.images }}/JVM_Class_Loading.svg){:.my-block-wide-img}
+![JVM_Garbage_Collection.svg]({{ site.images }}/JVM_Garbage_Collection.svg){:.my-block-wide-img}

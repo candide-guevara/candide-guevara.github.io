@@ -48,4 +48,4 @@ Good for iterative algorithms since it has an in cache mechanism to store previo
 * Comes with a shell to make hdfs look like a regular hard drive
 The diagram below is obsolete now because of Yarn.
 
-![Hadoop_Cluster.svg]({{ site.images }}/Hadoop_Cluster.svg){:.my-wide-img}
+![Hadoop_Cluster.svg]({{ site.images }}/Hadoop_Cluster.svg){:.my-block-wide-img}

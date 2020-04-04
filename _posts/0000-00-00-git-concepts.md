@@ -114,7 +114,7 @@ categories: [cs_related, git]
 
 ## .git/config and remotes
 
-![Git_Upstream.svg]({{ site.images }}/Git_Upstream.svg){:.my-wide-img}
+![Git_Upstream.svg]({{ site.images }}/Git_Upstream.svg){:.my-block-wide-img}
 
 [1]: http://www.git-scm.com/book/en/v2/Git-Tools-Reset-Demystified#Check-It-Out
 [2]: http://git-scm.com/docs/gitrevisions

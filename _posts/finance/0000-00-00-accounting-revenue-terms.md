@@ -6,7 +6,7 @@ categories: [misc, finance]
 
 I am tired of getting bullied by accounting jargon during earning reviews...
 
-![Finance_Revenue_Pyramid.svg]({{ site.images }}/Finance_Revenue_Pyramid.svg){:.my-inline-img}
+![Finance_Revenue_Pyramid.svg]({{ site.images }}/Finance_Revenue_Pyramid.svg){:.my-block-img}
 
 ### The [depreciation][0] trick
 

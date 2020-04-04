@@ -9,4 +9,4 @@ Will my quest for the perfect handwritten notes storage ever end ?
 
 ### Be careful it is a trap !!
 
-![Pain_Of_Keeping_Notes.svg]({{ site.images }}/Pain_Of_Keeping_Notes.svg){:.my-wide-img}
+![Pain_Of_Keeping_Notes.svg]({{ site.images }}/Pain_Of_Keeping_Notes.svg){:.my-block-wide-img}

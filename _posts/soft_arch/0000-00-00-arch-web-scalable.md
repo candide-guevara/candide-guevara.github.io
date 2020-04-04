@@ -8,7 +8,7 @@ This is an architecture diagram based on the excellent [article][1] by [Kate Mat
 By the way, there are lots of interesting articles on the architecture of open source
 website.
 
-![Web_Scalable_Arch.svg]({{ site.images }}/Web_Scalable_Arch.svg){:.my-wide-img}
+![Web_Scalable_Arch.svg]({{ site.images }}/Web_Scalable_Arch.svg){:.my-block-wide-img}
 
 [1]: http://www.aosabook.org/en/distsys.html
 [2]: http://katemats.com/

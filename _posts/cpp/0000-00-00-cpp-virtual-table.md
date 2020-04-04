@@ -11,6 +11,6 @@ Unlike Java in C++ you have to explicitely declare the member functions that wil
 * Declaring a virtual member function in a class will increase the instance size by the size of the vtable pointer
 * Beware of the infamous symbol undefined when using [abstract classes][1]
 
-![Cpp_Virtual_Table.svg]({{ site.images }}/Cpp_Virtual_Table.svg){:.my-wide-img}
+![Cpp_Virtual_Table.svg]({{ site.images }}/Cpp_Virtual_Table.svg){:.my-block-wide-img}
 
 [1]: https://isocpp.org/wiki/faq/strange-inheritance#link-errs-missing-vtable

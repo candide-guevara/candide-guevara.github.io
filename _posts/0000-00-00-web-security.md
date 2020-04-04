@@ -13,4 +13,4 @@ categories: [cs_related, web]
 * Same origin policy - normally ajax calls to other domains than the one where the document was retrieved from are not allowed.
   Domain and port must tbe the same. CORS and JSONP are a mechanism to bypass it since script loading is not affected by same origin policy.
 
-![Web_Cross_Domain_Call.svg]({{ site.images }}/Web_Cross_Domain_Call.svg){:.my-wide-img}
+![Web_Cross_Domain_Call.svg]({{ site.images }}/Web_Cross_Domain_Call.svg){:.my-block-wide-img}

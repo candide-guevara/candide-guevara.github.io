@@ -7,7 +7,7 @@ categories: [cs_related, cpp]
 The better way to describe the definition of different kinds of classes is to draw their subsets on the space of all possible c++ classes.
 A good textual description can be found [here][0]
 
-![cpp_class_topology]({{ site.images }}/Cpp_Class_Topology.svg){: .my-inline-img }
+![cpp_class_topology]({{ site.images }}/Cpp_Class_Topology.svg){: .my-block-img }
 
 ## Characteristics of each set of classes
 

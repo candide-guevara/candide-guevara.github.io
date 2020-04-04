@@ -13,7 +13,7 @@ All interoperability techniques are a combination of the following :
 
 The **problem space is huge** ! But you can reduce it to a combination of the following topologies.
 
-![Network_Ipv46_Topologies.svg]({{ site.images }}/Network_Ipv46_Topologies.svg){:.my-inline-img}
+![Network_Ipv46_Topologies.svg]({{ site.images }}/Network_Ipv46_Topologies.svg){:.my-block-img}
 
 ### Stateless or stateful **translation** (cf [RFC6145][7]) ?
 
@@ -31,7 +31,7 @@ Stateless is of course better in terms of scalability (faster header conversion 
 
 Without adequate security policies, tunneling can bypass firewalls as follows :
 
-![Network_Tunnel_Spoofing.svg]({{ site.images }}/Network_Tunnel_Spoofing.svg){:.my-inline-img}
+![Network_Tunnel_Spoofing.svg]({{ site.images }}/Network_Tunnel_Spoofing.svg){:.my-block-img}
 
 ### DNS considerations
 
@@ -45,14 +45,14 @@ This will **break DNSSEC** and breaks user choice.
 
 Allows ISP to have a IPv6 core network but still provide IPv4 connectivity with a limited pool of IPv4 addresses.
 
-![Network_Ds_Lite.svg]({{ site.images }}/Network_Ds_Lite.svg){:.my-inline-img}
+![Network_Ds_Lite.svg]({{ site.images }}/Network_Ds_Lite.svg){:.my-block-img}
 
 ### [RFC3056][14]: 6to4 (similar to 6rd)
 
 Allows tunneling over the IPv4 internet without any static configuration.
 It works by **embedding the tunnel endpoints IPv4 address** into the peer IPv6 address.
 
-![Network_6to4.svg]({{ site.images }}/Network_6to4.svg){:.my-inline-img}
+![Network_6to4.svg]({{ site.images }}/Network_6to4.svg){:.my-block-img}
 
 [IPv6 rapid deployment][13] is based on the same ideas but it uses the ISP assigned prefix instead of `2002::/16`
 and keeps tunnel endpoints inside the ISP network (not to rely on others to correctly configure their tunnels).

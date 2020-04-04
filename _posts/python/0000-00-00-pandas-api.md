@@ -12,4 +12,4 @@ I built a cheat sheet so that I can consistenly used the same operations on my p
 * [Examples on pandas main features](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [My own beginner notebook](https://github.com/candide-guevara/random_stuff/blob/master/scipy_notebooks/pandas_examples.ipynb)
 
-![Python_Pandas.svg]({{ site.images }}/Python_Pandas.svg){:.my-wide-img}
+![Python_Pandas.svg]({{ site.images }}/Python_Pandas.svg){:.my-block-wide-img}

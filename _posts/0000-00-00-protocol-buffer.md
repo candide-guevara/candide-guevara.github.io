@@ -7,4 +7,4 @@ categories: [cs_related, library]
 A small diagram detailing the different stages involved in getting a binary blob from a
 protocol buffer definition.
 
-![Protocol_Buffer_Flow.svg]({{ site.images }}/Protocol_Buffer_Flow.svg){:.my-wide-img}
+![Protocol_Buffer_Flow.svg]({{ site.images }}/Protocol_Buffer_Flow.svg){:.my-block-wide-img}

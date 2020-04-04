@@ -34,6 +34,6 @@ Since 2.6 linux kernel is preemptive. Kernel parts which are not reentrant can a
 * O(1) scheduler - legacy scheduler running in constant time using active/inactive runqueues
 * CFS - completely fair scheduler : sorts processes by the time they have used the CPU in red black trees. To take into account priority, times passes slower on higher proc
 
-![Linux_Preemptive_Kernel.svg]({{ site.images }}/Linux_Preemptive_Kernel.svg){:.my-wide-img}
-![Linux_Completely_Fair_Scheduler.svg]({{ site.images }}/Linux_Completely_Fair_Scheduler.svg){:.my-wide-img}
-![Linux_Process_Sleep.svg]({{ site.images }}/Linux_Process_Sleep.svg){:.my-wide-img}
+![Linux_Preemptive_Kernel.svg]({{ site.images }}/Linux_Preemptive_Kernel.svg){:.my-block-wide-img}
+![Linux_Completely_Fair_Scheduler.svg]({{ site.images }}/Linux_Completely_Fair_Scheduler.svg){:.my-block-wide-img}
+![Linux_Process_Sleep.svg]({{ site.images }}/Linux_Process_Sleep.svg){:.my-block-wide-img}

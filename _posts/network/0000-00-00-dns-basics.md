@@ -20,11 +20,11 @@ categories: [cs_related, network]
 
 The host resolution can be **iterative** (the client contacts each autoritative DNS down the tree) or **recursive** (the DNS server contacted by the client does the resolution on his behalf).
 
-![Network_DNS_101.svg]({{ site.images }}/Network_DNS_101.svg){:.my-inline-img}
+![Network_DNS_101.svg]({{ site.images }}/Network_DNS_101.svg){:.my-block-img}
 
 The registrars also maintain a WHOIS database that can be queried by fqdn, IP and AS.
 
-![Network_WHOIS_query.svg]({{ site.images }}/Network_WHOIS_query.svg){:.my-inline-img}
+![Network_WHOIS_query.svg]({{ site.images }}/Network_WHOIS_query.svg){:.my-block-img}
 
 ### Reverse lookup
 
@@ -68,11 +68,11 @@ DNS over HTTPS seems like a more secure alternative.
 * `DNSKEY` : The public key used to sign
 * `NSEC3` : Involved mechanism to proove the non existence of a fqdn in the zone
 
-![Network_DNSSEC.svg]({{ site.images }}/Network_DNSSEC.svg){:.my-inline-img}
+![Network_DNSSEC.svg]({{ site.images }}/Network_DNSSEC.svg){:.my-block-img}
 
 Note on the sequence diagram below that **any dns server** can provide authenticated records for a zone it does not own.
 
-![Network_DNSSEC_seq.svg]({{ site.images }}/Network_DNSSEC_seq.svg){:.my-inline-img}
+![Network_DNSSEC_seq.svg]({{ site.images }}/Network_DNSSEC_seq.svg){:.my-block-img}
 
 Note that NSEC3 does not mention domain names but hashes to avoid domain enumeration.
 

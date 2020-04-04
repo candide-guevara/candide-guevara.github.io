@@ -14,11 +14,11 @@ I will try to cover different views of the system.
 
 ## The stack from application to hardware
 
-![alsa_stack]({{ site.images }}/Linux_Audio_Stack.svg){: .my-inline-img }
+![alsa_stack]({{ site.images }}/Linux_Audio_Stack.svg){: .my-block-img }
 
 ## Mismatch between configuration and logical pcm views
 
-![config_vs_logical]({{ site.images }}/Linux_Alsa_Logical_And_Config_Views.svg){: .my-inline-img }
+![config_vs_logical]({{ site.images }}/Linux_Alsa_Logical_And_Config_Views.svg){: .my-block-img }
 
 ## An example of configuration
 

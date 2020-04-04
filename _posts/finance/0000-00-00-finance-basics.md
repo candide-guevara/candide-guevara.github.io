@@ -41,5 +41,5 @@ categories: [misc, finance]
 * A taxonomy of the different types of financial markets
 * The different ways assets are exchanged
 
-![Finance_Market_Taxonomy.svg]({{ site.images }}/Finance_Market_Taxonomy.svg){:.my-wide-img}
-![Finance_Exchange_Types.svg]({{ site.images }}/Finance_Exchange_Types.svg){:.my-wide-img}
+![Finance_Market_Taxonomy.svg]({{ site.images }}/Finance_Market_Taxonomy.svg){:.my-block-wide-img}
+![Finance_Exchange_Types.svg]({{ site.images }}/Finance_Exchange_Types.svg){:.my-block-wide-img}

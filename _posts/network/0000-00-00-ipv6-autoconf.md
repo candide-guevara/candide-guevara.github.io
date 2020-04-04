@@ -9,7 +9,7 @@ categories: [cs_related, network]
 SLAAC is preferred over DHCPv6 for simple setups. It also replaces ARP for discovering layer 2 addresses given an IP.
 It is based on a new set of [ICMPv6][0] message [Neighbor Discovery][1] and [Router Advertisement][2] types.
 
-![Network_SLAAC.svg]({{ site.images }}/Network_SLAAC.svg){:.my-inline-img}
+![Network_SLAAC.svg]({{ site.images }}/Network_SLAAC.svg){:.my-block-img}
 
 The advantage of this method is that it requires **no dedicated server for keeping state** (although each node has to get smarter to handle solicitations/advertisements).
 

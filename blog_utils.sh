@@ -132,7 +132,7 @@ blog_remove_diagram_layout_all() {
     # the abscense of quotes on list expansion is done on purpose to trim spaces
     for token in ${diag_tokens[@]}; do
       echo "$post -> '$token'"
-      echo "![$token]({{ site.images }}/$token){:.my-wide-img}" >> "$post"
+      echo "![$token]({{ site.images }}/$token){:.my-block-wide-img}" >> "$post"
     done
   done
 }

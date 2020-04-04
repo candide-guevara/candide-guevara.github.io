@@ -7,7 +7,7 @@ categories: [cs_related, csharp]
 Jon Skeet [describes][0] the transformations made by the compiler to split `async` methods in continuations.
 To schedule the asynchronous tasks and continuations there a couple of key classes. Here is an approximate description of the what happens when a method `awaits` a task.
 
-![charp_async_seq_diag]({{ site.images }}/Csharp_Async_SeqDiagram.svg){: .my-inline-img }
+![charp_async_seq_diag]({{ site.images }}/Csharp_Async_SeqDiagram.svg){: .my-block-img }
 
 
 ## Cooperative tasks using `Task.Yield`

@@ -6,7 +6,7 @@ categories: [cs_related, network]
 
 ## [Call sequence][0] for server/client
 
-![Network_Socket_API.svg]({{ site.images }}/Network_Socket_API.svg){:.my-inline-img}
+![Network_Socket_API.svg]({{ site.images }}/Network_Socket_API.svg){:.my-block-img}
 
 ### Socket address structure "polymorphism"
 

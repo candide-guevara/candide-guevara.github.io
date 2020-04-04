@@ -12,4 +12,4 @@ As usual with C++ it does work intuitively 90% of the time. The other 10% seriou
 * [Overload resolution](http://accu.org/index.php/journals/268)
 * [Universal references](https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers)
 
-![Cpp_Symbol_Resolution.svg]({{ site.images }}/Cpp_Symbol_Resolution.svg){:.my-wide-img}
+![Cpp_Symbol_Resolution.svg]({{ site.images }}/Cpp_Symbol_Resolution.svg){:.my-block-wide-img}

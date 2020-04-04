@@ -40,4 +40,4 @@ $$
 * Threat modeling - determine the attack surface of a system, the possible vectors of attack, the technical and biz impacts
 * Hashing functions are too fast => then easiest to brute force, new hashes designed to take more resources
 
-![PKI_Cryptography.svg]({{ site.images }}/PKI_Cryptography.svg){:.my-wide-img}
+![PKI_Cryptography.svg]({{ site.images }}/PKI_Cryptography.svg){:.my-block-wide-img}

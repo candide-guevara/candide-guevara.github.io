@@ -8,4 +8,4 @@ Here is a diagram of the main classes on the GDB python API. Since there are qui
 is useful to know where to find a given feature. If you go over to my github you can find a simple
 example of a color prompt for gdb using the python API.
 
-![Python_Gdb_API.svg]({{ site.images }}/Python_Gdb_API.svg){:.my-wide-img}
+![Python_Gdb_API.svg]({{ site.images }}/Python_Gdb_API.svg){:.my-block-wide-img}

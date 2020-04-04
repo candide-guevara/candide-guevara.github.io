@@ -33,6 +33,6 @@ Other states like O(owner) and F(forward) are optimisations to reduce bus conten
 * [Presentation on directory based coherence](http://www.cs.cmu.edu/afs/cs/academic/class/15418-s12/www/lectures/13_directorycoherence2.pdf)
 * [Overview of memory barriers and bus snooping](https://fgiesen.wordpress.com/2014/07/07/cache-coherency/)
 
-![CPU_Memory_Barriers.svg]({{ site.images }}/CPU_Memory_Barriers.svg){:.my-wide-img}
-![CPU_Coherence_Bus_Snoop.svg]({{ site.images }}/CPU_Coherence_Bus_Snoop.svg){:.my-wide-img}
-![CPU_Coherence_Directory.svg]({{ site.images }}/CPU_Coherence_Directory.svg){:.my-wide-img}
+![CPU_Memory_Barriers.svg]({{ site.images }}/CPU_Memory_Barriers.svg){:.my-block-wide-img}
+![CPU_Coherence_Bus_Snoop.svg]({{ site.images }}/CPU_Coherence_Bus_Snoop.svg){:.my-block-wide-img}
+![CPU_Coherence_Directory.svg]({{ site.images }}/CPU_Coherence_Directory.svg){:.my-block-wide-img}

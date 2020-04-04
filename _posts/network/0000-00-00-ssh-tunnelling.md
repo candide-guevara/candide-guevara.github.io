@@ -18,7 +18,7 @@ SSH is protocol has 3 components :
 * [Authentication protocol (rfc 4252)][1] : authenticates ssh client on the remote machine.
 * [Transport layer (rfc 4254)][2] : multiplexes authenticated user connection into channels to provide interactive shells, tunneling of TCP connections ...
 
-![Network_SSH_components.svg]({{ site.images }}/Network_SSH_components.svg){:.my-inline-img}
+![Network_SSH_components.svg]({{ site.images }}/Network_SSH_components.svg){:.my-block-img}
 
 
 ## Simple tunneling
@@ -38,7 +38,7 @@ nc -l localhost 8889 &
 nc localhost 8888
 ```
 
-![Network_SSH_tunneling.svg]({{ site.images }}/Network_SSH_tunneling.svg){:.my-inline-img}
+![Network_SSH_tunneling.svg]({{ site.images }}/Network_SSH_tunneling.svg){:.my-block-img}
 
 ### Be careful it is a trap ! IPv6
 
@@ -67,7 +67,7 @@ This is used to proxy ssh connections through a __bastion host__ (or jump host) 
 * `ssh -o "ProxyCommand ssh bastion_host -W %h:%p" remote_host`
 * `ssh -J bastion_host remote_host` (only on newer ssh program versions)
 
-![Network_SSH_proxycmd.svg]({{ site.images }}/Network_SSH_proxycmd.svg){:.my-inline-img}
+![Network_SSH_proxycmd.svg]({{ site.images }}/Network_SSH_proxycmd.svg){:.my-block-img}
 
 ### Security characteristics
 
@@ -92,7 +92,7 @@ The ssh client can contact the ssh-agent daemon via environment vars :
 
 `ssh-agent` traffic can be [forwarded via reverse tunneling][8]. This allows to keep all private keys on `local_host` even when using several __interactive ssh sessions__ to jump across machines.
 
-![Network_SSH_forwardagent.svg]({{ site.images }}/Network_SSH_forwardagent.svg){:.my-inline-img}
+![Network_SSH_forwardagent.svg]({{ site.images }}/Network_SSH_forwardagent.svg){:.my-block-img}
 
 > This is NOT the same setup as for ProxyCommand.
 
@@ -106,7 +106,7 @@ This will allow him to impersonate any user connected to `remote_host_1` using a
 
 What does this [command][9] do ? `ssh -o "ProxyCommand ssh -A remote_host_1 'ssh-add && nc %h %p'" remote_host_2`
 
-![Network_SSH_forward_add_proxy.svg]({{ site.images }}/Network_SSH_forward_add_proxy.svg){:.my-inline-img}
+![Network_SSH_forward_add_proxy.svg]({{ site.images }}/Network_SSH_forward_add_proxy.svg){:.my-block-img}
 
 > This can only work if keys are NOT passphrase protected. Otherwise ssh protocol wire data will contain garbage.
 
@@ -128,7 +128,7 @@ curl --socks5 localhost ifconfig.me
 # output: 144.37.93.213
 ```
 
-![Network_SSH_socks_proxy.svg]({{ site.images }}/Network_SSH_socks_proxy.svg){:.my-inline-img}
+![Network_SSH_socks_proxy.svg]({{ site.images }}/Network_SSH_socks_proxy.svg){:.my-block-img}
 
 > Note that the client application (here curl) MUST understand SOCKS. It needs to prepend the relevant SOCKS headers.
 
