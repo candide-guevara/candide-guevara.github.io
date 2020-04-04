@@ -38,6 +38,13 @@
   }
 }
 
+.my-viz-container {
+  svg {
+    display: block;
+    margin: auto;
+  }
+}
+
 .my-wide-img {
   margin-left: -10%;
   margin-bottom: 2em;
@@ -45,13 +52,6 @@
   max-width: 120%;
   width: 120%;
   display: block;
-}
-
-.my-viz-container {
-  svg {
-    display: block;
-    margin: auto;
-  }
 }
 
 .my-inline-img {
@@ -77,6 +77,14 @@
   }
 }
 
+.my-inline-tiny-img {
+  max-width: 45%;
+  @include my_media_maxw($my-phone-width) {
+    max-width: 100%;
+    display: block;
+  }
+  display: inline;
+}
 
 .my-avatar {
   margin-right : 2em;

@@ -12,13 +12,17 @@ So I wondered what the driving license test for monkeys could be like...
 
 ## Question 1
 
-![question 1]({{ site.images }}/code1.jpg){: .my-inline-img }
+![question 1]({{ site.images }}/code1.jpg){: .my-inline-small-img }
 
-![solution 1]({{ site.images }}/code1Correction.jpg){: .my-inline-img }
+### Answer Question 1
+
+![solution 1]({{ site.images }}/code1Correction.jpg){: .my-inline-small-img }
 
 ## Question 2
 
-![question 2]({{ site.images }}/code2.jpg){: .my-inline-img }
+![question 2]({{ site.images }}/code2.jpg){: .my-inline-small-img }
 
-![solution 2]({{ site.images }}/code2Correction.jpg){: .my-inline-img }
+### Answer Question 2
+
+![solution 2]({{ site.images }}/code2Correction.jpg){: .my-inline-small-img }
 
