@@ -38,7 +38,11 @@
           </li>
           {% endif %}
 
-        <li>{{ site.data.widgets.linkedin_small }}</li>
+        <li>
+          {% for widget_line in site.data.widgets.linkedin_small %}
+            {{ widget_line }}
+          {% endfor %}
+        </li>
         </ul>
       </div>
 

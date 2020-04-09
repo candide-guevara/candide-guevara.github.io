@@ -1,4 +1,13 @@
 {
-  'linkedin_full' : '<script src="//platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/MemberProfile" data-id="https://www.linkedin.com/pub/esteban-guevara/15/b47/926" data-format="inline" data-related="false"></script>',
-  'linkedin_small' : '<script src="//platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/MemberProfile" data-id="https://www.linkedin.com/pub/esteban-guevara/15/b47/926" data-format="hover" data-related="false" data-text="Candide Guevara"></script>'
+  "linkedin_small" : [
+    "<div id='linkedin_badge'>",
+    "<svg viewBox='0 0 48 48' height='24' width='24' xmlns='http://www.w3.org/2000/svg'>",
+    "<g style='fill-rule:evenodd'>",
+    "<path d='m5 1h38c2.22 0 4 1.78 4 4v38c0 2.22-1.78 4-4 4h-38c-2.22 0-4-1.78-4-4v-38c0-2.22 1.78-4 4-4z' style='fill:#fff'/>",
+    "<path d='m0 4.01c0-2.21 1.79-4.01 4.01-4.01h39.98c2.21 0 4.01 1.79 4.01 4.01v39.98c0 2.21-1.79 4.01-4.01 4.01h-39.98c-2.21 0-4.01-1.79-4.01-4.01zm19 14.29h6.5v3.27c.94-1.88 3.34-3.57 6.95-3.57 6.91 0 8.55 3.74 8.55 10.6v12.7h-7v-11.14c0-3.91-.94-6.11-3.32-6.11-3.3 0-4.68 2.38-4.68 6.11v11.14h-7zm-12 22.7h7v-23h-7zm8-30.5c0 2.49-2.01 4.5-4.5 4.5-2.48 0-4.5-2.01-4.5-4.5 0-2.48 2.02-4.5 4.5-4.5 2.49 0 4.5 2.02 4.5 4.5z' style='fill:#0077b5'/>",
+    "</g>",
+    "</svg>",
+    "<a href='https://de.linkedin.com/in/candide-guevara-marino-926b4715?trk=profile-badge'>Candide Guevara Marino</a>",
+    "</div>"
+  ]
 }
