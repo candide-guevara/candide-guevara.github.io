@@ -160,6 +160,16 @@ blog_change_categories_all() {
   done
 }
 
+## *USAGE: blog_export_palette_to_inkscape
+## Saves diagram palette in inkscape profile.
+blog_export_palette_to_inkscape() {
+  local inkscape_pal_dir="$HOME/.config/inkscape/palettes"
+  [[ -d "$inkscape_pal_dir" ]] || mkdir -p "$inkscape_pal_dir"
+  local pal_file="diagram-palette.gpl"
+  [[ -f "$pal_file" ]] || pal_file="images/diagram-palette.gpl"
+  run_cmd cp "$pal_file" "$inkscape_pal_dir"
+}
+
 else
   echo "[ERROR] ($CLEANER) is not installed"
 fi
