@@ -1,0 +1,116 @@
+<svg height="320" viewBox="0 0 474.94 202.07" width="850" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m1.96 0c0 1.1-.9 2-2 2s-2-.9-2-2 .9-2 2-2 2 .9 2 2z" style="fill-rule:evenodd;stroke:#000;stroke-width:.4pt"/>
+</marker>
+<marker id="b" orient="auto" refX="0" refY="0" style="overflow:visible">
+<path d="m1.96 0c0 1.1-.9 2-2 2s-2-.9-2-2 .9-2 2-2 2 .9 2 2z" style="fill-rule:evenodd;stroke:#000;stroke-width:.4pt"/>
+</marker>
+<path d="m47.91 152.02h59v37.38h-59z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<path d="m7.64 7.62h152.6v186.82h-152.6z" style="fill:none;stroke:#505050;stroke-width:1.1;stroke-dasharray:6.6 2.2"/>
+<g style="stroke-width:.94">
+<text x="388.72" y="-63.47">
+<tspan style="stroke-width:.94" x="388.72" y="-54.61"/>
+</text>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="51.25" y="184.46">
+<tspan x="51.25" y="184.46">device_1</tspan>
+</text>
+<text x="12.22" y="18.52">
+<tspan x="12.22" y="18.52">rack_1</tspan>
+</text>
+</g>
+</g>
+<path d="m13.28 24.5h142.24v66.54h-142.24z" style="fill:none;stroke:#ff7d00;stroke-width:1.1"/>
+<path d="m80.43 42.12h59v42.79h-59z" style="fill:none;stroke:#c00;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="16.46" y="36.24">
+<tspan style="stroke-width:.94" x="16.46" y="36.24">patch_panel</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="88.21" y="52.83">
+<tspan x="88.21" y="52.83">cassette</tspan> <tspan style="font-weight:bold;fill:#f00" x="88.21" y="65.33">type A</tspan>
+</text>
+<g style="fill:none">
+<g style="stroke-width:1.1">
+<path d="m17.35 42.12h23.51v42.79h-23.51z" style="stroke:#c00"/>
+<g style="stroke:#f00">
+<path d="m84.77 76.78h5.22v7.88h-5.22z"/>
+<path d="m90 76.78h5.22v7.88h-5.22z"/>
+<path d="m103.9 76.78h5.22v7.88h-5.22z"/>
+<path d="m109.12 76.78h5.22v7.88h-5.22z"/>
+<path d="m123.28 76.78h5.22v7.88h-5.22z"/>
+<path d="m128.51 76.78h5.22v7.88h-5.22z"/>
+<path d="m139.49 46.3h10.08v15.53h-10.08z"/>
+</g>
+<path d="m47.5 42.12h23.51v42.79h-23.51z" style="stroke:#c00"/>
+<g style="stroke:#00f">
+<path d="m84.54 152h5.22v7.88h-5.22z"/>
+<path d="m89.76 152h5.22v7.88h-5.22z"/>
+</g>
+</g>
+<g style="stroke:#3465a4">
+<path d="m87.03 152.07-.09-67.54"/>
+<path d="m92.43 152.2-.09-67.55"/>
+</g>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="94.83" y="113.76">
+<tspan style="font-weight:bold;fill:#f00" x="94.83" y="113.76">A to B</tspan> <tspan x="94.83" y="126.26">Patch cord</tspan> <tspan x="94.83" y="138.76">(Dual LC)</tspan>
+</text>
+<path d="m367.11 152.02h59v38.15h-59z" style="fill:none;stroke:#00f;stroke-width:1.1"/>
+<path d="m314.7 7.62h152.6v186.82h-152.6z" style="fill:none;stroke:#505050;stroke-width:1.1;stroke-dasharray:6.6 2.2"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="384.74" y="185.22">
+<tspan style="stroke-width:.94" x="384.74" y="185.22">device_2</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="319.29" y="18.52">
+<tspan style="stroke-width:.94" x="319.29" y="18.52">rack_2</tspan>
+</text>
+<path d="m320.35 24.5h142.23v66.54h-142.23z" style="fill:none;stroke:#ff7d00;stroke-width:1.1"/>
+<path d="m335.42 42.12h59v42.79h-59z" style="fill:none;stroke:#c00;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="323.53" y="36.24">
+<tspan style="stroke-width:.94" x="323.53" y="36.24">patch_panel</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="343.19" y="52.83">
+<tspan style="stroke-width:.94" x="343.19" y="52.83">cassette</tspan> <tspan style="font-weight:bold;fill:#f00;stroke-width:.94" x="343.19" y="65.33">type A</tspan>
+</text>
+<g style="fill:none">
+<g style="stroke-width:1.1">
+<path d="m401.57 42.12h23.51v42.79h-23.51z" style="stroke:#c00"/>
+<g style="stroke:#f00">
+<path d="m339.76 76.78h5.22v7.88h-5.22z"/>
+<path d="m344.98 76.78h5.22v7.88h-5.22z"/>
+<path d="m358.88 76.78h5.22v7.88h-5.22z"/>
+<path d="m364.11 76.78h5.22v7.88h-5.22z"/>
+<path d="m378.27 76.78h5.22v7.88h-5.22z"/>
+<path d="m383.49 76.78h5.22v7.88h-5.22z"/>
+<path d="m325.54 46.3h10.07v15.54h-10.07z"/>
+</g>
+<path d="m433.22 42.12h23.51v42.79h-23.51z" style="stroke:#c00"/>
+<g style="stroke:#00f">
+<path d="m378.59 152h5.22v7.88h-5.22z"/>
+<path d="m383.81 152h5.22v7.88h-5.22z"/>
+</g>
+</g>
+<g style="stroke:#3465a4">
+<path d="m381.46 152.07-.09-67.54"/>
+<path d="m386.86 152.2-.09-67.54"/>
+</g>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="389.26" y="113.76">
+<tspan style="font-weight:bold;fill:#f00;stroke-width:.94" x="389.26" y="113.76">A to B</tspan> <tspan style="stroke-width:.94" x="389.26" y="126.26">Patch cord</tspan> <tspan style="stroke-width:.94" x="389.26" y="138.76">(Dual LC)</tspan>
+</text>
+<path d="m325.52 53.3-176.18-.06" style="fill:none;stroke:#3465a4;stroke-width:2.06"/>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="200.53" y="64.48">
+<tspan x="200.53" y="64.48">MPO (12-lanes)</tspan> <tspan x="200.53" y="76.98">Trunk cable</tspan> <tspan style="font-weight:bold;fill:#f00" x="200.53" y="89.48">type C</tspan>
+</text>
+<text x="76.97" y="169">
+<tspan x="76.97" y="169">RX TX</tspan>
+</text>
+<text x="371.09" y="168.7">
+<tspan style="stroke-width:.94" x="371.09" y="168.7">RX TX</tspan>
+</text>
+</g>
+<path d="m180.9 120.52-91.3-40.72" style="fill:none;stroke:#000;marker-end:url(#b)"/>
+<path d="m294.87 121.15 88.99-40.72" style="fill:none;stroke:#000;marker-end:url(#a)"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="181.14" y="116.41">
+<tspan x="181.14" y="116.41">both devices connect</tspan> <tspan x="181.14" y="128.91">to the same port number</tspan> <tspan x="181.14" y="141.41">on each cassette</tspan>
+</text>
+</svg>

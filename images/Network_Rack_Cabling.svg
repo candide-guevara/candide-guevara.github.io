@@ -1,0 +1,222 @@
+<svg height="850" viewBox="0 0 782.13 578.49" width="1200" xmlns="http://www.w3.org/2000/svg">
+<g style="fill:none">
+<g style="stroke:#ef2929;stroke-width:1.31">
+<path d="m372.27 57.63-.08 15.94 104.49.17-.37 116.9"/>
+<path d="m339.46 57.77.09 133.02"/>
+<path d="m306.22 57.81.07 15.94-92.75.17.33 116.54"/>
+</g>
+<path d="m286.12 11.15h107.26v46.88h-107.26z" style="stroke:#000;stroke-width:1.1"/>
+</g>
+<g style="stroke-width:.94">
+<text x="474.5" y="-19.3">
+<tspan style="stroke-width:.94" x="474.5" y="-10.44"/>
+</text>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="322.4" y="23.21">
+<tspan x="322.4" y="23.21">switch,</tspan> <tspan x="322.4" y="35.71">blade ...</tspan>
+<tspan x="322.4" y="48.21"/>
+</text>
+<text x="217.82" y="205.39">
+<tspan x="217.82" y="205.39">SFP+ (10G)</tspan> <tspan x="217.82" y="217.89">SFP28 (25G)</tspan>
+<tspan x="217.82" y="230.39"/>
+</text>
+<text x="311.58" y="204.76">
+<tspan x="311.58" y="204.76">QSFP (40G)</tspan> <tspan x="311.58" y="217.26">QSFP28 (100G)</tspan>
+<tspan x="311.58" y="229.76"/>
+</text>
+<text x="509.17" y="198.83">
+<tspan x="509.17" y="198.83">(future form factors)</tspan> <tspan x="509.17" y="211.33">SFP-DD (100G)</tspan> <tspan x="509.17" y="223.83">QSFP-DD (400G)</tspan>
+<tspan x="509.17" y="236.33"/>
+</text>
+</g>
+</g>
+<g style="fill:none;stroke:#00f;stroke-width:1.1">
+<path d="m301.79 44.07h8.45v13.9h-8.45z"/>
+<path d="m331.92 43.64h13.55v14.2h-13.55z"/>
+<path d="m367.92 47.47h8.19v10.37h-8.19z"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="428.36" y="211.91">
+<tspan x="428.36" y="211.91">No XCVR</tspan>
+<tspan x="428.36" y="224.41"/>
+</text>
+<g style="fill:none;stroke:#c00;stroke-width:1.1">
+<path d="m206.36 191.12h74.57v35.39h-74.57z"/>
+<path d="m306.95 191.12h76.11v35.39h-76.11z"/>
+<path d="m411.49 191.12h74.57v35.39h-74.57z"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="140.02" y="196.68">
+<tspan style="font-weight:bold" x="140.02" y="196.68">transceiver</tspan>
+</text>
+<path d="m93.58 86.16h105.98v59.39h-105.98z" style="fill:none;stroke:#c00;stroke-width:1.1"/>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="101.42" y="99.36">
+<tspan x="101.42" y="99.36">10G BASE-CX1</tspan> <tspan x="101.42" y="111.86">(C : coaxial copper)</tspan> <tspan x="101.42" y="124.36">Very short distances</tspan> <tspan x="101.42" y="136.86">(~10m max)</tspan>
+</text>
+<text x="226.62" y="99.78">
+<tspan x="226.62" y="99.78">10G BASE-SR</tspan> <tspan x="226.62" y="112.28">(S : short wavelength)</tspan> <tspan x="226.62" y="124.78">Short distances</tspan> <tspan x="226.62" y="137.28">(~10m to ~1km)</tspan>
+</text>
+<text x="356.1" y="99.94">
+<tspan x="356.1" y="99.94">10G BASE-LR/ER/ZR</tspan> <tspan x="356.1" y="112.44">(L/E/Z : long wavelength)</tspan> <tspan x="356.1" y="124.94">Long distances</tspan> <tspan x="356.1" y="137.44">(up to ~100km)</tspan>
+</text>
+<text x="598.91" y="105.81">
+<tspan x="598.91" y="105.81">For SFP28, QSFP, QSFP28</tspan> <tspan x="598.91" y="118.31">there are the corresponding variations</tspan> <tspan x="598.91" y="130.81">25G BASE-T, 40G BASE-SR4 ....</tspan>
+</text>
+</g>
+<path d="m218.2 86.16h113.12v59.39h-113.12z" style="fill:none;stroke:#c00;stroke-width:1.1"/>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="500.03" y="99.43">
+<tspan x="500.03" y="99.43">10G BASE-T</tspan> <tspan x="500.03" y="111.93">(T : twisted pair)</tspan> <tspan x="500.03" y="124.43">Short distances</tspan> <tspan x="500.03" y="136.93">(~100m max)</tspan>
+</text>
+<g style="fill:none;stroke-width:1.1">
+<path d="m349.45 86.16h123.09v59.39h-123.09z" style="stroke:#c00"/>
+<path d="m492.45 86.16h87.09v59.39h-87.09z" style="stroke:#c00"/>
+<path d="m11.18 79.13h576.54v73.45h-576.54z" style="stroke:#555753;stroke-dasharray:6.6 2.2"/>
+</g>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="16.76" y="93.31">
+<tspan style="font-weight:bold" x="16.76" y="93.31">Ethernet</tspan> <tspan style="font-weight:bold" x="16.76" y="105.81">Physical layer</tspan> <tspan style="font-weight:bold" x="16.76" y="118.31">Protocol</tspan>
+</text>
+<text x="246.09" y="282.51">
+<tspan x="246.09" y="282.51">8P8C</tspan> <tspan x="246.09" y="295.01">(aka RJ45)</tspan>
+<tspan x="246.09" y="307.51"/>
+</text>
+<text x="315.06" y="283.37">
+<tspan x="315.06" y="283.37">LC</tspan> <tspan x="315.06" y="295.87">Dual LC</tspan>
+<tspan x="315.06" y="308.37"/>
+</text>
+<text x="517.49" y="283.63">
+<tspan x="517.49" y="283.63">MPO</tspan> <tspan x="517.49" y="296.13">(aka MTP)</tspan>
+<tspan x="517.49" y="308.63"/>
+</text>
+<text x="99.29" y="281.78">
+<tspan x="99.29" y="281.78">DAC (direct attach copper)</tspan> <tspan x="99.29" y="294.28">No connector</tspan> <tspan x="99.29" y="306.78">Cable is **fixed** to XCVR</tspan>
+<tspan x="99.29" y="319.28"/>
+</text>
+<text x="377.06" y="281.53">
+<tspan x="377.06" y="281.53">AOC (direct attach fiber)</tspan> <tspan x="377.06" y="294.03">No connector</tspan> <tspan x="377.06" y="306.53">Cable is **fixed** to XCVR</tspan>
+<tspan x="377.06" y="319.03"/>
+</text>
+</g>
+<g style="fill:none">
+<g style="stroke-width:1.06">
+<g style="stroke:#3465a4">
+<path d="m213.87 190.47-64.07-45.2"/>
+<path d="m213.87 190.47 55.66-44.88"/>
+<path d="m404.01 146.02-190.14 44.45"/>
+</g>
+<path d="m339.55 190.79-70.01-45.2" style="stroke:#204a87"/>
+<g style="stroke:#3465a4">
+<path d="m339.55 190.79 64.46-44.77"/>
+<path d="m476.3 190.65 57.7-45.06"/>
+<path d="m213.87 190.47 320.13-44.88"/>
+</g>
+</g>
+<g style="stroke-width:1.1">
+<path d="m305.97 268.21h52.91v35.39h-52.91z" style="stroke:#73d216"/>
+<path d="m512.34 268.21h55.44v35.39h-55.44z" style="stroke:#73d216"/>
+<path d="m239.18 268.21h55.44v35.39h-55.44z" style="stroke:#fcaf3e"/>
+</g>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="33.8" y="276.65">
+<tspan style="font-weight:bold;stroke-width:.94" x="33.8" y="276.65">connector</tspan>
+</text>
+<g style="fill:none">
+<g style="stroke:#3465a4;stroke-width:1.06">
+<path d="m196.53 267.99 46.15-41.45"/>
+<path d="m342.41 267.63-.07-40.73"/>
+<path d="m264.77 268.35 185.53-41.81"/>
+<path d="m401.98 267.99-159.3-41.45"/>
+</g>
+<g style="stroke-width:1.1">
+<path d="m136.57 185.47h360.17v46.9h-360.17z" style="stroke:#555753;stroke-dasharray:6.6 2.2"/>
+<path d="m30.78 263.79h544.68v53.04h-544.68z" style="stroke:#555753;stroke-dasharray:6.6 2.2"/>
+<path d="m370.27 268.21h131.99v44.41h-131.99z" style="stroke:#73d216"/>
+<path d="m94.19 268.21h131.99v44.41h-131.99z" style="stroke:#fcaf3e"/>
+</g>
+<g style="stroke:#3465a4;stroke-width:1.06">
+<path d="m264.77 268.35-22.09-41.81"/>
+<path d="m342.41 267.63-99.72-41.09"/>
+<path d="m527.64 267.99-185.3-41.09"/>
+<path d="m196.53 267.99 145.81-41.09"/>
+<path d="m401.98 267.99-59.64-41.09"/>
+</g>
+</g>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="199.85" y="363.73">
+<tspan x="199.85" y="363.73">UTP/STP</tspan> <tspan x="199.85" y="376.23">(un/shield twisted pair)</tspan> <tspan x="199.85" y="388.73">* short distance</tspan> <tspan x="199.85" y="401.23">* cheap</tspan>
+</text>
+<text x="78.51" y="355.96">
+<tspan x="78.51" y="355.96">Twinax</tspan> <tspan x="78.51" y="368.46">(Twin axial)</tspan> <tspan x="78.51" y="380.96">* very short distance</tspan> <tspan x="78.51" y="393.46">* bulky</tspan> <tspan x="78.51" y="405.96">* cheap</tspan>
+</text>
+<text x="199.85" y="465.19">
+<tspan x="199.85" y="465.19">Cat6, Cat7 ...</tspan> <tspan x="199.85" y="477.69">(depending on length</tspan> <tspan x="199.85" y="490.19">and bandwidth)</tspan>
+<tspan x="199.85" y="502.69"/>
+</text>
+<text x="355.87" y="356.99">
+<tspan x="355.87" y="356.99">Multi mode</tspan> <tspan x="355.87" y="369.49">* big fiber diameter</tspan> <tspan x="355.87" y="381.99">* short/med range</tspan> <tspan x="355.87" y="394.49">* cheap</tspan>
+</text>
+<text x="480.45" y="357.35">
+<tspan x="480.45" y="357.35">Single mode</tspan> <tspan x="480.45" y="369.85">* small fiber diameter</tspan> <tspan x="480.45" y="382.35">* long range</tspan> <tspan x="480.45" y="394.85">* expensive</tspan>
+</text>
+<text x="353.64" y="441.06">
+<tspan x="353.64" y="441.06">OM3, OM4 ...</tspan> <tspan x="353.64" y="453.56">(depending on length</tspan> <tspan x="353.64" y="466.06">and bandwidth)</tspan>
+<tspan x="353.64" y="478.56"/>
+</text>
+<text x="484.73" y="441.78">
+<tspan x="484.73" y="441.78">OS1, OS2 ...</tspan> <tspan x="484.73" y="454.28">(depending on length</tspan> <tspan x="484.73" y="466.78">and bandwidth)</tspan>
+<tspan x="484.73" y="479.28"/>
+</text>
+</g>
+<g style="fill:none;stroke-width:1.1">
+<g style="stroke:#73d216">
+<path d="m350.6 344.21h99.85v56.33h-99.85z"/>
+<path d="m475.37 344.21h109.6v56.33h-109.6z"/>
+<path d="m347.9 422.93h106.71v56.33h-106.71z"/>
+<path d="m478.08 422.93h106.71v56.33h-106.71z"/>
+</g>
+<g style="stroke:#fcaf3e">
+<path d="m71.64 344.21h105.63v68.97h-105.63z"/>
+<path d="m194.6 344.21h114.29v68.97h-114.29z"/>
+<path d="m194.6 439.18h105.63v68.97h-105.63z"/>
+</g>
+<g style="stroke:#555753;stroke-dasharray:6.6 2.2">
+<path d="m19.12 338.1h297.71v176.88h-297.71z"/>
+<path d="m340.66 338.1h297.71v229.24h-297.71z"/>
+</g>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="26.1" y="350.91">
+<tspan style="font-weight:bold" x="26.1" y="350.91">copper</tspan> <tspan style="font-weight:bold" x="26.1" y="363.41">cable</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="606.51" y="351.71">
+<tspan style="font-weight:bold;stroke-width:.94" x="606.51" y="351.71">fiber</tspan> <tspan style="font-weight:bold;stroke-width:.94" x="606.51" y="364.21">cable</tspan>
+</text>
+<g style="fill:none">
+<g style="stroke:#3465a4;stroke-width:1.06">
+<path d="m157.9 312.4-30.76 31.13"/>
+<path d="m264.59 303.2-.07 40.88"/>
+<path d="m331.93 303.38 45.07 40.52"/>
+<path d="m331.93 303.38 172.17 40.52"/>
+<path d="m435.92 312.22-58.92 31.67"/>
+<path d="m538.83 303.74-34.73 40.15"/>
+<path d="m538.83 303.74-161.83 40.15"/>
+</g>
+<path d="m347.9 503.81h106.71v56.33h-106.71z" style="stroke:#73d216;stroke-width:1.1"/>
+</g>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="355.63" y="515.81">
+<tspan x="355.63" y="515.81">jacket colors</tspan> <tspan x="355.63" y="528.31">* orange : any MM</tspan> <tspan x="355.63" y="540.81">* cyan,violet,lime</tspan> <tspan x="355.63" y="553.31">(depending on OMx)</tspan>
+<tspan x="355.63" y="565.81"/>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="503" y="530.08">
+<tspan x="503" y="530.08">jacket colors</tspan> <tspan x="503" y="542.58">* yellow</tspan>
+<tspan x="503" y="555.08"/>
+</text>
+<g style="fill:none">
+<path d="m478.44 503.81h106.71v56.33h-106.71z" style="stroke:#73d216;stroke-width:1.1"/>
+<g style="stroke:#3465a4;stroke-width:1.06">
+<path d="m250.33 412.79-.07 26.42"/>
+<path d="m399.46 400.51-.07 21.72"/>
+<path d="m529.44 400.51-.07 22.44"/>
+<path d="m530.16 478.51-.07 24.61"/>
+<path d="m398.37 479.18-.07 24.3"/>
+</g>
+</g>
+</svg>
