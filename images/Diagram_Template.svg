@@ -1,1 +1,65 @@
-<svg height="88.7mm" viewBox="0 0 479.03 314.27" width="135.19mm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><marker id="a" orient="auto" refX="0.0" refY="0.0" style="overflow:visible"><path d="m2.31 0-3.46 2v-4z" style="fill-rule:evenodd;stroke:#696969;fill:#696969;stroke-width:.4pt"/></marker><marker id="b" orient="auto" refX="0.0" refY="0.0" style="overflow:visible"><path d="m5.77 0-8.65 5v-10z" style="fill-rule:evenodd;stroke:#696969;stroke-width:1pt;fill:#696969" transform="scale(-.4)"/></marker><marker id="c" orient="auto" refX="0" refY="0" style="overflow:visible"><path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/></marker><marker id="d" orient="auto" refX="0" refY="0" style="overflow:visible"><path d="m2.31 0-3.46 2v-4z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:.4pt"/></marker><path d="m323.05 250.63h135.11v58.44h-135.11z" style="fill:#b0e0e6"/><g style="fill:none"><g style="stroke-width:1.1"><ellipse cx="187.97" cy="126" rx="52.8" ry="26.17" style="stroke:#ff8c00"/><g style="stroke:#f00"><path d="m17.38 8.07h95v65.77h-95z"/><path d="m114.06 11.91h1.9v65.77h-95v-2.51"/><path d="m117.41 15.64h1.9v65.77h-95v-2.51"/></g><g style="stroke:#008000"><path d="m135.53 16.79h95v55.03h-95z"/><path d="m135.32 30.2h94.91"/><path d="m135.32 44.16h94.91"/><path d="m135.5 58.12h94.91"/></g><path d="m20.96 97.89h95v65.77h-95z" style="stroke:#00f"/><g style="stroke:#f0f"><ellipse cx="293.15" cy="39.23" rx="49.63" ry="23.75"/><path d="m341.73 31.11c2.36 2.92 3.66 6.12 3.66 9.47 0 14.01-22.78 25.38-50.87 25.38-16.67 0-31.46-4-40.74-10.17"/><path d="m344.82 33.43c2.38 3.02 3.69 6.32 3.69 9.77 0 14.46-22.96 26.19-51.29 26.19-16.8 0-31.71-4.12-41.07-10.5"/></g></g><g style="stroke-miterlimit:10"><g style="stroke:#00ced1;stroke-width:1.08"><ellipse cx="295.32" cy="102.86" rx="34.8" ry="7.07"/><path d="m329.93 155.34c0 3.91-15.58 7.07-34.8 7.07s-34.8-3.17-34.8-7.07"/><path d="m260.52 156.09v-53.6m69.23 0v53.6"/></g><g style="stroke-width:1.1"><path d="m223.17 183.09.27 39.78-41.57 20.08-41.84-19.7-.27-39.78 41.57-20.08z" style="stroke:#800000"/><path d="m345.35 206.24-53.08 28.81-51.45-29.73 53.08-28.81z" style="stroke:#32cd32"/><path d="m443.25 232.9-71.19-.38 35.93-60.44z" style="stroke:#b8860b"/></g><g style="stroke:#483d8b;stroke-width:.95" transform="matrix(1.02 0 0 1.31 -28.03 -374.93)"><path d="m61.31 418.69h81.89l-21.22 39.83h-83z"/><path d="m142.08 421.48h3.36l-21.22 39.83h-83l1.39-2.47"/><path d="m143.94 424.09h3.36l-21.22 39.83h-83l1.39-2.47"/></g><path d="m374.45 99.79h83.85l-21.73 52.3h-84.99z" style="stroke:#dc143c;stroke-width:1.1"/></g><g style="stroke:#696969"><path d="m23.12 267.01h115.44" style="marker-start:url(#b)"/><path d="m136.45 277.06h-115.69" style="marker-start:url(#c)"/><path d="m53.57 252.49v48.01" style="marker-end:url(#a)"/><path d="m63.62 302.27v-47.98" style="marker-end:url(#d)"/></g><path d="m396.74 26.01h55.46" style="stroke:#000;stroke-width:.8"/><path d="m194.64 255.84h152.6v46.9h-152.6z" style="stroke:#9acd32;stroke-width:1.1;stroke-dasharray:6.6 2.2"/><path d="m442.77 171.87-71.19.37 35.93 59.46z" style="stroke:#b8860b;stroke-width:1.1;stroke-miterlimit:10"/><g style="stroke:#000"><path d="m162.14 256.98v45.16h6.03v-45.16h3.01l-6.33-6.32-6.23 6.22z"/><path d="m179.54 289.57h-45.16v6.03h45.16v3.01l6.32-6.33-6.22-6.23z"/></g></g><g style="stroke-width:.94"><text style="font-size:10;font-family:Droid Sans Mono;letter-spacing:0;word-spacing:0" x="371.52" y="56.16"><tspan x="371.52" y="56.16">lea 8(%edx), %ecx</tspan><tspan x="371.52" y="68.66">mov %eax, 8(%edx)</tspan><tspan x="371.52" y="81.16">mov (%ecx), %ebx</tspan></text><text x="380.91" y="-16.19"><tspan style="stroke-width:.94" x="380.91" y="-7.33"/></text><text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0" x="373.95" y="24.16"><tspan x="373.95" y="24.16">Manual underline</tspan><tspan x="373.95" y="36.66">Enough space for it ?</tspan></text></g></svg>
+<svg height="88.7mm" viewBox="0 0 479.03 314.27" width="135.19mm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
+<path d="m2.31 0-3.46 2v-4z" style="fill-rule:evenodd;stroke:#696969;fill:#696969;stroke-width:.4pt"/>
+</marker>
+<marker id="b" orient="auto" refX="0.0" refY="0.0" style="overflow:visible">
+<path d="m5.77 0-8.65 5v-10z" style="fill-rule:evenodd;stroke:#696969;stroke-width:1pt;fill:#696969" transform="scale(-.4)"/>
+</marker>
+<path d="m323.05 250.63h135.11v58.44h-135.11z" style="fill:#b0e0e6"/>
+<g style="fill:none;stroke-width:1.1">
+<ellipse cx="187.97" cy="126" rx="52.8" ry="26.17" style="stroke:#ff8c00"/>
+<g style="stroke:#f00">
+<path d="m17.38 8.07h95v65.77h-95z"/>
+<path d="m114.06 11.91h1.9v65.77h-95v-2.51"/>
+<path d="m117.41 15.64h1.9v65.77h-95v-2.51"/>
+</g>
+<g style="stroke:#008000">
+<path d="m135.53 16.79h95v55.03h-95z"/>
+<path d="m135.32 30.2h94.91"/>
+<path d="m135.32 44.16h94.91"/>
+<path d="m135.5 58.12h94.91"/>
+</g>
+<path d="m20.96 97.89h95v65.77h-95z" style="stroke:#00f"/>
+<g style="stroke:#f0f">
+<ellipse cx="293.15" cy="39.23" rx="49.63" ry="23.75"/>
+<path d="m341.73 31.11c2.36 2.92 3.66 6.12 3.66 9.47 0 14.01-22.78 25.38-50.87 25.38-16.67 0-31.46-4-40.74-10.17"/>
+<path d="m344.82 33.43c2.38 3.02 3.69 6.32 3.69 9.77 0 14.46-22.96 26.19-51.29 26.19-16.8 0-31.71-4.12-41.07-10.5"/>
+</g>
+<g style="stroke-miterlimit:10">
+<g style="stroke:#00ced1">
+<ellipse cx="295.32" cy="102.86" rx="34.8" ry="7.07"/>
+<path d="m329.93 155.34c0 3.91-15.58 7.07-34.8 7.07s-34.8-3.17-34.8-7.07"/>
+<path d="m260.52 156.09v-53.6m69.23 0v53.6"/>
+</g>
+<path d="m223.17 183.09.27 39.78-41.57 20.08-41.84-19.7-.27-39.78 41.57-20.08z" style="stroke:#800000"/>
+<path d="m345.35 206.24-53.08 28.81-51.45-29.73 53.08-28.81z" style="stroke:#32cd32"/>
+<path d="m443.25 232.9-71.19-.38 35.93-60.44z" style="stroke:#b8860b"/>
+<g style="stroke:#483d8b">
+<path d="m34.51 173.55h83.53l-21.64 52.18h-84.66z"/>
+<path d="m116.89 177.21h3.43l-21.64 52.18h-84.66l1.42-3.24"/>
+<path d="m118.79 180.63h3.43l-21.64 52.18h-84.66l1.42-3.24"/>
+</g>
+<path d="m374.45 99.79h83.85l-21.73 52.3h-84.99z" style="stroke:#dc143c"/>
+</g>
+<path d="m23.12 267.01h115.44" style="stroke:#696969;marker-start:url(#b)"/>
+<path d="m53.57 252.49v48.01" style="stroke:#696969;marker-end:url(#a)"/>
+<path d="m396.74 26.01h55.46" style="stroke:#000"/>
+<path d="m194.64 255.84h152.6v46.9h-152.6z" style="stroke:#9acd32;stroke-dasharray:6.6 2.2"/>
+<path d="m442.77 171.87-71.19.37 35.93 59.46z" style="stroke:#b8860b;stroke-miterlimit:10"/>
+<g style="stroke:#000">
+<path d="m162.14 256.98v45.16h6.03v-45.16h3.01l-6.33-6.32-6.23 6.22z"/>
+<path d="m179.54 289.57h-45.16v6.03h45.16v3.01l6.32-6.33-6.22-6.23z"/>
+</g>
+</g>
+<g style="stroke-width:.94">
+<text style="font-size:10;font-family:Droid Sans Mono;letter-spacing:0;word-spacing:0" x="371.52" y="56.16">
+<tspan x="371.52" y="56.16">lea 8(%edx), %ecx</tspan> <tspan x="371.52" y="68.66">mov %eax, 8(%edx)</tspan> <tspan x="371.52" y="81.16">mov (%ecx), %ebx</tspan>
+</text>
+<text x="380.91" y="-16.19">
+<tspan style="stroke-width:.94" x="380.91" y="-7.33"/>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0" x="373.95" y="24.16">
+<tspan x="373.95" y="24.16">Manual underline</tspan> <tspan x="373.95" y="36.66">Enough space for it ?</tspan>
+</text>
+</g>
+</svg>
