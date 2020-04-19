@@ -313,6 +313,67 @@ digraph {
 }
 ```
 
+### Node shapes
+
+{:.my-split-h}
+```dot
+digraph {
+  a [label="multiline
+  label"]
+  # Be careful it is a trap !
+  # rankdir will change the direction of the record
+  b [shape=record label="{record
+  | vertical}"]
+  c [shape=record label="record
+  | horizontal"]
+  a -> { b c }
+}
+```
+
+{:.my-split-h}
+```myviz
+digraph {
+  a [label="multiline
+  label"]
+  b [shape=record label="{record
+  | vertical}"]
+  c [shape=record label="record
+  | horizontal"]
+  a -> { b c }
+}
+```
+
+{:.my-split-h}
+```dot
+digraph {
+  a [shape=box label="text label
+  tags <b>NOT interpreted</b>
+
+  empty lines NOT ignored"]
+  b [shape=box label=<html label<br/>
+  tags <b>interpreted</b><br/>
+
+  empty lines ignored>]
+  a -> b
+}
+```
+
+{:.my-split-h}
+```myviz
+digraph {
+  a [shape=box label="text label
+  tags <b>NOT interpreted</b>
+
+  empty lines NOT ignored"]
+  b [shape=box label=<html label<br/>
+  tags <b>interpreted</b><br/>
+
+  empty lines ignored>]
+  a -> b
+}
+```
+
+
 ### Other neat tricks
 
 {:.my-split-h}
