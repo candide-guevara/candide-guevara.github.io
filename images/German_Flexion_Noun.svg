@@ -1,0 +1,132 @@
+<svg height="200" viewBox="0 0 339.12 130.76" width="600" xmlns="http://www.w3.org/2000/svg">
+<path d="m184.02 97.37h97.25v25.41h-97.25z" style="fill:#729fcf"/>
+<path d="m183.41 72.44h97.25v25.41h-97.25z" style="fill:#94ff48"/>
+<path d="m281.27 20.62h46.18v102.16h-46.18z" style="fill:#6ec814"/>
+<path d="m183.41 20.61h97.25v51.83h-97.25z" style="fill:#f2aa37"/>
+<path d="m38.23 97.68h97.25v25.41h-97.25z" style="fill:#81537e"/>
+<path d="m38.23 72.27h97.25v25.41h-97.25z" style="fill:#ff5b5b"/>
+<path d="m135.88 71.93h47.02v50.82h-47.01z" style="fill:#babdb6"/>
+<path d="m38.23 20.44h144.25v51.83h-144.25z" style="fill:#babdb6"/>
+<path d="m38.23 20.44h289.37v102.35h-289.37z" style="fill:none;stroke:#000;stroke-width:1.77"/>
+<text style="stroke-width:.94" x="391.57" y="-83.73">
+<tspan style="stroke-width:.94" x="391.57" y="-74.87"/>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="9.84" y="38.68">
+<tspan style="font-weight:bold" x="9.84" y="38.68">Nom</tspan>
+</text>
+<path d="m38.1 46.27h289.48" style="fill:none;stroke:#000;stroke-width:1.77"/>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="10.75" y="62.75">
+<tspan style="font-weight:bold" x="10.75" y="62.75">Akk</tspan>
+</text>
+<text x="9.8" y="88.44">
+<tspan style="font-weight:bold" x="9.8" y="88.44">Dat</tspan>
+</text>
+<text x="10.05" y="113.59">
+<tspan style="font-weight:bold" x="10.05" y="113.59">Gen</tspan>
+</text>
+<text x="47.92" y="15.24">
+<tspan style="font-weight:bold" x="47.92" y="15.24">Masc</tspan>
+</text>
+<text x="147.15" y="14.47">
+<tspan style="font-weight:bold" x="147.15" y="14.47">Femn</tspan>
+</text>
+<text x="98.89" y="14.73">
+<tspan style="font-weight:bold" x="98.89" y="14.73">Neut</tspan>
+</text>
+<text x="195.21" y="14.47">
+<tspan style="font-weight:bold" x="195.21" y="14.47">Masc_P</tspan>
+</text>
+<text x="286.91" y="14.22">
+<tspan style="font-weight:bold" x="286.91" y="14.22">Femn_P</tspan>
+</text>
+<text x="239.93" y="14.47">
+<tspan style="font-weight:bold" x="239.93" y="14.47">Neut_P</tspan>
+</text>
+</g>
+<g style="fill:none;stroke:#000">
+<path d="m183.2 20.52.03 102.2" style="stroke-width:3.54"/>
+<g style="stroke-width:1.77">
+<path d="m135.65 20.32.03 102.71"/>
+<path d="m86.36 20.32.03 102.46"/>
+<path d="m234.75 20.07.03 102.97"/>
+<path d="m281.24 20.07.03 102.71"/>
+<path d="m38.19 72.44h289.48"/>
+<path d="m38.19 97.85h289.48"/>
+</g>
+</g>
+<g style="stroke-width:.94;font-family:Droid Sans;letter-spacing:0;word-spacing:0;font-size:12.5">
+<text x="56.48" y="38.34">
+<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="56.48" y="38.34">Ø</tspan>
+</text>
+<text x="56.34" y="63.93">
+<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="56.34" y="63.93">Ø</tspan>
+</text>
+<text x="105.37" y="38.01">
+<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="105.37" y="38.01">Ø</tspan>
+</text>
+<text x="105.12" y="63.93">
+<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="105.12" y="63.93">Ø</tspan>
+</text>
+<text x="154.67" y="38.01">
+<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="154.67" y="38.01">Ø</tspan>
+</text>
+<text x="154.16" y="63.67">
+<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="154.16" y="63.67">Ø</tspan>
+</text>
+<text x="154.41" y="89.59">
+<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="154.41" y="89.59">Ø</tspan>
+</text>
+<text x="154.16" y="115.76">
+<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="154.16" y="115.76">Ø</tspan>
+</text>
+<text x="55.92" y="114.36">
+<tspan style="stroke-width:.94" x="55.92" y="114.36">-s</tspan>
+</text>
+<text x="103.8" y="89.32">
+<tspan style="stroke-width:.94" x="103.8" y="89.32">-e</tspan>
+</text>
+<text x="54.15" y="89">
+<tspan style="stroke-width:.94" x="54.15" y="89">-e</tspan>
+</text>
+<text x="104.19" y="113.9">
+<tspan style="stroke-width:.94" x="104.19" y="113.9">-s</tspan>
+</text>
+<text x="200.25" y="37.17">
+<tspan style="stroke-width:.94" x="200.25" y="37.17">-er</tspan>
+</text>
+<text x="248.64" y="37.17">
+<tspan style="stroke-width:.94" x="248.64" y="37.17">-er</tspan>
+</text>
+<text x="295.9" y="37.17">
+<tspan style="stroke-width:.94" x="295.9" y="37.17">-en</tspan>
+</text>
+<text x="200.05" y="62.58">
+<tspan style="stroke-width:.94" x="200.05" y="62.58">-er</tspan>
+</text>
+<text x="248.44" y="62.58">
+<tspan style="stroke-width:.94" x="248.44" y="62.58">-er</tspan>
+</text>
+<text x="295.7" y="62.58">
+<tspan style="stroke-width:.94" x="295.7" y="62.58">-en</tspan>
+</text>
+<text x="195.99" y="88.75">
+<tspan style="stroke-width:.94" x="195.99" y="88.75">-ern</tspan>
+</text>
+<text x="244.88" y="88.5">
+<tspan style="stroke-width:.94" x="244.88" y="88.5">-ern</tspan>
+</text>
+<text x="295.7" y="88.75">
+<tspan style="stroke-width:.94" x="295.7" y="88.75">-en</tspan>
+</text>
+<text x="245.08" y="113.4">
+<tspan style="stroke-width:.94" x="245.08" y="113.4">-ers</tspan>
+</text>
+<text x="294.88" y="113.9">
+<tspan style="stroke-width:.94" x="294.88" y="113.9">-en</tspan>
+</text>
+<text x="197.19" y="113.65">
+<tspan style="stroke-width:.94" x="197.19" y="113.65">-ers</tspan>
+</text>
+</g>
+</svg>

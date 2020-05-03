@@ -1,0 +1,583 @@
+<svg height="630" viewBox="0 0 531.42 340.79" width="1000" xmlns="http://www.w3.org/2000/svg">
+<path d="m62.25 309.79h463.54v26.39h-463.54z" style="fill:#81537e"/>
+<g style="fill:#729fcf">
+<path d="m62.25 151.54h463.54v26.39h-463.54z"/>
+<path d="m62.25 45.97h463.54v26.39h-463.54z"/>
+<path d="m62.25 19.58h463.54v26.39h-463.54z"/>
+</g>
+<path d="m62.25 125.15h463.54v26.39h-463.54z" style="fill:#81537e"/>
+<path d="m62.25 177.93h463.54v52.52h-463.54z" style="fill:#f2aa37"/>
+<path d="m62.25 72.36h463.54v52.52h-463.54z" style="fill:#f2aa37"/>
+<path d="m62.25 19.58h57.94v26.39h-57.94z" style="fill:none;stroke:#000;stroke-width:1.77"/>
+<text style="stroke-width:.94" x="415.13" y="-87.6">
+<tspan style="stroke-width:.94" x="415.13" y="-78.74"/>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="79.81" y="14.15">
+<tspan style="font-weight:bold" x="79.81" y="14.15">Ich</tspan>
+</text>
+<g style="fill:none;stroke:#000;stroke-width:1.77">
+<path d="m120.2 19.58h57.94v26.39h-57.94z"/>
+<path d="m178.14 19.58h57.94v26.39h-57.94z"/>
+<path d="m236.08 19.58h57.94v26.39h-57.94z"/>
+<path d="m294.02 19.58h57.94v26.39h-57.94z"/>
+<path d="m351.97 19.58h57.94v26.39h-57.94z"/>
+<path d="m409.91 19.58h57.94v26.39h-57.94z"/>
+<path d="m467.85 19.58h57.94v26.39h-57.94z"/>
+<path d="m62.25 45.97h57.94v26.39h-57.94z"/>
+<path d="m120.2 45.97h57.94v26.39h-57.94z"/>
+<path d="m178.14 45.97h57.94v26.39h-57.94z"/>
+<path d="m236.08 45.97h57.94v26.39h-57.94z"/>
+<path d="m294.02 45.97h57.94v26.39h-57.94z"/>
+<path d="m351.97 45.97h57.94v26.39h-57.94z"/>
+<path d="m409.91 45.97h57.94v26.39h-57.94z"/>
+<path d="m467.85 45.97h57.94v26.39h-57.94z"/>
+<path d="m62.25 72.36h57.95v26.39h-57.95z"/>
+<path d="m120.2 72.36h57.94v26.39h-57.94z"/>
+<path d="m178.14 72.36h57.94v26.39h-57.94z"/>
+<path d="m236.08 72.36h57.94v26.39h-57.94z"/>
+<path d="m294.02 72.36h57.95v26.39h-57.95z"/>
+<path d="m351.97 72.36h57.94v26.39h-57.94z"/>
+<path d="m409.91 72.36h57.94v26.39h-57.94z"/>
+<path d="m467.85 72.36h57.94v26.39h-57.94z"/>
+<path d="m62.25 98.75h57.94v26.39h-57.94z"/>
+<path d="m120.2 98.75h57.94v26.39h-57.94z"/>
+<path d="m178.14 98.75h57.94v26.39h-57.94z"/>
+<path d="m236.08 98.75h57.94v26.39h-57.94z"/>
+<path d="m294.02 98.75h57.94v26.39h-57.94z"/>
+<path d="m351.97 98.75h57.94v26.39h-57.94z"/>
+<path d="m409.91 98.75h57.94v26.39h-57.94z"/>
+<path d="m467.85 98.75h57.94v26.39h-57.94z"/>
+<path d="m62.25 125.15h57.94v26.39h-57.94z"/>
+<path d="m120.2 125.15h57.94v26.39h-57.94z"/>
+<path d="m178.14 125.15h57.94v26.39h-57.94z"/>
+<path d="m236.08 125.15h57.94v26.39h-57.94z"/>
+<path d="m294.02 125.15h57.94v26.39h-57.94z"/>
+<path d="m351.97 125.15h57.94v26.39h-57.94z"/>
+<path d="m409.91 125.15h57.94v26.39h-57.94z"/>
+<path d="m467.85 125.15h57.94v26.39h-57.94z"/>
+<path d="m62.25 151.54h57.94v26.39h-57.94z"/>
+<path d="m120.2 151.54h57.94v26.39h-57.94z"/>
+<path d="m178.14 151.54h57.94v26.39h-57.94z"/>
+<path d="m236.08 151.54h57.94v26.39h-57.94z"/>
+<path d="m294.02 151.54h57.94v26.39h-57.94z"/>
+<path d="m351.97 151.54h57.94v26.39h-57.94z"/>
+<path d="m409.91 151.54h57.94v26.39h-57.94z"/>
+<path d="m467.85 151.54h57.94v26.39h-57.94z"/>
+<path d="m62.25 177.93h57.94v26.39h-57.94z"/>
+<path d="m120.2 177.93h57.94v26.39h-57.94z"/>
+<path d="m178.14 177.93h57.94v26.39h-57.94z"/>
+<path d="m236.08 177.93h57.94v26.39h-57.94z"/>
+<path d="m294.02 177.93h57.94v26.39h-57.94z"/>
+<path d="m351.97 177.93h57.94v26.39h-57.94z"/>
+<path d="m409.91 177.93h57.94v26.39h-57.94z"/>
+<path d="m467.85 177.93h57.94v26.39h-57.94z"/>
+</g>
+<g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="141.43" y="13.6">
+<tspan style="font-weight:bold;stroke-width:.94" x="141.43" y="13.6">Du</tspan>
+</text>
+<text x="201.35" y="14.09">
+<tspan style="font-weight:bold;stroke-width:.94" x="201.35" y="14.09">Er</tspan>
+</text>
+<text x="259.64" y="14.09">
+<tspan style="font-weight:bold;stroke-width:.94" x="259.64" y="14.09">Es</tspan>
+</text>
+<text x="312.54" y="14.75">
+<tspan style="font-weight:bold;stroke-width:.94" x="312.54" y="14.75">Uns</tspan>
+</text>
+<text x="372.63" y="15.24">
+<tspan style="font-weight:bold;stroke-width:.94" x="372.63" y="15.24">Ihr</tspan>
+</text>
+<text x="419.72" y="14.47">
+<tspan style="font-weight:bold;stroke-width:.94" x="419.72" y="14.47">Sie_Sing</tspan>
+</text>
+<text x="478.28" y="14.25">
+<tspan style="font-weight:bold;stroke-width:.94" x="478.28" y="14.25">Sie_Plur</tspan>
+</text>
+</g>
+<g style="fill:none;stroke:#000;stroke-width:1.77">
+<path d="m62.25 204.32h57.94v26.39h-57.94z"/>
+<path d="m120.2 204.32h57.94v26.39h-57.94z"/>
+<path d="m178.14 204.32h57.94v26.39h-57.94z"/>
+<path d="m236.08 204.32h57.94v26.39h-57.94z"/>
+<path d="m294.02 204.32h57.94v26.39h-57.94z"/>
+<path d="m351.97 204.32h57.94v26.39h-57.94z"/>
+<path d="m409.91 204.32h57.94v26.39h-57.94z"/>
+<path d="m467.85 204.32h57.94v26.39h-57.94z"/>
+</g>
+<g style="stroke-width:.94;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<g style="font-size:10">
+<text x="5" y="37.71">
+<tspan style="font-weight:bold;stroke-width:.94" x="5" y="37.71">Nom_Masc</tspan>
+</text>
+<text x="5.91" y="63.41">
+<tspan style="font-weight:bold;stroke-width:.94" x="5.91" y="63.41">Nom_Neut</tspan>
+</text>
+<text x="3.82" y="89.86">
+<tspan style="font-weight:bold;stroke-width:.94" x="3.82" y="89.86">Nom_Femn</tspan>
+</text>
+<text x="10.84" y="116.31">
+<tspan style="font-weight:bold;stroke-width:.94" x="10.84" y="116.31">Nom_Plur</tspan>
+</text>
+<text x="9.58" y="144.49">
+<tspan style="font-weight:bold;stroke-width:.94" x="9.58" y="144.49">Akk_Masc</tspan>
+</text>
+<text x="10.48" y="170.19">
+<tspan style="font-weight:bold;stroke-width:.94" x="10.48" y="170.19">Akk_Neut</tspan>
+</text>
+<text x="8.39" y="196.64">
+<tspan style="font-weight:bold;stroke-width:.94" x="8.39" y="196.64">Akk_Femn</tspan>
+</text>
+<text x="15.41" y="223.1">
+<tspan style="font-weight:bold;stroke-width:.94" x="15.41" y="223.1">Akk_Plur</tspan>
+</text>
+</g>
+<g style="font-size:12.5">
+<text x="76.61" y="37.09">
+<tspan style="stroke-width:.94" x="76.61" y="37.09">mein<tspan/>
+</tspan>
+</text>
+<text x="136.32" y="37.58">
+<tspan style="stroke-width:.94" x="136.32" y="37.58">dein<tspan/>
+</tspan>
+</text>
+<text x="196.47" y="37.91">
+<tspan style="stroke-width:.94" x="196.47" y="37.91">sein<tspan/>
+</tspan>
+</text>
+<text x="254.27" y="37.91">
+<tspan style="stroke-width:.94" x="254.27" y="37.91">sein<tspan/>
+</tspan>
+</text>
+<text x="307.37" y="37.25">
+<tspan style="stroke-width:.94" x="307.37" y="37.25">unser<tspan/>
+</tspan>
+</text>
+<text x="369.14" y="37.58">
+<tspan style="stroke-width:.94" x="369.14" y="37.58">euer<tspan/>
+</tspan>
+</text>
+<text x="431.78" y="37.58">
+<tspan style="stroke-width:.94" x="431.78" y="37.58">ihr<tspan/>
+</tspan>
+</text>
+<text x="490.3" y="37.91">
+<tspan style="stroke-width:.94" x="490.3" y="37.91">ihr<tspan/>
+</tspan>
+</text>
+<text x="73.1" y="89.42">
+<tspan style="stroke-width:.94" x="73.1" y="89.42">mein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="133.85" y="89.91">
+<tspan style="stroke-width:.94" x="133.85" y="89.91">dein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="192.96" y="90.23">
+<tspan style="stroke-width:.94" x="192.96" y="90.23">sein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="250.76" y="90.23">
+<tspan style="stroke-width:.94" x="250.76" y="90.23">sein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="303.33" y="89.58">
+<tspan style="stroke-width:.94" x="303.33" y="89.58">unser<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="367.99" y="89.91">
+<tspan style="stroke-width:.94" x="367.99" y="89.91">eur<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="427.75" y="89.91">
+<tspan style="stroke-width:.94" x="427.75" y="89.91">ihr<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="485.22" y="90.23">
+<tspan style="stroke-width:.94" x="485.22" y="90.23">ihr<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="73.22" y="116.2">
+<tspan style="stroke-width:.94" x="73.22" y="116.2">mein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="133.97" y="116.68">
+<tspan style="stroke-width:.94" x="133.97" y="116.68">dein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="193.08" y="117.01">
+<tspan style="stroke-width:.94" x="193.08" y="117.01">sein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="250.88" y="117.01">
+<tspan style="stroke-width:.94" x="250.88" y="117.01">sein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="303.45" y="116.36">
+<tspan style="stroke-width:.94" x="303.45" y="116.36">unser<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="368.11" y="116.68">
+<tspan style="stroke-width:.94" x="368.11" y="116.68">eur<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="427.87" y="116.68">
+<tspan style="stroke-width:.94" x="427.87" y="116.68">ihr<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="485.34" y="117.01">
+<tspan style="stroke-width:.94" x="485.34" y="117.01">ihr<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="70.03" y="142.32">
+<tspan style="stroke-width:.94" x="70.03" y="142.32">mein<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="130.78" y="142.81">
+<tspan style="stroke-width:.94" x="130.78" y="142.81">dein<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="189.89" y="143.13">
+<tspan style="stroke-width:.94" x="189.89" y="143.13">sein<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="247.69" y="143.13">
+<tspan style="stroke-width:.94" x="247.69" y="143.13">sein<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="300.26" y="142.48">
+<tspan style="stroke-width:.94" x="300.26" y="142.48">unser<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="364.92" y="142.81">
+<tspan style="stroke-width:.94" x="364.92" y="142.81">eur<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="424.68" y="142.81">
+<tspan style="stroke-width:.94" x="424.68" y="142.81">ihr<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="482.15" y="143.13">
+<tspan style="stroke-width:.94" x="482.15" y="143.13">ihr<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="72.18" y="195.22">
+<tspan style="stroke-width:.94" x="72.18" y="195.22">mein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="132.93" y="195.71">
+<tspan style="stroke-width:.94" x="132.93" y="195.71">dein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="192.04" y="196.03">
+<tspan style="stroke-width:.94" x="192.04" y="196.03">sein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="249.84" y="196.03">
+<tspan style="stroke-width:.94" x="249.84" y="196.03">sein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="302.41" y="195.38">
+<tspan style="stroke-width:.94" x="302.41" y="195.38">unser<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="367.07" y="195.71">
+<tspan style="stroke-width:.94" x="367.07" y="195.71">eur<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="426.83" y="195.71">
+<tspan style="stroke-width:.94" x="426.83" y="195.71">ihr<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="484.3" y="196.03">
+<tspan style="stroke-width:.94" x="484.3" y="196.03">ihr<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="72.3" y="222">
+<tspan style="stroke-width:.94" x="72.3" y="222">mein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="133.06" y="222.48">
+<tspan style="stroke-width:.94" x="133.06" y="222.48">dein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="192.16" y="222.81">
+<tspan style="stroke-width:.94" x="192.16" y="222.81">sein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="249.96" y="222.81">
+<tspan style="stroke-width:.94" x="249.96" y="222.81">sein<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="302.53" y="222.16">
+<tspan style="stroke-width:.94" x="302.53" y="222.16">unser<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="367.19" y="222.48">
+<tspan style="stroke-width:.94" x="367.19" y="222.48">eur<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="426.95" y="222.48">
+<tspan style="stroke-width:.94" x="426.95" y="222.48">ihr<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+<text x="484.42" y="222.81">
+<tspan style="stroke-width:.94" x="484.42" y="222.81">ihr<tspan style="font-weight:bold;stroke-width:.94">e</tspan>
+</tspan>
+</text>
+</g>
+</g>
+<path d="m199.26 4.16h72.64v12.68h-72.64z" style="fill:none;stroke:#f00;stroke-width:1.06;stroke-dasharray:6.38 1.06"/>
+<path d="m418.2 4.16h101.04v12.68h-101.04z" style="fill:none;stroke:#f00;stroke-width:1.06;stroke-dasharray:6.38 1.06"/>
+<path d="m62.25 125.14 463.9.26" style="fill:#729fcf;stroke:#000;stroke-width:3.43"/>
+<path d="m62.25 257.1h463.54v26.39h-463.54z" style="fill:#94ff48"/>
+<path d="m62.25 230.71h463.54v26.39h-463.54z" style="fill:#94ff48"/>
+<path d="m62.25 283.49h463.54v26.3h-463.54z" style="fill:#ff5b5b"/>
+<g style="fill:none;stroke:#000;stroke-width:1.77">
+<path d="m62.25 230.71h57.94v26.39h-57.94z"/>
+<path d="m120.2 230.71h57.94v26.39h-57.94z"/>
+<path d="m178.14 230.71h57.94v26.39h-57.94z"/>
+<path d="m236.08 230.71h57.94v26.39h-57.94z"/>
+<path d="m294.02 230.71h57.94v26.39h-57.94z"/>
+<path d="m351.97 230.71h57.94v26.39h-57.94z"/>
+<path d="m409.91 230.71h57.94v26.39h-57.94z"/>
+<path d="m467.85 230.71h57.94v26.39h-57.94z"/>
+<path d="m62.25 257.1h57.94v26.39h-57.94z"/>
+<path d="m120.2 257.1h57.94v26.39h-57.94z"/>
+<path d="m178.14 257.1h57.94v26.39h-57.94z"/>
+<path d="m236.08 257.1h57.94v26.39h-57.94z"/>
+<path d="m294.02 257.1h57.94v26.39h-57.94z"/>
+<path d="m351.97 257.1h57.94v26.39h-57.94z"/>
+<path d="m409.91 257.1h57.94v26.39h-57.94z"/>
+<path d="m467.85 257.1h57.94v26.39h-57.94z"/>
+<path d="m62.25 283.49h57.94v26.39h-57.94z"/>
+<path d="m120.2 283.49h57.94v26.39h-57.94z"/>
+<path d="m178.14 283.49h57.94v26.39h-57.94z"/>
+<path d="m236.08 283.49h57.94v26.39h-57.94z"/>
+<path d="m294.02 283.49h57.94v26.39h-57.94z"/>
+<path d="m351.97 283.49h57.94v26.39h-57.94z"/>
+<path d="m409.91 283.49h57.94v26.39h-57.94z"/>
+<path d="m467.85 283.49h57.94v26.39h-57.94z"/>
+<path d="m62.25 309.88h57.94v26.39h-57.94z"/>
+<path d="m120.2 309.88h57.94v26.39h-57.94z"/>
+<path d="m178.14 309.88h57.94v26.39h-57.94z"/>
+<path d="m236.08 309.88h57.94v26.39h-57.94z"/>
+<path d="m294.02 309.88h57.94v26.39h-57.94z"/>
+<path d="m351.97 309.88h57.94v26.39h-57.94z"/>
+<path d="m409.91 309.88h57.94v26.39h-57.94z"/>
+<path d="m467.85 309.88h57.94v26.39h-57.94z"/>
+</g>
+<g style="stroke-width:.94;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<g style="font-size:10">
+<text x="9.58" y="250.05">
+<tspan style="font-weight:bold;stroke-width:.94" x="9.58" y="250.05">Dat_Masc</tspan>
+</text>
+<text x="10.48" y="275.75">
+<tspan style="font-weight:bold;stroke-width:.94" x="10.48" y="275.75">Dat_Neut</tspan>
+</text>
+<text x="8.39" y="302.2">
+<tspan style="font-weight:bold;stroke-width:.94" x="8.39" y="302.2">Dat_Femn</tspan>
+</text>
+<text x="15.41" y="328.66">
+<tspan style="font-weight:bold;stroke-width:.94" x="15.41" y="328.66">Dat_Plur</tspan>
+</text>
+</g>
+<g style="font-size:12.5">
+<text x="67.93" y="248.93">
+<tspan style="stroke-width:.94" x="67.93" y="248.93">mein<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="127.89" y="248.37">
+<tspan style="stroke-width:.94" x="127.89" y="248.37">dein<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="185.69" y="248.95">
+<tspan style="stroke-width:.94" x="185.69" y="248.95">sein<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="244.8" y="248.69">
+<tspan style="stroke-width:.94" x="244.8" y="248.69">sein<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="297.37" y="248.04">
+<tspan style="stroke-width:.94" x="297.37" y="248.04">unser<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="362.82" y="248.37">
+<tspan style="stroke-width:.94" x="362.82" y="248.37">eur<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="422.32" y="248.37">
+<tspan style="stroke-width:.94" x="422.32" y="248.37">ihr<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="479.26" y="248.69">
+<tspan style="stroke-width:.94" x="479.26" y="248.69">ihr<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+</g>
+</g>
+<path d="m62.25 230.7 463.9.26" style="fill:#729fcf;stroke:#000;stroke-width:3.43"/>
+<g style="stroke-width:.94;font-family:Droid Sans;letter-spacing:0;word-spacing:0;font-size:12.5">
+<text x="76.49" y="63.43">
+<tspan style="stroke-width:.94" x="76.49" y="63.43">mein<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="136.2" y="63.92">
+<tspan style="stroke-width:.94" x="136.2" y="63.92">dein<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="196.35" y="64.25">
+<tspan style="stroke-width:.94" x="196.35" y="64.25">sein<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="254.15" y="64.25">
+<tspan style="stroke-width:.94" x="254.15" y="64.25">sein<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="307.25" y="63.59">
+<tspan style="stroke-width:.94" x="307.25" y="63.59">unser<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="369.02" y="63.92">
+<tspan style="stroke-width:.94" x="369.02" y="63.92">euer<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="431.66" y="63.92">
+<tspan style="stroke-width:.94" x="431.66" y="63.92">ihr<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="490.18" y="64.25">
+<tspan style="stroke-width:.94" x="490.18" y="64.25">ihr<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="75.7" y="169.11">
+<tspan style="stroke-width:.94" x="75.7" y="169.11">mein<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="135.41" y="169.6">
+<tspan style="stroke-width:.94" x="135.41" y="169.6">dein<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="195.56" y="169.93">
+<tspan style="stroke-width:.94" x="195.56" y="169.93">sein<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="253.36" y="169.93">
+<tspan style="stroke-width:.94" x="253.36" y="169.93">sein<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="306.46" y="169.27">
+<tspan style="stroke-width:.94" x="306.46" y="169.27">unser<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="368.23" y="169.6">
+<tspan style="stroke-width:.94" x="368.23" y="169.6">euer<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="430.87" y="169.6">
+<tspan style="stroke-width:.94" x="430.87" y="169.6">ihr<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="489.39" y="169.93">
+<tspan style="stroke-width:.94" x="489.39" y="169.93">ihr<tspan style="stroke-width:.94"/>
+</tspan>
+</text>
+<text x="67.7" y="274.83">
+<tspan style="stroke-width:.94" x="67.7" y="274.83">mein<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="127.67" y="274.27">
+<tspan style="stroke-width:.94" x="127.67" y="274.27">dein<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="185.46" y="274.86">
+<tspan style="stroke-width:.94" x="185.46" y="274.86">sein<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="244.58" y="274.59">
+<tspan style="stroke-width:.94" x="244.58" y="274.59">sein<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="297.15" y="273.94">
+<tspan style="stroke-width:.94" x="297.15" y="273.94">unser<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="362.59" y="274.27">
+<tspan style="stroke-width:.94" x="362.59" y="274.27">eur<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="422.09" y="274.27">
+<tspan style="stroke-width:.94" x="422.09" y="274.27">ihr<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="479.04" y="274.59">
+<tspan style="stroke-width:.94" x="479.04" y="274.59">ihr<tspan style="font-weight:bold;stroke-width:.94">em</tspan>
+</tspan>
+</text>
+<text x="69.02" y="327.51">
+<tspan style="stroke-width:.94" x="69.02" y="327.51">mein<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="129.77" y="328">
+<tspan style="stroke-width:.94" x="129.77" y="328">dein<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="188.88" y="328.32">
+<tspan style="stroke-width:.94" x="188.88" y="328.32">sein<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="246.68" y="328.32">
+<tspan style="stroke-width:.94" x="246.68" y="328.32">sein<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="299.25" y="327.67">
+<tspan style="stroke-width:.94" x="299.25" y="327.67">unser<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="363.91" y="328">
+<tspan style="stroke-width:.94" x="363.91" y="328">eur<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="423.67" y="328">
+<tspan style="stroke-width:.94" x="423.67" y="328">ihr<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="481.14" y="328.32">
+<tspan style="stroke-width:.94" x="481.14" y="328.32">ihr<tspan style="font-weight:bold;stroke-width:.94">en</tspan>
+</tspan>
+</text>
+<text x="69.9" y="299.97">
+<tspan style="stroke-width:.94" x="69.9" y="299.97">mein<tspan style="font-weight:bold;stroke-width:.94">er</tspan>
+</tspan>
+</text>
+<text x="130.66" y="300.46">
+<tspan style="stroke-width:.94" x="130.66" y="300.46">dein<tspan style="font-weight:bold;stroke-width:.94">er</tspan>
+</tspan>
+</text>
+<text x="189.76" y="300.79">
+<tspan style="stroke-width:.94" x="189.76" y="300.79">sein<tspan style="font-weight:bold;stroke-width:.94">er</tspan>
+</tspan>
+</text>
+<text x="247.56" y="300.79">
+<tspan style="stroke-width:.94" x="247.56" y="300.79">sein<tspan style="font-weight:bold;stroke-width:.94">er</tspan>
+</tspan>
+</text>
+<text x="300.14" y="300.13">
+<tspan style="stroke-width:.94" x="300.14" y="300.13">unser<tspan style="font-weight:bold;stroke-width:.94">er</tspan>
+</tspan>
+</text>
+<text x="364.79" y="300.46">
+<tspan style="stroke-width:.94" x="364.79" y="300.46">eur<tspan style="font-weight:bold;stroke-width:.94">er</tspan>
+</tspan>
+</text>
+<text x="424.55" y="300.46">
+<tspan style="stroke-width:.94" x="424.55" y="300.46">ihr<tspan style="font-weight:bold;stroke-width:.94">er</tspan>
+</tspan>
+</text>
+<text x="482.02" y="300.79">
+<tspan style="stroke-width:.94" x="482.02" y="300.79">ihr<tspan style="font-weight:bold;stroke-width:.94">er</tspan>
+</tspan>
+</text>
+</g>
+</svg>
