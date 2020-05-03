@@ -15,12 +15,13 @@ Notez que cette idée n'est pas nouvelle, [Mark Twain][0] avait déjà utilisé 
 
 ### Équivalence cas allemands avec syntaxe française (grosso merdo)
 
-> When one is [polite in German][3], one lies
-
 * Nominativ : le sujet.
 * Akkusativ : le COD.
+* Dativ : le COI.
 * Genitiv : complément de nom exprimant la possession.
-* Dativ : tout autre complement que le COD (COI, complément circonstantiel ...)
+
+En vérité, autre que pour le nominatif, c'est la préposition qui introduit le complément qui dicte le cas.
+Vu la quantité de prépositions, mémoriser la [table prep/cas][6] c'est perdre son temps.
 
 
 ## Déclinaisons
@@ -33,11 +34,11 @@ Notez que cette idée n'est pas nouvelle, [Mark Twain][0] avait déjà utilisé 
 | catégorie/accord      |   genre   |  nombre  |    cas    |
 |-----------------------|-----------|----------|-----------|
 | noms                  | N/A | OUI | OUI |
-| pronoms<br/>(possessifs, démonstratifs<br/>personnels, relatifs) | N/A | N/A | OUI |
+| pronoms<br/>(possessifs, démonstratifs<br/>personnels, relatifs ...) | N/A | N/A | OUI |
 | déterminants          | OUI | OUI | OUI |
 | adjectifs             | OUI | OUI | OUI |
-| prépositions          |
-| adverbes              |
+| prépositions<br/>prépositions contractées | NON<br/>OUI | NON<br/>OUI | NON<br/>N/A | 
+| adverbes              | NON | NON | NON |
 
 ### Table déclinaison noms
 
@@ -65,6 +66,11 @@ Nombre de combinaisons : (8 personnes grammaticales) * (4 cas) * (4 types genre/
 ![German_Flexion_Demo_Pronoum1.svg]({{ site.images }}/German_Flexion_Demo_Pronoum1.svg){:.my-inline-img}
 ![German_Flexion_Demo_Pronoum2.svg]({{ site.images }}/German_Flexion_Demo_Pronoum2.svg){:.my-inline-img}
 
+Les seuls pronoms interrogatifs que l'on décline sont 'Wer' (who) et 'Welche' (which).
+
+![German_Flexion_Intr_Pronoum1.svg]({{ site.images }}/German_Flexion_Intr_Pronoum1.svg){:.my-inline-img}
+![German_Flexion_Intr_Pronoum2.svg]({{ site.images }}/German_Flexion_Intr_Pronoum2.svg){:.my-inline-img}
+
 ### Confusion entre pronom personnels génitif et pronoms possessifs
 
 Les pronom personnels génitif sont utilisés que quand __ils agissent comme complément du nom__ (autant dire pas la peine de s'en souvenir).
@@ -87,7 +93,17 @@ Pour ne pas se brisser les roustons on ne retiens ici que la déclinaison forte.
 
 ![German_Flexion_Adjective.svg]({{ site.images }}/German_Flexion_Adjective.svg){:.my-inline-img}
 
+### Table déclinaison prépositions contractées
+
+En théorie les prepositions sont invariables. En vérité elles sont souvent contractées avec un article ce qui les rends variables.
+
+> Remarque : une même préposition peut introduire 2 cas. La forme contractée peut donc avoir plusieures formes selon le cas.
+
+![German_Flexion_Preposition.svg]({{ site.images }}/German_Flexion_Preposition.svg){:.my-inline-img}
+
 ### La flexion bosche c'est du pur foutage de gueule
+
+> When one is [polite in German][3], one lies
 
 À ce point je ne peux plus contenir ma haine. Une même désinence marque différents cas selon :
 
@@ -108,6 +124,7 @@ En plus vu que les formes plurielles utilisent les mêmes désinences que les fl
 > German books are easy enough to read when you hold them before the looking-glass or stand on your head.
 
 * ambiguous subject-verb order, making it impossible to distinguish affirmation and questions (on sundays, walk I my dog)
+* Ich mag es, wenn es in dem Winter kalt ist.
 
 ## Prépositions
 
@@ -124,4 +141,5 @@ En plus vu que les formes plurielles utilisent les mêmes désinences que les fl
 [3]: https://de.wikisource.org/wiki/Seite:Faust_II_(Goethe)_101.jpg
 [4]: https://youtu.be/NVu9s-6lCl8?t=188
 [5]: https://www.germanveryeasy.com/adjective-declension#Strong-declension
+[6]: https://www.germanveryeasy.com/prepositions-in-german
 
