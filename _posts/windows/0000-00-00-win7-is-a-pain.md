@@ -1,7 +1,7 @@
 ---
 title: Windows problems setting up virtual machine
 date: 2016-12-12
-categories: [cs_related, windows, rant]
+categories: [quick_notes, windows, rant]
 ---
 
 ## Fix Windows 7 update

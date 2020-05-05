@@ -1,7 +1,7 @@
 ---
 title: Acronym hell glossary
 date: 2015-04-28
-categories: [cs_related]
+categories: [quick_notes]
 ---
 
 ## Technology acronyms

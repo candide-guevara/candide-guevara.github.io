@@ -14,16 +14,17 @@ Some nice syntactic sugar introduced way before it got to other mainstream langu
 * Type deduction using `var`
 * RAII with `using(resource) {}` blocks
 * Attribute getter/setter are easy to implement
-{% highlight c# %}
+```c#
   public class Chocolat {
       // Everyone can read but write protected
       public string Attr { get; private set; }
       // INVALID
       private string Attr { public get; set; }
   }
-{% endhighlight %}
+```
+
 * Fluent API with LINQ (but I am not so fond of the SQL-like syntax)
-{% highlight c# %}
+```c#
   var items = new List<int> {1,2,3,4,3};
   var words = new Dictionary<int, string> { {1,"mr"}, {3,"monkey"}, {6,"coucou"} };
 
@@ -46,9 +47,10 @@ Some nice syntactic sugar introduced way before it got to other mainstream langu
           
   Console.WriteLine("fluent={0}\nquery2={1}", fluent, 
                     query2.Aggregate("", (a,x) => a + x + ", "));
-{% endhighlight %}
+```
+
 * Extension methods to make static helpers less verbose (no access to private fields)
-{% highlight c# %}
+```c#
   public static class Extension {
       //NOTICE the this keyword in the method signature
       public static string Print(this List<string> items) {
@@ -61,9 +63,10 @@ Some nice syntactic sugar introduced way before it got to other mainstream langu
       Console.WriteLine( items.print() );
       Console.WriteLine( Extension.print(items) ); // equivalent to the first call
   }
-{% endhighlight %}
+```
+
 * Out of the box XML serialization, pretty convinient to avoid writing ToString() for debugging
-{% highlight c# %}
+```c#
   public class BananaSplit {
       public string IceCream { get; set; }
       public string Sauce    { get; set; }
@@ -77,9 +80,10 @@ Some nice syntactic sugar introduced way before it got to other mainstream langu
       serializer.Serialize(output, dessert);
       Console.WriteLine(output);
   }
-{% endhighlight %}
+```
+
 * Runtime duck typing with `dynamic`
-{% highlight c# %}
+```c#
   public class Duck1 {
       public void quack () { Console.WriteLine(this.GetType()); }
   }
@@ -108,9 +112,11 @@ Some nice syntactic sugar introduced way before it got to other mainstream langu
           // riseAndQuack<Goose>();
       }
   }
-{% endhighlight %}
+```
+
 * Yield methods to create iterators (python got it in 2002 and C# in 2006)
-{% highlight c# %}
+
+```c#
 public class Banana {}
 
 public static IEnumerable<Banana> hoard () {
@@ -123,12 +129,12 @@ public static void Main() {
   foreach(var b in hoard())
     Console.WriteLine("Got banana !");
 }
-{% endhighlight %}
+```
 
 ### More recent features follow the global trend
 
 * Async and await (easier to use than previous BackgroundWorker and ThreadPool)
-{% highlight c# %}
+```c#
   public static async Task<string> ProcessWSCallAsync() {
       Task<string> response = ... // WCF client to call webservice
       do_some_work();
@@ -142,8 +148,8 @@ public static void Main() {
       var actualResult = wsResult.Result; // Waits and return control to callee
                                           // Does not yield to caller since method is not async
   }
-{% endhighlight %}
-{% highlight c# %}
+```
+```c#
   // In both cases it is not easy to wait or get some result out of piece_of_work
 
   public static void WorkerExample() {
@@ -156,17 +162,19 @@ public static void Main() {
       WaitCallback piece_of_work = (arg) => {};
       ThreadPool.QueueUserWorkItem(piece_of_work, null);
   }
-{% endhighlight %}
+```
+
 * Sweet type inference : using Linq and anonymous types, the compiler can check it all
-{% highlight c# %}
+```c#
   // the compiler generates the type on the fly
   var candy1 = new { Name = "chocolat" };
   var candy2 = new { Name = "icecream" };
   var candies = new[] { candy1, candy2 };
   var dessert = candies.Aggregate("", (a,i) => a + " " + i.Name);
-{% endhighlight %}
+```
+
 * A simple way to add metadata to types using Attributes
-{% highlight c# %}
+```c#
   [AttributeUsage(AttributeTargets.Class, Inherited=false)]
   public class YummyAttribute : Attribute {
       public string Taste { get; set; }
@@ -180,13 +188,13 @@ public static void Main() {
                                  .GetCustomAttribute(typeof(YummyAttribute));
       Console.WriteLine(attr.Taste);
   }
-{% endhighlight %}
+```
 
 ## What I do NOT like
 No surprise here, most of the things I dislike were just taken from C++
 
 * Methods are not virtual by default, you have to use a combination of virtual/override/new. **The behavoir can vary inside the class hierarchy !!**
-{% highlight c# %}
+```c#
   public class Chocolat {
       public virtual doit() { Console.WriteLine("Chocolat"); }
   }
@@ -205,9 +213,10 @@ No surprise here, most of the things I dislike were just taken from C++
       var black = new Black();          // black.doit() = "Black"
       Chocolat bad_black = new Black(); // bad_back.doit() = "Chocolat"
   }
-{% endhighlight %}
+```
+
 * `ref` and `out` lets **evil C++ programmers** use side effects
-{% highlight c# %}
+```c#
   public static void side_effect(ref string st, out int i) {
       i = 666;
       st = "bananas";
@@ -220,7 +229,8 @@ No surprise here, most of the things I dislike were just taken from C++
       side_effect(ref st, out i);
       Console.WriteLine("st={0}, i={1}", st, i);
   }
-{% endhighlight %}
+```
+
 * C++ like syntax for namespaces, no need to have multiple namespaces in same file, it just add extra {} cluter
 * C++ `public Klass() : base(...) {}`  syntax for class attribute initialisation
 * `in` and `out` template parameter modifers and its weird rules to avoid [subtyping problems][0]
@@ -230,7 +240,7 @@ No surprise here, most of the things I dislike were just taken from C++
 ## Stuff that is just different
 
 * `delegate` method signature types
-{% highlight c# %}
+```c#
   delegate void do_it();
   delegate T    give_it<T>();
   delegate void take_it<T>(T arg);
@@ -243,9 +253,10 @@ No surprise here, most of the things I dislike were just taken from C++
 
   del1();
   del3( del2() );
-{% endhighlight %}
+```
+
 * `event` to easily attach actions when something happens
-{% highlight c# %}
+```c#
   public class Klass {
       public delegate void GoForIt(Klass o);
       public event GoForIt events;
@@ -264,9 +275,10 @@ No surprise here, most of the things I dislike were just taken from C++
       k.events += obj => { Console.WriteLine("bananas !"); };
       k.trigger();
   } 
-{% endhighlight %}
+```
+
 * There is no type erasure for generic types
-{% highlight c# %}
+```c#
   public class Klass<T> {
       public void doit() {
           // T.class, Klass<T>.class are not valid in Java
@@ -282,9 +294,10 @@ No surprise here, most of the things I dislike were just taken from C++
       k1.doit();
       k2.doit();
   }
-{% endhighlight %}
+```
+
 * More constraints are available for generic template parameters
-{% highlight c# %}
+```c#
   public class DftConstructible<T> where T:new() {
       public void doit() {
           Console.WriteLine("T t = {0}", new T());
@@ -295,9 +308,10 @@ No surprise here, most of the things I dislike were just taken from C++
       var k1 = new DftConstructible<List<int>>();
       k1.doit();
   }
-{% endhighlight %}
+```
+
 * Awkward (but safe) rules for user defined structs. You are guaranteed that all members will be initialized and that the value will always reside on the stack.
-{% highlight c# %}
+```c#
   public struct Point {
       public int x ,y;
 
@@ -326,7 +340,7 @@ No surprise here, most of the things I dislike were just taken from C++
       // Now it is valid to access the object
       Console.WriteLine("p1 coords = {0}, {1}", p1.x, p1.x);
   }
-{% endhighlight %}
+```
 
 [0]: http://docs.oracle.com/javase/tutorial/extra/generics/subtype.html
 

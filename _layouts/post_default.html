@@ -16,6 +16,11 @@
               {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
             </p>
           {% endif %}
+          {% if page.published == false %}
+            <div class="post-nonpublished-warn">
+              <p>This article is not published</p>
+            </div>
+          {% endif %}
         </header>
 
         <article class="post-content">

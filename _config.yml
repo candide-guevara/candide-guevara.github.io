@@ -32,3 +32,12 @@ defaults:
     values:
       layout: "post_default"
 
+# cf _layouts/index.html
+index_categories:
+  - id: cs_related
+    name: Computer Science
+  - id: misc
+    name: Miscellaneous
+  - id: quick_notes
+    name: Quick Notes
+

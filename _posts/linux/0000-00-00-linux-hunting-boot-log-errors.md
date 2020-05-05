@@ -1,7 +1,7 @@
 ---
 title: Linux, Hunting error logs during boot
 date: 2020-04-12
-categories: [cs_related, linux]
+categories: [quick_notes, linux]
 ---
 
 I have this obession to know about kernel errors/warnings, even if my PC works fine.

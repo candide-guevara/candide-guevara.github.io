@@ -13,6 +13,18 @@
     display: inline-block;
 }
 
+.post-nonpublished-warn {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    display: block;
+    background-color:chartreuse;
+    p {
+      font-size: 120%;
+      font-weight: bold;
+      margin-left: 2em;
+    }
+}
+
 .post-content {
     margin-bottom: $spacing-unit;
 }

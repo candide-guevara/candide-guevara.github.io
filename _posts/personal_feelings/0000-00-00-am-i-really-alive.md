@@ -1,8 +1,8 @@
 ---
-published: false
 title: Rant, Am I really alive ?
 date: 2015-12-04
-categories: [misc, rant, office]
+published: false
+categories: [non_public, rant, office]
 ---
 
 I guess is normal that when you get older you have a hard time to cope with massive volumes of information.

@@ -12,31 +12,24 @@
       {{ content }}
 
       <div class="index-container">
-        <div class="article-col">
-          <h2>CS related</h2>
-          <ul>
-          {% assign sorted_cs_art = site.categories.cs_related | sort: 'title' %}
-          {% for post in sorted_cs_art %}
-            {% assign ymd_date = post.date | date: '%Y-%m-%d - ' %}
-            {% assign categories = post.categories | slice: 1, 3 | join: ', ' | prepend: '  [ ' | append: ' ]' %}
-            {% assign full_title = ymd_date | append: post.title %}
-            <li><a href="{{post.url}}">{{ full_title }}</a></li>
-          {% endfor %}
-          </ul>
-        </div>
 
+      {% for category in site.index_categories %}
         <div class="article-col">
-          <h2>Miscellaneous</h2>
+          <h2>{{ category.name }}</h2>
           <ul>
-          {% assign sorted_misc_art = site.categories.misc | sort: 'title' %}
-          {% for post in sorted_misc_art %}
+          {% assign sorted_articles = site.categories[category.id] | sort: 'title' %}
+          {% for post in sorted_articles %}
             {% assign ymd_date = post.date | date: '%Y-%m-%d - ' %}
-            {% assign categories = post.categories | slice: 1, 3 | join: ', ' | prepend: '  [ ' | append: ' ]' %}
             {% assign full_title = ymd_date | append: post.title %}
-            <li><a href="{{post.url}}">{{ full_title }}</a></li>
+            {% if post.published == false %}
+              <li><a href="{{post.url}}">{{ full_title }}</a> [DRAFT]</li>
+            {% else %}
+              <li><a href="{{post.url}}">{{ full_title }}</a></li>
+            {% endif %}
           {% endfor %}
           </ul>
         </div>
+      {% endfor %}
       </div>
     </div>
 

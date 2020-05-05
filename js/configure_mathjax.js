@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded',
 
 window.MathJax = {
   tex2jax: {
-    inlineMath: [],
+    inlineMath: [['\\(', '\\)']],
     displayMath: [],
     processEscapes: false,
     processEnvironments: false,

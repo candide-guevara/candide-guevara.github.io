@@ -25,19 +25,19 @@ Yet these are exactly the same things that will get frowned upon a code review b
 * "Je lui ai collé un gros pain" : in French it actually means to "punch someone" but literally "I glued on him a big bread"  
   Now show this to your colleagues :
 
-{% highlight c# %}
+```c#
   public void bread (Context ctx) {
     if (ctx == HIT_SOMEONE)
       throw new Exception("Ouch!");
     else
       eatIt();
   }
-{% endhighlight %}
+```
 
 * The verb "to be" is heavily overloaded with many meanings.  
   Now try to get this pass a code review:
 
-{% highlight c# %}
+```c#
   public class Person {
     Feeling  _currentFeeling;
     Location _currentLocation;
@@ -52,7 +52,7 @@ Yet these are exactly the same things that will get frowned upon a code review b
   print( p.is(happy) == true );
   print( p.is(thinking) == true );
   print( p.is(inParis) == true );
-{% endhighlight %}
+```
 
 This may be a good proof that compilers and human understand information in completely different ways.
 I barely know what subject means, and I cannot build a syntax tree of every sentence I read. Nevertheless I can still understand them.
@@ -62,7 +62,7 @@ I barely know what subject means, and I cannot build a syntax tree of every sent
 Getting back to the conscious/unconscious argument, the fact I struggle to understand some pieces of codes shows that I do not use the same parts of my brain for languages vs code.
 When I read code I am forcing myself consciously to think like the compiler. C++ template declarations are a good example.
 
-{% highlight c++ %}
+```c++
   template <class Vector>
   typename Vector::value_type maxElementInVector(Vector& container) {
     /* bla bla */
@@ -72,7 +72,7 @@ When I read code I am forcing myself consciously to think like the compiler. C++
     std::vector<int> nums {3, 4, 2, 8, 15, 267};
     maxElementInVector(nums);
   }
-{% endhighlight %}
+```
 
 It is a common mistake to forget __typename__ in `template <class Vector>`.
 In written english the keyword is redundant because you can infer Vector::value\_type is a type and not a variable from the semantics and context. 
@@ -102,12 +102,12 @@ One thing I feel progamming languages ought to develop are ways to better expres
 * Concurrency : it is easy to say two things happen at the same time. Like this "While I cook my brother opens the wine"  
   Using only vanilla features of the language, you can express this in code :
 
-{% highlight c# %}
+```c#
   public void prepareDinner () {
     Thread.Start(cookRoutine);
     Thread.Start(wineRoutine);
   }
-{% endhighlight %}
+```
 
 In this case the relation between the two statements is that they belong to the same function. It is obvious that they are needed to prepare a meal.
 But to understand they happen in parallel you have to make the effort of simulate that piece of code.
@@ -115,24 +115,24 @@ But to understand they happen in parallel you have to make the effort of simulat
 * Sequence : actions must follow a certain sequence. Like this "Marinate the pork loin before roasting it"  
   A naive approach to put this in code : 
 
-{% highlight c# %}
+```c#
   public Meat cookDeliciousPork (Meat loin) {
     marinate(loin); // 1
     roast(loin);    // 2
     return loin;
   }
-{% endhighlight %}
+```
 
 If you are not familiar with the domain you are working in you may be tempted to invert statements 1 and 2. There is nothing telling you it will break the recipe.
 A more functional approach can solve this though.
 
-{% highlight c# %}
+```c#
   public Meat cookDeliciousPork (Meat loin) {
     Meat marinatedLoin = marinate(loin);     // 1
     Meat roastedLoin = roast(marinatedLoin); // 2
     return roastedLoin;
   }
-{% endhighlight %}
+```
 
 Less error prone but you still have to make an effort to see statement 2 depends on 1. You need to notice that 1 produces the variable consumed by 2.
 

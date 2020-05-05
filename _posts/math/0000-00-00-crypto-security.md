@@ -1,8 +1,8 @@
 ---
 title: Security and cryptography 101
 date: 2015-05-25
-categories: [cs_related, cryptography, math]
 my_extra_options: [ math_notation ]
+categories: [cs_related, cryptography, math]
 ---
 
 ## Cryptography
@@ -21,17 +21,17 @@ my_extra_options: [ math_notation ]
 
 ## Birthday theorem 
 
-$$
-\mbox{Let F be a pseudo random function so that :}   \\
-F:x \to [0..n] \qquad and \qquad (a0..am) \epsilon [0..n]  \\
+```mytex
+\mbox{Let F be a pseudo random function so that :}
+F:x \to [0..n] \qquad and \qquad (a0..am) \epsilon [0..n]
 
-\mbox{Then probability of } \exists (ai, ak) \epsilon (a0..am) \mbox{ so that } F(ai)=F(ak) : \\
-P \simeq \frac{m^{2}}{2n} \qquad if \ m \ll n  \\
+\mbox{Then probability of } \exists (ai, ak) \epsilon (a0..am) \mbox{ so that } F(ai)=F(ak) :
+P \simeq \frac{m^{2}}{2n} \qquad if \ m \ll n
 
-\mbox{From this we can deduce the strenght of a k bit lenght hash.} \\
-\mbox{To have a 50% chance of at least a collision :} \\
+\mbox{From this we can deduce the strenght of a k bit lenght hash.}
+\mbox{To have a 50% chance of at least a collision :}
 m = 2 ^ {\frac{k}{2}}
-$$
+```
 
 ## Some definitions
 

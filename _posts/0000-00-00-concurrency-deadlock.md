@@ -2,7 +2,7 @@
 title: Concurrency preventing deadlocks
 date: 2015-09-20
 my_extra_options: [ math_notation ]
-categories: [cs_related, concurrency]
+categories: [quick_notes, concurrency]
 ---
 
 ### Coffman conditions

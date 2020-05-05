@@ -7,80 +7,80 @@ categories: [cs_related, csharp, windows]
 Boiler plate code for windows services is certainly not difficult. 
 However visual studio makes it confusing with all its fancy graphical component editors ...
 
-{% highlight c# %}
-  [RunInstaller(true)]
-  public class ServiceInstaller : System.Configuration.Install.Installer
-  {
-      // Sets the registry values associated to the **executable** containing the services
-      private ServiceProcessInstaller svcProcessInstaller;
-      // Sets the registry values associated to the class containing the service logic
-      private ServiceInstaller svcClassInstaller;
-      private EventLogInstaller etwConsumerSrc;
+```c#
+[RunInstaller(true)]
+public class ServiceInstaller : System.Configuration.Install.Installer
+{
+    // Sets the registry values associated to the **executable** containing the services
+    private ServiceProcessInstaller svcProcessInstaller;
+    // Sets the registry values associated to the class containing the service logic
+    private ServiceInstaller svcClassInstaller;
+    private EventLogInstaller etwConsumerSrc;
 
-      public ServiceInstaller()
-      {
-          svcProcessInstaller = new ServiceProcessInstaller();
-          svcClassInstaller = new ServiceInstaller();
+    public ServiceInstaller()
+    {
+        svcProcessInstaller = new ServiceProcessInstaller();
+        svcClassInstaller = new ServiceInstaller();
 
-          svcProcessInstaller.Password = null;
-          svcProcessInstaller.Username = null;
-          // You can hook up to events (BeforeInstall, AfterInstall ...) to do some custom action
-          svcProcessInstaller.AfterInstall += new InstallEventHandler(serviceProcessInstaller_AfterInstall);
+        svcProcessInstaller.Password = null;
+        svcProcessInstaller.Username = null;
+        // You can hook up to events (BeforeInstall, AfterInstall ...) to do some custom action
+        svcProcessInstaller.AfterInstall += new InstallEventHandler(serviceProcessInstaller_AfterInstall);
 
-          // It is crucial that the ServiceName be identical to the ServiceBase.ServiceName
-          svcClassInstaller.ServiceName = nameof(ASimpleService);
-          svcClassInstaller.Description = "This is a simple service ...";
-          svcClassInstaller.StartType = ServiceStartMode.Manual;
-          svcClassInstaller.ServicesDependedOn = new string[] { "BananaService" };
+        // It is crucial that the ServiceName be identical to the ServiceBase.ServiceName
+        svcClassInstaller.ServiceName = nameof(ASimpleService);
+        svcClassInstaller.Description = "This is a simple service ...";
+        svcClassInstaller.StartType = ServiceStartMode.Manual;
+        svcClassInstaller.ServicesDependedOn = new string[] { "BananaService" };
 
-          // Add event log category in the logs
-          etwConsumerSrc = new EventLogInstaller();
-          etwConsumerSrc.Source = nameof(ASimpleService);
-          etwConsumerSrc.Log = "Application";
+        // Add event log category in the logs
+        etwConsumerSrc = new EventLogInstaller();
+        etwConsumerSrc.Source = nameof(ASimpleService);
+        etwConsumerSrc.Log = "Application";
 
-          Installers.AddRange(new Installer[] {
-              svcProcessInstaller,
-              svcClassInstaller,
-              etwConsumerSrc,
-          });
-      }
+        Installers.AddRange(new Installer[] {
+            svcProcessInstaller,
+            svcClassInstaller,
+            etwConsumerSrc,
+        });
+    }
 
-      private void serviceProcessInstaller_AfterInstall(object sender, InstallEventArgs e) { }
-  }
+    private void serviceProcessInstaller_AfterInstall(object sender, InstallEventArgs e) { }
+}
 
-  // The service skeleton
-  public class ASimpleService : ServiceBase
-  {
-      public ASimpleService () 
-      {
-          ServiceName = nameof(ASimpleService);
-          // Indicates whether to report Start, Stop, Pause, and Continue commands in the event log
-          AutoLog = true;
-          CanStop = true;
-          CanPauseAndContinue = false;
-      }
+// The service skeleton
+public class ASimpleService : ServiceBase
+{
+    public ASimpleService () 
+    {
+        ServiceName = nameof(ASimpleService);
+        // Indicates whether to report Start, Stop, Pause, and Continue commands in the event log
+        AutoLog = true;
+        CanStop = true;
+        CanPauseAndContinue = false;
+    }
 
-      // This method should return, if you need a long running service spawn a new thread
-      protected override void OnStart(string[] args) 
-      { 
-          // the event log source is ServiceName, and the log name is the computer's "Application" log
-          EventLog.Write("some interesting message");
-      }
+    // This method should return, if you need a long running service spawn a new thread
+    protected override void OnStart(string[] args) 
+    { 
+        // the event log source is ServiceName, and the log name is the computer's "Application" log
+        EventLog.Write("some interesting message");
+    }
 
-      // Clean the resources allocated in OnStart
-      protected override void OnStop() { }
-  }
+    // Clean the resources allocated in OnStart
+    protected override void OnStop() { }
+}
 
-  // Finally the main routine just creates the service and delegates running it to ServiceBase
-  public static class Program 
-  {
-      public static void Main()
-      {
-          var service = new ASimpleService();
-          ServiceBase.Run(service);
-      }
-  }
-{% endhighlight %}
+// Finally the main routine just creates the service and delegates running it to ServiceBase
+public static class Program 
+{
+    public static void Main()
+    {
+        var service = new ASimpleService();
+        ServiceBase.Run(service);
+    }
+}
+```
 
 
 Some explanations on the code.
@@ -99,60 +99,60 @@ That's it, you do not get all of the useless boiler plate visual studio generate
 With some extra code you can even have the daemon binary auto install itself on demand (for example when called with certain command line arguments).
 First use `AssemblyInstaller` to call your isntaller class.
 
-{% highlight c# %}
-  private static void launchServicesInstaller(params string[] args)
-  {
-      var toInstall = typeof(Program).Assembly;
-      IDictionary state = new Hashtable();
-      var nativeOpts = new List<string>(/* add any relevant command line args */);
-      // you can use some options from https://docs.microsoft.com/en-us/dotnet/framework/tools/installutil-exe-installer-tool
-      // depending on your installer hierarchy tree, other options may be available, look at `Installer.HelpText` property.
-      nativeOpts.Add(@"/LogToConsole=true");
-      nativeOpts.Add(@"/ShowCallStack");
+```c#
+private static void launchServicesInstaller(params string[] args)
+{
+    var toInstall = typeof(Program).Assembly;
+    IDictionary state = new Hashtable();
+    var nativeOpts = new List<string>(/* add any relevant command line args */);
+    // you can use some options from https://docs.microsoft.com/en-us/dotnet/framework/tools/installutil-exe-installer-tool
+    // depending on your installer hierarchy tree, other options may be available, look at `Installer.HelpText` property.
+    nativeOpts.Add(@"/LogToConsole=true");
+    nativeOpts.Add(@"/ShowCallStack");
 
-      using (var installer = new AssemblyInstaller(toInstall, nativeOpts.ToArray()))
-      {
-          installer.UseNewContext = true;
-          try
-          {
-              if (opts.Uninstall)
-                  installer.Uninstall(state);
-              else
-              {
-                  installer.Install(state);
-                  installer.Commit(state);
-              }
-          }
-          catch
-          {
-              try { installer.Rollback(state); }
-              catch { }
-              throw;
-          }
-      }
-  }
-{% endhighlight %}
+    using (var installer = new AssemblyInstaller(toInstall, nativeOpts.ToArray()))
+    {
+        installer.UseNewContext = true;
+        try
+        {
+            if (opts.Uninstall)
+                installer.Uninstall(state);
+            else
+            {
+                installer.Install(state);
+                installer.Commit(state);
+            }
+        }
+        catch
+        {
+            try { installer.Rollback(state); }
+            catch { }
+            throw;
+        }
+    }
+}
+```
 
 You may also override the `Install` and `Uninstall` methods to add custom logging.
 
-{% highlight c# %}
-  //Inside : class <Your_Installer> : System.Configuration.Install.Installer
-  public override void Install(IDictionary mySavedState) {
-      try {
-          Context.LogMessage("Launching custom install");
-          base.Install(mySavedState);
-      }
-      catch (Exception err) {
-          Context.LogMessage("Failed custom install : " + err);
-          throw;
-      }
-  }
+```c#
+//Inside : class <Your_Installer> : System.Configuration.Install.Installer
+public override void Install(IDictionary mySavedState) {
+    try {
+        Context.LogMessage("Launching custom install");
+        base.Install(mySavedState);
+    }
+    catch (Exception err) {
+        Context.LogMessage("Failed custom install : " + err);
+        throw;
+    }
+}
 
-  public override void Uninstall(IDictionary mySavedState) {
-      // ...
-      base.Uninstall(mySavedState);
-  }
-{% endhighlight %}
+public override void Uninstall(IDictionary mySavedState) {
+    // ...
+    base.Uninstall(mySavedState);
+}
+```
 
 ## Conclusion
 

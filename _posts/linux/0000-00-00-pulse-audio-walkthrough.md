@@ -1,7 +1,7 @@
 ---
 title: Linux pulse audio
 date: 2016-12-20
-categories: [ cs_related, linux, audio ]
+categories: [quick_notes, linux, audio ]
 ---
 
 ## Terminology

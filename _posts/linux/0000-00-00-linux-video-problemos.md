@@ -2,7 +2,7 @@
 title: Linux, Blank TTY of death
 date: 2019-09-10
 my_extra_options: [ graphviz ]
-categories: [cs_related, linux]
+categories: [quick_notes, linux]
 ---
 
 Just noticed that before X11 modeset the display, linux is unable to show any text.

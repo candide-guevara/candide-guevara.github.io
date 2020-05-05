@@ -2,7 +2,7 @@
 published: false
 title: Voyage en Charente et Poitou
 date: 2017-05-17
-categories: [misc, holidays]
+categories: [non_public, holidays]
 ---
 
 ## première semaine

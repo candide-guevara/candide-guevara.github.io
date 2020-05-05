@@ -1,7 +1,8 @@
 ---
 title: Language what is so appealing about French to me ?
 date: 2016-08-05
-categories: [ misc, language ]
+published: false
+categories: [non_public, language ]
 ---
 
 Out of the few languages I know, French is by far the one I enjoy the most speaking.

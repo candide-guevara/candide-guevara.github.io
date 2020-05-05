@@ -1,8 +1,8 @@
 ---
 title: Language definitions for grammar and syntax
 date: 2016-06-15
+published: false
 categories: [misc, language, math]
-my_extra_options: [ math_notation ]
 ---
 
 When I was a kid I did not understand what grown-ups meant by "grammar".

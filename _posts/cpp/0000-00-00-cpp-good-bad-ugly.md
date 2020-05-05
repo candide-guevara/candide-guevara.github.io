@@ -1,6 +1,7 @@
 ---
 title: C++ The Good, The Bad, The Ugly
 date: 2015-09-20
+published: false
 categories: [cs_related, cpp]
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Language grammar concepts
 date: 2016-08-05
-categories: [ misc, language ]
+published: false
+categories: [misc, language ]
 ---
 
 Learning a new language is a great way to revisit grammar concepts that were forced into my brain as a child but I never actually fully understood.

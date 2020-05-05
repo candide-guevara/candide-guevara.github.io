@@ -29,7 +29,7 @@ Here is the implementation of a basic http ping program that asynchronously retr
 
 ### Python (asyncio streams)
 
-{% highlight python %}
+```python
   def main():
     with stopwatch() as elapsed:
       loop = asyncio.get_event_loop()
@@ -69,13 +69,13 @@ Here is the implementation of a basic http ping program that asynchronously retr
     result = [time.perf_counter()]
     yield result
     result[0] = time.perf_counter() - result[0] 
-{% endhighlight %}
+```
 
 ### Csharp
 
 You've done it again C#, implementation is even simpler than python because you do not have to care about the event loop boilerplate.
 
-{% highlight c# %}
+```c#
   public class HttpPingTest {
       public static HttpClient s_client = new HttpClient();
 
@@ -115,13 +115,13 @@ You've done it again C#, implementation is even simpler than python because you 
       }
       
   } // HttpPingTest
-{% endhighlight %}
+```
 
 ### Javascript (chaining promises)
 
 The complexity compared to python and C# has really gone through the roof (considering this is a simple task)
 
-{% highlight javascript %}
+```js
   function main() {
       var real_time = StopWatch.now();
       parallel_http_ping_sites().then( function(results) {
@@ -217,11 +217,11 @@ The complexity compared to python and C# has really gone through the roof (consi
       var me = this.measures;
       return function() { me[tag] = StopWatch.now() - me[tag]; }
   }
-{% endhighlight %}
+```
 
 ## Dummy event loop implementation using `yield from`
 
-{% highlight python %}
+```python
   def main():
     tasks = [ outer_async(1), another_outer_async(2) ]
     # run the 2 tasks asynchronously and return once all done
@@ -268,5 +268,5 @@ The complexity compared to python and C# has really gone through the roof (consi
     def wait(self):
       DummyIOFuture._count += 1
       return "some io %d" % DummyIOFuture._count
-{% endhighlight %}
+```
 

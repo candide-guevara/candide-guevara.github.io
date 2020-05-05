@@ -1,8 +1,7 @@
 ---
 title: Hardware, How components are connected on a PC
 date: 2020-04-12
-categories: [cs_related, hardware]
-published: false
+categories: [quick_notes, hardware]
 ---
 
 ### word soup
