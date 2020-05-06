@@ -1,7 +1,7 @@
 ---
-title: Git version tree and useful commands
+title: Tools, Git version tree and useful commands
 date: 2015-12-01
-categories: [cs_related, git]
+categories: [cs_related]
 ---
 
 ## Glossary

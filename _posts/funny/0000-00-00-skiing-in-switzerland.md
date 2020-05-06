@@ -1,7 +1,7 @@
 ---
-title: Switzerland, a good place for skiers ?
+title: Switzerland, A good place for skiers ?
 date: 2016-03-30
-categories: [misc, rant]
+categories: [misc]
 ---
 
 After movnig to Switzerland I was looking forward to the skiing season. 

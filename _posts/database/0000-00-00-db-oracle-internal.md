@@ -1,7 +1,7 @@
 ---
-title: Database Oracle internals training
+title: Database, Oracle internals training
 date: 2015-05-27
-categories: [cs_related, database]
+categories: [cs_related]
 ---
 
 Trainer contact : Bernard.soleillant@setra-conseil.com

@@ -1,5 +1,5 @@
 ---
-title: C++ Tricky rules
+title: C++, Some examples of language complexity
 date: 2015-07-16
 categories: [cs_related, cpp]
 ---
@@ -15,7 +15,8 @@ categories: [cs_related, cpp]
 | T&&       | bind directly | FAIL | FAIL | bind directly | bind to conversion(V) |
 
 ## C++ quirks
-Coding in C++ is like being a clown carrying a loaded shotgun, you are just destined to shot yourself in the foot.
+
+Coding in C++ is like being a clown carrying a loaded shotgun, you are just destined to shoot yourself in the foot.
 Hopefully the following diagrams will describe with just enough detail to get 95% of my use cases right :
 
 * Different contexts where type deduction applies and their flavors

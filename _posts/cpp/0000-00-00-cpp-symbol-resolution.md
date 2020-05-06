@@ -1,7 +1,7 @@
 ---
-title: C++ Symbol resolution
+title: C++, Symbol resolution
 date: 2015-07-07
-categories: [cs_related, cpp]
+categories: [cs_related]
 ---
 
 It is quite an involved process to go from a symbol to a piece of executable code. 

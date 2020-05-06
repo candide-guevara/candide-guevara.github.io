@@ -1,7 +1,7 @@
 ---
 title: Joke, The man of coding steel
 date: 2016-05-27
-categories: [misc, joke, office]
+categories: [misc]
 ---
 
 Replace the blurry parts of the story below with the name of your local C++ expert.

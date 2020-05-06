@@ -1,7 +1,7 @@
 ---
 title: Food, wines and spirits to remember
 date: 2015-05-24
-categories: [misc, food]
+categories: [misc]
 ---
 
 This a small selection of the good bottles of any kind of alcohol I have come across. 

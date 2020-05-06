@@ -1,7 +1,7 @@
 ---
-title: Java Jvm Garbage Collection and Class Loading
+title: Java, Jvm Garbage Collection and Class Loading
 date: 2015-05-25
-categories: [cs_related, java]
+categories: [cs_related]
 ---
 
 Two simple diagrams to illustrate :

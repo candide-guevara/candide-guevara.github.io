@@ -1,5 +1,5 @@
 ---
-title: Language design and Cocktail mixing
+title: Language, Analogy between design and Cocktail mixing
 date: 2015-04-15
 categories: [misc, language, joke]
 ---

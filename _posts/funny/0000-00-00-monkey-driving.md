@@ -1,7 +1,7 @@
 ---
 title: Joke, Monkey driving test
 date: 2015-03-18
-categories: [misc, joke, monkey]
+categories: [misc]
 ---
 
 Some years ago I passed the French motorbike license.

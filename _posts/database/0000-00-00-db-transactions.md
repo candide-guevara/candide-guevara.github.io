@@ -1,7 +1,7 @@
 ---
-title: Database transactions isolation levels
+title: Database, Transactions isolation levels
 date: 2015-05-23
-categories: [cs_related, database]
+categories: [cs_related]
 ---
 
 Recap of some of the different consistency guarantees you get on different relational databases.

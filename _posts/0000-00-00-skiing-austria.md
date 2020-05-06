@@ -1,7 +1,7 @@
 ---
 title: Austria, review of ski resorts
 date: 2020-02-08
-categories: [misc, austria]
+categories: [misc]
 ---
 
 I had a nice run this season on Austrian slopes. Now it is the dreaded time of schools holidays, so I guess I will stay home for while.

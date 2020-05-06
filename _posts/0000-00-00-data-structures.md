@@ -1,7 +1,7 @@
 ---
 title: Data structure, some interesting examples
 date: 2015-05-25
-categories: [cs_related, data_structure, algorithm]
+categories: [cs_related]
 ---
 
 ## Red black tree

@@ -1,7 +1,7 @@
 ---
 title: Food, some places to keep in mind
 date: 2015-05-24
-categories: [misc, food]
+categories: [misc]
 ---
 
 This a small selection of the good restaurants or hand made food I have come across.

@@ -1,7 +1,7 @@
 ---
 title: Finance, accounting Vs math
 date: 2016-06-25
-categories: [misc, finance]
+categories: [misc]
 ---
 
 It looks to me like accounting and mathematics have the opposite approach to explain things.

@@ -1,7 +1,7 @@
 ---
-title: Database, nosql implementations
+title: Database, Review of popular nosql DBs
 date: 2015-05-28
-categories: [cs_related, database]
+categories: [cs_related]
 ---
 
 ### CouchDB : Json document oriented NoSQL DB

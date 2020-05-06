@@ -1,7 +1,7 @@
 ---
-title: Finance bonds types and properties
+title: Finance, Bonds types and properties
 date: 2015-09-11
-categories: [quick_notes, finance, fixed_income ]
+categories: [quick_notes]
 ---
 
 ## Context

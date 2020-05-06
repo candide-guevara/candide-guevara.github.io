@@ -1,7 +1,7 @@
 ---
-title: C++ class families topology
+title: C++, Class families topology
 date: 2017-06-02
-categories: [cs_related, cpp]
+categories: [cs_related]
 ---
 
 The better way to describe the definition of different kinds of classes is to draw their subsets on the space of all possible c++ classes.

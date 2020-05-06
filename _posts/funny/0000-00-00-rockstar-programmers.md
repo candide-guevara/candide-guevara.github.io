@@ -1,7 +1,7 @@
 ---
-title: Rockstar Programmers
+title: History, Rockstar Programmers
 date: 2015-05-22
-categories: [misc, history]
+categories: [misc]
 ---
 
 Here in France I have the feeling a lot of people think software engineers are dull and boring.

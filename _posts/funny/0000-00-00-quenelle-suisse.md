@@ -1,7 +1,7 @@
 ---
-title: Switzerland le pays de la quenelle
+title: Switzerland, Le pays de la quenelle
 date: 2016-10-08
-categories: [misc, suisse]
+categories: [misc]
 ---
 
 Est-ce Lyon le pays de la quenelle ? Eh ben non, ici en Suisse on glisse des quenelles à tous les coins de rue.

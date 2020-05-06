@@ -1,7 +1,7 @@
 ---
-title: CPU architecture considerations
+title: CPU, Architecture considerations
 date: 2015-07-06
-categories: [cs_related, cpu]
+categories: [cs_related]
 ---
 
 ## Notions

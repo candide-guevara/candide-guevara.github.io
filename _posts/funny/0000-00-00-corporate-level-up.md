@@ -1,7 +1,7 @@
 ---
-title: Rant, climbing your way up in a big company
+title: Rant, Climbing your way up in a big company
 date: 2015-04-03
-categories: [misc, rant, office]
+categories: [misc]
 ---
 
 Working for a big company has its fair share ludicrousness. Sometimes I really wonder if the

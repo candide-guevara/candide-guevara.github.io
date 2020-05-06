@@ -1,7 +1,7 @@
 ---
-title: Web security cross domain
+title: Web, security cross domain
 date: 2015-06-01
-categories: [cs_related, web]
+categories: [cs_related]
 ---
 
 ### Cross domain calls

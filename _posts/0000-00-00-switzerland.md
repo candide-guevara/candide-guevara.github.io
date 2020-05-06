@@ -1,7 +1,7 @@
 ---
 title: Switzerland, some interesting facts
 date: 2015-07-20
-categories: [misc, switzerland]
+categories: [misc]
 ---
 
 ## History

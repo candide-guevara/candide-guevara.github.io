@@ -1,7 +1,7 @@
 ---
 title: Finance, accounting terms for revenue
 date: 2019-05-05
-categories: [misc, finance]
+categories: [misc]
 ---
 
 I am tired of getting bullied by accounting jargon during earning reviews...

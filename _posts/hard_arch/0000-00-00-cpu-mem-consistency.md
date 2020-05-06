@@ -1,7 +1,7 @@
 ---
 title: CPU, Memory consistency in multicore processors
 date: 2015-07-06
-categories: [cs_related, cpu]
+categories: [cs_related]
 ---
 
 ## Memory barriers

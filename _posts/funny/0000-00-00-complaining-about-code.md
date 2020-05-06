@@ -1,7 +1,7 @@
 ---
-title: Rant, complaining about code
+title: Rant, Complaining about code
 date: 2015-12-03
-categories: [misc, rant, office]
+categories: [misc]
 ---
 
 Everywhere I go people complain. Over and over I hear :

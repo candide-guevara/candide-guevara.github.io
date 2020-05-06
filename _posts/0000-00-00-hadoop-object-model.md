@@ -1,7 +1,7 @@
 ---
 title: Big data, Hadoop Map Reduce classes
 date: 2015-05-23
-categories: [cs_related, hadoop, big_data]
+categories: [cs_related]
 ---
 
 The first diagram shows the classes implementing the Hadoop map reduce pipeline. 

@@ -1055,6 +1055,6 @@ func main() {
 [15]: https://golang.org/doc/code.html
 [16]: https://github.com/golang/go/wiki/CodeReviewComments#indent-error-flow
 [17]: https://dave.cheney.net/2016/06/12/stack-traces-and-the-errors-package
-[18]: {% post_url /language/0000-00-00-c-sharp-adv-async %}/#asynchronous-streams
+[18]: {% post_url lang_programming/0000-00-00-c-sharp-adv-async %}/#asynchronous-streams
 [19]: https://wg21.link/p0709r2
 

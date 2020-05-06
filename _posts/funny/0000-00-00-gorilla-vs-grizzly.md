@@ -1,7 +1,7 @@
 ---
 title: Joke, Can a Gorilla beat a Grizzly ?
 date: 2017-05-17
-categories: [misc, joke]
+categories: [misc]
 ---
 
 Ever since discovering Donkey Kong Country on the SNES, I have been fascinated by primates.

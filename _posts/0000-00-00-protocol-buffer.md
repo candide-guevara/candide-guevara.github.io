@@ -1,7 +1,7 @@
 ---
-title: Protocol Buffer compilation workflow
+title: Tools, Protocol Buffer compilation workflow
 date: 2015-05-25
-categories: [cs_related, library]
+categories: [cs_related]
 ---
 
 A small diagram detailing the different stages involved in getting a binary blob from a

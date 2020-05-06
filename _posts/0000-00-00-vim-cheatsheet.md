@@ -1,7 +1,7 @@
 ---
-title: Vim, features I appreciate
+title: Tools, Vim features I appreciate
 date: 2015-11-29
-categories: [cs_related, vim]
+categories: [cs_related]
 ---
 
 ## Jumping around

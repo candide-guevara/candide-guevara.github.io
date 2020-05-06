@@ -1,7 +1,7 @@
 ---
-title: Database relational schema design
+title: Database, Relational schema design
 date: 2015-05-23
-categories: [cs_related, database]
+categories: [cs_related]
 ---
 
 A few notes about what db normalisation is and why it is important.

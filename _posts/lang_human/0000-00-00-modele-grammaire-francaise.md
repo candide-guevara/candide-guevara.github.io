@@ -173,5 +173,5 @@ La syntaxe est partie de la grammaire qui étudie les relations entre les mots c
 * mode
 * temps
 
-[0]: {% post_url language/0000-00-00-german-grammar-primer %}
+[0]: {% post_url lang_human/0000-00-00-german-grammar-primer %}
 [1]: https://www.cnrtl.fr/definition/discours/1

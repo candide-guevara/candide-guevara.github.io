@@ -1,7 +1,7 @@
 ---
 title: Big data, map reduce, hadoop
 date: 2015-05-25
-categories: [cs_related, hadoop, big_data]
+categories: [cs_related]
 ---
 
 ## Big data notions

@@ -1,7 +1,7 @@
 ---
-title: C++ Virtual tables
+title: C++, Virtual tables
 date: 2015-07-07
-categories: [cs_related, cpp]
+categories: [cs_related]
 ---
 
 Unlike Java in C++ you have to explicitely declare the member functions that will have virtual linkage.

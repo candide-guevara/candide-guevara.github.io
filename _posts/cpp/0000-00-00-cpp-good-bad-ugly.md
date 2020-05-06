@@ -1,8 +1,8 @@
 ---
-title: C++ The Good, The Bad, The Ugly
+title: C++, The Good, The Bad, The Ugly
 date: 2015-09-20
 published: false
-categories: [cs_related, cpp]
+categories: [cs_related]
 ---
 
 Some days you love C++, others you hate it ! Why is so ? I think is because it exposes all of its implementation complexity

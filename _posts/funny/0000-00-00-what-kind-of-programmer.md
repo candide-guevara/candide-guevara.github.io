@@ -1,7 +1,7 @@
 ---
 title: Rant, What kind of programmer are you ?
 date: 2015-03-26
-categories: [misc, rant, office]
+categories: [misc]
 ---
 
 I have worked on several teams and everywhere I go people have radically different programming skills.

@@ -1,8 +1,8 @@
 ---
-title: Concurrency preventing deadlocks
+title: Concurrency, preventing deadlocks
 date: 2015-09-20
 my_extra_options: [ math_notation ]
-categories: [quick_notes, concurrency]
+categories: [quick_notes]
 ---
 
 ### Coffman conditions
