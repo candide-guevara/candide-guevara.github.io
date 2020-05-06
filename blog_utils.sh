@@ -2,14 +2,71 @@
 ## Simple routines used for blog development
 
 CLEANER='svgcleaner'
+CONVERTER='pdf2svg'
+JEKYLL_BIN="$HOME/.gem/ruby/2.7.0/bin/jekyll"
 
 ## *USAGE: blog_serve_localhost
 ## Starts the jekyll server from current dir
 blog_serve_localhost() {
-  jekyll serve --destination /tmp/blog --watch --drafts --unpublished
+  local jekyllcache=".jekyll-cache"
+  if which "$JEKYLL_BIN"; then
+    # --disable-disk-cache to avoid annoying temp files in git repo (starting jekyll 4.1)
+    # cf https://github.com/jekyll/jekyll/pull/7928
+    [[ -d "$jekyllcache" ]] && rm -r "$jekyllcache"
+    "$JEKYLL_BIN" serve \
+      --destination /tmp/blog --future --watch --drafts --unpublished 2>&1 \
+      | grep -v 'warning: Using the last argument as keyword parameters is deprecated'
+    [[ -d "$jekyllcache" ]] && rm -r "$jekyllcache"
+  else
+    echo "[ERROR] ($JEKYLL_BIN) is not installed"
+    gem info jekyll
+  fi
 }
 
+if which "$CONVERTER"; then
+
+## *USAGE: blog_convert_all_from_pdf [BASE_DIR]
+## Converter each page from all pdf files in BASE_DIR into a separate svg.
+blog_convert_all_from_pdf() {
+  local -a pages=( `seq -f "%03.f" 1 1000` )
+  local -a pdf_files=( `find "$1" -iname "*.pdf"` )
+
+  for srcpdf in "${pdf_files[@]}"; do
+    local fullsrcpdf=`readlink -f "$srcpdf"`
+    local prefix=`basename "$fullsrcpdf"`
+    local target_dir=`dirname "$fullsrcpdf"`"/${prefix}_base"
+    echo "converting : $srcpdf"
+
+    [[ -d "$target_dir" ]] || mkdir "$target_dir"
+    pushd "$target_dir"
+    for pageno in "${pages[@]}"; do
+      run_cmd "$CONVERTER" "$fullsrcpdf" "base_${prefix}_${pageno}.svg" "$pageno" \
+        || break
+    done
+    popd
+
+    echo "done, pages : $pageno"
+  done
+}
+
+else
+  echo "[ERROR] ($CONVERTER) is not installed"
+fi
+
+
 if which "$CLEANER"; then
+
+## *USAGE: blog_remove_lines [BASE_DIR]
+## Removes the background grid lines from all svg in BASE_DIR (coming from onenote pdfs).
+blog_remove_lines() {
+  local -a svg_files=( `find "$1" -iname "*.svg"` )
+
+  for srcsvg in "${svg_files[@]}"; do
+    local cleanfile=`dirname "$srcsvg"`/noline_`basename "$srcsvg"`
+    echo sed -r '/^<path.*d="m[- .0-9]+(h|v)[- .0-9]+".*#caebfd.*>$/d' "$svgdoc" "$cleanfile"
+    sed -r '/^<path.*d="m[- .0-9]+(h|v)[- .0-9]+".*#caebfd.*>$/d' "$svgdoc" > "$cleanfile"
+  done
+}
 
 ## *USAGE: blog_clean_svg [SVG_LIST]
 ## Removes bloating in svg created by inkscape
