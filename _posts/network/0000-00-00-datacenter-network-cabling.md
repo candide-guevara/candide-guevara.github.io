@@ -1,7 +1,7 @@
 ---
 date: 2020-04-10
 title: Network, Connecting racks on a datacenter
-categories: [cs_related, network]
+categories: [cs_related ]
 ---
 
 Being a filer admin entails speaking with datacenter engineers. Hopefully this will help with some of the acronynms.

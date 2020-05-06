@@ -1,7 +1,7 @@
 ---
 title: Distributed systems, Microservices architecture lecture
 date: 2017-10-24
-categories: [ cs_related, distributed, architecture ]
+categories: [ cs_related ]
 ---
 
 These are my notes for the 2-day training about microservice architectures given by Sam Newman.

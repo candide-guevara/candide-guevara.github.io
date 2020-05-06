@@ -1,7 +1,7 @@
 ---
-title: Linux, how to trace running processes
+title: Linux, How to trace running processes
 date: 2018-08-01
-categories: [cs_related, linux]
+categories: [cs_related]
 ---
 
 ## Perf

@@ -1,7 +1,7 @@
 ---
 title: Radar, Ideas for future posts
 published: false
-categories: [quick_notes, radar]
+categories: [quick_notes]
 ---
 
 ## Random ideas

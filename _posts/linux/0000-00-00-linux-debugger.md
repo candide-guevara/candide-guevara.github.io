@@ -1,7 +1,7 @@
 ---
-title: Linux training, debugging
+title: Linux training, Debugging
 date: 2015-05-31
-categories: [cs_related, linux, debug]
+categories: [cs_related]
 ---
 
 Small diagram of the main components of GDB and their interaction with Linux and the hardware.

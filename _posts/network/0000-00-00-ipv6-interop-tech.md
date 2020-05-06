@@ -1,7 +1,7 @@
 ---
 date: 2019-05-05
 title: Network, IPv6 interop/transition technologies
-categories: [cs_related, network]
+categories: [cs_related]
 ---
 
 All interoperability techniques are a combination of the following :

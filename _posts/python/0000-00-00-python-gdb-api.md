@@ -1,7 +1,7 @@
 ---
 title: Python, Cartography of Gdb API
 date: 2015-03-22
-categories: [cs_related, debug, python]
+categories: [cs_related]
 ---
 
 Here is a diagram of the main classes on the GDB python API. Since there are quite a few classes it

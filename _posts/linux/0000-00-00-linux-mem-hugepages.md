@@ -1,7 +1,7 @@
 ---
-title: Linux training, huge page subsystem
+title: Linux training, Huge page subsystem
 date: 2015-05-29
-categories: [cs_related, linux]
+categories: [cs_related]
 ---
 
 ![Linux_Huge_Pages.svg]({{ site.images }}/Linux_Huge_Pages.svg){:.my-block-img}

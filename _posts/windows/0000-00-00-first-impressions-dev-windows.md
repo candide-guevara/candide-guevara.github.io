@@ -1,7 +1,7 @@
 ---
-title: Windows development, first impressions
+title: Windows, First impressions on win development
 date: 2016-11-27
-categories: [cs_related, windows]
+categories: [cs_related]
 ---
 
 I have been developing windows small services and wcf servers in C# for a year.

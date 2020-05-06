@@ -1,7 +1,7 @@
 ---
-title: Java features I appreciate
+title: Java, Features I appreciate
 date: 2015-05-25
-categories: [cs_related, java]
+categories: [cs_related]
 ---
 
 ## Some new language features

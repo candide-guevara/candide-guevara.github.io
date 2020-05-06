@@ -1,7 +1,7 @@
 ---
-title: C preprocessor makes you loose your mind
+title: C, Preprocessor makes you loose your mind
 date: 2015-12-08
-categories: [cs_related, c_lang]
+categories: [cs_related]
 ---
 
 ## Useful tips

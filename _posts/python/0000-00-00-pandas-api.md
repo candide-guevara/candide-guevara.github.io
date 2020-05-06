@@ -1,7 +1,7 @@
 ---
-title: Python, CheatSheet for common Pandas operations
+title: Python, Pandas indexing cheatsheet
 date: 2015-05-23
-categories: [cs_related, python]
+categories: [cs_related]
 ---
 
 Although Numpy and Pandas are quite powerful sometimes the API can be a mess.

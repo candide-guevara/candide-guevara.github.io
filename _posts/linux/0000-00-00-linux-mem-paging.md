@@ -1,7 +1,7 @@
 ---
-title: Linux training, virtual memory and paging
+title: Linux training, Virtual memory and paging
 date: 2015-05-29
-categories: [cs_related, linux]
+categories: [cs_related]
 ---
 
 * Flat memory model - hardware memory segments cover the whole address space. Used by Linux to avoid complex handling of segments

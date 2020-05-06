@@ -1,7 +1,7 @@
 ---
 title: Network, Implementing a poor man's IaaS with PXE
 date: 2015-06-02
-categories: [cs_related, architecture]
+categories: [cs_related]
 ---
 
 We use this type of deployment strategy for some test systems. It stroke me as really simple but providing some basic IaaS functionality.

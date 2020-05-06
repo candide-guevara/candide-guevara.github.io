@@ -1,7 +1,7 @@
 ---
 title: Radar, Articles, blogs and conferences I (try to) follow
 date: 2017-01-17
-categories: [misc, radar]
+categories: [misc]
 ---
 
 So much nice stuff out there and just a few years before I kick the bucket !

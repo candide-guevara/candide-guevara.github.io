@@ -1,7 +1,7 @@
 ---
-title: Linux, audio stack overview (WTF !?)
+title: Linux, Audio stack overview (WTF !?)
 date: 2016-12-19
-categories: [ cs_related, audio, linux ]
+categories: [quick_notes]
 ---
 
 Even if the linux audio stack is not as complicated as the graphics stack, I still had a hard time to know how to tweak my config from just reading the official documentation.

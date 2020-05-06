@@ -1,7 +1,7 @@
 ---
 title: Distributed systems, Retargetting adds architecture
 date: 2015-07-07
-categories: [cs_related, distributed, architecture]
+categories: [cs_related]
 ---
 
 ## Glossary

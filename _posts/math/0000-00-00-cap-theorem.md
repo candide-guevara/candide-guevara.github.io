@@ -1,7 +1,7 @@
 ---
 title: Distributed systems, CAP theorem
 date: 2015-05-25
-categories: [cs_related, distributed, math]
+categories: [cs_related]
 ---
 
 ## CAP theorem

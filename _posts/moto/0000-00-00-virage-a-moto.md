@@ -1,7 +1,7 @@
 ---
 title: Moto, Effectuer un virage propre
 date: 2017-05-25
-categories: [ misc, moto ]
+categories: [ misc ]
 ---
 
 ## Les 4 paramètres influant sur le virage : PTAR

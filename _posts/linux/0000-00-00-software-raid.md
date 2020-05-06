@@ -1,7 +1,7 @@
 ---
 title: Linux, Software RAID
 date: 2015-08-29
-categories: [cs_related, linux]
+categories: [cs_related]
 ---
 
 The following diagram details different important aspects of using software RAID. 

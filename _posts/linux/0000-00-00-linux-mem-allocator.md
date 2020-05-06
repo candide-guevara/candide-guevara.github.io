@@ -1,7 +1,7 @@
 ---
-title: Linux training, memory allocators
+title: Linux training, Memory allocators
 date: 2015-05-29
-categories: [cs_related, linux]
+categories: [cs_related]
 ---
 
 ### Slab Memory Allocators

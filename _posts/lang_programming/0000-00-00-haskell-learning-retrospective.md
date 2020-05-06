@@ -1,7 +1,7 @@
 ---
-title: Haskell learning retrospective
+title: Haskell, Learning retrospective
 date: 2019-10-05
-categories: [quick_notes, haskell]
+categories: [quick_notes]
 ---
 
 * case conventions : upper for types, type constructors and value construnctors

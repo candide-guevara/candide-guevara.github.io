@@ -1,7 +1,7 @@
 ---
-title: Linux training, process scheduling
+title: Linux training, Process scheduling
 date: 2015-05-29
-categories: [cs_related, linux]
+categories: [cs_related]
 ---
 
 ### Notions

@@ -1,7 +1,7 @@
 ---
 date: 2019-04-30
-title: Network, sockets API programming
-categories: [cs_related, network]
+title: Network, Sockets API programming
+categories: [cs_related]
 ---
 
 ## [Call sequence][0] for server/client

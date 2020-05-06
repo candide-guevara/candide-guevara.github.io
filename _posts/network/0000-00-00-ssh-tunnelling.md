@@ -1,7 +1,7 @@
 ---
 date: 2020-03-30
-title: Network, tunneling with SSH
-categories: [cs_related, network]
+title: Network, Tunneling with SSH
+categories: [cs_related]
 ---
 
 It all started with an seemingly inocent ssh command : 

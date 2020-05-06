@@ -1,7 +1,7 @@
 ---
 title: Moto, par quoi remplacer la crossrunner ?
 date: 2017-08-25
-categories: [ misc, moto ]
+categories: [ misc ]
 ---
 
 Suite à un gros coup de gueule avec Honda Suisse je dois me séparer de ma Crossrunner.

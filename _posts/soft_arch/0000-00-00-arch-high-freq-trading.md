@@ -1,7 +1,7 @@
 ---
-title: Finance, high frequency trading platform architecture
+title: Finance, High frequency trading platform architecture
 date: 2015-05-31
-categories: [misc, finance, architecture]
+categories: [misc]
 ---
 
 This is a small summary of an interesting [acm article][1]. It represents an oversimplified architecture for a

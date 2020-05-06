@@ -1,7 +1,7 @@
 ---
 title: Network, IP address and VLAN 101
 date: 2019-03-30
-categories: [cs_related, network]
+categories: [cs_related]
 ---
 
 I do not usually deal with VLANs, IPv4/6 ... but when I do, maybe I can remember some of this.

@@ -2,7 +2,7 @@
 title: Math, Algorithm complexity analysis
 date: 2016-06-18
 my_extra_options: [ math_notation ]
-categories: [cs_related, math, complexity, algorithm]
+categories: [cs_related]
 ---
 
 ## Complexity classes

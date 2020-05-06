@@ -1,7 +1,7 @@
 ---
 title: Python, Cython handling chunks of memory
 date: 2018-02-28
-categories: [cs_related, python]
+categories: [cs_related]
 ---
 
 In cython you have many ways of managing a chunk of memory.

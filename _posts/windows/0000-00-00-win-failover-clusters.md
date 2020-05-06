@@ -1,7 +1,7 @@
 ---
-title: Windows Failover cluster architecture
+title: Windows, Failover cluster architecture
 date: 2016-12-15
-categories: [cs_related, architecture, distributed]
+categories: [cs_related]
 ---
 
 [Failover cluster][0] is a windows server mechanism to replicate your components for redundancy/high availability.

@@ -1,9 +1,9 @@
 ---
-title: Language, modèle simplifié de la grammaire française
+title: Language, Modèle simplifié de la grammaire française
 date: 2020-04-20
-categories: [ misc, language, grammar ]
-my_extra_options: [ graphviz ]
 published: false
+my_extra_options: [ graphviz ]
+categories: [ misc ]
 ---
 
 Bien entendu, la classification n'est ni exhaustive ni correcte.
@@ -172,6 +172,16 @@ La syntaxe est partie de la grammaire qui étudie les relations entre les mots c
 
 * mode
 * temps
+
+### Transistive / intransistive / reflexive
+
+* Transitive : the verb acts on something, most common case.
+    * el perro muerde el juguete
+* Intrasitive : the verb does not have an object
+    * el perro regresó a la casa
+* Reflexive : the subject and object are the same
+    * el perro se sienta
+
 
 [0]: {% post_url lang_human/0000-00-00-german-grammar-primer %}
 [1]: https://www.cnrtl.fr/definition/discours/1

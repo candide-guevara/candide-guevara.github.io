@@ -2,7 +2,7 @@
 title: Math, Lambda, notes about type systems
 date: 2016-06-06
 my_extra_options: [ math_notation ]
-categories: [cs_related, math]
+categories: [cs_related]
 ---
 
 ## The set of valid types

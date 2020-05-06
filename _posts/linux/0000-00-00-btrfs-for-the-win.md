@@ -1,7 +1,7 @@
 ---
 title: Linux, Using BTRFS for data resilience
 date: 2015-09-01
-categories: [cs_related, linux]
+categories: [cs_related]
 ---
 
 A few weeks ago while moving my home from France to Switzerland, I realized something.

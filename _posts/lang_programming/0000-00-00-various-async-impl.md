@@ -1,7 +1,7 @@
 ---
 title: C#, python, javascript async implementations
 date: 2017-06-24
-categories: [cs_related, python, csharp]
+categories: [cs_related]
 ---
 
 Short survey on the different ways asynchronous computation is implemented in python, csharp and javascript (before ECMA 8th edition).

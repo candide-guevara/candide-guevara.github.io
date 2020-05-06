@@ -1,7 +1,7 @@
 ---
 title: Linux training, OS high level view
 date: 2015-05-29
-categories: [cs_related, linux]
+categories: [cs_related]
 ---
 
 ### Kernel source tree

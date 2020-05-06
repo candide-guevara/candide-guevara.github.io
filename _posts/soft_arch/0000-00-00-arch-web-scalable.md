@@ -1,7 +1,7 @@
 ---
-title: Web scalable architecture design
+title: Web, Scalable architecture design
 date: 2015-05-23
-categories: [cs_related, web, architecture]
+categories: [cs_related]
 ---
 
 This is an architecture diagram based on the excellent [article][1] by [Kate Matsudaira][2].

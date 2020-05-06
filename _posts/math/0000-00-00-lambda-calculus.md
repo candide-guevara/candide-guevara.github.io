@@ -2,7 +2,7 @@
 title: Math, Lambda, notes about untyped calculus
 date: 2016-06-05
 my_extra_options: [ math_notation ]
-categories: [cs_related, math]
+categories: [cs_related]
 ---
 
 As with other theories we have to define a set terms and the rules used to relate pairs terms between them.

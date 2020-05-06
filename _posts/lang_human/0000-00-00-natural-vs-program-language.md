@@ -1,7 +1,7 @@
 ---
 title: Language, Natural Vs Programming
 date: 2016-08-14
-categories: [ misc, language ]
+categories: [ misc ]
 ---
 
 Learning natural languages versus mathematics or programming really stresses different parts of my brain.

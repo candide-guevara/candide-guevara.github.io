@@ -2,7 +2,7 @@
 published: false
 title: Radar, Big impossible todo list
 date: 2015-04-20
-categories: [misc, radar]
+categories: [misc]
 ---
 
 This is a big todo list with all the cool stuff I want to learn. This is a separate file from

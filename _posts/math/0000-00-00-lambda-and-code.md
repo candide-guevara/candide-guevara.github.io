@@ -2,7 +2,7 @@
 title: Math, Lambda theory vs programming
 date: 2016-06-07
 my_extra_options: [ math_notation ]
-categories: [cs_related, math]
+categories: [cs_related]
 ---
 
 Some simple examples of how you can relate the results of lambda calculus to some actual code.

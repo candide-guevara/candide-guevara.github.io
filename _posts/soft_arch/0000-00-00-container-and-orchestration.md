@@ -1,7 +1,7 @@
 ---
 title: Distributed systems, Containers and orchestration jungle
 date: 2015-09-20
-categories: [quick_notes, distributed, container]
+categories: [quick_notes]
 ---
 
 Different container technologies and orchestration solutions for container deployment are announced every day.

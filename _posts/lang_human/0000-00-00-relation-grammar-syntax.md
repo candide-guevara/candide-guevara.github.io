@@ -1,8 +1,8 @@
 ---
-title: Language definitions for grammar and syntax
+title: Language, What is meant by 'syntax' and 'grammar' ?
 date: 2016-06-15
 published: false
-categories: [misc, language, math]
+categories: [misc]
 ---
 
 When I was a kid I did not understand what grown-ups meant by "grammar".

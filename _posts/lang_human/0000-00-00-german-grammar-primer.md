@@ -1,8 +1,8 @@
 ---
 title: Language, Je hais l'allemand
 date: 2020-03-22
-categories: [ misc, language, grammar ]
 published: false
+categories: [ misc ]
 ---
 
 > If it was necessary [...] to threaten someone or to speak harshly to them, in German, for their entire language is threatening, rough and vehement.

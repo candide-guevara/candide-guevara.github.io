@@ -1,7 +1,7 @@
 ---
 date: 2019-04-17
 title: Network, Routing packets through the internet
-categories: [cs_related, network]
+categories: [cs_related]
 ---
 
 ### Autonomous systems (AS) are the unit of routing for BGP

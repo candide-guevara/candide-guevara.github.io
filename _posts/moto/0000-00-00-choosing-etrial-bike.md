@@ -1,7 +1,7 @@
 ---
 title: Moto, which bike for starting with trials ?
 date: 2020-03-29
-categories: [ misc, moto ]
+categories: [ misc ]
 ---
 
 ## Comparison

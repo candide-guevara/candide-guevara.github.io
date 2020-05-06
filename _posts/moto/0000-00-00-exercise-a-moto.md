@@ -1,7 +1,7 @@
 ---
 title: Moto, Exercises pour améliorer sa maîtrise
 date: 2017-05-25
-categories: [ misc, moto ]
+categories: [ misc ]
 ---
 
 ## Virages à allure lente

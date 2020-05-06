@@ -1,8 +1,8 @@
 ---
-title: Security and cryptography 101
+title: Security, Cryptography 101
 date: 2015-05-25
 my_extra_options: [ math_notation ]
-categories: [cs_related, cryptography, math]
+categories: [cs_related]
 ---
 
 ## Cryptography

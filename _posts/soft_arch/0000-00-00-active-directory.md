@@ -1,7 +1,7 @@
 ---
 title: Windows, Active directory brain dump
 date: 2019-03-24
-categories: [cs_related, windows, architecture]
+categories: [cs_related]
 ---
 
 On each new place I work there has to be an active directory.

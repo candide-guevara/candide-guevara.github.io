@@ -1,7 +1,7 @@
 ---
-title: Language, subtle differences between latin cousins
+title: Language, Subtle differences between latin cousins
 date: 2016-08-05
-categories: [ misc, language ]
+categories: [ misc ]
 ---
 
 Spanish is my mother tongue, but after living many years in France I am more proficient in French.

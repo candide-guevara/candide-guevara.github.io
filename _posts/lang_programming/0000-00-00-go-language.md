@@ -1,8 +1,8 @@
 ---
-title: Golang or "The Emperor's New Clothes"
+title: Golang, Or "The Emperor's New Clothes"
 date: 2019-08-25
 my_extra_options: [ graphviz ]
-categories: [cs_related, golang]
+categories: [cs_related]
 ---
 
 I was coming with high hopes to the go language. It is not a bad language, but for application development there are far better options.

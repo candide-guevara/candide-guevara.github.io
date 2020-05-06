@@ -1,7 +1,7 @@
 ---
 date: 2019-05-02
 title: Network, IPv6 auto configuration
-categories: [cs_related, network]
+categories: [cs_related]
 ---
 
 ## Stateless auto configuration (SLAAC)

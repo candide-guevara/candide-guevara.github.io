@@ -1,7 +1,7 @@
 ---
-title: Python, object model for matplotlib
+title: Python, Object model for matplotlib
 date: 2015-05-23
-categories: [cs_related, python]
+categories: [cs_related]
 ---
 
 I do not know why but I always have a hard time remembering the right commands to draw curves. 

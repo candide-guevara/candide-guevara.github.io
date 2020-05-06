@@ -1,7 +1,7 @@
 ---
-title: C# learning the language
+title: C#, learning the language
 date: 2015-11-21
-categories: [cs_related, csharp]
+categories: [cs_related]
 ---
 
 Coming from an Unix background I was reluctant to learn C#. I was forced into it by a work assignement.

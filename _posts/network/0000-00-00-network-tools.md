@@ -1,7 +1,7 @@
 ---
 date: 2019-05-24
-title: Network, basic tooling examples
-categories: [cs_related, network]
+title: Network, Basic tooling examples
+categories: [cs_related]
 ---
 
 Some dummy examples of how to use common tools like `tcpdump`, `ip rule|route`, `iptables`, `netcat`....

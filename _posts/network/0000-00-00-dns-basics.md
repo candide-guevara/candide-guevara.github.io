@@ -1,7 +1,7 @@
 ---
 date: 2019-04-02
 title: Network, DNS overview 101
-categories: [cs_related, network]
+categories: [cs_related]
 ---
 
 ## Common resources records (aka RR)

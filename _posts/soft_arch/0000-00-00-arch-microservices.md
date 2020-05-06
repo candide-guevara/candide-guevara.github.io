@@ -1,7 +1,7 @@
 ---
 title: Distributed systems, Microservice architecture
 date: 2015-07-11
-categories: [cs_related, distributed, architecture]
+categories: [cs_related]
 ---
 
 This is a mix of [Lewis and Fowler article][1] and my own experience on microservices.

@@ -1,7 +1,7 @@
 ---
 title: Linux, Xorg server and desktop session configuration
 date: 2016-05-01
-categories: [cs_related, linux]
+categories: [cs_related]
 ---
 
 Just as involved as the kernel boot process, there are many stages and files involved in setting up the graphical desktop session.

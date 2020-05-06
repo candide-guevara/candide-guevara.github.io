@@ -1,7 +1,7 @@
 ---
-title: C# API for writing services (aka daemons)
+title: C#, API for writing services (aka daemons)
 date: 2016-11-27
-categories: [cs_related, csharp, windows]
+categories: [cs_related]
 ---
 
 Boiler plate code for windows services is certainly not difficult. 

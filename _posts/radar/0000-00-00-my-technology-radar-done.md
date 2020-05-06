@@ -1,7 +1,7 @@
 ---
-title: Radar tech, stuff I have tried
+title: Radar, Stuff I have tried
 date: 2015-04-28
-categories: [misc, radar]
+categories: [quick_notes]
 ---
 
 This is a list of items that were previously on my todo list.

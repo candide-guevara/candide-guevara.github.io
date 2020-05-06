@@ -1,7 +1,7 @@
 ---
-title: C# advanced aync features
+title: C#, Advanced aync features
 date: 2017-06-10
-categories: [cs_related, csharp]
+categories: [cs_related]
 ---
 
 Jon Skeet [describes][0] the transformations made by the compiler to split `async` methods in continuations.

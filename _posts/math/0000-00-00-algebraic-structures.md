@@ -2,7 +2,7 @@
 title: Math, Algebraic structures
 date: 2019-09-10
 my_extra_options: [ math_notation, graphviz ]
-categories: [cs_related, math]
+categories: [cs_related]
 ---
 
 ## A taxonomy of algebraic structures

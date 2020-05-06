@@ -1,7 +1,7 @@
 ---
-title: Linux TTY, sessions and process groups
+title: Linux, TTY, sessions and process groups
 date: 2016-04-24
-categories: [cs_related, linux]
+categories: [cs_related]
 ---
 
 What is the relation between TTY, sessions, [process groups][1] and child processes ?

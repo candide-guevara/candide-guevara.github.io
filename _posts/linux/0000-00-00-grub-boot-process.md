@@ -1,7 +1,7 @@
 ---
-title: Linux, booting with Grub in BIOS and UEFI
+title: Linux, Booting with Grub in BIOS and UEFI
 date: 2015-08-29
-categories: [cs_related, linux]
+categories: [cs_related]
 ---
 
 The following diagrams details the main step of the boot process:
