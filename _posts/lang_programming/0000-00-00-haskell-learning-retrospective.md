@@ -28,14 +28,15 @@ categories: [quick_notes]
   * Be careful it is a trap ! `do n <- [1,2]; ch <- ['a','b']; return (n,ch)`
 * Topology of functor, applicative, monad, monoid monad (with constraints and unenforced properties)
 * Mind blow : monad foldM to return all possible sums of array members
+* Mind blow : implementing confluent data structures using zippers (example in python ?)
 
 ## Rant
 
-* State monad just reintroduces the hated side effects ?
 * `do` blocks semantics vary depending on the type (syntax depends on context ?)
+* Printf debugging impractical when using `let` blocks (example of using trace)
+* Appending to a list the [wrong way][0] is quadratic
 * Error message inconsistencies
-
-```
+```hs
 data A = A deriving Show
 data B = B deriving Show
 data C = C deriving Show
@@ -66,17 +67,26 @@ f b = Right C
 
 ## WTF
 
-* wtf cannot declare signatures in ghci ?
-* declare type function with type parameter belonging to a typeclass
+* block declarationin ghci is cumbersome (you need to use `:{` `:}`)
+* declare type of a function whose parameter belongs to a typeclass
 
 * How does haskell distinguish between substitution and pattern matching ? (both use `=`)
+```hs
+Just a = Just 1
+a = f x
+```
+
 * Lazy execution model, how can I be sure recursive functions are lazily evaluated (ressembles the `yield` model in python)
 * Partial functions not defined on a certain constructor are not catched at compile time
 
 ## Exercise
 
-* sort : bubble (how to transform to recursion a fundamentally imperative algo) vs quick
-* function composition with the caesar encryption
 * week days + time of day as data type to show the way we derive behaviours like Ord, Eq ...
 * composition of monads : Maybe + Writer
 
+```hs
+chain_composition :: Traversable m, Traversable n => (a -> m (n b)) -> m (n a) -> m (n b)
+chain_composition f x = x >>= (\x' -> sequence $ x' >>= (sequence . f))
+```
+
+[0]:http://learnyouahaskell.com/for-a-few-monads-more
