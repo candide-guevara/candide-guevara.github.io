@@ -84,6 +84,7 @@ h3 {
 }
 
 h4 {
+    color: orange;
     @include my_media_maxw($my-laptop-width) {
         font-size: 100%;
     }
