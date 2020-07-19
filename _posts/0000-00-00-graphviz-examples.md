@@ -125,7 +125,31 @@ digraph {
 }
 ```
 
-Attributes `overlap`, `sep`, `len` only work for neato engine.
+
+{:.my-split-h}
+```dot
+# A couple of option to expand/compress differently on x and y dimensions.
+digraph {
+  nodesep=0.6 # distance between nodes along x axis
+  ranksep=0.3 # distance between nodes along y axis
+
+  a -> {b c d}
+  b -> {e f g}
+}
+```
+
+{:.my-split-h}
+```myviz
+digraph {
+  nodesep=0.6
+  ranksep=0.3
+  a -> {b c d}
+  b -> {e f g}
+}
+```
+
+* Attributes `overlap`, `sep`, `len` only work for neato engine.
+* Attributes `nodesep` and `ranksep` used in the standard layout engine.
 
 ### Playing with rank
 
