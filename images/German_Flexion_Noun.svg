@@ -1,132 +1,181 @@
-<svg height="200" viewBox="0 0 339.12 130.76" width="600" xmlns="http://www.w3.org/2000/svg">
-<path d="m184.02 97.37h97.25v25.41h-97.25z" style="fill:#729fcf"/>
-<path d="m183.41 72.44h97.25v25.41h-97.25z" style="fill:#94ff48"/>
-<path d="m281.27 20.62h46.18v102.16h-46.18z" style="fill:#6ec814"/>
-<path d="m183.41 20.61h97.25v51.83h-97.25z" style="fill:#f2aa37"/>
-<path d="m38.23 97.68h97.25v25.41h-97.25z" style="fill:#81537e"/>
-<path d="m38.23 72.27h97.25v25.41h-97.25z" style="fill:#ff5b5b"/>
-<path d="m135.88 71.93h47.02v50.82h-47.01z" style="fill:#babdb6"/>
-<path d="m38.23 20.44h144.25v51.83h-144.25z" style="fill:#babdb6"/>
-<path d="m38.23 20.44h289.37v102.35h-289.37z" style="fill:none;stroke:#000;stroke-width:1.77"/>
-<text style="stroke-width:.94" x="391.57" y="-83.73">
-<tspan style="stroke-width:.94" x="391.57" y="-74.87"/>
+<svg height="350" viewBox="0 0 451.63 249.24" width="700" xmlns="http://www.w3.org/2000/svg">
+
+<path d="m364.04 192.72h86.74v51.37h-86.74z" style="fill:#3465a4"/>
+<path d="m364.04 88.53h86.74v104.2h-86.74z" style="fill:#94ff48"/>
+<path d="m364.04 36.59h86.68v51.93h-86.68z" style="fill:#babdb6"/>
+<path d="m273.79 140.47h85.87v52.26h-85.87z" style="fill:#94ff48"/>
+<g style="fill:#babdb6">
+<path d="m193.7 192.94h165.96v51.31h-165.96z"/>
+<path d="m33.53 140.69h240.26v52.04h-240.26z"/>
+<path d="m33.53 36.37h326.13v104.1h-326.13z"/>
+</g>
+<path d="m33.53 192.72h160.17v51.51h-160.17z" style="fill:#81537e"/>
+<g style="stroke-width:.94">
+<text x="382.84" y="-75.45">
+<tspan style="stroke-width:.94" x="382.84" y="-66.59"/>
 </text>
-<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="9.84" y="38.68">
-<tspan style="font-weight:bold" x="9.84" y="38.68">Nom</tspan>
+<g style="font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<g style="font-size:10">
+<text x="-.36" y="62.63">
+<tspan style="font-weight:bold" x="-.36" y="62.63">Nom</tspan>
 </text>
-<path d="m38.1 46.27h289.48" style="fill:none;stroke:#000;stroke-width:1.77"/>
+<text x="1.53" y="117.1">
+<tspan style="font-weight:bold" x="1.53" y="117.1">Akk</tspan>
+</text>
+<text x=".91" y="168.3">
+<tspan style="font-weight:bold" x=".91" y="168.3">Dat</tspan>
+</text>
+<text x="57.02" y="26.86">
+<tspan style="font-weight:bold" x="57.02" y="26.86">Masc</tspan>
+</text>
+</g>
+<text style="font-size:12.5" x="209.27" y="68.01">
+<tspan x="209.27" y="68.01">die Kraft</tspan>
+</text>
+</g>
+</g>
+<path d="m33.53 36.37h80.09v52.16h-80.09z" style="fill:none;stroke:#000;stroke-width:1.77"/>
 <g style="stroke-width:.94;font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
-<text x="10.75" y="62.75">
-<tspan style="font-weight:bold" x="10.75" y="62.75">Akk</tspan>
+<text x=".41" y="217.96">
+<tspan style="font-weight:bold;stroke-width:.94" x=".41" y="217.96">Gen</tspan>
 </text>
-<text x="9.8" y="88.44">
-<tspan style="font-weight:bold" x="9.8" y="88.44">Dat</tspan>
+<text x="218.26" y="26.43">
+<tspan style="font-weight:bold;stroke-width:.94" x="218.26" y="26.43">Femn</tspan>
 </text>
-<text x="10.05" y="113.59">
-<tspan style="font-weight:bold" x="10.05" y="113.59">Gen</tspan>
+<text x="140.69" y="26.7">
+<tspan style="font-weight:bold;stroke-width:.94" x="140.69" y="26.7">Neut</tspan>
 </text>
-<text x="47.92" y="15.24">
-<tspan style="font-weight:bold" x="47.92" y="15.24">Masc</tspan>
+<text x="302.52" y="27.08">
+<tspan style="font-weight:bold;stroke-width:.94" x="302.52" y="27.08">Plur</tspan>
 </text>
-<text x="147.15" y="14.47">
-<tspan style="font-weight:bold" x="147.15" y="14.47">Femn</tspan>
+<text x="179.47" y="11.51">
+<tspan style="font-weight:bold;fill:#c00;stroke-width:.94" x="179.47" y="11.51">Forte</tspan>
 </text>
-<text x="98.89" y="14.73">
-<tspan style="font-weight:bold" x="98.89" y="14.73">Neut</tspan>
-</text>
-<text x="195.21" y="14.47">
-<tspan style="font-weight:bold" x="195.21" y="14.47">Masc_P</tspan>
-</text>
-<text x="286.91" y="14.22">
-<tspan style="font-weight:bold" x="286.91" y="14.22">Femn_P</tspan>
-</text>
-<text x="239.93" y="14.47">
-<tspan style="font-weight:bold" x="239.93" y="14.47">Neut_P</tspan>
+<text x="369.74" y="11.71">
+<tspan style="font-weight:bold;fill:#c00;stroke-width:.94" x="369.74" y="11.71">Faible/N-flexion</tspan>
 </text>
 </g>
-<g style="fill:none;stroke:#000">
-<path d="m183.2 20.52.03 102.2" style="stroke-width:3.54"/>
-<g style="stroke-width:1.77">
-<path d="m135.65 20.32.03 102.71"/>
-<path d="m86.36 20.32.03 102.46"/>
-<path d="m234.75 20.07.03 102.97"/>
-<path d="m281.24 20.07.03 102.71"/>
-<path d="m38.19 72.44h289.48"/>
-<path d="m38.19 97.85h289.48"/>
+<path d="m41.54 17.37h310.82v12.57h-310.82z" style="fill:none;stroke:#f00;stroke-width:1.13;stroke-dasharray:3.38 1.13"/>
+<g style="stroke-width:.94;font-size:12.5;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="128.55" y="68">
+<tspan style="stroke-width:.94" x="128.55" y="68">das Kind</tspan>
+</text>
+<text x="379.04" y="67.7">
+<tspan style="stroke-width:.94" x="379.04" y="67.7">der Name</tspan>
+</text>
+<text x="44.12" y="68.04">
+<tspan style="stroke-width:.94" x="44.12" y="68.04">der Baum</tspan>
+</text>
+<text x="285.36" y="66.59">
+<tspan style="stroke-width:.94" x="285.36" y="66.59">die Kinder</tspan>
+</text>
 </g>
+<g style="fill:none;stroke:#000;stroke-width:1.77">
+<path d="m113.62 36.37h80.09v52.15h-80.09z"/>
+<path d="m193.7 36.37h80.09v52.16h-80.09z"/>
+<path d="m273.79 36.37h85.87v52.15h-85.87z"/>
+<path d="m33.53 88.53h80.09v51.94h-80.09z"/>
+<path d="m113.62 88.53h80.09v51.94h-80.09z"/>
+<path d="m193.7 88.53h80.09v51.94h-80.09z"/>
+<path d="m273.79 88.53h85.87v51.94h-85.87z"/>
+<path d="m33.53 140.47h80.09v52.26h-80.09z"/>
+<path d="m113.62 140.47h80.09v52.26h-80.09z"/>
+<path d="m193.7 140.47h80.09v52.26h-80.09z"/>
+<path d="m273.79 140.47h85.87v52.26h-85.87z"/>
+<path d="m33.53 192.72h80.09v51.52h-80.09z"/>
+<path d="m113.62 192.72h80.09v51.51h-80.09z"/>
+<path d="m193.7 192.72h80.09v51.53h-80.09z"/>
+<path d="m273.79 192.72h85.87v51.53h-85.87z"/>
 </g>
-<g style="stroke-width:.94;font-family:Droid Sans;letter-spacing:0;word-spacing:0;font-size:12.5">
-<text x="56.48" y="38.34">
-<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="56.48" y="38.34">Ø</tspan>
+<g style="stroke-width:.94;font-size:12.5;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="43.02" y="119.98">
+<tspan style="stroke-width:.94" x="43.02" y="119.98">den Baum</tspan>
 </text>
-<text x="56.34" y="63.93">
-<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="56.34" y="63.93">Ø</tspan>
+<text x="42.75" y="172.23">
+<tspan style="stroke-width:.94" x="42.75" y="172.23">dem Baum</tspan>
 </text>
-<text x="105.37" y="38.01">
-<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="105.37" y="38.01">Ø</tspan>
+<text x="39.02" y="220.62">
+<tspan style="stroke-width:.94" x="39.02" y="220.62">des Baum<tspan style="font-weight:bold">es</tspan>
+</tspan>
 </text>
-<text x="105.12" y="63.93">
-<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="105.12" y="63.93">Ø</tspan>
+<text x="280.94" y="51.01">
+<tspan style="stroke-width:.94" x="280.94" y="51.01">die Baeume</tspan>
 </text>
-<text x="154.67" y="38.01">
-<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="154.67" y="38.01">Ø</tspan>
+<text x="127.75" y="120.01">
+<tspan style="stroke-width:.94" x="127.75" y="120.01">das Kind</tspan>
 </text>
-<text x="154.16" y="63.67">
-<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="154.16" y="63.67">Ø</tspan>
+<text x="125.65" y="172.27">
+<tspan style="stroke-width:.94" x="125.65" y="172.27">dem Kind</tspan>
 </text>
-<text x="154.41" y="89.59">
-<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="154.41" y="89.59">Ø</tspan>
+<text x="123.07" y="220.35">
+<tspan style="stroke-width:.94" x="123.07" y="220.35">des Kind<tspan style="font-weight:bold">es</tspan>
+</tspan>
 </text>
-<text x="154.16" y="115.76">
-<tspan style="font-size:12.5;font-family:Droid Sans;stroke-width:.94" x="154.16" y="115.76">Ø</tspan>
+<text x="279.43" y="103.19">
+<tspan style="stroke-width:.94" x="279.43" y="103.19">die Baeume</tspan>
 </text>
-<text x="55.92" y="114.36">
-<tspan style="stroke-width:.94" x="55.92" y="114.36">-s</tspan>
+<text x="277.27" y="154.54">
+<tspan style="stroke-width:.94" x="277.27" y="154.54">den Baeume<tspan style="font-weight:bold">n</tspan>
+</tspan>
 </text>
-<text x="103.8" y="89.32">
-<tspan style="stroke-width:.94" x="103.8" y="89.32">-e</tspan>
+<text x="280.84" y="205.48">
+<tspan style="stroke-width:.94" x="280.84" y="205.48">der Baeume</tspan>
 </text>
-<text x="54.15" y="89">
-<tspan style="stroke-width:.94" x="54.15" y="89">-e</tspan>
+<text x="285.8" y="118.85">
+<tspan style="stroke-width:.94" x="285.8" y="118.85">die Kinder</tspan>
 </text>
-<text x="104.19" y="113.9">
-<tspan style="stroke-width:.94" x="104.19" y="113.9">-s</tspan>
+<text x="281.03" y="171.06">
+<tspan style="stroke-width:.94" x="281.03" y="171.06">den Kinder<tspan style="font-weight:bold">n</tspan>
+</tspan>
 </text>
-<text x="200.25" y="37.17">
-<tspan style="stroke-width:.94" x="200.25" y="37.17">-er</tspan>
+<text x="285.87" y="222">
+<tspan style="stroke-width:.94" x="285.87" y="222">der Kinder</tspan>
 </text>
-<text x="248.64" y="37.17">
-<tspan style="stroke-width:.94" x="248.64" y="37.17">-er</tspan>
+<text x="209.71" y="120.02">
+<tspan style="stroke-width:.94" x="209.71" y="120.02">die Kraft</tspan>
 </text>
-<text x="295.9" y="37.17">
-<tspan style="stroke-width:.94" x="295.9" y="37.17">-en</tspan>
+<text x="209.04" y="171.64">
+<tspan style="stroke-width:.94" x="209.04" y="171.64">der Kraft</tspan>
 </text>
-<text x="200.05" y="62.58">
-<tspan style="stroke-width:.94" x="200.05" y="62.58">-er</tspan>
+<text x="208.86" y="219.82">
+<tspan style="stroke-width:.94" x="208.86" y="219.82">der Kraft</tspan>
 </text>
-<text x="248.44" y="62.58">
-<tspan style="stroke-width:.94" x="248.44" y="62.58">-er</tspan>
+<text x="283.66" y="82.38">
+<tspan style="stroke-width:.94" x="283.66" y="82.38">die Kraefte</tspan>
 </text>
-<text x="295.7" y="62.58">
-<tspan style="stroke-width:.94" x="295.7" y="62.58">-en</tspan>
+<text x="283.53" y="134.2">
+<tspan style="stroke-width:.94" x="283.53" y="134.2">die Kraefte</tspan>
 </text>
-<text x="195.99" y="88.75">
-<tspan style="stroke-width:.94" x="195.99" y="88.75">-ern</tspan>
+<text x="283.35" y="186.98">
+<tspan style="stroke-width:.94" x="283.35" y="186.98">den Kraefte</tspan>
 </text>
-<text x="244.88" y="88.5">
-<tspan style="stroke-width:.94" x="244.88" y="88.5">-ern</tspan>
+<text x="282.34" y="239">
+<tspan style="stroke-width:.94" x="282.34" y="239">der Kraefte</tspan>
 </text>
-<text x="295.7" y="88.75">
-<tspan style="stroke-width:.94" x="295.7" y="88.75">-en</tspan>
+</g>
+<g style="fill:none;stroke:#000;stroke-width:1.77">
+<path d="m364.04 36.37h86.68v52.15h-86.68z"/>
+<path d="m364.04 88.53h86.68v51.94h-86.68z"/>
+<path d="m364.04 140.47h86.74v52.26h-86.74z"/>
+<path d="m364 193.21h86.74v51.08h-86.74z"/>
+</g>
+<g style="stroke-width:.94;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<g style="font-size:12.5">
+<text x="374.1" y="120.58">
+<tspan style="stroke-width:.94" x="374.1" y="120.58">den Name<tspan style="font-weight:bold">n</tspan>
+</tspan>
 </text>
-<text x="245.08" y="113.4">
-<tspan style="stroke-width:.94" x="245.08" y="113.4">-ers</tspan>
+<text x="371.86" y="172.13">
+<tspan style="stroke-width:.94" x="371.86" y="172.13">dem Name<tspan style="font-weight:bold">n</tspan>
+</tspan>
 </text>
-<text x="294.88" y="113.9">
-<tspan style="stroke-width:.94" x="294.88" y="113.9">-en</tspan>
+<text x="372.59" y="221.4">
+<tspan style="stroke-width:.94" x="372.59" y="221.4">des Name<tspan style="font-weight:bold">ns</tspan>
+</tspan>
 </text>
-<text x="197.19" y="113.65">
-<tspan style="stroke-width:.94" x="197.19" y="113.65">-ers</tspan>
+</g>
+<text style="font-size:10" x="392.58" y="26.79">
+<tspan style="font-weight:bold;stroke-width:.94" x="392.58" y="26.79">Masc</tspan>
 </text>
 </g>
 </svg>
