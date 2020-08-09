@@ -19,11 +19,22 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 $code-background:  ghostwhite;
 
+/* chromebook thinks it is bigger than what it actually is ...
+(function() {
+    let style = `<style>
+@media screen and (max-width: 280mm) {
+  body { display:none; }
+}
+</style>`;
+
+document.head.insertAdjacentHTML("beforeend", style);
+})();
+*/
 $main-col-width:      70%;
-$laptop-col-width:    85%;
-$phone-col-width:     96%;
+$laptop-col-width:    90%;
+$phone-col-width:     98%;
 $my-phone-width:      120mm;
-$my-laptop-width:     280mm;
+$my-laptop-width:     290mm;
 
 
 @mixin my_media_maxw($device) {

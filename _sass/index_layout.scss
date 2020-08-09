@@ -7,11 +7,11 @@
 .article-col {
   vertical-align: top;
   width: 49%;
-
   display: inline-block;
+
   @include my_media_maxw($my-laptop-width) {
-      display: block;
       width: 100%;
+      display: block;
   }
 }
 
