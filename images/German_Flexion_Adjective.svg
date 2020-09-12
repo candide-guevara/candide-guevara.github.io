@@ -1,4 +1,7 @@
 <svg height="360" viewBox="0 0 762.95 247.15" width="1300" xmlns="http://www.w3.org/2000/svg">
+<path d="m541.3 109.8h284.67v18.11h-284.67z" style="fill:#f2aa37"/>
+<path d="m541.3 52.29h284.67v18.11h-284.67z" style="fill:#f2aa37"/>
+<path d="m541.3 73.59h284.67v36.21h-284.67z" style="fill:#94ff48"/>
 <g style="fill:#f2aa37">
 <path d="m187.18 73.59h171.94v18.11h-171.94z"/>
 <path d="m187.23 16.07h171.89v18.11h-171.89z"/>
@@ -6,9 +9,9 @@
 </g>
 <path d="m.56 167.39h358.56v21.24h-358.56z" style="fill:#ff5b5b"/>
 <g style="fill:#94ff48">
-<path d="m541.3 16.07h284.67v54.32h-284.67z"/>
+<path d="m541.3 16.08h284.67v36.21h-284.67z"/>
 <path d="m359.12 131.18h182.19v36.21h-182.19z"/>
-<path d="m541.3 73.59h284.67v151.25h-284.67z"/>
+<path d="m541.3 131.18h284.67v93.66h-284.67z"/>
 <path d="m359.12 188.63h182.19v36.21h-182.19z"/>
 <path d="m.56 185.5h358.56v57.45h-358.56z"/>
 <path d="m187.18 131.18h171.94v36.21h-171.94z"/>
@@ -21,66 +24,66 @@
 <path d="m.56 73.59h186.62v93.8h-186.62z" style="fill:#94ff48"/>
 <path d="m359.12 16.07h182.18v111.84h-182.18z" style="fill:#f2aa37"/>
 <path d="m.56 16.07h186.62v18.11h-186.62z" style="fill:none;stroke:#000;stroke-width:1.77"/>
-<g style="stroke-width:.94" transform="translate(32.28 -.7)">
-<text x="532.62" y="-337">
-<tspan style="stroke-width:.94" x="532.62" y="-328.14"/>
+<g style="stroke-width:.94">
+<text x="564.9" y="-337.7">
+<tspan style="stroke-width:.94" x="564.9" y="-328.84"/>
 </text>
 <g style="font-family:Droid Sans;letter-spacing:0;word-spacing:0">
 <g style="font-size:10">
-<text x="-91.12" y="28.87">
-<tspan style="font-weight:bold" x="-91.12" y="28.87">Nom_weak</tspan>
+<text x="-58.84" y="28.17">
+<tspan style="font-weight:bold" x="-58.84" y="28.17">Nom_weak</tspan>
 </text>
-<text x="45.96" y="11.15">
-<tspan style="font-weight:bold" x="45.96" y="11.15">Masc</tspan>
+<text x="78.24" y="10.45">
+<tspan style="font-weight:bold" x="78.24" y="10.45">Masc</tspan>
 </text>
-<text x="227.51" y="12.3">
-<tspan style="font-weight:bold;stroke-width:.94" x="227.51" y="12.3">Neut</tspan>
+<text x="259.79" y="11.6">
+<tspan style="font-weight:bold;stroke-width:.94" x="259.79" y="11.6">Neut</tspan>
 </text>
-<text x="403.97" y="11.57">
-<tspan style="font-weight:bold;stroke-width:.94" x="403.97" y="11.57">Femn</tspan>
+<text x="436.25" y="10.87">
+<tspan style="font-weight:bold;stroke-width:.94" x="436.25" y="10.87">Femn</tspan>
 </text>
-<text x="650.59" y="12.88">
-<tspan style="font-weight:bold;stroke-width:.94" x="650.59" y="12.88">Plur</tspan>
+<text x="682.87" y="12.18">
+<tspan style="font-weight:bold;stroke-width:.94" x="682.87" y="12.18">Plur</tspan>
 </text>
 </g>
 <g style="font-size:12.5">
-<text x="-9.01" y="47.85">
-<tspan x="-9.01" y="47.85">(k)ein/mein dunkl<tspan style="font-weight:bold">er</tspan> Wald</tspan>
+<text x="23.27" y="47.15">
+<tspan x="23.27" y="47.15">(k)ein/mein dunkl<tspan style="font-weight:bold">er</tspan> Wald</tspan>
 </text>
-<text x="177.93" y="47.45">
-<tspan x="177.93" y="47.45">
-<tspan style="stroke-width:.94" x="177.93" y="47.45">(k)ein/mein lang<tspan style="font-weight:bold">es</tspan> Tal</tspan>
+<text x="210.21" y="46.75">
+<tspan x="210.21" y="46.75">
+<tspan style="stroke-width:.94" x="210.21" y="46.75">(k)ein/mein lang<tspan style="font-weight:bold">es</tspan> Tal</tspan>
 </tspan>
 </text>
-<text x="358.7" y="29.38">
-<tspan style="stroke-width:.94" x="358.7" y="29.38">die/jede ruhig<tspan style="font-weight:bold">e</tspan> Weise</tspan>
+<text x="390.98" y="28.68">
+<tspan style="stroke-width:.94" x="390.98" y="28.68">die/jede ruhig<tspan style="font-weight:bold">e</tspan> Weise</tspan>
 </text>
-<text x="-.1" y="29.57">
-<tspan style="stroke-width:.94" x="-.1" y="29.57">der/jeder dunkl<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Wald</tspan>
+<text x="32.18" y="28.87">
+<tspan style="stroke-width:.94" x="32.18" y="28.87">der/jeder dunkl<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Wald</tspan>
 </text>
-<text x="-.87" y="65.79">
-<tspan style="stroke-width:.94" x="-.87" y="65.79">Ø/wenig frisch<tspan style="font-weight:bold">er</tspan> Saft</tspan>
+<text x="31.41" y="65.09">
+<tspan style="stroke-width:.94" x="31.41" y="65.09">Ø/wenig frisch<tspan style="font-weight:bold">er</tspan> Saft</tspan>
 </text>
-<text x="172.86" y="65.56">
-<tspan style="stroke-width:.94" x="172.86" y="65.56">Ø/wenig frisch<tspan style="font-weight:bold">es</tspan> Wasser</tspan>
+<text x="205.14" y="64.86">
+<tspan style="stroke-width:.94" x="205.14" y="64.86">Ø/wenig frisch<tspan style="font-weight:bold">es</tspan> Wasser</tspan>
 </text>
-<text x="187.61" y="29.38">
-<tspan style="stroke-width:.94" x="187.61" y="29.38">das/jedes lang<tspan style="font-weight:bold">e</tspan> Tal</tspan>
+<text x="219.89" y="28.68">
+<tspan style="stroke-width:.94" x="219.89" y="28.68">das/jedes lang<tspan style="font-weight:bold">e</tspan> Tal</tspan>
 </text>
-<text x="340.22" y="47.49">
-<tspan style="stroke-width:.94" x="340.22" y="47.49">(k)eine/meine ruhig<tspan style="font-weight:bold">e</tspan> Wiese</tspan>
+<text x="372.5" y="46.79">
+<tspan style="stroke-width:.94" x="372.5" y="46.79">(k)eine/meine ruhig<tspan style="font-weight:bold">e</tspan> Wiese</tspan>
 </text>
-<text x="357.47" y="65.53">
-<tspan style="stroke-width:.94" x="357.47" y="65.53">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Milch</tspan>
+<text x="389.75" y="64.83">
+<tspan style="stroke-width:.94" x="389.75" y="64.83">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Milch</tspan>
 </text>
-<text x="534.37" y="30.24">
-<tspan style="stroke-width:.94" x="534.37" y="30.24">die/alle dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waelder/Taeler/Wiesen</tspan>
+<text x="566.65" y="29.54">
+<tspan style="stroke-width:.94" x="566.65" y="29.54">die/alle dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waelder/Taeler/Wiesen</tspan>
 </text>
-<text x="522.9" y="48.32">
-<tspan style="stroke-width:.94" x="522.9" y="48.32">keine/meine dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waelder/Taeler/Wiesen</tspan>
+<text x="555.18" y="47.62">
+<tspan style="stroke-width:.94" x="555.18" y="47.62">keine/meine dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waelder/Taeler/Wiesen</tspan>
 </text>
-<text x="541.26" y="66.58">
-<tspan style="stroke-width:.94" x="541.26" y="66.58">Ø/viele dunkl<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Waelder/Taeler/Wiesen</tspan>
+<text x="573.54" y="65.88">
+<tspan style="stroke-width:.94" x="573.54" y="65.88">Ø/viele dunkl<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Waelder/Taeler/Wiesen</tspan>
 </text>
 </g>
 </g>
@@ -99,44 +102,44 @@
 <path d="m541.3 52.29h284.67v18.11h-284.67z"/>
 <path d="m.56 73.59h186.62v18.11h-186.62z"/>
 </g>
-<g style="font-size:12.5;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" transform="translate(32.28 -.7)">
-<text x="-24.99" y="105.37">
-<tspan style="stroke-width:.94" x="-24.99" y="105.37">(k)einen/meinen dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Wald</tspan>
+<g style="stroke-width:.94;font-size:12.5;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="7.29" y="104.67">
+<tspan style="stroke-width:.94" x="7.29" y="104.67">(k)einen/meinen dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Wald</tspan>
 </text>
-<text x="177.93" y="104.97">
-<tspan style="stroke-width:.94" x="177.93" y="104.97">
-<tspan style="stroke-width:.94" x="177.93" y="104.97">(k)ein/mein lang<tspan style="font-weight:bold;stroke-width:.94">es</tspan> Tal</tspan>
+<text x="210.21" y="104.27">
+<tspan style="stroke-width:.94" x="210.21" y="104.27">
+<tspan style="stroke-width:.94" x="210.21" y="104.27">(k)ein/mein lang<tspan style="font-weight:bold;stroke-width:.94">es</tspan> Tal</tspan>
 </tspan>
 </text>
-<text x="358.7" y="86.9">
-<tspan style="stroke-width:.94" x="358.7" y="86.9">die/jede ruhig<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Weise</tspan>
+<text x="390.98" y="86.2">
+<tspan style="stroke-width:.94" x="390.98" y="86.2">die/jede ruhig<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Weise</tspan>
 </text>
-<text x="-5.16" y="87.08">
-<tspan style="stroke-width:.94" x="-5.16" y="87.08">den/jeden dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Wald</tspan>
+<text x="27.12" y="86.38">
+<tspan style="stroke-width:.94" x="27.12" y="86.38">den/jeden dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Wald</tspan>
 </text>
-<text x="-.87" y="123.31">
-<tspan style="stroke-width:.94" x="-.87" y="123.31">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Saft</tspan>
+<text x="31.41" y="122.61">
+<tspan style="stroke-width:.94" x="31.41" y="122.61">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Saft</tspan>
 </text>
-<text x="172.86" y="123.08">
-<tspan style="stroke-width:.94" x="172.86" y="123.08">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">es</tspan> Wasser</tspan>
+<text x="205.14" y="122.38">
+<tspan style="stroke-width:.94" x="205.14" y="122.38">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">es</tspan> Wasser</tspan>
 </text>
-<text x="187.61" y="86.9">
-<tspan style="stroke-width:.94" x="187.61" y="86.9">das/jedes lang<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Tal</tspan>
+<text x="219.89" y="86.2">
+<tspan style="stroke-width:.94" x="219.89" y="86.2">das/jedes lang<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Tal</tspan>
 </text>
-<text x="340.22" y="105.01">
-<tspan style="stroke-width:.94" x="340.22" y="105.01">(k)eine/meine ruhig<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Wiese</tspan>
+<text x="372.5" y="104.31">
+<tspan style="stroke-width:.94" x="372.5" y="104.31">(k)eine/meine ruhig<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Wiese</tspan>
 </text>
-<text x="357.47" y="123.05">
-<tspan style="stroke-width:.94" x="357.47" y="123.05">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Milch</tspan>
+<text x="389.75" y="122.35">
+<tspan style="stroke-width:.94" x="389.75" y="122.35">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Milch</tspan>
 </text>
-<text x="534.37" y="87.76">
-<tspan style="stroke-width:.94" x="534.37" y="87.76">die/alle dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waelder/Taeler/Wiesen</tspan>
+<text x="566.65" y="87.06">
+<tspan style="stroke-width:.94" x="566.65" y="87.06">die/alle dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waelder/Taeler/Wiesen</tspan>
 </text>
-<text x="522.9" y="105.84">
-<tspan style="stroke-width:.94" x="522.9" y="105.84">keine/meine dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waelder/Taeler/Wiesen</tspan>
+<text x="555.18" y="105.14">
+<tspan style="stroke-width:.94" x="555.18" y="105.14">keine/meine dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waelder/Taeler/Wiesen</tspan>
 </text>
-<text x="541.26" y="124.09">
-<tspan style="stroke-width:.94" x="541.26" y="124.09">Ø/viele dunkl<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Waelder/Taeler/Wiesen</tspan>
+<text x="573.54" y="123.39">
+<tspan style="stroke-width:.94" x="573.54" y="123.39">Ø/viele dunkl<tspan style="font-weight:bold;stroke-width:.94">e</tspan> Waelder/Taeler/Wiesen</tspan>
 </text>
 </g>
 <g style="stroke:#000">
@@ -157,44 +160,44 @@
 <path d="m-.36 187.02h827.24" style="fill:#3465a4;stroke-width:4.68"/>
 <path d="m.56 131.18h186.62v18.11h-186.62z" style="fill:none;stroke-width:1.77"/>
 </g>
-<g style="font-size:12.5;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" transform="translate(32.28 -.7)">
-<text x="-28.82" y="162.95">
-<tspan style="stroke-width:.94" x="-28.82" y="162.95">(k)einem/meinem dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Wald</tspan>
+<g style="stroke-width:.94;font-size:12.5;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="3.46" y="162.25">
+<tspan style="stroke-width:.94" x="3.46" y="162.25">(k)einem/meinem dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Wald</tspan>
 </text>
-<text x="160.55" y="162.56">
-<tspan style="stroke-width:.94" x="160.55" y="162.56">
-<tspan style="stroke-width:.94" x="160.55" y="162.56">(k)einem/meinem lang<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Tal</tspan>
+<text x="192.83" y="161.86">
+<tspan style="stroke-width:.94" x="192.83" y="161.86">
+<tspan style="stroke-width:.94" x="192.83" y="161.86">(k)einem/meinem lang<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Tal</tspan>
 </tspan>
 </text>
-<text x="352.99" y="144.48">
-<tspan style="stroke-width:.94" x="352.99" y="144.48">der/jeder ruhig<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Weise</tspan>
+<text x="385.27" y="143.78">
+<tspan style="stroke-width:.94" x="385.27" y="143.78">der/jeder ruhig<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Weise</tspan>
 </text>
-<text x="-9.51" y="144.67">
-<tspan style="stroke-width:.94" x="-9.51" y="144.67">dem/jedem dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Wald</tspan>
+<text x="22.77" y="143.97">
+<tspan style="stroke-width:.94" x="22.77" y="143.97">dem/jedem dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Wald</tspan>
 </text>
-<text x="-.87" y="180.9">
-<tspan style="stroke-width:.94" x="-.87" y="180.9">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">em</tspan> Saft</tspan>
+<text x="31.41" y="180.2">
+<tspan style="stroke-width:.94" x="31.41" y="180.2">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">em</tspan> Saft</tspan>
 </text>
-<text x="171.38" y="180.67">
-<tspan style="stroke-width:.94" x="171.38" y="180.67">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">em</tspan> Wasser</tspan>
+<text x="203.66" y="179.97">
+<tspan style="stroke-width:.94" x="203.66" y="179.97">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">em</tspan> Wasser</tspan>
 </text>
-<text x="181.12" y="144.49">
-<tspan style="stroke-width:.94" x="181.12" y="144.49">dem/jedem lang<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Tal</tspan>
+<text x="213.4" y="143.79">
+<tspan style="stroke-width:.94" x="213.4" y="143.79">dem/jedem lang<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Tal</tspan>
 </text>
-<text x="332.18" y="162.59">
-<tspan style="stroke-width:.94" x="332.18" y="162.59">(k)einer/meiner ruhig<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Wiese</tspan>
+<text x="364.46" y="161.89">
+<tspan style="stroke-width:.94" x="364.46" y="161.89">(k)einer/meiner ruhig<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Wiese</tspan>
 </text>
-<text x="355.17" y="180.64">
-<tspan style="stroke-width:.94" x="355.17" y="180.64">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">er</tspan> Milch</tspan>
+<text x="387.45" y="179.94">
+<tspan style="stroke-width:.94" x="387.45" y="179.94">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">er</tspan> Milch</tspan>
 </text>
-<text x="524.88" y="145.35">
-<tspan style="stroke-width:.94" x="524.88" y="145.35">den/allen dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waeldern/Taelern/Wiesen</tspan>
+<text x="557.16" y="144.65">
+<tspan style="stroke-width:.94" x="557.16" y="144.65">den/allen dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waeldern/Taelern/Wiesen</tspan>
 </text>
-<text x="512.63" y="163.42">
-<tspan style="stroke-width:.94" x="512.63" y="163.42">keinen/diesen dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waeldern/Taelern/Wiesen</tspan>
+<text x="544.91" y="162.72">
+<tspan style="stroke-width:.94" x="544.91" y="162.72">keinen/diesen dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waeldern/Taelern/Wiesen</tspan>
 </text>
-<text x="527.74" y="181.68">
-<tspan style="stroke-width:.94" x="527.74" y="181.68">Ø/vielen dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waeldern/Taelern/Wiesen</tspan>
+<text x="560.02" y="180.98">
+<tspan style="stroke-width:.94" x="560.02" y="180.98">Ø/vielen dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waeldern/Taelern/Wiesen</tspan>
 </text>
 </g>
 <g style="stroke:#000">
@@ -214,44 +217,44 @@
 <path d="m-.33 129.52h827.19" style="fill:#3465a4;stroke-width:4.68"/>
 <path d="m.56 188.63h186.62v18.11h-186.62z" style="fill:none;stroke-width:1.77"/>
 </g>
-<g style="font-size:12.5;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" transform="translate(32.28 -.7)">
-<text x="-29.19" y="220.4">
-<tspan style="stroke-width:.94" x="-29.19" y="220.4">(k)eines/meines dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waldes</tspan>
+<g style="stroke-width:.94;font-size:12.5;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="3.09" y="219.7">
+<tspan style="stroke-width:.94" x="3.09" y="219.7">(k)eines/meines dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waldes</tspan>
 </text>
-<text x="163.51" y="220.01">
-<tspan style="stroke-width:.94" x="163.51" y="220.01">
-<tspan style="stroke-width:.94" x="163.51" y="220.01">(k)eines/meines lang<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Tals</tspan>
+<text x="195.79" y="219.31">
+<tspan style="stroke-width:.94" x="195.79" y="219.31">
+<tspan style="stroke-width:.94" x="195.79" y="219.31">(k)eines/meines lang<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Tals</tspan>
 </tspan>
 </text>
-<text x="352.99" y="201.93">
-<tspan style="stroke-width:.94" x="352.99" y="201.93">der/jeder ruhig<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Weise</tspan>
+<text x="385.27" y="201.23">
+<tspan style="stroke-width:.94" x="385.27" y="201.23">der/jeder ruhig<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Weise</tspan>
 </text>
-<text x="-9.51" y="202.12">
-<tspan style="stroke-width:.94" x="-9.51" y="202.12">des/jedes dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waldes</tspan>
+<text x="22.77" y="201.42">
+<tspan style="stroke-width:.94" x="22.77" y="201.42">des/jedes dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waldes</tspan>
 </text>
-<text x="-4.83" y="238.35">
-<tspan style="stroke-width:.94" x="-4.83" y="238.35">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Saftes</tspan>
+<text x="27.45" y="237.65">
+<tspan style="stroke-width:.94" x="27.45" y="237.65">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Saftes</tspan>
 </text>
-<text x="168.15" y="238.12">
-<tspan style="stroke-width:.94" x="168.15" y="238.12">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Wassers</tspan>
+<text x="200.43" y="237.42">
+<tspan style="stroke-width:.94" x="200.43" y="237.42">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Wassers</tspan>
 </text>
-<text x="181.12" y="201.94">
-<tspan style="stroke-width:.94" x="181.12" y="201.94">des/jedes lang<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Tals</tspan>
+<text x="213.4" y="201.24">
+<tspan style="stroke-width:.94" x="213.4" y="201.24">des/jedes lang<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Tals</tspan>
 </text>
-<text x="332.18" y="220.04">
-<tspan style="stroke-width:.94" x="332.18" y="220.04">(k)einer/meiner ruhig<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Wiese</tspan>
+<text x="364.46" y="219.34">
+<tspan style="stroke-width:.94" x="364.46" y="219.34">(k)einer/meiner ruhig<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Wiese</tspan>
 </text>
-<text x="355.17" y="238.09">
-<tspan style="stroke-width:.94" x="355.17" y="238.09">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">er</tspan> Milch</tspan>
+<text x="387.45" y="237.39">
+<tspan style="stroke-width:.94" x="387.45" y="237.39">Ø/wenig frisch<tspan style="font-weight:bold;stroke-width:.94">er</tspan> Milch</tspan>
 </text>
-<text x="531.27" y="202.8">
-<tspan style="stroke-width:.94" x="531.27" y="202.8">der/aller dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waelder/Taeler/Wiesen</tspan>
+<text x="563.55" y="202.1">
+<tspan style="stroke-width:.94" x="563.55" y="202.1">der/aller dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waelder/Taeler/Wiesen</tspan>
 </text>
-<text x="519.04" y="220.87">
-<tspan style="stroke-width:.94" x="519.04" y="220.87">keiner/dieser dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waelder/Taeler/Wiesen</tspan>
+<text x="551.32" y="220.17">
+<tspan style="stroke-width:.94" x="551.32" y="220.17">keiner/dieser dunkl<tspan style="font-weight:bold;stroke-width:.94">en</tspan> Waelder/Taeler/Wiesen</tspan>
 </text>
-<text x="537.93" y="239.13">
-<tspan style="stroke-width:.94" x="537.93" y="239.13">Ø/vieler dunkl<tspan style="font-weight:bold;stroke-width:.94">er</tspan> Waelder/Taeler/Wiesen</tspan>
+<text x="570.21" y="238.43">
+<tspan style="stroke-width:.94" x="570.21" y="238.43">Ø/vieler dunkl<tspan style="font-weight:bold;stroke-width:.94">er</tspan> Waelder/Taeler/Wiesen</tspan>
 </text>
 </g>
 <g style="fill:none;stroke:#000;stroke-width:1.77">
@@ -267,39 +270,39 @@
 <path d="m541.3 206.73h284.67v18.11h-284.67z"/>
 <path d="m541.3 224.84h284.67v18.11h-284.67z"/>
 </g>
-<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" transform="translate(32.28 -.7)">
-<text x="-94.87" y="46.98">
-<tspan style="font-weight:bold;stroke-width:.94" x="-94.87" y="46.98">Nom_mixed</tspan>
+<g style="stroke-width:.94;font-family:Droid Sans;letter-spacing:0;word-spacing:0;font-size:10">
+<text x="-62.59" y="46.28">
+<tspan style="font-weight:bold;stroke-width:.94" x="-62.59" y="46.28">Nom_mixed</tspan>
 </text>
-<text x="-96.25" y="64.4">
-<tspan style="font-weight:bold;stroke-width:.94" x="-96.25" y="64.4">Nom_strong</tspan>
+<text x="-63.97" y="63.7">
+<tspan style="font-weight:bold;stroke-width:.94" x="-63.97" y="63.7">Nom_strong</tspan>
 </text>
-<text x="-89.14" y="86.72">
-<tspan style="font-weight:bold;stroke-width:.94" x="-89.14" y="86.72">Akk_weak</tspan>
+<text x="-56.86" y="86.02">
+<tspan style="font-weight:bold;stroke-width:.94" x="-56.86" y="86.02">Akk_weak</tspan>
 </text>
-<text x="-92.89" y="104.83">
-<tspan style="font-weight:bold;stroke-width:.94" x="-92.89" y="104.83">Akk_mixed</tspan>
+<text x="-60.61" y="104.13">
+<tspan style="font-weight:bold;stroke-width:.94" x="-60.61" y="104.13">Akk_mixed</tspan>
 </text>
-<text x="-94.27" y="122.25">
-<tspan style="font-weight:bold;stroke-width:.94" x="-94.27" y="122.25">Akk_strong</tspan>
+<text x="-61.99" y="121.55">
+<tspan style="font-weight:bold;stroke-width:.94" x="-61.99" y="121.55">Akk_strong</tspan>
 </text>
-<text x="-88.84" y="144.07">
-<tspan style="font-weight:bold;stroke-width:.94" x="-88.84" y="144.07">Dat_weak</tspan>
+<text x="-56.56" y="143.37">
+<tspan style="font-weight:bold;stroke-width:.94" x="-56.56" y="143.37">Dat_weak</tspan>
 </text>
-<text x="-92.59" y="162.17">
-<tspan style="font-weight:bold;stroke-width:.94" x="-92.59" y="162.17">Dat_mixed</tspan>
+<text x="-60.31" y="161.47">
+<tspan style="font-weight:bold;stroke-width:.94" x="-60.31" y="161.47">Dat_mixed</tspan>
 </text>
-<text x="-93.96" y="179.6">
-<tspan style="font-weight:bold;stroke-width:.94" x="-93.96" y="179.6">Dat_strong</tspan>
+<text x="-61.68" y="178.9">
+<tspan style="font-weight:bold;stroke-width:.94" x="-61.68" y="178.9">Dat_strong</tspan>
 </text>
-<text x="-88.96" y="201.74">
-<tspan style="font-weight:bold;stroke-width:.94" x="-88.96" y="201.74">Gen_weak</tspan>
+<text x="-56.68" y="201.04">
+<tspan style="font-weight:bold;stroke-width:.94" x="-56.68" y="201.04">Gen_weak</tspan>
 </text>
-<text x="-92.7" y="219.85">
-<tspan style="font-weight:bold;stroke-width:.94" x="-92.7" y="219.85">Gen_mixed</tspan>
+<text x="-60.42" y="219.15">
+<tspan style="font-weight:bold;stroke-width:.94" x="-60.42" y="219.15">Gen_mixed</tspan>
 </text>
-<text x="-94.08" y="237.27">
-<tspan style="font-weight:bold;stroke-width:.94" x="-94.08" y="237.27">Gen_strong</tspan>
+<text x="-61.8" y="236.57">
+<tspan style="font-weight:bold;stroke-width:.94" x="-61.8" y="236.57">Gen_strong</tspan>
 </text>
 </g>
 </svg>

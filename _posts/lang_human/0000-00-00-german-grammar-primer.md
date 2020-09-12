@@ -4,10 +4,9 @@ date: 2020-03-22
 categories: [ misc ]
 ---
 
-Je hais l'allemand.
-
+Je n'y peux rien, je hais l'allemand.
 Malheureusement j'habite dans un pays germanophone donc je suis obligé de m'y coller :-(
-Puisse ma force de volonté contenir la frustration est me permettre de maîtriser la langue.
+Respire profond Candide, essaie de trouver un peu de beauté dans le langage.
 
 ### Équivalence cas allemands avec syntaxe française (grosso merdo)
 
@@ -89,6 +88,13 @@ Les pronom personnels génitif sont utilisés que quand __ils agissent comme com
 * _The beer is mine_ `=>` _Das Bier ist meiner_ : 'meiner' joue le rôle de complément du substantif 'bière'
 * _I gave him mine (beer)_ `=>` _Ich gab ihm meines_ : 'meines' joue le rôle de COD (j'ai donné quoi ?)
 * _I have eaten at his (restaurant)_ `=>` _Ich habe in seinem gegessen_ : 'seinem' joue le rôle de CC de lieu (où que j'ai mangé ?)
+<<<<<<<
+=======
+
+L'adjectif/pronom possessif au génitif est également utilisé très peu.
+
+* _His father's car is old. His is new._ `=>` _Das Auto seines Vater is alt. Seines is neu_
+>>>>>>>
 
 L'adjectif/pronom possessif au génitif est également utilisé très peu.
 
