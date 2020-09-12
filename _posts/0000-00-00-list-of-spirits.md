@@ -42,15 +42,17 @@ Since I started this list long after I tried some of the stuff I have forgotten 
 
 ### vinizia
 
-* Pfitscher Pinot Nero Fuchsleiten DOC 2017
+* [FORGOT TO NOTE?] Pfitscher Pinot Nero Fuchsleiten DOC 2017
 * [LAMBDA] Zenato Cabernet Sauvignon Santa Cristina Garda DOC 2017
 * Rainoldi Inferno Riserva Valtellina Superiore DOCG 2013
-* Rainoldi Sassella Nebbiolo Valtellina Superiore DOCG 2009
-* Rainoldi Grumello Nebbiolo Valtellina Superiore DOCG 2007
+* [GOOD] Rainoldi Sassella Nebbiolo Valtellina Superiore DOCG 2009
+* [POOR] Rainoldi Grumello Nebbiolo Valtellina Superiore DOCG 2007
 * [GOOD] Rainoldi Prugnolo Nebbiolo Valtellina Superiore DOCG 2015
 * [POOR] Rainoldi Sauvignon Ghibellino IGT 2015
+* [OK] Monte del Fra, Valpolicella Superiore 2017
+* [HORRIBLE] Clerico, Nebbiolo Langhe Capisme-e 2013
 
-### perbacco
+### vinexus/perbacco
 
 > They are d\*ickheads. There are always bottles missing in the order.
 
@@ -59,11 +61,12 @@ Since I started this list long after I tried some of the stuff I have forgotten 
 * [LAMBDA] Jean Stodden Spätburgunder QbA trocken 2018
 * [LAMBDA] Meyer-Näkel Spätburgunder QbA trocken, 2018
 * [POOR] Weingut Hiss Spätburgunder Eichstetter Herrenbuck Kabinetttrocken, 2017
-* Weingut Hiss Muskateller trocken 2019
+* [LAMBDA] Weingut Hiss Muskateller trocken 2019
+  * So far the best muscat ...
 * [LAMBDA] Ziereisen Spätburgunder Blauer trocken Tschuppen, 2016
 * [POOR] Wohlmuth Gelber Muskateller Klassik QbA dry 2018
-* Markowitsch Carnuntum Redmont 2017
-* Glatzer Carnuntum Sankt Laurent Altenberg 2015
+* [LAMBDA++] Markowitsch Carnuntum Redmont 2017
+* [GOOD] Glatzer Carnuntum Sankt Laurent Altenberg 2015
 * [LAMBDA] A. Christmann Saint Laurent Gutswein trocken QbA Pfalz, VDP.Gutswein 2014
 
 [1]: http://www.rainoldi.com/schede_tecniche/sassella-en.pdf
