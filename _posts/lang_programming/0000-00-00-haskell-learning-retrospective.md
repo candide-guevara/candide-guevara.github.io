@@ -4,38 +4,32 @@ date: 2019-10-05
 categories: [quick_notes]
 ---
 
+### Quick notes on important points
+
 * case conventions : upper for types, type constructors and value construnctors
-* what are functions ? a single expression
+* Functions are simply a handy way to name an expression
 * pattern matching and `:` constructor
   * multi body functions
   * `where` and `let` clauses
   * `@` keyword to reference the **whole match**
 * list comprehensions : map, input, predicate
-* private members by not declaring the data type constructor
-* type polymorphism methods = different constructors or type functions
-* data types algebra : AND -> tuples, OR -> variant types
-* type and typeclasses ( `->`/`=>` operators)
-  * class and instances out of type constructors
-* kinds, type, value, // function signature and type kind
-  * `constraint` kind what is that ? how do typeclasses mix with kinds ?
 * How `do` blocks are syntax sugar for monad chaining
   * how to identify "delayed read on closed handle" and understand when evaluation is done
   * strict `$!` and weak head normal form
   * tail recursion can be used as an iterator, normal recursion no
-  * example express `do t <- getLine; f <- getLine; let w = words t in return $ map (== f) w` using application monads
-  * use c++ template+command pattern to mimic monads deferred evaluation graph
+  * IO monads deferred evaluation graph can be implemented with the command pattern in standard languages
   * adding `fail` in the middle of `do` block aborts the rest. Same for runtime errors (pattern matching), differs from >>=
   * Be careful it is a trap ! `do n <- [1,2]; ch <- ['a','b']; return (n,ch)`
-* Topology of functor, applicative, monad, monoid monad (with constraints and unenforced properties)
-* Mind blow : monad foldM to return all possible sums of array members
-* Mind blow : implementing confluent data structures using zippers (example in python ?)
+* Mind blown : monad foldM to return all possible sums of array members
+* Mind blown : implementing [confluent data structures][1] using zippers
 
-## Rant
+### Thigs I do not like
 
 * `do` blocks semantics vary depending on the type (syntax depends on context ?)
 * Printf debugging impractical when using `let` blocks (example of using trace)
 * Appending to a list the [wrong way][0] is quadratic
 * Error message inconsistencies
+
 ```hs
 data A = A deriving Show
 data B = B deriving Show
@@ -65,7 +59,7 @@ f b = Right C
       prevents the constraint ‘(If2 b0)’ from being solved.
 ```
 
-## WTF
+### WTF
 
 * block declarationin ghci is cumbersome (you need to use `:{` `:}`)
 * declare type of a function whose parameter belongs to a typeclass
@@ -79,14 +73,10 @@ a = f x
 * Lazy execution model, how can I be sure recursive functions are lazily evaluated (ressembles the `yield` model in python)
 * Partial functions not defined on a certain constructor are not catched at compile time
 
-## Exercise
+## Exercises
 
-* week days + time of day as data type to show the way we derive behaviours like Ord, Eq ...
-* composition of monads : Maybe + Writer
-
-```hs
-chain_composition :: Traversable m, Traversable n => (a -> m (n b)) -> m (n a) -> m (n b)
-chain_composition f x = x >>= (\x' -> sequence $ x' >>= (sequence . f))
-```
+* Week days + time of day as data type to show the way we derive behaviours like Ord, Eq ...
+* Simple regex compiler and evaluator
 
 [0]:http://learnyouahaskell.com/for-a-few-monads-more
+[1]:http://learnyouahaskell.com/zippers#a-very-simple-file-system
