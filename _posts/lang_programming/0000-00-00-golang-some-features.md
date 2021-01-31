@@ -118,6 +118,8 @@ go test ./...
 sed 's/"fmt"/( "fmt" ; "golang.org/x/blog/content/cover" )/' /tmp/helloworld.go > /tmp/mymodule/ext_dep/ext_dep.go
 # Looks for external dependencies on other modules and installs then into GOPATH/pkg
 go mod tidy
+# Upgrades all module dependencies to its latest version
+go get ./...
 
 unalias go
 ```
@@ -135,4 +137,13 @@ go env -w CGO_CFLAGS="-Ithingy_include" \
 ```
 
 > Does the go program need to be built with the same compiler/linker options as the c library it links with ?
+
+
+## Channel behavior
+
+{:.my-short-table}
+|          | Open & Empty | Open & Full | Closed     | Nil           |
+|----------|--------------|-------------|------------|---------------|
+| Read     | Blocks | Reads (value, true) | Reads (zero-val, false) | Blocks forever |
+| Write    | Ok | Blocks | Panic ! | Blocks forever |
 
