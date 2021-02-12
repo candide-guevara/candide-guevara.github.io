@@ -40,34 +40,63 @@ Since I started this list long after I tried some of the stuff I have forgotten 
 
 ## Stuff I have tried
 
-### vinizia
-
-* [FORGOT TO NOTE?] Pfitscher Pinot Nero Fuchsleiten DOC 2017
-* [LAMBDA] Zenato Cabernet Sauvignon Santa Cristina Garda DOC 2017
-* Rainoldi Inferno Riserva Valtellina Superiore DOCG 2013
+* [GOOD] Brancaia tre toscana 2018
+  * light red fruits (excellent value for price)
+* [GOOD] Glatzer Carnuntum Sankt Laurent Altenberg 2015
+* [GOOD] Lagerla birba toscana igt 2011
+  * fruits rouges, un peu de sous bois, soyeux, persistance ok
+* [GOOD] Oliver Zeter 'Z' 2016
+  * medium wood flavour, acidity but low tanins
+* [GOOD] Ottella, Ripa della Volta Valpolicella Ripasso 2016
+  * first opened the bottle a bit of tea flavors (expensive!)
 * [GOOD] Rainoldi Sassella Nebbiolo Valtellina Superiore DOCG 2009
-* [POOR] Rainoldi Grumello Nebbiolo Valtellina Superiore DOCG 2007
 * [GOOD] Rainoldi Prugnolo Nebbiolo Valtellina Superiore DOCG 2015
-* [POOR] Rainoldi Sauvignon Ghibellino IGT 2015
-* [OK] Monte del Fra, Valpolicella Superiore 2017
-* [HORRIBLE] Clerico, Nebbiolo Langhe Capisme-e 2013
-
-### vinexus/perbacco
-
-> They are d\*ickheads. There are always bottles missing in the order.
-
-* [LAMBDA] Deutzerhof Spätburgunder Cossmann-Hehle QbA trocken, 2017
 * [GOOD] Rudolf Fürst Tradition Spätburgunder, 2017
+* [GOOD] Tre terre chiodi ascona 2017
+  * black fruits
+* [OK] gesellmann st laurent 2017
+  * silky texture, cherry notes
+* [OK] Markowitsch Carnuntum Redmont 2017
+* [OK] Monte del Fra, Valpolicella Superiore 2017
+* [OK] Scheiner black print 2018 OK
+  * strawberries
+* [LAMBDA] A. Christmann Saint Laurent Gutswein trocken QbA Pfalz, VDP.Gutswein 2014
+* [LAMBDA] Deutzerhof Spätburgunder Cossmann-Hehle QbA trocken, 2017
 * [LAMBDA] Jean Stodden Spätburgunder QbA trocken 2018
+* [LAMBDA] Zyme from black to white IGP 2019
+  * Sweet, no complexity
 * [LAMBDA] Meyer-Näkel Spätburgunder QbA trocken, 2018
-* [POOR] Weingut Hiss Spätburgunder Eichstetter Herrenbuck Kabinetttrocken, 2017
 * [LAMBDA] Weingut Hiss Muskateller trocken 2019
   * So far the best muscat ...
+* [LAMBDA] Zenato Cabernet Sauvignon Santa Cristina Garda DOC 2017
 * [LAMBDA] Ziereisen Spätburgunder Blauer trocken Tschuppen, 2016
+* [POOR] Les Vins de Vienne, La sillote vacqueyras 2017
+  * overly sweet guarapo, high alcohol, no persistence, no complexity
+* [POOR] Matasci Tendro Merlot Ticino 2017
+  * Bitter as a cheap piece of cork (Matasci's distillates are generally very good though)
+* [POOR] Metzger schwarzer 2018
+  * overly sweet guarapo, high alcohol, good persistence, no complexity
+* [POOR] Rainoldi Grumello Nebbiolo Valtellina Superiore DOCG 2007
+* [POOR] Rainoldi Sauvignon Ghibellino IGT 2015
+* [POOR] Rainoldi Inferno Riserva Valtellina Superiore DOCG 2013
+  * bad compared to price and other rainoldis (too lightly flavored)
+* [POOR] Schneider tohu wabohu 2017
+  * strong ripasso-like but overly sweet, slightly bitter and without any complexity, expensive
+* [POOR] Weingut Hiss Spätburgunder Eichstetter Herrenbuck Kabinetttrocken, 2017
 * [POOR] Wohlmuth Gelber Muskateller Klassik QbA dry 2018
-* [LAMBDA++] Markowitsch Carnuntum Redmont 2017
-* [GOOD] Glatzer Carnuntum Sankt Laurent Altenberg 2015
-* [LAMBDA] A. Christmann Saint Laurent Gutswein trocken QbA Pfalz, VDP.Gutswein 2014
+* [HORRIBLE] Clerico, Nebbiolo Langhe Capisme-e 2013
+* [HORRIBLE] Clerico, Barbera d'Alba Trevigne 2012
+* [FORGOT TO NOTE?] Monte del Fra, Valpolicella Ripasso Superiore 2017
+* [FORGOT TO NOTE?] Pfitscher Pinot Nero Fuchsleiten DOC 2017
+* [FORGOT TO NOTE?] Tommasi, Valpolicella Superiore Ripasso 2017
+
+### Where to buy
+
+* vinexus/perbacco: bunch of d\*ickheads. There are always bottles missing in the order.
+  * Very german-minded customer service (aka the do not give a sh\*t)
+* vinizia : mostly OK
+* Belgiuminabox : very slow to ship and unresponsive
+
 
 [1]: http://www.rainoldi.com/schede_tecniche/sassella-en.pdf
 [2]: http://www.carlevaro.ch/fr/vini/rossi/Carmagnola.html
