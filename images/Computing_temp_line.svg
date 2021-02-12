@@ -1,0 +1,123 @@
+<svg height="92.83mm" viewBox="0 0 618.33 328.9" width="174.5mm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<marker id="a" orient="auto" refX="0" refY="0" style="overflow:visible" transform="translate(260.4 -265.36)">
+<path d="m5.77 0-8.65 5v-10z" style="fill:#696969;fill-rule:evenodd;stroke:#696969;stroke-width:1pt" transform="scale(-.4)"/>
+</marker>
+<path d="m605.69 158.08h-517.4" style="fill:#babdb6;stroke:#696969;stroke-width:2.81;marker-start:url(#a)"/>
+<g style="stroke-width:.94">
+<text x="641.31" y="-281.55">
+<tspan style="stroke-width:.94" x="641.31" y="-272.69"/>
+</text>
+<g style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0">
+<text x="256.24" y="86">
+<tspan x="256.24" y="86">Intel 4004 (4-bit)</tspan>
+<tspan x="256.24" y="98.5">First integrated u-processor</tspan>
+</text>
+<text x="442.73" y="21.25">
+<tspan x="442.73" y="21.25">IBM PC (model 5150)</tspan>
+<tspan x="442.73" y="33.75">Popularized the idea of expansion</tspan>
+<tspan x="442.73" y="46.25">cards connected via a bus (ISA)</tspan>
+</text>
+<text x="402.05" y="86.09">
+<tspan x="402.05" y="86.09">Intel 8086 (16-bit)</tspan>
+<tspan x="402.05" y="98.59">Origin of x86 instruction set</tspan>
+</text>
+<text x="247.05" y="280.76">
+<tspan x="247.05" y="280.76">UNIX</tspan>
+<tspan x="247.05" y="293.26">Introduced OS environment</tspan>
+<tspan x="247.05" y="305.76">We all known and love</tspan>
+</text>
+<text x="346.93" y="218.71">
+<tspan x="346.93" y="218.71">C language</tspan>
+<tspan x="346.93" y="231.21">First mix of low and high</tspan>
+<tspan x="346.93" y="243.71">programming concepts ?</tspan>
+</text>
+</g>
+</g>
+<path d="m109.91 164.87v-12.75" style="fill:#babdb6;stroke:#000;stroke-width:1.88"/>
+<text style="font-weight:bold;font-size:11.25;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="112.94" y="173.15">
+<tspan x="112.94" y="173.15">1957</tspan>
+</text>
+<g transform="translate(190.93 -245.68)">
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="-168.11" y="470.09">
+<tspan x="-168.11" y="470.09">Fortran</tspan>
+<tspan x="-168.11" y="482.59">High level programming</tspan>
+</text>
+<path d="m-172.56 456.49h117.16v34.5h-117.16z" style="fill:none;stroke:#00f;stroke-width:1.31"/>
+</g>
+<path d="m342.38 207h120.36v43.26h-120.36z" style="fill:none;stroke:#00f;stroke-width:1.31"/>
+<path d="m169.93 164.4v-12.75" style="fill:#babdb6;stroke:#000;stroke-width:1.88"/>
+<text style="font-weight:bold;font-size:11.25;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="172.85" y="172.81">
+<tspan x="172.85" y="172.81">1961</tspan>
+</text>
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="63.87" y="288.11">
+<tspan x="63.87" y="288.11">Compatible Time-Sharing System</tspan>
+<tspan x="63.87" y="300.61">MIT first time-sharing impl</tspan>
+</text>
+<path d="m59.1 268.94h157.09v43.26h-157.09z" style="fill:none;stroke:#69f;stroke-width:1.31"/>
+<path d="m235.48 163.93v-12.75" style="fill:#babdb6;stroke:#000;stroke-width:1.88"/>
+<text style="font-weight:bold;font-size:11.25;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="238.4" y="172.34">
+<tspan x="238.4" y="172.34">1964</tspan>
+</text>
+<g transform="translate(178.65 -248.41)">
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="-17.99" y="469.14">
+<tspan x="-17.99" y="469.14">BASIC</tspan>
+<tspan x="-17.99" y="481.64">Beginner friendly REPL environment</tspan>
+<tspan x="-17.99" y="494.14">On both mainframes and PCs</tspan>
+</text>
+<path d="m-23.11 455.29h172.44v43.26h-172.44z" style="fill:none;stroke:#00f;stroke-width:1.31"/>
+</g>
+<path d="m321.51 163.88v-12.75" style="fill:#babdb6;stroke:#000;stroke-width:1.88"/>
+<text style="font-weight:bold;font-size:11.25;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="324.43" y="172.29">
+<tspan x="324.43" y="172.29">1971</tspan>
+</text>
+<path d="m239.94 269.08h138.43v43.26h-138.43z" style="fill:none;stroke:#69f;stroke-width:1.31"/>
+<path d="m364.01 164.06v-12.75" style="fill:#babdb6;stroke:#000;stroke-width:1.88"/>
+<text style="font-weight:bold;font-size:11.25;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="366.93" y="172.47">
+<tspan x="366.93" y="172.47">1973</tspan>
+</text>
+<path d="m415.25 163.7v-12.75" style="fill:#babdb6;stroke:#000;stroke-width:1.88"/>
+<text style="font-weight:bold;font-size:11.25;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="418.17" y="172.11">
+<tspan x="418.17" y="172.11">1976</tspan>
+</text>
+<g transform="translate(111.17 -255.14)">
+<text style="font-size:10;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="294.35" y="532.79">
+<tspan x="294.35" y="532.79">CP/M (commercial version)</tspan>
+<tspan x="294.35" y="545.29">First disk operating OS for u-procs</tspan>
+<tspan x="294.35" y="557.79">Execute progs from storage</tspan>
+<tspan x="294.35" y="570.29">Introduced the BIOS</tspan>
+</text>
+<path d="m289.39 519.88h163.38v56.43h-163.38z" style="fill:none;stroke:#69f;stroke-width:1.31"/>
+</g>
+<path d="m251.42 68.08h132.77v43.25h-132.77z" style="fill:none;stroke:#4e9a06;stroke-width:1.31"/>
+<path d="m460.36 163.4v-12.75" style="fill:#babdb6;stroke:#000;stroke-width:1.88"/>
+<text style="font-weight:bold;font-size:11.25;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="463.28" y="171.81">
+<tspan x="463.28" y="171.81">1978</tspan>
+</text>
+<path d="m396.78 67.48h136.21v43.25h-136.21z" style="fill:none;stroke:#4e9a06;stroke-width:1.31"/>
+<path d="m503.37 163.79v-12.75" style="fill:#babdb6;stroke:#000;stroke-width:1.88"/>
+<text style="font-weight:bold;font-size:11.25;font-family:Droid Sans;letter-spacing:0;word-spacing:0;stroke-width:.94" x="506.29" y="172.2">
+<tspan x="506.29" y="172.2">1981</tspan>
+</text>
+<path d="m438.2 7.73h161.75v43.26h-161.75z" style="fill:none;stroke:#4e9a06;stroke-width:1.31"/>
+<g style="fill:#babdb6;stroke-width:1.41">
+<g style="stroke:#00f">
+<path d="m109.91 210.87v-46"/>
+<path d="m235.48 206.82v-42.89"/>
+<path d="m364.01 207.34v-43.28"/>
+</g>
+<g style="stroke:#729fcf">
+<path d="m169.93 206.37v-41.97"/>
+<path d="m169.93 268.45v-18.67"/>
+<path d="m321.51 206.75v-42.87"/>
+<path d="m321.51 269.04v-19.25"/>
+<path d="m415.25 206.57v-42.87"/>
+<path d="m415.25 264.65v-14.61"/>
+</g>
+<g style="stroke:#4e9a06">
+<path d="m321.51 151.13v-39.86"/>
+<path d="m460.36 150.65v-39.86"/>
+<path d="m503.37 151.04v-39.86"/>
+<path d="m503.37 67.8v-17.08"/>
+</g>
+</g>
+</svg>
