@@ -146,4 +146,5 @@ go env -w CGO_CFLAGS="-Ithingy_include" \
 |----------|--------------|-------------|------------|---------------|
 | Read     | Blocks | Reads (value, true) | Reads (zero-val, false) | Blocks forever |
 | Write    | Ok | Blocks | Panic ! | Blocks forever |
+| Close    | Ok (fail for receive-only channel) | Blocks (unless buffered channel) | Panic ! | Panic ! |
 

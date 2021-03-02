@@ -70,10 +70,14 @@ Since I started this list long after I tried some of the stuff I have forgotten 
   * So far the best muscat ...
 * [LAMBDA] Zenato Cabernet Sauvignon Santa Cristina Garda DOC 2017
 * [LAMBDA] Ziereisen Spätburgunder Blauer trocken Tschuppen, 2016
+* [POOR] Les Vins de Vienne, Les palignons Crozes Hermitage 2017
+  * needlessly sweet, tanic, faint tea leaves note, faint persistence, no complexity
 * [POOR] Les Vins de Vienne, La sillote vacqueyras 2017
   * overly sweet guarapo, high alcohol, no persistence, no complexity
 * [POOR] Matasci Tendro Merlot Ticino 2017
   * Bitter as a cheap piece of cork (Matasci's distillates are generally very good though)
+* [POOR] Matayac Cahors Malbec 2018
+  * Leger gout complex de mure en arriere plan. Perds complement son gout avec la nourriture.
 * [POOR] Metzger schwarzer 2018
   * overly sweet guarapo, high alcohol, good persistence, no complexity
 * [POOR] Rainoldi Grumello Nebbiolo Valtellina Superiore DOCG 2007
