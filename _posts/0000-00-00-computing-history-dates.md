@@ -5,5 +5,5 @@ published: false
 categories: [cs_related]
 ---
 
-![Computing_temp_line.svg]({{ site.images }}/Computing_temp_line.svg){:.my-block-wide-img}
+![Computing_temp_line.svg]({{ site.images }}/Computing_temp_line.svg){:.my-block-img}
 
