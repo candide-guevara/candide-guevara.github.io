@@ -90,6 +90,10 @@ Since I started this list long after I tried some of the stuff I have forgotten 
 * [POOR] Wohlmuth Gelber Muskateller Klassik QbA dry 2018
 * [HORRIBLE] Clerico, Nebbiolo Langhe Capisme-e 2013
 * [HORRIBLE] Clerico, Barbera d'Alba Trevigne 2012
+* [HORRIBLE] Terrasse de la Garde pessac leognan 2016
+  * tanique, amere, aucune complexite/persistance, a ce prix cest vraiment honteux
+* [HORRIBLE] Xavier Vignon arcane 15 le diable 2015
+  * tanique, sucre degeux, aucune complexite, a ce prix cest vraiment honteux
 * [FORGOT TO NOTE?] Monte del Fra, Valpolicella Ripasso Superiore 2017
 * [FORGOT TO NOTE?] Pfitscher Pinot Nero Fuchsleiten DOC 2017
 * [FORGOT TO NOTE?] Tommasi, Valpolicella Superiore Ripasso 2017
