@@ -70,6 +70,10 @@ Since I started this list long after I tried some of the stuff I have forgotten 
   * So far the best muscat ...
 * [LAMBDA] Zenato Cabernet Sauvignon Santa Cristina Garda DOC 2017
 * [LAMBDA] Ziereisen Spätburgunder Blauer trocken Tschuppen, 2016
+* [POOR] Fattoria le Pupille, Morellino di Scancano 2018
+  * cheap fruity wine, robe claire comme coupee a l'eau, aucune complexite
+* [POOR] Fattoria le Pupille, Poggio Valente 2017
+  * tanic, ok persistence, no complexity, really expensive for quality :-(
 * [POOR] Les Vins de Vienne, Les palignons Crozes Hermitage 2017
   * needlessly sweet, tanic, faint tea leaves note, faint persistence, no complexity
 * [POOR] Les Vins de Vienne, La sillote vacqueyras 2017
