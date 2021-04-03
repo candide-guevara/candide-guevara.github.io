@@ -7,39 +7,65 @@ categories: [misc]
 This a small selection of the good bottles of any kind of alcohol I have come across. 
 Since I started this list long after I tried some of the stuff I have forgotten the millesime for some bottles.
 
-## Stuff I like
+## Spirits
 
-### Wines
+### Whisky
 
-* Point G (Chateau Gasqui)
-* Paliokαlias Naoussa (Dalmara)
-* [Sassella 2010][1] (Rainoldi)
+* [GOOD] Laphroaig whisky (10 years) : super peaty flavored
+* [GOOD] Macallan whisky (12 years)
+* [GOOD] Red spot irish whisky
+* [GOOD] Talisker double amoroso cask maturation
 
-* L'Insolent (Chateau de Plaisance)
-* Mandolas Tokaj (Oremus) : probably the best dry white wine I have ever tried
-* Muscat d'Alsace (cooperative de Ribeauville) : sweet price/quality ratio
-* [Riserva del Carmagnola][2] : One of the few Merlot from Ticino that I like
+### Schnaps
 
-### Spirits
+* [GOOD] Marc de Gewurztraminer (Hagmeyer)
+* [GOOD] Sibona grappa di moscato
+* [GOOD] Fratelli Matasci grappa americana
+* [GOOD] Apricot Z'graggen distillery
+* [GOOD] Birkenhof Brennerei
 
-* Laphroaig whisky (10 years) : super peaty flavored
-* Macallan whisky (12 years)
-* Red spot irish whisky
-* Marc de Gewurztraminer (Hagmeyer)
-* Starotorunska Pepper Vodka (Vinpol)
-* Ron Diplomatico Reserva Exclusiva
-* Framboise from Siegfried Herzog Distillery
-* Sibona grappa di moscato
-* Fratelli Matasci grappa americana
-* Apricot Z'graggen distillery
+### Rhum
 
-### Softer drinks
+* [GOOD] Companero ron gran reserva Jamaica/Trinidad
+* [GOOD] Ron Diplomatico Reserva Exclusiva
+
+### Misc
+
+* [GOOD] Starotorunska Pepper Vodka (Vinpol)
+
+
+## Softer drinks
+
+### Beer
+
+* [GOOD] 3 Fontaine Oude Kriek
+  * Tres acide et parfumee, bonne persistance
+* [GOOD] Ermine (brasserie Lancelot)
+* [GOOD] Maenhout Koeketiene triple
+  * Fruity start and then a caramel finish with a funny texture
+* [LAMBDA] Arever ambree double
+* [LAMBDA] Arever Chicon malte
+* [LAMBDA] Fort Lapin Hoplapin
+* [LAMBDA] Oudbeersel Oude Kriek vielle
+* [LAMBDA] Paljas IPA
+
+
+### Misc
 
 * Cidre cuvee speciale (Manoir du Kinkiz) : a really dry cider
-* Ermine (brasserie Lancelot)
 
-## Stuff I have tried
 
+## Wines
+
+* [GREAT] Mandolas Tokaj (Oremus) : probably the best dry white wine I have ever tried
+* [GOOD] Chateau de Plaisance L'Insolent
+* [GOOD] Chateau Gasqui Point G
+* [GOOD] Coop Ribeauville Muscat d'Alsace: sweet price/quality ratio
+* [GOOD] Dalmara Paliokαlias Naoussa
+  * Tres agreable odeur a confiture
+* [GOOD] Rainoldi [Sassella 2010][1]
+  * Bon gout de fraise
+* [GOOD] Riserva del [Carmagnola][2] : One of the few Merlot from Ticino that I like
 * [GOOD] Brancaia tre toscana 2018
   * light red fruits (excellent value for price)
 * [GOOD] Glatzer Carnuntum Sankt Laurent Altenberg 2015
