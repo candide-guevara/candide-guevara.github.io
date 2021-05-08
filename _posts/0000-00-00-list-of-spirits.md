@@ -18,11 +18,12 @@ Since I started this list long after I tried some of the stuff I have forgotten 
 
 ### Schnaps
 
-* [GOOD] Marc de Gewurztraminer (Hagmeyer)
-* [GOOD] Sibona grappa di moscato
-* [GOOD] Fratelli Matasci grappa americana
 * [GOOD] Apricot Z'graggen distillery
 * [GOOD] Birkenhof Brennerei
+* [GOOD] Fratelli Matasci grappa americana
+* [GOOD] Fratelli Matasci grappa ticinese 48
+* [GOOD] Marc de Gewurztraminer (Hagmeyer)
+* [GOOD] Sibona grappa di moscato
 
 ### Rhum
 
@@ -40,14 +41,33 @@ Since I started this list long after I tried some of the stuff I have forgotten 
 
 * [GOOD] 3 Fontaine Oude Kriek
   * Tres acide et parfumee, bonne persistance
+* [GOOD] Bertinchamps Blonde
+  * Un peu comme la triple Karmeliet mais plus legere
 * [GOOD] Ermine (brasserie Lancelot)
+* [GOOD] Jart-Elle Oude Kriek
+  * J'aime bien les tanins, pas mal de matiere comme le fruit
 * [GOOD] Maenhout Koeketiene triple
   * Fruity start and then a caramel finish with a funny texture
 * [LAMBDA] Arever ambree double
 * [LAMBDA] Arever Chicon malte
+* [LAMBDA] Boon Oude Kriek
+  * Un peu amere, bonnes notes d'epices
+* [LAMBDA] De Ryck Speciale (non rien de special en fait)
+* [LAMBDA] De Leite Ma mere speciale
 * [LAMBDA] Fort Lapin Hoplapin
+* [LAMBDA] Mort Subite Oude Kriek lambic
+  * Too standard, acid but not texture nor volume
 * [LAMBDA] Oudbeersel Oude Kriek vielle
 * [LAMBDA] Paljas IPA
+* [BAD] Ardenne Spirit old ale
+  * Trop sucree mais aucun corps
+* [BAD] Belgo Sapiens Blanche de Thines
+  * Gout de savon sans le parfum que l'on attends d'une IPA
+* [BAD] Verheage Vichte Duchesse de Bourgogne
+  * Melange de vinaigre et de glace a la vanille
+* [BAD] Verset Oud Bruin Oak
+  * Pas mauvaise facture mais le gout ne m'a pas plu
+  * Gueuze avec des aromes de sous-bois
 
 
 ### Misc
@@ -63,6 +83,8 @@ Since I started this list long after I tried some of the stuff I have forgotten 
 * [GOOD] Coop Ribeauville Muscat d'Alsace: sweet price/quality ratio
 * [GOOD] Dalmara Paliokαlias Naoussa
   * Tres agreable odeur a confiture
+* [GOOD] Domaine de Savagny Cotes du Jura Vin Jaune 2012
+  * Standard character of Vin Jaune. A bit acid does worst when not chilled.
 * [GOOD] Rainoldi [Sassella 2010][1]
   * Bon gout de fraise
 * [GOOD] Riserva del [Carmagnola][2] : One of the few Merlot from Ticino that I like
@@ -86,6 +108,8 @@ Since I started this list long after I tried some of the stuff I have forgotten 
 * [OK] Monte del Fra, Valpolicella Superiore 2017
 * [OK] Scheiner black print 2018 OK
   * strawberries
+* [OK] Sylvain Faudot Arbois Ploussard 2018
+  * Fraises mais amere sur les bords
 * [LAMBDA] A. Christmann Saint Laurent Gutswein trocken QbA Pfalz, VDP.Gutswein 2014
 * [LAMBDA] Deutzerhof Spätburgunder Cossmann-Hehle QbA trocken, 2017
 * [LAMBDA] Jean Stodden Spätburgunder QbA trocken 2018
