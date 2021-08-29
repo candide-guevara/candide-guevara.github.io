@@ -15,6 +15,8 @@ Since I started this list long after I tried some of the stuff I have forgotten 
 * [GOOD] Macallan whisky (12 years)
 * [GOOD] Red spot irish whisky
 * [GOOD] Talisker double amoroso cask maturation
+* [BAD] Ledaig single malt 10 years
+  * Peated but overly sweet, cheapo blended whisky after taste, alcohol taste
 
 ### Schnaps
 
@@ -44,16 +46,22 @@ Since I started this list long after I tried some of the stuff I have forgotten 
 * [GOOD] Bertinchamps Blonde
   * Un peu comme la triple Karmeliet mais plus legere
 * [GOOD] Ermine (brasserie Lancelot)
+* [GOOD] Den Herberg Blonde
+  * Legère avec notes teh pastèque et miel
+  * Confusion avec Schelde Strandgaper ?
 * [GOOD] Jart-Elle Oude Kriek
   * J'aime bien les tanins, pas mal de matiere comme le fruit
 * [GOOD] Maenhout Koeketiene triple
   * Fruity start and then a caramel finish with a funny texture
 * [LAMBDA] Arever ambree double
 * [LAMBDA] Arever Chicon malte
+* [LAMBDA] Bastogne Pale Ale
 * [LAMBDA] Boon Oude Kriek
   * Un peu amere, bonnes notes d'epices
+* [LAMBDA] Dolle Brouwers Boskeun
 * [LAMBDA] De Ryck Speciale (non rien de special en fait)
 * [LAMBDA] De Leite Ma mere speciale
+  * [LAMBDA] De Leite Enfant terrible
 * [LAMBDA] Fort Lapin Hoplapin
 * [LAMBDA] Mort Subite Oude Kriek lambic
   * Too standard, acid but not texture nor volume
@@ -63,6 +71,8 @@ Since I started this list long after I tried some of the stuff I have forgotten 
   * Trop sucree mais aucun corps
 * [BAD] Belgo Sapiens Blanche de Thines
   * Gout de savon sans le parfum que l'on attends d'une IPA
+* [BAD] Hoppy Madame En Stoemelings
+  * Goût complètement éteint
 * [BAD] Verheage Vichte Duchesse de Bourgogne
   * Melange de vinaigre et de glace a la vanille
 * [BAD] Verset Oud Bruin Oak
@@ -102,6 +112,8 @@ Since I started this list long after I tried some of the stuff I have forgotten 
 * [GOOD] Rudolf Fürst Tradition Spätburgunder, 2017
 * [GOOD] Tre terre chiodi ascona 2017
   * black fruits
+* [GOOD] Yannick Alleno, Michel Chapoutier Côtes du Rhône 2019
+  * Un peu tanique mais du puissant goût de fruits confits noirs
 * [OK] gesellmann st laurent 2017
   * silky texture, cherry notes
 * [OK] Markowitsch Carnuntum Redmont 2017
@@ -112,14 +124,19 @@ Since I started this list long after I tried some of the stuff I have forgotten 
   * Fraises mais amere sur les bords
 * [LAMBDA] A. Christmann Saint Laurent Gutswein trocken QbA Pfalz, VDP.Gutswein 2014
 * [LAMBDA] Deutzerhof Spätburgunder Cossmann-Hehle QbA trocken, 2017
+* [LAMBDA] Hillinger Small Hill 2018
+* [LAMBDA] Jean-Luc Baldès Petit Clos 2017
+  * Du Malbec typique, très fort mais on distingue pas de goûts précis
 * [LAMBDA] Jean Stodden Spätburgunder QbA trocken 2018
-* [LAMBDA] Zyme from black to white IGP 2019
-  * Sweet, no complexity
 * [LAMBDA] Meyer-Näkel Spätburgunder QbA trocken, 2018
+* [LAMBDA] Pio Cesare Barbera d'Alba DOC 2018
+  * Un peu amère, persistance OK, pas de compléxité 
 * [LAMBDA] Weingut Hiss Muskateller trocken 2019
   * So far the best muscat ...
 * [LAMBDA] Zenato Cabernet Sauvignon Santa Cristina Garda DOC 2017
 * [LAMBDA] Ziereisen Spätburgunder Blauer trocken Tschuppen, 2016
+* [LAMBDA] Zyme from black to white IGP 2019
+  * Sweet, no complexity
 * [POOR] Fattoria le Pupille, Morellino di Scancano 2018
   * cheap fruity wine, robe claire comme coupee a l'eau, aucune complexite
 * [POOR] Fattoria le Pupille, Poggio Valente 2017
@@ -148,9 +165,11 @@ Since I started this list long after I tried some of the stuff I have forgotten 
   * tanique, amere, aucune complexite/persistance, a ce prix cest vraiment honteux
 * [HORRIBLE] Xavier Vignon arcane 15 le diable 2015
   * tanique, sucre degeux, aucune complexite, a ce prix cest vraiment honteux
+
 * [FORGOT TO NOTE?] Monte del Fra, Valpolicella Ripasso Superiore 2017
 * [FORGOT TO NOTE?] Pfitscher Pinot Nero Fuchsleiten DOC 2017
 * [FORGOT TO NOTE?] Tommasi, Valpolicella Superiore Ripasso 2017
+* [FORGOT TO NOTE?] Elio Grasso Langhe Nebbiolo Gavarini 2019
 
 ### Where to buy
 
