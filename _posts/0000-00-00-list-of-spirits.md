@@ -118,11 +118,15 @@ Since I started this list long after I tried some of the stuff I have forgotten 
   * silky texture, cherry notes
 * [OK] Markowitsch Carnuntum Redmont 2017
 * [OK] Monte del Fra, Valpolicella Superiore 2017
+* [OK] Domaine la Rouillere grande reserve 2016
+  * Beaucoup de sous-bois
 * [OK] Scheiner black print 2018 OK
   * strawberries
 * [OK] Sylvain Faudot Arbois Ploussard 2018
   * Fraises mais amere sur les bords
 * [LAMBDA] A. Christmann Saint Laurent Gutswein trocken QbA Pfalz, VDP.Gutswein 2014
+* [LAMBDA] Brancaia chianti classico 2019
+  * Un peu plus cher que le vin du pays, pour pas grand chose.
 * [LAMBDA] Deutzerhof Spätburgunder Cossmann-Hehle QbA trocken, 2017
 * [LAMBDA] Hillinger Small Hill 2018
 * [LAMBDA] Jean-Luc Baldès Petit Clos 2017
@@ -133,6 +137,7 @@ Since I started this list long after I tried some of the stuff I have forgotten 
   * Un peu amère, persistance OK, pas de compléxité 
 * [LAMBDA] Weingut Hiss Muskateller trocken 2019
   * So far the best muscat ...
+* [LAMBDA] Schlumberger muscat 2019
 * [LAMBDA] Zenato Cabernet Sauvignon Santa Cristina Garda DOC 2017
 * [LAMBDA] Ziereisen Spätburgunder Blauer trocken Tschuppen, 2016
 * [LAMBDA] Zyme from black to white IGP 2019
