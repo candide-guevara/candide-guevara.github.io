@@ -3,7 +3,7 @@
 
 CLEANER='svgcleaner'
 CONVERTER='pdf2svg'
-JEKYLL_BIN="$HOME/.gem/ruby/2.7.0/bin/jekyll"
+JEKYLL_BIN="$HOME/.gem/ruby/3.0.0/bin/jekyll"
 
 ## *USAGE: blog_serve_localhost
 ## Starts the jekyll server from current dir
