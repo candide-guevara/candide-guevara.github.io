@@ -16,9 +16,9 @@ $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
 $grey-color:       grey;
-$grey-color-light: lighten($grey-color, 40%);
+$grey-color-light: lighten($grey-color, 20%);
 $grey-color-dark:  darken($grey-color, 25%);
-$code-background:  ghostwhite;
+$code-background:  #ececff;
 
 /* chromebook thinks it is bigger than what it actually is ...
 (function() {
