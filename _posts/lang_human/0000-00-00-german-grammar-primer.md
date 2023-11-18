@@ -4,11 +4,10 @@ date: 2020-03-22
 categories: [ misc ]
 ---
 
-Je n'y peux rien, je hais l'allemand.
-Malheureusement j'habite dans un pays germanophone donc je suis obligé de m'y coller :-(
-Respire profond Candide, essaie de trouver un peu de beauté dans le langage.
+Ma première impression avec l'Allemand ne fut pas terrible.
+Mais le plus de temps je partage avec des gens que j'apprécie, le plus d'envie j'ai d'apprendre leur langue.
 
-### Équivalence cas allemands avec syntaxe française (grosso merdo)
+### Équivalence cas allemands avec syntaxe française (grosso modo)
 
 * Nominativ : le sujet.
 * Akkusativ : le COD.
