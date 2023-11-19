@@ -194,7 +194,9 @@ An **isomorphism** is a bijective homomorphism.
 
 Kernel is the subgroup of elements in $$G_1$$ that map to the identity in $$G_2$$.
 
-$$ ker(f) = \{x \in G_1 \mid f(x) = 0_2\} $$
+```mytex
+ker(f) = \{x \in G_1 \mid f(x) = 0_2\}
+```
 
 ### Cayley theorem : every group is isomorphic to a permutation group
 

@@ -158,3 +158,9 @@ the reflection of yourself in others"]
 }
 ```
 
+### Sources
+
+* [History of Philosophy without any gaps](https://www.historyofphilosophy.net/aristotle-ethics)
+* [The Panpsycast Philosophy Podcast](https://thepanpsycast.com/panpsycast2/2017/8/3/aristotle-part-i)
+* [The Art of Manliness](https://www.artofmanliness.com/character/etiquette/podcast-934-beyond-mere-politeness-the-art-of-true-civility/)
+
