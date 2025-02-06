@@ -988,9 +988,9 @@ func main() {
   }
   fmt.Println("Hello, playground", v)
   // Output:
-  // Hello, block 1
-  // Hello, playground 12
-  // bye, block 1
+  // Hello, block chocolat
+  // Hello, playground 1
+  // bye, block chocolat
 }
 ```
 
