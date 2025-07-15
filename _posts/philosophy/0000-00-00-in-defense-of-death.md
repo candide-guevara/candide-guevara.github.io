@@ -1,5 +1,5 @@
 ---
-title: Philo, Death is an ally of mankind
+title: Philo, The Rehabilitation of Death
 date: 2025-07-14
 categories: [misc]
 ---
